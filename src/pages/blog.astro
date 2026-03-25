@@ -1,13 +1,18 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort((a, b) =>
+  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
 ---
 
 <Layout
   title="Blog | Şanlıurfa Klima Servisi"
-  description="Şanlıurfa Klima Servisi blog - Klima bakımı, enerji tasarrufu ve iklimlendirme ipuçları."
+  description="Klima bakımı, enerji tasarrufu ipuçları, arıza çözümleri ve iklimlendirme dünyasından güncel yazılar."
   activePage="blog"
 >
-  <!-- ============ BREADCRUMB ============ -->
+  <!-- Breadcrumb -->
   <div class="bg-brand-cream">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
       <nav class="flex items-center gap-2 text-gray-400 text-sm">
@@ -18,20 +23,53 @@ import Layout from '../layouts/Layout.astro';
     </div>
   </div>
 
-  <!-- ============ BLOG PLACEHOLDER ============ -->
-  <section class="py-20 sm:py-28">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+  <!-- Hero -->
+  <section class="bg-brand-cream pb-14 pt-10 sm:pt-14 sm:pb-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <span class="inline-block text-brand-orange font-bold text-sm uppercase tracking-widest mb-4">Blog</span>
-      <h1 class="font-heading font-extrabold text-3xl sm:text-4xl text-brand-navy mb-6" style="letter-spacing: -0.03em;">
-        Yakında Burada
+      <h1 class="font-heading font-extrabold text-3xl sm:text-4xl text-brand-navy mb-4" style="letter-spacing: -0.03em;">
+        Klima Rehberleri & İpuçları
       </h1>
-      <p class="text-text-body text-lg leading-relaxed mb-10" style="line-height: 1.7;">
-        Klima bakımı, enerji tasarrufu ipuçları ve iklimlendirme dünyasından güncel yazılarımız çok yakında burada olacak.
+      <p class="text-text-body text-lg max-w-2xl" style="line-height: 1.7;">
+        Klima bakımı, enerji tasarrufu, arıza çözümleri ve doğru klima seçimi hakkında uzman yazıları.
       </p>
-      <a href="/" class="btn-orange inline-flex items-center gap-2 bg-brand-orange text-white font-bold text-sm px-8 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-brand-orange focus-visible:outline-offset-2">
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
-        Ana Sayfaya Dön
-      </a>
+    </div>
+  </section>
+
+  <!-- Post Grid -->
+  <section class="bg-white py-14 sm:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7">
+        {posts.map(post => (
+          <a href={`/blog/${post.data.slug}`} class="card-lift block bg-white rounded-2xl shadow-card overflow-hidden border border-gray-100 group">
+            <div class="p-6 sm:p-7">
+              <span class="inline-block text-brand-orange font-bold text-xs uppercase tracking-widest mb-3">{post.data.keyword}</span>
+              <h2 class="font-heading font-bold text-base sm:text-lg text-brand-navy group-hover:text-brand-orange leading-snug mb-3" style="transition: color 0.15s ease-out; letter-spacing: -0.01em;">
+                {post.data.title}
+              </h2>
+              <p class="text-text-body text-sm leading-relaxed line-clamp-3 mb-4" style="line-height: 1.7;">{post.data.description}</p>
+              <div class="flex items-center justify-between">
+                <span class="text-xs text-gray-400">
+                  {new Date(post.data.date).toLocaleDateString('tr-TR', { year: 'numeric', month: 'short', day: 'numeric' })}
+                </span>
+                <span class="inline-flex items-center gap-1 text-brand-teal font-semibold text-sm group-hover:text-brand-orange" style="transition: color 0.15s ease-out;">
+                  Oku
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+                </span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 </Layout>
+
+<style>
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

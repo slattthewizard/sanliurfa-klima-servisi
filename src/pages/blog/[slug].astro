@@ -1,0 +1,241 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+
+// Get related posts (same keyword overlap, max 3)
+const allPosts = await getCollection('blog');
+const related = allPosts
+  .filter(p => p.data.slug !== post.data.slug)
+  .map(p => {
+    const postKeywords = (post.data.keywords || '').toLowerCase().split(',').map(k => k.trim());
+    const pKeywords = (p.data.keywords || '').toLowerCase().split(',').map(k => k.trim());
+    const overlap = postKeywords.filter(k => k && pKeywords.includes(k)).length;
+    return { ...p, overlap };
+  })
+  .sort((a, b) => b.overlap - a.overlap)
+  .slice(0, 3);
+
+// Build table of contents from h2 headings
+const toc = headings.filter(h => h.depth === 2);
+
+// Estimate reading time (~200 words/min for Turkish)
+const rawBody = post.body ?? '';
+const wordCount = rawBody.split(/\s+/).filter(Boolean).length;
+const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+
+// Format date
+const dateObj = new Date(post.data.date);
+const formattedDate = dateObj.toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Layout
+  title={post.data.title}
+  description={post.data.description}
+  activePage="blog"
+>
+  <Fragment slot="head">
+    <meta name="keywords" content={`${post.data.keyword}, ${post.data.keywords || ''}`} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.data.title,
+      "description": post.data.description,
+      "datePublished": post.data.date,
+      "author": {
+        "@type": "Organization",
+        "name": "Şanlıurfa Klima Servisi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Şanlıurfa Klima Servisi",
+        "url": "https://sanliurfaklimaservisi.com"
+      }
+    })}></script>
+  </Fragment>
+
+  <!-- ============ HERO BANNER ============ -->
+  <section class="relative bg-brand-navy overflow-hidden">
+    <div class="absolute inset-0">
+      <img src="/brand_assets/technician-rooftop.webp" alt="" class="w-full h-full object-cover object-center opacity-20">
+      <div class="absolute inset-0 bg-gradient-to-b from-brand-navy/80 via-brand-navy/90 to-brand-navy"></div>
+    </div>
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-16 sm:pt-20 sm:pb-20">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-8">
+        <a href="/" class="text-gray-400 hover:text-brand-orange" style="transition: color 0.15s ease-out;">Ana Sayfa</a>
+        <svg class="w-3.5 h-3.5 text-gray-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+        <a href="/blog" class="text-gray-400 hover:text-brand-orange" style="transition: color 0.15s ease-out;">Blog</a>
+        <svg class="w-3.5 h-3.5 text-gray-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+        <span class="text-gray-500 truncate max-w-[200px] sm:max-w-none">{post.data.title}</span>
+      </nav>
+
+      <!-- Meta -->
+      <div class="flex flex-wrap items-center gap-4 text-sm text-gray-400 mb-6">
+        <span class="flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+          {formattedDate}
+        </span>
+        <span class="flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          {readingTime} dk okuma
+        </span>
+      </div>
+
+      <!-- Title -->
+      <h1 class="font-heading font-extrabold text-2xl sm:text-3xl lg:text-4xl text-white leading-tight" style="letter-spacing: -0.03em;">
+        {post.data.title}
+      </h1>
+    </div>
+  </section>
+
+  <!-- ============ CONTENT + TOC ============ -->
+  <section class="bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
+      <div class="flex flex-col lg:flex-row gap-12 lg:gap-16">
+
+        <!-- Main Article -->
+        <article class="flex-1 min-w-0 max-w-3xl">
+          <div class="prose prose-lg max-w-none
+            prose-headings:font-heading prose-headings:font-extrabold prose-headings:text-brand-navy
+            prose-h2:text-xl prose-h2:sm:text-2xl prose-h2:mt-12 prose-h2:mb-5 prose-h2:pb-3 prose-h2:border-b prose-h2:border-gray-100
+            prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3
+            prose-p:text-text-body prose-p:leading-relaxed
+            prose-a:text-brand-teal prose-a:font-semibold prose-a:no-underline hover:prose-a:text-brand-orange
+            prose-strong:text-brand-navy prose-strong:font-bold
+            prose-ul:text-text-body prose-ol:text-text-body
+            prose-li:leading-relaxed prose-li:my-1
+            prose-table:text-sm prose-th:bg-brand-navy prose-th:text-white prose-th:font-heading prose-th:font-bold prose-th:px-4 prose-th:py-3
+            prose-td:px-4 prose-td:py-3 prose-td:border-b prose-td:border-gray-100
+            prose-blockquote:border-l-brand-orange prose-blockquote:bg-brand-cream prose-blockquote:rounded-r-xl prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:not-italic
+          " style="line-height: 1.8;">
+            <Content />
+          </div>
+
+          <!-- CTA Banner -->
+          <div class="mt-14 rounded-2xl overflow-hidden relative" style="background: linear-gradient(135deg, #1a2e3b 0%, #243a4a 50%, #2a7d8a 100%);">
+            <div class="absolute inset-0 opacity-10">
+              <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="white" stroke-width="0.5"/></pattern></defs><rect width="100%" height="100%" fill="url(#grid)"/></svg>
+            </div>
+            <div class="relative px-8 py-10 sm:px-12 sm:py-12 text-center">
+              <h3 class="font-heading font-extrabold text-xl sm:text-2xl text-white mb-3" style="letter-spacing: -0.02em;">Profesyonel Klima Servisi</h3>
+              <p class="text-gray-300 text-sm sm:text-base mb-6 max-w-lg mx-auto" style="line-height: 1.7;">
+                Şanlıurfa genelinde montaj, bakım, tamir ve gaz dolumu hizmetleri. Hemen arayın, aynı gün servis.
+              </p>
+              <a href="tel:+905533975244" class="btn-orange inline-flex items-center gap-2.5 bg-brand-orange text-white font-bold text-sm px-8 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-brand-orange focus-visible:outline-offset-2">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
+                0553 397 52 44
+              </a>
+            </div>
+          </div>
+        </article>
+
+        <!-- Sidebar: TOC + Related -->
+        <aside class="hidden lg:block w-72 xl:w-80 flex-shrink-0">
+          <div class="sticky top-24 space-y-8">
+            <!-- Table of Contents -->
+            {toc.length > 2 && (
+              <div class="rounded-2xl border border-gray-100 bg-white p-6" style="box-shadow: 0 1px 2px rgba(26,46,59,0.04), 0 4px 12px rgba(26,46,59,0.06);">
+                <h4 class="font-heading font-extrabold text-sm uppercase tracking-wider text-brand-navy mb-4">İçindekiler</h4>
+                <nav class="space-y-1">
+                  {toc.map(h => (
+                    <a
+                      href={`#${h.slug}`}
+                      class="block text-sm text-text-body py-1.5 pl-3 border-l-2 border-transparent hover:border-brand-orange hover:text-brand-navy"
+                      style="transition: color 0.15s ease-out, border-color 0.15s ease-out; line-height: 1.5;"
+                    >
+                      {h.text}
+                    </a>
+                  ))}
+                </nav>
+              </div>
+            )}
+
+            <!-- Quick CTA -->
+            <div class="rounded-2xl bg-brand-cream p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                  <svg class="w-5 h-5 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
+                </div>
+                <div>
+                  <div class="font-heading font-bold text-sm text-brand-navy">Hemen Arayın</div>
+                  <div class="text-xs text-text-body">7/24 Acil Servis</div>
+                </div>
+              </div>
+              <a href="tel:+905533975244" class="btn-orange block text-center bg-brand-orange text-white font-bold text-sm px-5 py-3 rounded-full">
+                0553 397 52 44
+              </a>
+            </div>
+
+            <!-- Related Posts -->
+            {related.length > 0 && (
+              <div>
+                <h4 class="font-heading font-extrabold text-sm uppercase tracking-wider text-brand-navy mb-4">İlgili Yazılar</h4>
+                <div class="space-y-3">
+                  {related.map(r => (
+                    <a
+                      href={`/blog/${r.data.slug}`}
+                      class="block rounded-xl border border-gray-100 bg-white p-4 hover:border-brand-orange/30 group"
+                      style="transition: border-color 0.15s ease-out, box-shadow 0.15s ease-out;"
+                    >
+                      <h5 class="font-heading font-bold text-sm text-brand-navy group-hover:text-brand-orange leading-snug" style="transition: color 0.15s ease-out;">
+                        {r.data.title}
+                      </h5>
+                      <span class="text-xs text-text-body mt-1.5 block">{r.data.keyword}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MORE POSTS GRID ============ -->
+  {related.length > 0 && (
+    <section class="bg-brand-cream py-14 sm:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="font-heading font-extrabold text-2xl text-brand-navy mb-8" style="letter-spacing: -0.02em;">Diğer Yazılar</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {related.map(r => (
+            <a href={`/blog/${r.data.slug}`} class="card-lift block bg-white rounded-2xl shadow-card overflow-hidden border border-gray-100 group">
+              <div class="p-6">
+                <span class="inline-block text-brand-orange font-bold text-xs uppercase tracking-widest mb-2">{r.data.keyword}</span>
+                <h3 class="font-heading font-bold text-base text-brand-navy group-hover:text-brand-orange leading-snug mb-3" style="transition: color 0.15s ease-out;">
+                  {r.data.title}
+                </h3>
+                <p class="text-text-body text-sm leading-relaxed line-clamp-2" style="line-height: 1.7;">{r.data.description}</p>
+                <span class="inline-flex items-center gap-1 text-brand-teal font-semibold text-sm mt-4 group-hover:text-brand-orange" style="transition: color 0.15s ease-out;">
+                  Devamını Oku
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</Layout>
+
+<style>
+  .prose h1 { display: none; }
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
