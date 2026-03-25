@@ -5,6 +5,8 @@ keyword: "klima ışığı yanıp sönüyor"
 keywords: "klima ışığı yanıp sönüyor çalışmıyor, klima led yanıp sönüyor, klima timer ışığı yanıp sönüyor, klima hata kodu, klima çalışmıyor ışık yanıyor, klima arıza ışığı ne anlama gelir"
 date: "2026-03-23"
 slug: "klima-isigi-yanip-sonuyor"
+published: false
+publishDate: "2026-05-12"
 ---
 
 # Klimanın Işığı Yanıp Sönüyor ve Çalışmıyor: 8 Neden ve Çözümü

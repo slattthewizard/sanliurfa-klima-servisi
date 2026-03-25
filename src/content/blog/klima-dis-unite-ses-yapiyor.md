@@ -5,6 +5,8 @@ keyword: "klima dış ünite ses yapıyor"
 keywords: "klima dış ünite gürültü yapıyor, klima ses yapıyor, klima dış ünite titreşim, klima kompresör sesi, klima fan sesi, klima gürültü çözümü, dış ünite ses sorunu"
 date: "2026-03-23"
 slug: "klima-dis-unite-ses-yapiyor"
+published: false
+publishDate: "2026-04-06"
 ---
 
 # Klima Dış Ünite Ses Yapıyor: Gürültünün 7 Nedeni ve Kalıcı Çözüm Yolları

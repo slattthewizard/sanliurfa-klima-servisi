@@ -5,6 +5,8 @@ keyword: "klima ne kadar elektrik harcar"
 keywords: "klima elektrik tüketimi, klima aylık elektrik maliyeti, BTU elektrik tüketimi, inverter klima elektrik tüketimi, klima elektrik faturası, 12000 BTU klima elektrik tüketimi, klima enerji tasarrufu"
 date: "2026-03-24"
 slug: "klima-ne-kadar-elektrik-harcar"
+published: false
+publishDate: "2026-05-24"
 ---
 
 # Klima Ne Kadar Elektrik Harcar? BTU'ya Göre Tüketim Tablosu ve Aylık Maliyet Hesabı

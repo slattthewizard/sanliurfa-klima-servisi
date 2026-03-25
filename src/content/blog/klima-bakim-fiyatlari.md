@@ -5,6 +5,8 @@ keyword: "klima bakım fiyatları"
 keywords: "klima bakım ücreti 2026, klima temizlik fiyatı, split klima bakım fiyatı, iş yeri klima bakım ücreti, klima bakım yaptırma ücreti, klima bakımı ne kadar"
 date: "2026-03-23"
 slug: "klima-bakim-fiyatlari"
+published: false
+publishDate: "2026-06-14"
 ---
 
 # Klima Bakım Fiyatları 2026: Ev ve İş Yeri Klimaları İçin Güncel Ücret Tarifesi

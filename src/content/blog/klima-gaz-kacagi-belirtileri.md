@@ -5,6 +5,8 @@ keyword: "klima gaz kaçağı belirtileri"
 keywords: "klima gaz kaçağı nasıl anlaşılır, klima gazı kaçırıyor, klima soğutmuyor gaz kaçağı, klima gaz kaçağı tespiti, klima gaz kaçak kontrolü, klima gazı ne zaman biter"
 date: "2026-03-23"
 slug: "klima-gaz-kacagi-belirtileri"
+published: false
+publishDate: "2026-03-31"
 ---
 
 # Klima Gaz Kaçağı Belirtileri Nelerdir? Kaçağı Erken Fark Etmenin 7 Yolu

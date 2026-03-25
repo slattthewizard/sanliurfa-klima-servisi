@@ -5,6 +5,8 @@ keyword: "klima sökme takma ücreti"
 keywords: "klima sökme takma fiyatı 2026, klima taşıma ücreti, klima yerinden sökme fiyatı, klima demontaj montaj ücreti, klima yer değiştirme ücreti, klima söktürme fiyatı"
 date: "2026-03-23"
 slug: "klima-sokme-takma-ucreti"
+published: false
+publishDate: "2026-05-15"
 ---
 
 # Klima Sökme Takma Ücreti 2026: Güncel Fiyatlar ve Dikkat Edilmesi Gerekenler

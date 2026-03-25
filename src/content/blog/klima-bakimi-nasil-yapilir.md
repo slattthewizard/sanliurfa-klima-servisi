@@ -5,6 +5,7 @@ keyword: "klima bakımı nasıl yapılır"
 keywords: "klima bakımı evde nasıl yapılır, klima filtre temizliği, klima bakım işlemleri, klima bakımı ne zaman yapılmalı, klima iç ünite temizliği, profesyonel klima bakımı"
 date: "2026-03-23"
 slug: "klima-bakimi-nasil-yapilir"
+published: true
 ---
 
 # Klima Bakımı Nasıl Yapılır? Evde Yapabilecekleriniz ve Profesyonel Servis Gerektiren İşlemler

@@ -10,6 +10,8 @@ const blog = defineCollection({
     keywords: z.string().optional(),
     date: z.string(),
     slug: z.string(),
+    published: z.boolean().default(false),
+    publishDate: z.string().optional(),
   }),
 });
 

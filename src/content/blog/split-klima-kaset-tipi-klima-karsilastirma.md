@@ -5,6 +5,8 @@ keyword: "split klima kaset tipi klima"
 keywords: "kaset tipi klima nedir, ofis için klima seçimi, kaset tipi klima avantajları, split klima mı kaset mi, iş yeri klima, tavan tipi klima, 4 yönlü kaset klima"
 date: "2026-03-24"
 slug: "split-klima-kaset-tipi-klima-karsilastirma"
+published: false
+publishDate: "2026-06-29"
 ---
 
 # Split Klima mı Kaset Tipi Klima mı? Ofis ve İş Yeri İçin En Doğru Klima Seçimi

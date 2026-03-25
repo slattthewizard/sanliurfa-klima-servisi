@@ -5,6 +5,8 @@ keyword: "multi split klima VRF klima farkları"
 keywords: "multi split klima nedir, VRF klima sistemi nedir, multi split mi VRF mi, VRF klima avantajları, multi split klima avantajları, merkezi klima sistemi, çoklu klima sistemi"
 date: "2026-03-24"
 slug: "multi-split-klima-vrf-klima-farklari"
+published: false
+publishDate: "2026-04-30"
 ---
 
 # Multi Split Klima ile VRF Klima Sistemi Arasındaki Farklar: Hangisi Daha Avantajlı?

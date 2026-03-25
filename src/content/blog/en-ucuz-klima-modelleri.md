@@ -5,6 +5,8 @@ keyword: "en ucuz klima modelleri 2026"
 keywords: "ucuz klima fiyatları, bütçe dostu klima, uygun fiyatlı klima, en ucuz inverter klima, 9000 BTU klima fiyatı, ucuz klima alırken dikkat, hesaplı klima seçimi"
 date: "2026-03-24"
 slug: "en-ucuz-klima-modelleri"
+published: false
+publishDate: "2026-04-24"
 ---
 
 # En Ucuz Klima Modelleri 2026: Bütçe Dostu Seçenekler ve Gizli Maliyetler

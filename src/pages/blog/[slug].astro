@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = (await getCollection('blog')).filter(p => p.data.published);
   return posts.map(post => ({
     params: { slug: post.data.slug },
     props: { post },
@@ -14,7 +14,7 @@ const { post } = Astro.props;
 const { Content, headings } = await render(post);
 
 // Get related posts (same keyword overlap, max 3)
-const allPosts = await getCollection('blog');
+const allPosts = (await getCollection('blog')).filter(p => p.data.published);
 const related = allPosts
   .filter(p => p.data.slug !== post.data.slug)
   .map(p => {

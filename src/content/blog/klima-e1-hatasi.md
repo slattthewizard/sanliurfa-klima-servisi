@@ -5,6 +5,8 @@ keyword: "klima E1 hatası"
 keywords: "klima E1 hata kodu, klima hata kodları, klima E1 hatası nasıl çözülür, klimada E1 hatası ne demek, klima arıza kodu E1, klima E1 arızası"
 date: "2026-03-23"
 slug: "klima-e1-hatasi"
+published: false
+publishDate: "2026-06-23"
 ---
 
 # Klimada E1 Hatası Nedir, Neden Olur? Markalara Göre Çözüm Yolları

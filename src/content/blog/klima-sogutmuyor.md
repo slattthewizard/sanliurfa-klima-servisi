@@ -5,6 +5,7 @@ keyword: "klima soğutmuyor"
 keywords: "klima neden soğutmaz, klima soğutma sorunu, klima soğutmuyor ne yapmalı, klima üfüyor ama soğutmuyor, klima gazı bitmiş belirtileri, klima bakımı"
 date: "2026-03-23"
 slug: "klima-sogutmuyor"
+published: true
 ---
 
 # Klima Soğutmuyor mu? 7 Nedeni ve Evde Yapabileceğiniz Çözümler

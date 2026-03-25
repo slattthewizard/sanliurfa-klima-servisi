@@ -5,6 +5,7 @@ keyword: "klima gaz dolumu fiyatları"
 keywords: "klima gaz dolumu ücreti 2026, R410A gaz dolumu fiyatı, R32 gaz dolumu fiyatı, R22 gaz fiyatı, klima gaz kaçağı, klima soğutmuyor gaz"
 date: "2026-03-23"
 slug: "klima-gaz-dolumu-fiyatlari"
+published: true
 ---
 
 # Klima Gaz Dolumu Fiyatları 2026: R410A, R32 ve R22 Güncel Ücretler

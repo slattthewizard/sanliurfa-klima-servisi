@@ -5,6 +5,8 @@ keyword: "klima taşıma"
 keywords: "ev taşırken klima, klima taşıma ücreti, klima nasıl taşınır, klima sökme takma, klima taşınır mı, taşınırken klima ne yapılır, klima nakliyat"
 date: "2026-03-23"
 slug: "klima-tasima-rehberi"
+published: false
+publishDate: "2026-06-26"
 ---
 
 # Klima Taşıma Rehberi: Ev Taşırken Klimanızı Güvenle Nasıl Taşıtırsınız?

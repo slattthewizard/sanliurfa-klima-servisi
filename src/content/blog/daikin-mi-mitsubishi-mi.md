@@ -5,6 +5,8 @@ keyword: "Daikin mi Mitsubishi mi"
 keywords: "Daikin Mitsubishi karşılaştırma, Daikin klima fiyatları, Mitsubishi klima fiyatları, en iyi inverter klima, Daikin mi Mitsubishi mi 2026, klima karşılaştırma"
 date: "2026-03-24"
 slug: "daikin-mi-mitsubishi-mi"
+published: false
+publishDate: "2026-05-21"
 ---
 
 # Daikin mi Mitsubishi mi? 2026 Klima Karşılaştırması

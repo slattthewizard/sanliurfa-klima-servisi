@@ -1,0 +1,57 @@
+name: Publish Scheduled Blogs
+
+on:
+  schedule:
+    # 10:00 AM Turkey time (UTC+3) = 07:00 UTC
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Publish due blogs
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Today (UTC): $TODAY"
+          PUBLISHED=0
+
+          for file in src/content/blog/*.md; do
+            [ -f "$file" ] || continue
+
+            # Check if already published
+            if grep -q 'published: true' "$file"; then
+              continue
+            fi
+
+            # Extract publishDate
+            PUB_DATE=$(grep 'publishDate:' "$file" | sed 's/publishDate: *"//' | sed 's/"//')
+
+            if [ -z "$PUB_DATE" ]; then
+              continue
+            fi
+
+            # Compare dates: if publishDate <= today, publish it
+            if [ "$PUB_DATE" \<= "$TODAY" ] || [ "$PUB_DATE" = "$TODAY" ]; then
+              echo "Publishing: $file (scheduled: $PUB_DATE)"
+              sed -i 's/published: false/published: true/' "$file"
+              PUBLISHED=$((PUBLISHED + 1))
+            fi
+          done
+
+          echo "Published $PUBLISHED blog(s) today."
+          echo "PUBLISHED=$PUBLISHED" >> $GITHUB_ENV
+
+      - name: Commit and push
+        if: env.PUBLISHED != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/blog/
+          git commit -m "chore: publish ${{ env.PUBLISHED }} scheduled blog post(s)"
+          git push

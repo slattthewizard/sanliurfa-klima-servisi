@@ -5,6 +5,8 @@ keyword: "klima montaj ücreti"
 keywords: "klima montaj gizli maliyet, klima kurulum ücreti neden farklı, klima montaj fiyat farkı, klima taktırma ücreti, klima montaj ek masraflar, klima montajında dikkat edilmesi gerekenler"
 date: "2026-03-23"
 slug: "klima-montaj-ucreti-neden-degisiyor"
+published: false
+publishDate: "2026-05-18"
 ---
 
 # Klima Montaj Ücreti Neden Bu Kadar Değişiyor? Gizli Maliyetleri Öğrenin

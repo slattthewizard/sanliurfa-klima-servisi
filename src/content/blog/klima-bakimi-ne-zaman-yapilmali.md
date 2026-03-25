@@ -5,6 +5,8 @@ keyword: "klima bakımı ne zaman yapılmalı"
 keywords: "klima bakım zamanı, yaz öncesi klima bakımı, klima bakımı ne sıklıkla yapılır, klima bakım periyodu, klima bakımı yapılmazsa ne olur, klima mevsimsel bakım"
 date: "2026-03-23"
 slug: "klima-bakimi-ne-zaman-yapilmali"
+published: false
+publishDate: "2026-04-21"
 ---
 
 # Klima Bakımı Ne Zaman Yapılmalı? (2026) Geciktirmenin Gerçek Maliyeti

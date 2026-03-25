@@ -5,6 +5,7 @@ keyword: "kaç BTU klima almalıyım"
 keywords: "BTU hesaplama, metrekareye göre klima seçimi, klima kapasitesi hesaplama, BTU ne demek, oda metrekaresi klima, klima BTU tablosu, doğru klima kapasitesi"
 date: "2026-03-23"
 slug: "kac-btu-klima-almaliyim"
+published: true
 ---
 
 # Kaç BTU Klima Almalıyım? Metrekareye Göre BTU Hesaplama Rehberi

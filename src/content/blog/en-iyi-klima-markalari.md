@@ -5,6 +5,7 @@ keyword: "en iyi klima markaları"
 keywords: "inverter klima tavsiyeleri, en iyi klima markası hangisi, klima marka karşılaştırması, fiyat performans klima, 2026 klima önerileri, en iyi inverter klima, klima tavsiyeleri"
 date: "2026-03-23"
 slug: "en-iyi-klima-markalari"
+published: true
 ---
 
 # En İyi Klima Markaları 2026: Inverter Klima Tavsiyeleri ve Fiyat-Performans Karşılaştırması
