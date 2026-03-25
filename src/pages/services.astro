@@ -1,0 +1,510 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Hizmetlerimiz | Şanlıurfa Klima Servisi - Montaj, Bakım, Tamir"
+  description="Şanlıurfa klima servisi hizmetleri - Klima montaj, bakım, tamir, gaz dolumu, VRF sistem kurulumu. Haliliye, Karaköprü, Eyyübiye bölgelerinde 7/24 profesyonel hizmet."
+  activePage="services"
+>
+  <Fragment slot="head">
+    <meta name="keywords" content="şanlıurfa klima servisi, klima montaj şanlıurfa, klima bakım, klima tamir, gaz dolumu, split klima, VRF sistem">
+    <script type="application/ld+json" set:html={`{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "HVAC Services",
+    "provider": {
+      "@type": "HVACBusiness",
+      "name": "Şanlıurfa Klima Servisi",
+      "url": "https://sanliurfaklimaservisi.com",
+      "telephone": "+90-553-397-5244"
+    },
+    "areaServed": ["Haliliye", "Karaköprü", "Eyyübiye", "Şanlıurfa"],
+    "description": "Profesyonel klima montaj, bakım, tamir ve gaz dolumu hizmetleri."
+  }`}></script>
+  </Fragment>
+
+  <!-- ============ HERO BANNER ============ -->
+  <section class="relative overflow-hidden bg-white" style="min-height: 480px;">
+    <!-- Decorative cream circle top-right -->
+    <div class="absolute -top-32 -right-32 w-[28rem] h-[28rem] bg-brand-cream rounded-full"></div>
+    <!-- Background images (right side 2x2 grid) -->
+    <div class="absolute right-0 top-0 w-1/2 h-full hidden lg:block z-[1]">
+      <div class="grid grid-cols-2 gap-3 p-8 h-full w-full">
+        <div class="rounded-xl overflow-hidden relative">
+          <img src="/brand_assets/hero-technician-indoor.webp" alt="Klima montaj" class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+        </div>
+        <div class="rounded-xl overflow-hidden relative">
+          <img src="/brand_assets/technician-with-filter.webp" alt="Klima bakım" class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+        </div>
+        <div class="rounded-xl overflow-hidden relative">
+          <img src="/brand_assets/diagnostic-tools.webp" alt="Klima tamir" class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+        </div>
+        <div class="rounded-xl overflow-hidden relative">
+          <img src="/brand_assets/technician-rooftop.webp" alt="Gaz dolumu" class="w-full h-full object-cover">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Hero Content (left side) -->
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center" style="min-height: 480px;">
+      <div class="max-w-xl py-16 lg:py-24">
+        <span class="inline-block text-brand-orange font-bold text-sm uppercase tracking-widest mb-4">Profesyonel Klima Hizmetleri</span>
+        <h1 class="font-heading text-3xl sm:text-4xl lg:text-[2.8rem] font-extrabold text-brand-navy leading-[1.1] tracking-[-0.03em] mb-6">
+          ŞANLIURFA'NIN GÜVENİLİR KLİMA SERVİS HİZMETLERİ
+        </h1>
+        <p class="text-text-body text-base leading-relaxed max-w-md" style="line-height: 1.7;">
+          Montajdan bakıma, tamirden gaz dolumuna kadar tüm klima ihtiyaçlarınız için profesyonel çözümler sunuyoruz.
+        </p>
+      </div>
+    </div>
+    <!-- Bottom curve -->
+    <svg class="absolute bottom-0 left-0 w-full z-20" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 C360,10 1080,10 1440,60 L1440,60 L0,60 Z" fill="white"/>
+    </svg>
+  </section>
+
+  <!-- ============ WHAT WE DO - SERVICE CARDS ============ -->
+  <section class="bg-white pt-10 pb-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Hizmetlerimiz</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">NELER YAPIYORUZ?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-7">
+        <!-- Card 1: Montaj -->
+        <div class="card-lift bg-white rounded-2xl shadow-card overflow-hidden text-center">
+          <div class="h-40 overflow-hidden relative">
+            <img src="/brand_assets/technician-customer-indoor.webp" alt="Klima montaj" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+          </div>
+          <div class="p-6">
+            <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Klima Montaj</h3>
+            <p class="text-text-body text-sm leading-relaxed">Tüm marka ve modellerde profesyonel klima montaj hizmeti.</p>
+          </div>
+        </div>
+        <!-- Card 2: VRF Sistem -->
+        <div class="card-lift bg-white rounded-2xl shadow-card overflow-hidden text-center">
+          <div class="h-40 overflow-hidden relative">
+            <img src="/brand_assets/commercial-ac-installation.webp" alt="VRF sistem" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+          </div>
+          <div class="p-6">
+            <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">VRF Sistem</h3>
+            <p class="text-text-body text-sm leading-relaxed">Ticari ve endüstriyel VRF klima sistem kurulumu ve bakımı.</p>
+          </div>
+        </div>
+        <!-- Card 3: Isıtma -->
+        <div class="card-lift bg-white rounded-2xl shadow-card overflow-hidden text-center">
+          <div class="h-40 overflow-hidden relative">
+            <img src="/brand_assets/family-comfort.webp" alt="Isıtma sistemleri" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+          </div>
+          <div class="p-6">
+            <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Isıtma Sistemleri</h3>
+            <p class="text-text-body text-sm leading-relaxed">Inverter klima ve ısı pompası ile enerji tasarruflu ısıtma.</p>
+          </div>
+        </div>
+        <!-- Card 4: Havalandırma -->
+        <div class="card-lift bg-white rounded-2xl shadow-card overflow-hidden text-center">
+          <div class="h-40 overflow-hidden relative">
+            <img src="/brand_assets/technician-outdoor.webp" alt="Havalandırma" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+          </div>
+          <div class="p-6">
+            <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Havalandırma</h3>
+            <p class="text-text-body text-sm leading-relaxed">İç mekan hava kalitesi ve havalandırma sistemleri kurulumu.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT / HAKKIMIZDA ============ -->
+  <!-- Part A: Dark navy banner -->
+  <section id="about" class="relative overflow-hidden" style="background-color: #1a2e3b; padding-top: 5rem; padding-bottom: 5.5rem;">
+    <!-- Top curve from white -->
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <!-- Background image, subtle -->
+    <div class="absolute inset-0" style="opacity: 0.12;">
+      <img src="/brand_assets/technician-customer-indoor.webp" alt="" class="w-full h-full object-cover">
+    </div>
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(26,46,59,0.97) 0%, rgba(42,125,138,0.55) 100%);"></div>
+    <!-- Content -->
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <span class="inline-block text-brand-orange font-bold text-sm uppercase tracking-widest mb-4">Hakkımızda</span>
+      <h2 class="font-heading text-4xl sm:text-5xl font-extrabold text-white tracking-[-0.03em]">EKİBİMİZLE TANIŞIN</h2>
+    </div>
+    <!-- Wave bottom → white -->
+    <svg class="absolute bottom-0 left-0 w-full" viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,80 C360,20 1080,20 1440,80 L1440,80 L0,80 Z" fill="white"/>
+    </svg>
+  </section>
+
+  <!-- Part B: Story section -->
+  <section class="relative bg-white pb-20 overflow-hidden">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 pt-16">
+      <!-- Company photo -->
+      <div class="rounded-2xl overflow-hidden shadow-card mb-10 relative">
+        <img src="/brand_assets/technician-rooftop.webp" alt="Şanlıurfa Klima Servisi ekibi" class="w-full object-cover" style="height: 320px;">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+      </div>
+      <!-- Heading -->
+      <h3 class="font-heading text-2xl sm:text-3xl font-extrabold text-brand-navy mb-6 tracking-[-0.03em]">NASIL BAŞLADIK?</h3>
+      <!-- Body -->
+      <p class="text-text-body leading-relaxed mb-5" style="line-height: 1.7;">
+        Şanlıurfa'nın kavurucu yazlarında bile evinizin serin olması gerektiğine inanıyoruz. Yıllar önce, bir teknisyen olarak çalışırken müşterilerin haksız faturalardan, tutarsız servislerden ve güvensiz ustalardan ne kadar bıktığını bizzat gördük. Daha iyi bir şey kurma vakti gelmişti.
+      </p>
+      <p class="text-text-body leading-relaxed mb-12" style="line-height: 1.7;">
+        20 yılı aşkın deneyimimizle bugüne kadar 5.000'den fazla aileye ve işletmeye hizmet verdik. Ekibimiz lisanslı, sigortalı ve her müşteriyi komşusu gibi gören insanlardan oluşuyor. Gizli ücret yok, sürpriz fatura yok — sadece dürüst, hızlı ve kaliteli iş.
+      </p>
+      <!-- Trust badge row -->
+      <div class="flex flex-wrap items-center justify-center gap-3">
+        <div class="flex items-center gap-2 border border-gray-200 rounded-xl px-4 py-3 shadow-sm">
+          <svg class="w-5 h-5 text-yellow-400 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          <span class="font-heading font-bold text-brand-navy text-sm">Google 5.0 Puan</span>
+        </div>
+        <div class="flex items-center gap-2 border border-gray-200 rounded-xl px-4 py-3 shadow-sm">
+          <svg class="w-5 h-5 text-brand-orange flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+          <span class="font-heading font-bold text-brand-navy text-sm">Lisanslı & Sigortalı</span>
+        </div>
+        <div class="flex items-center gap-2 border border-gray-200 rounded-xl px-4 py-3 shadow-sm">
+          <svg class="w-5 h-5 text-brand-teal flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"/></svg>
+          <span class="font-heading font-bold text-brand-navy text-sm">20+ Yıllık Deneyim</span>
+        </div>
+        <div class="flex items-center gap-2 border border-gray-200 rounded-xl px-4 py-3 shadow-sm">
+          <svg class="w-5 h-5 text-brand-orange flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3zM6 8a2 2 0 11-4 0 2 2 0 014 0zM16 18v-3a5.972 5.972 0 00-.75-2.906A3.005 3.005 0 0119 15v3h-3zM4.75 12.094A5.973 5.973 0 004 15v3H1v-3a3 3 0 013.75-2.906z"/></svg>
+          <span class="font-heading font-bold text-brand-navy text-sm">5.000+ Mutlu Müşteri</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ BUDGET RELIEF / DETAILED SERVICES ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
+        <!-- Image Left -->
+        <div class="w-full lg:w-5/12 relative">
+          <div class="rounded-2xl overflow-hidden shadow-card">
+            <img src="/brand_assets/interior-ac-installed.webp" alt="Klima montaj uzmanı" class="w-full h-auto object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent rounded-2xl"></div>
+          </div>
+          <div class="absolute -bottom-4 -right-4 w-24 h-24 bg-brand-orange/20 rounded-2xl -z-10"></div>
+        </div>
+        <!-- Content Right -->
+        <div class="w-full lg:w-7/12">
+          <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Detaylı Hizmetler</span>
+          <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 mb-6 tracking-[-0.03em]">BÜTÇE DOSTU<br>ÇÖZÜMLER SUNUYORUZ</h2>
+          <p class="text-text-body leading-relaxed mb-8" style="line-height: 1.7;">
+            Şanlıurfa'nın sıcak iklimine uygun, enerji tasarruflu klima çözümleri ile hem konforunuzu sağlıyor hem de bütçenizi koruyoruz. Uygun fiyat garantili hizmetlerimiz:
+          </p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Split Klima Montaj</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Multi Split Sistemler</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Salon Tipi Klima</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Kaset Tipi Klima</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Gaz Dolumu & Kaçak Tespiti</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="flex-shrink-0 w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center">
+                <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <span class="text-brand-navy font-medium text-sm">Periyodik Bakım Sözleşmesi</span>
+            </div>
+          </div>
+          <a href="/#contact" class="btn-orange inline-flex items-center gap-2 bg-brand-orange text-white font-bold text-base px-8 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-brand-orange focus-visible:outline-offset-2">
+            SERVİS RANDEVUSU AL
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CUSTOMER REVIEWS ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Müşteri Yorumları</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">MÜŞTERİLERİMİZ BİZİ NEDEN SEVİYOR?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Review 1 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="text-brand-orange text-5xl font-serif leading-none mb-3">&ldquo;</div>
+          <div class="flex gap-1 mb-4">
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed mb-5" style="line-height: 1.7;">Yazın en sıcak günlerinde klimamız bozuldu. Aradığımızda 1 saat içinde geldiler ve hemen tamir ettiler. Çok memnun kaldık!</p>
+          <div class="flex items-center gap-3">
+            <img src="/brand_assets/testimonial-ahmet.webp" alt="Hasan B." class="w-10 h-10 rounded-full object-cover">
+            <div>
+              <div class="font-heading font-bold text-brand-navy text-sm">Hasan B.</div>
+              <div class="text-text-body text-xs">Haliliye</div>
+            </div>
+          </div>
+        </div>
+        <!-- Review 2 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="text-brand-orange text-5xl font-serif leading-none mb-3">&ldquo;</div>
+          <div class="flex gap-1 mb-4">
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed mb-5" style="line-height: 1.7;">İş yerimize 4 adet klima montajı yaptırdık. Hem fiyat hem de işçilik kalitesi olarak çok tatmin olduk. Profesyonel ekip!</p>
+          <div class="flex items-center gap-3">
+            <img src="/brand_assets/customer-woman-balcony.webp" alt="Ayşe K." class="w-10 h-10 rounded-full object-cover">
+            <div>
+              <div class="font-heading font-bold text-brand-navy text-sm">Ayşe K.</div>
+              <div class="text-text-body text-xs">Karaköprü</div>
+            </div>
+          </div>
+        </div>
+        <!-- Review 3 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="text-brand-orange text-5xl font-serif leading-none mb-3">&ldquo;</div>
+          <div class="flex gap-1 mb-4">
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed mb-5" style="line-height: 1.7;">Klima bakım sözleşmesi yaptırdık. Her sezon gelip bakım yapıyorlar, klimamız ilk günkü gibi çalışıyor. Teşekkürler!</p>
+          <div class="flex items-center gap-3">
+            <img src="/brand_assets/testimonial-mehmet.webp" alt="İbrahim Y." class="w-10 h-10 rounded-full object-cover">
+            <div>
+              <div class="font-heading font-bold text-brand-navy text-sm">İbrahim Y.</div>
+              <div class="text-text-body text-xs">Eyyübiye</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PROCESS STEPS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Sürecimiz</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">KLİMA SERVİSİ ÇOK KOLAY</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <!-- Step 1 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-5 text-white font-heading font-extrabold text-2xl shadow-card">1</div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Bizi Arayın</h3>
+          <p class="text-text-body text-sm leading-relaxed">Telefon veya WhatsApp ile bize ulaşın, sorununuzu anlatın.</p>
+        </div>
+        <!-- Step 2 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-5 text-white font-heading font-extrabold text-2xl shadow-card">2</div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Ücretsiz Keşif</h3>
+          <p class="text-text-body text-sm leading-relaxed">Teknisyenimiz adresinize gelir ve ücretsiz keşif yapar.</p>
+        </div>
+        <!-- Step 3 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-5 text-white font-heading font-extrabold text-2xl shadow-card">3</div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Fiyat Teklifi</h3>
+          <p class="text-text-body text-sm leading-relaxed">Net ve şeffaf fiyat teklifi alırsınız. Gizli ücret yoktur.</p>
+        </div>
+        <!-- Step 4 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-5 text-white font-heading font-extrabold text-2xl shadow-card">4</div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Hizmet Tamamlanır</h3>
+          <p class="text-text-body text-sm leading-relaxed">İşimizi garanti ile tamamlar, temiz bir şekilde teslim ederiz.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MAINTENANCE PROGRAM ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="bg-brand-orange rounded-2xl shadow-card p-10 sm:p-14 text-center relative overflow-hidden">
+        <!-- Decorative circles -->
+        <div class="absolute -top-10 -left-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="relative z-10">
+          <span class="text-white/80 font-bold text-sm uppercase tracking-widest">Avantajlı Paket</span>
+          <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white mt-3 mb-6 tracking-[-0.03em]">YILLIK BAKIM PROGRAMIMIZ</h2>
+          <p class="text-white/90 leading-relaxed max-w-2xl mx-auto mb-8" style="line-height: 1.7;">
+            Yılda 2 kez periyodik bakım, öncelikli servis hakkı, %15 yedek parça indirimi ve 7/24 acil destek hattı. Klimanızın ömrünü uzatın, enerji faturanızı düşürün.
+          </p>
+          <a href="/#contact" class="inline-flex items-center gap-2 bg-white text-brand-orange font-bold text-base px-8 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-white focus-visible:outline-offset-2" style="transition: transform 0.15s ease-out, box-shadow 0.15s ease-out;">
+            BAKIM PAKETİ HAKKINDA BİLGİ ALIN
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ - GOT QUESTIONS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Sıkça Sorulan Sorular</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">SORULARINIZ MI VAR? CEVAPLIYORUZ!</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="space-y-4">
+        <!-- FAQ 1 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima montajı ne kadar sürer?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Standart bir split klima montajı ortalama 2-4 saat sürmektedir. Multi split veya VRF sistemlerde bu süre projeye göre değişebilir. Montaj öncesi keşif ile size net süre bilgisi veriyoruz.
+            </div>
+          </div>
+        </div>
+        <!-- FAQ 2 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakımı ne sıklıkla yapılmalı?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Klimanızın verimli çalışması için yılda en az 2 kez bakım yaptırmanızı öneriyoruz. Özellikle yaz sezonu öncesi ve sonrası bakım, cihazınızın ömrünü uzatır ve enerji tasarrufu sağlar.
+            </div>
+          </div>
+        </div>
+        <!-- FAQ 3 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klimam soğutmuyor, ne yapmalıyım?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Klimanız soğutmuyorsa gaz kaçağı, filtre tıkanıklığı veya kompresör arızası gibi sorunlar olabilir. Bizi hemen arayın, teknisyenimiz arıza tespiti yaparak sorunu en kısa sürede çözsün.
+            </div>
+          </div>
+        </div>
+        <!-- FAQ 4 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Hangi marka klimaların servisini yapıyorsunuz?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Daikin, Mitsubishi, Samsung, LG, Vestel, Arçelik, Bosch, Carrier ve daha birçok marka klima için montaj, bakım ve tamir hizmeti veriyoruz. Tüm markalar için yedek parça temin ediyoruz.
+            </div>
+          </div>
+        </div>
+        <!-- FAQ 5 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Garanti kapsamında servis hizmeti veriyor musunuz?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Evet, montajını yaptığımız tüm klimalar için 2 yıl işçilik garantisi veriyoruz. Ayrıca yedek parça ve tamir işlemlerimizde de garanti sunuyoruz. Garanti şartları için bizi arayın.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA BANNER ============ -->
+  <section class="relative bg-brand-navy py-24 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,80 C1080,20 360,20 0,80 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="absolute inset-0 opacity-10">
+      <img src="/brand_assets/footer-bg.webp" alt="" class="w-full h-full object-cover">
+    </div>
+    <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-[-0.03em] mb-6">KONFORLU BİR YAŞAM İÇİN ARAYIN</h2>
+      <p class="text-gray-300 text-lg mb-10 max-w-2xl mx-auto" style="line-height: 1.7;">
+        Evinizin veya iş yerinizin konfor ihtiyaçlarını bize bırakın. Hemen arayın, ücretsiz keşif randevunuzu alın.
+      </p>
+      <a href="tel:+905533975244" class="btn-orange inline-flex items-center gap-2 bg-brand-orange text-white font-bold text-lg px-10 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-brand-orange focus-visible:outline-offset-2">
+        HEMEN ARAYIN
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </section>
+
+  <script>
+    function toggleFaq(btn) {
+      const answer = btn.nextElementSibling;
+      const chevron = btn.querySelector('.faq-chevron');
+      const isOpen = answer.classList.contains('open');
+
+      // Close all others
+      document.querySelectorAll('.faq-answer.open').forEach(a => {
+        a.classList.remove('open');
+        a.previousElementSibling.querySelector('.faq-chevron').classList.remove('open');
+      });
+
+      if (!isOpen) {
+        answer.classList.add('open');
+        chevron.classList.add('open');
+      }
+    }
+  </script>
+</Layout>

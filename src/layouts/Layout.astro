@@ -1,0 +1,35 @@
+---
+import TopBar from '../components/TopBar.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  activePage?: string;
+  bodyClass?: string;
+}
+
+const { title, description, activePage = '', bodyClass = 'bg-white text-gray-800 overflow-x-hidden' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wdth,wght@0,6..12,75..125,200..1000;1,6..12,75..125,200..1000&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <slot name="head" />
+</head>
+<body class={bodyClass}>
+  <TopBar />
+  <Navbar activePage={activePage} />
+  <slot />
+  <Footer />
+</body>
+</html>

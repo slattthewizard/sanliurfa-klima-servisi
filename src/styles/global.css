@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #e8642c;
+  --color-brand-orange-hover: #d4561f;
+  --color-brand-navy: #1a2e3b;
+  --color-brand-navy-light: #243a4a;
+  --color-brand-cream: #f5f0eb;
+  --color-brand-teal: #2a7d8a;
+  --color-text-body: #5a6a72;
+
+  --font-heading: 'Nunito Sans', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+
+  --shadow-card: 0 1px 2px rgba(26,46,59,0.04), 0 4px 12px rgba(26,46,59,0.08), 0 12px 32px rgba(26,46,59,0.06);
+  --shadow-card-hover: 0 2px 4px rgba(26,46,59,0.06), 0 8px 20px rgba(26,46,59,0.12), 0 16px 40px rgba(26,46,59,0.08);
+}
+
+html { scroll-behavior: smooth; }
+body { font-family: 'Open Sans', sans-serif; text-rendering: optimizeSpeed; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Nunito Sans', sans-serif; }
+
+.mobile-menu { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
+.mobile-menu.open { max-height: 400px; }
+
+.btn-orange { transition: background-color 0.15s ease-out, transform 0.15s ease-out; }
+.btn-orange:hover { background-color: #d4561f; }
+.btn-orange:active { transform: scale(0.97); }
+
+.btn-teal { transition: background-color 0.15s ease-out, transform 0.15s ease-out; }
+.btn-teal:hover { background-color: #236972; }
+.btn-teal:active { transform: scale(0.97); }
+
+.card-lift { transition: transform 0.2s ease-out, box-shadow 0.2s ease-out; }
+.card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 2px 4px rgba(26,46,59,0.06), 0 8px 20px rgba(26,46,59,0.12), 0 16px 40px rgba(26,46,59,0.08);
+}
+
+.nav-link { transition: color 0.15s ease-out; }
+.nav-link:hover { color: #e8642c; }
+
+.footer-link { transition: color 0.15s ease-out; }
+.footer-link:hover { color: #e8642c; }
+
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
+.faq-answer.open { max-height: 300px; }
+.faq-chevron { transition: transform 0.2s ease-out; }
+.faq-chevron.open { transform: rotate(180deg); }
+
+.klas-letter {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 900;
+  font-size: clamp(3.5rem, 9vw, 7rem);
+  letter-spacing: 0.18em;
+  color: #2a7d8a;
+  line-height: 1;
+}

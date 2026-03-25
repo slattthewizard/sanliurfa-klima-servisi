@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+temporary screenshots/
+screencapture-*.png
+*.log
+public/brand_assets/old_originals/
