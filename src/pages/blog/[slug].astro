@@ -38,6 +38,21 @@ const readingTime = Math.max(1, Math.ceil(wordCount / 200));
 // Format date
 const dateObj = new Date(post.data.date);
 const formattedDate = dateObj.toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Extract FAQ pairs from markdown (bold question followed by answer text)
+const faqRegex = /\*\*(.+?\?)\*\*\s*\n+([\s\S]*?)(?=\n\*\*|$)/g;
+const faqSection = rawBody.split(/##\s*Sık Sorulan Sorular/i)[1]?.split(/\n##\s/)[0] || '';
+const faqs: { question: string; answer: string }[] = [];
+let faqMatch;
+while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
+  const answer = faqMatch[2].trim().replace(/\n+/g, ' ').replace(/\[.*?\]\(.*?\)/g, (m) => {
+    const text = m.match(/\[(.*?)\]/)?.[1] || '';
+    return text;
+  });
+  if (answer) {
+    faqs.push({ question: faqMatch[1].trim(), answer });
+  }
+}
 ---
 
 <Layout
@@ -63,6 +78,20 @@ const formattedDate = dateObj.toLocaleDateString('tr-TR', { year: 'numeric', mon
         "url": "https://sanliurfaklimaservisi.com"
       }
     })}></script>
+    {faqs.length > 0 && (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": faqs.map(faq => ({
+          "@type": "Question",
+          "name": faq.question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer
+          }
+        }))
+      })}></script>
+    )}
   </Fragment>
 
   <!-- ============ HERO BANNER ============ -->
