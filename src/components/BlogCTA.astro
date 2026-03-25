@@ -1,0 +1,119 @@
+---
+interface Props {
+  heading?: string;
+  subheading?: string;
+}
+const {
+  heading = 'Ücretsiz Teklif Alın',
+  subheading = 'Bilgilerinizi bırakın, en kısa sürede sizi arayalım.'
+} = Astro.props;
+---
+
+<div class="rounded-2xl overflow-hidden relative" style="background: linear-gradient(135deg, #1a2e3b 0%, #243a4a 50%, #2a7d8a 100%);">
+  <div class="absolute inset-0 opacity-10">
+    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="ctaGrid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="white" stroke-width="0.5"/></pattern></defs><rect width="100%" height="100%" fill="url(#ctaGrid)"/></svg>
+  </div>
+  <div class="relative px-6 py-10 sm:px-10 sm:py-12">
+    <div class="max-w-lg mx-auto text-center mb-8">
+      <h3 class="font-heading font-extrabold text-xl sm:text-2xl text-white mb-2" style="letter-spacing: -0.02em;">{heading}</h3>
+      <p class="text-gray-300 text-sm sm:text-base" style="line-height: 1.7;">{subheading}</p>
+    </div>
+    <form id="ctaForm" action="https://formspree.io/f/xaqlwkvr" method="POST" class="max-w-md mx-auto space-y-4">
+      <div>
+        <input
+          type="text"
+          name="name"
+          placeholder="Adınız Soyadınız"
+          required
+          class="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-gray-400 text-sm focus:outline-none focus:border-brand-orange focus:bg-white/15"
+          style="transition: border-color 0.15s ease-out, background-color 0.15s ease-out;"
+        />
+      </div>
+      <div>
+        <input
+          type="tel"
+          name="phone"
+          placeholder="Telefon Numaranız"
+          required
+          class="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-gray-400 text-sm focus:outline-none focus:border-brand-orange focus:bg-white/15"
+          style="transition: border-color 0.15s ease-out, background-color 0.15s ease-out;"
+        />
+      </div>
+      <div>
+        <select
+          name="service"
+          required
+          class="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-gray-400 text-sm focus:outline-none focus:border-brand-orange focus:bg-white/15 appearance-none"
+          style="transition: border-color 0.15s ease-out, background-color 0.15s ease-out; background-image: url('data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2212%22 height=%2212%22 viewBox=%220 0 12 12%22><path d=%22M3 4.5L6 7.5L9 4.5%22 fill=%22none%22 stroke=%22%239ca3af%22 stroke-width=%221.5%22 stroke-linecap=%22round%22/></svg>'); background-repeat: no-repeat; background-position: right 14px center;"
+        >
+          <option value="" disabled selected>Hizmet Seçin</option>
+          <option value="montaj">Klima Montaj</option>
+          <option value="bakim">Klima Bakım</option>
+          <option value="tamir">Klima Tamir</option>
+          <option value="gaz">Gaz Dolumu</option>
+          <option value="diger">Diğer</option>
+        </select>
+      </div>
+      <div>
+        <textarea
+          name="message"
+          placeholder="Kısa not (opsiyonel)"
+          rows="2"
+          class="w-full px-4 py-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder-gray-400 text-sm focus:outline-none focus:border-brand-orange focus:bg-white/15 resize-none"
+          style="transition: border-color 0.15s ease-out, background-color 0.15s ease-out;"
+        ></textarea>
+      </div>
+      <button
+        type="submit"
+        class="btn-orange w-full inline-flex items-center justify-center gap-2.5 bg-brand-orange text-white font-bold text-sm px-8 py-4 rounded-full focus-visible:outline-2 focus-visible:outline-brand-orange focus-visible:outline-offset-2"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+        Gönder
+      </button>
+      <p class="text-center text-gray-400 text-xs mt-2">
+        veya hemen arayın: <a href="tel:+905533975244" class="text-brand-orange font-semibold hover:underline">0553 397 52 44</a>
+      </p>
+    </form>
+    <!-- Success message (hidden by default) -->
+    <div id="ctaSuccess" class="hidden max-w-md mx-auto text-center py-6">
+      <div class="w-16 h-16 rounded-full bg-green-500/20 flex items-center justify-center mx-auto mb-4">
+        <svg class="w-8 h-8 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+      </div>
+      <h4 class="font-heading font-bold text-lg text-white mb-2">Teşekkürler!</h4>
+      <p class="text-gray-300 text-sm">En kısa sürede sizi arayacağız.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  const form = document.getElementById('ctaForm') as HTMLFormElement | null;
+  const success = document.getElementById('ctaSuccess');
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
+    btn.disabled = true;
+    btn.textContent = 'Gönderiliyor...';
+
+    try {
+      const res = await fetch('https://formspree.io/f/xaqlwkvr', {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' },
+      });
+
+      if (res.ok) {
+        form.classList.add('hidden');
+        success?.classList.remove('hidden');
+      } else {
+        btn.disabled = false;
+        btn.textContent = 'Gönder';
+        alert('Bir hata oluştu. Lütfen tekrar deneyin.');
+      }
+    } catch {
+      btn.disabled = false;
+      btn.textContent = 'Gönder';
+      alert('Bağlantı hatası. Lütfen tekrar deneyin.');
+    }
+  });
+</script>
