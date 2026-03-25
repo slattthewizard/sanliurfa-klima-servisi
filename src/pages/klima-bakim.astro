@@ -1,0 +1,574 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Şanlıurfa Klima Bakım Servisi | Temizlik ve Onarım 2026"
+  description="Şanlıurfa'da profesyonel klima bakım, temizlik ve dezenfeksiyon hizmeti. 2026 güncel fiyatlarla split ve salon tipi klima bakımı. Hemen randevu alın!"
+  activePage="services"
+>
+  <Fragment slot="head">
+    <meta name="keywords" content="şanlıurfa klima bakım, klima temizliği, klima servisi şanlıurfa, klima bakım fiyatları, klima dezenfeksiyon, split klima bakımı">
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Klima Bakım Hizmeti",
+      "provider": {
+        "@type": "HVACBusiness",
+        "name": "Şanlıurfa Klima Servisi",
+        "url": "https://sanliurfaklimaservisi.com",
+        "telephone": "+90-553-397-5244"
+      },
+      "areaServed": ["Haliliye", "Karaköprü", "Eyyübiye", "Şanlıurfa"],
+      "description": "Şanlıurfa'da profesyonel klima bakım, temizlik ve dezenfeksiyon hizmeti."
+    }`}></script>
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://sanliurfaklimaservisi.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Hizmetler", "item": "https://sanliurfaklimaservisi.com/services"},
+        {"@type": "ListItem", "position": 3, "name": "Klima Bakım", "item": "https://sanliurfaklimaservisi.com/klima-bakim"}
+      ]
+    }`}></script>
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {"@type": "Question", "name": "Klima bakımı ne sıklıkta yapılmalı?", "acceptedAnswer": {"@type": "Answer", "text": "Ev tipi klimalar için yılda en az 2 kez bakım önerilir. Ancak Şanlıurfa gibi sıcak ve tozlu bölgelerde yılda 3 kez bakım yaptırmanızı tavsiye ediyoruz. Ticari klimalar ise her 3 ayda bir bakıma alınmalıdır."}},
+        {"@type": "Question", "name": "Şanlıurfa'da klima bakım ücreti ne kadar?", "acceptedAnswer": {"@type": "Answer", "text": "2026 yılı itibarıyla split klima temel bakımı 1.200-2.000 TL, detaylı yıkama 2.000-3.500 TL, salon tipi klima bakımı ise 2.500-5.000 TL arasında değişmektedir. Fiyatlar klima türüne ve yapılacak işlemlere göre farklılık gösterebilir."}},
+        {"@type": "Question", "name": "Klima bakımı yaptırmazsam ne olur?", "acceptedAnswer": {"@type": "Answer", "text": "Bakımsız klima %15-25 daha fazla enerji tüketir, yıllık 1.000-3.000 TL ek elektrik maliyeti oluşturur. Ayrıca cihaz ömrü 10 yıldan 5-7 yıla düşer, sağlığa zararlı bakteri ve küf üremesi riski artar."}},
+        {"@type": "Question", "name": "Klima filtresi ne zaman değiştirilmeli?", "acceptedAnswer": {"@type": "Answer", "text": "Filtre temizliği ayda 1 kez yapılmalıdır. Yoğun kullanımda 2 haftada bir temizlik önerilir. Filtrenin tamamen değiştirilmesi ise genellikle 1-2 yılda bir gerekir."}},
+        {"@type": "Question", "name": "Klima bakımı ne kadar sürer?", "acceptedAnswer": {"@type": "Answer", "text": "Standart bir split klima bakımı 30-60 dakika sürer. Detaylı iç ünite yıkama ve dezenfeksiyon işlemi dahil edildiğinde bu süre 1-2 saate çıkabilir."}},
+        {"@type": "Question", "name": "Klima dezenfeksiyonu neden önemlidir?", "acceptedAnswer": {"@type": "Answer", "text": "Klima iç ünitesinde zamanla bakteri, küf ve mantar ürer. Bu mikroorganizmalar havaya karışarak alerji, astım ve solunum yolu enfeksiyonlarına neden olabilir. Dezenfeksiyon, sağlıklı iç hava kalitesi için gereklidir."}},
+        {"@type": "Question", "name": "Bakımlı klima ne kadar enerji tasarrufu sağlar?", "acceptedAnswer": {"@type": "Answer", "text": "Düzenli bakım yapılan klimalar %15-25 daha az enerji tüketir. Tıkalı filtreler tek başına verimliliği %5-15 düşürür. Yıllık bazda bu, 1.000-3.000 TL elektrik faturası tasarrufu anlamına gelir."}},
+        {"@type": "Question", "name": "Klima bakım sözleşmesi yaptırmak avantajlı mı?", "acceptedAnswer": {"@type": "Answer", "text": "Evet, bakım sözleşmesi ile yılda 2 periyodik bakım, öncelikli servis hakkı ve yedek parça indirimlerinden faydalanırsınız. Tek seferlik bakımlara kıyasla %20-30 daha ekonomiktir."}}
+      ]
+    }`}></script>
+  </Fragment>
+
+  <!-- ============ HERO ============ -->
+  <section class="bg-brand-navy" style="min-height: 280px;">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-center" style="min-height: 280px;">
+      <div class="py-14">
+        <nav class="flex items-center gap-2 text-gray-400 text-sm mb-5">
+          <a href="/" class="footer-link hover:text-brand-orange">Ana Sayfa</a>
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <a href="/services" class="footer-link hover:text-brand-orange">Hizmetler</a>
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-gray-300">Klima Bakım</span>
+        </nav>
+        <h1 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-[-0.03em] leading-[1.1]">ŞANLIURFA KLİMA BAKIM SERVİSİ</h1>
+        <p class="text-gray-300 text-lg mt-4 max-w-2xl" style="line-height: 1.7;">Profesyonel klima temizliği, dezenfeksiyon ve periyodik bakım hizmetleri ile klimanızın ömrünü uzatıyoruz.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ INTRO ============ -->
+  <section class="bg-white py-16 sm:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Klima Bakım Hizmeti</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 mb-6 tracking-[-0.03em]">ŞANLIURFA'DA PROFESYONEL KLİMA BAKIM HİZMETLERİ</h2>
+        <p class="text-text-body leading-relaxed mb-5" style="line-height: 1.7;">
+          Şanlıurfa, yaz aylarında 35-45°C'ye varan sıcaklıklarıyla Türkiye'nin en sıcak illerinden biridir. Nisan'dan Ekim'e kadar uzanan yaklaşık <strong class="text-brand-navy">7 aylık yoğun kullanım sezonu</strong>, klimanızın düzenli bakıma ihtiyaç duymasının en büyük nedenidir. İldeki hanelerin %80'inden fazlasında klima bulunması, bakım hizmetlerini vazgeçilmez kılmaktadır.
+        </p>
+        <p class="text-text-body leading-relaxed mb-5" style="line-height: 1.7;">
+          Şanlıurfa'nın kurak ve tozlu iklimi, klima filtrelerinin Türkiye ortalamasına göre <strong class="text-brand-navy">%40-50 daha hızlı kirlenmesine</strong> neden olur. Bu da soğutma performansının düşmesine, enerji tüketiminin artmasına ve cihaz ömrünün kısalmasına yol açar. Profesyonel klima bakımı ile bu sorunların önüne geçebilirsiniz.
+        </p>
+        <p class="text-text-body leading-relaxed mb-8" style="line-height: 1.7;">
+          Ekibimiz <strong class="text-brand-navy">split klima, salon tipi klima ve VRF/merkezi sistem</strong> dahil tüm klima türlerinde bakım hizmeti sunmaktadır. Filtre temizliğinden iç ünite yıkamaya, dezenfeksiyondan gaz kontrolüne kadar kapsamlı bakım paketlerimizle klimanızı ilk günkü performansına kavuşturuyoruz.
+        </p>
+        <div class="flex flex-wrap gap-3">
+          <a href="/klima-montaj" class="text-brand-orange font-semibold text-sm hover:underline">Klima Montaj →</a>
+          <a href="/klima-tamir" class="text-brand-orange font-semibold text-sm hover:underline">Klima Tamir →</a>
+          <a href="/klima-gaz-dolumu" class="text-brand-orange font-semibold text-sm hover:underline">Gaz Dolumu →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MAINTENANCE TASKS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Bakım İşlemleri</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">KLİMA BAKIMINDA YAPILAN İŞLEMLER</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7">
+        <!-- Task 1 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Filtre Temizliği ve Değişimi</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klima filtrelerinin temizlenmesi veya gerektiğinde yenisiyle değiştirilmesi. Tıkalı filtreler soğutma performansını %5-15 oranında düşürür ve enerji tüketimini artırır.</p>
+        </div>
+        <!-- Task 2 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">İç Ünite Yıkama</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Evaporatör (soğutucu serpantin) ve fan üzerinde biriken kir, toz ve kalıntıların özel kimyasallarla derinlemesine temizlenmesi. Bu işlem soğutma kapasitesini önemli ölçüde artırır.</p>
+        </div>
+        <!-- Task 3 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Dezenfeksiyon İşlemi</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klima iç ünitesinde üreyen bakteri, küf ve mantarların özel dezenfektanlarla temizlenmesi. Sağlıklı iç hava kalitesi için özellikle alerjik bireyler ve çocuklu aileler için kritik bir işlemdir.</p>
+        </div>
+        <!-- Task 4 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Gaz Kontrolü ve Dolumu</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klima gazı seviyesinin ölçülmesi, kaçak kontrolü yapılması ve gerektiğinde <a href="/klima-gaz-dolumu" class="text-brand-orange font-semibold hover:underline">gaz dolumu</a> gerçekleştirilmesi. Düşük gaz seviyesi kompresöre zarar verir ve soğutma performansını ciddi oranda düşürür.</p>
+        </div>
+        <!-- Task 5 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Dış Ünite Temizliği ve Bakımı</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Kondenser (dış ünite) serpantinlerinin basınçlı su ile yıkanması, fan motoru kontrolü ve elektrik bağlantılarının incelenmesi. Şanlıurfa'nın tozlu ortamında dış ünite bakımı özellikle önemlidir.</p>
+        </div>
+        <!-- Task 6 -->
+        <div class="bg-white rounded-2xl shadow-card p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Performans Testi ve Rapor</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Bakım sonrası klimanın soğutma kapasitesi, enerji tüketimi ve genel performansının test edilmesi. Size detaylı bakım raporu sunularak cihazınızın durumu hakkında bilgilendirilirsiniz.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRICING ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Fiyatlar</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">ŞANLIURFA KLİMA BAKIM FİYATLARI 2026</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="bg-white rounded-2xl shadow-card overflow-hidden mb-10">
+        <table class="w-full">
+          <thead>
+            <tr class="bg-brand-navy text-white">
+              <th class="text-left font-heading font-bold text-sm px-6 py-4">Hizmet</th>
+              <th class="text-right font-heading font-bold text-sm px-6 py-4">Fiyat Aralığı (₺)</th>
+            </tr>
+          </thead>
+          <tbody class="text-sm">
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Split Klima Bakımı (Temel)</td>
+              <td class="px-6 py-4 text-right text-text-body">1.200 – 2.000</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Split Klima Bakımı (Detaylı Yıkama)</td>
+              <td class="px-6 py-4 text-right text-text-body">2.000 – 3.500</td>
+            </tr>
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Salon Tipi Klima Bakımı</td>
+              <td class="px-6 py-4 text-right text-text-body">2.500 – 5.000</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Klima Filtre Temizliği</td>
+              <td class="px-6 py-4 text-right text-text-body">500 – 1.000</td>
+            </tr>
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Klima Dezenfeksiyon</td>
+              <td class="px-6 py-4 text-right text-text-body">800 – 1.500</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Klima Gaz Dolumu (R410A)</td>
+              <td class="px-6 py-4 text-right text-text-body">2.000 – 4.000</td>
+            </tr>
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Klima Gaz Dolumu (R32)</td>
+              <td class="px-6 py-4 text-right text-text-body">2.500 – 5.000</td>
+            </tr>
+            <tr class="bg-brand-orange/5">
+              <td class="px-6 py-4 text-brand-navy font-bold">Yıllık Bakım Sözleşmesi (2 bakım)</td>
+              <td class="px-6 py-4 text-right text-brand-orange font-bold">2.500 – 5.000</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="text-text-body text-sm text-center" style="line-height: 1.7;">
+        Fiyatlar klima türü, kapasitesi ve yapılacak işlemlere göre değişiklik gösterebilir. Kesin fiyat için <a href="tel:+905533975244" class="text-brand-orange font-semibold hover:underline">bizi arayın</a> veya ücretsiz keşif talep edin.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ CLIMATE IMPORTANCE ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Neden Önemli?</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">ŞANLIURFA İKLİMİNDE KLİMA BAKIMININ ÖNEMİ</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <div>
+          <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Sıcak ve Kurak İklimin Klimaya Etkileri</h3>
+          <p class="text-text-body text-sm leading-relaxed mb-5" style="line-height: 1.7;">
+            Şanlıurfa'nın yaz aylarında ortalama 38-45°C'ye ulaşan sıcaklıkları, klimaların aşırı yük altında çalışmasına neden olur. Bu durum kompresörün daha fazla zorlanmasına, enerji tüketiminin artmasına ve cihazın aşınma hızının yükselmesine yol açar. Düzenli bakım, bu etkilerin telafi edilmesi için şarttır.
+          </p>
+          <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Toz ve Kum Faktörünün Filtrelere Etkisi</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Şanlıurfa'nın kurak stepleri ve tarım alanlarından gelen ince toz parçacıkları, klima filtrelerini Türkiye ortalamasına göre %40-50 daha hızlı tıkar. Tıkalı filtreler hava akışını kısıtlayarak klimanın kapasitesinin altında çalışmasına ve gereksiz enerji tüketimine neden olur.
+          </p>
+        </div>
+        <div>
+          <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Enerji Tasarrufu ve Verimlilik</h3>
+          <p class="text-text-body text-sm leading-relaxed mb-6" style="line-height: 1.7;">
+            Düzenli bakım, klimanızın maksimum verimlilikle çalışmasını sağlar. Rakamlarla bakım yapmanın faydaları:
+          </p>
+          <!-- Stats Grid -->
+          <div class="grid grid-cols-2 gap-4">
+            <div class="bg-white rounded-xl p-5 shadow-card text-center">
+              <div class="font-heading font-extrabold text-3xl text-brand-orange mb-1">%15-25</div>
+              <div class="text-text-body text-xs">Daha az enerji tüketimi</div>
+            </div>
+            <div class="bg-white rounded-xl p-5 shadow-card text-center">
+              <div class="font-heading font-extrabold text-3xl text-brand-orange mb-1">3-5 Yıl</div>
+              <div class="text-text-body text-xs">Uzatılmış cihaz ömrü</div>
+            </div>
+            <div class="bg-white rounded-xl p-5 shadow-card text-center">
+              <div class="font-heading font-extrabold text-3xl text-brand-orange mb-1">₺1-3K</div>
+              <div class="text-text-body text-xs">Yıllık elektrik tasarrufu</div>
+            </div>
+            <div class="bg-white rounded-xl p-5 shadow-card text-center">
+              <div class="font-heading font-extrabold text-3xl text-brand-orange mb-1">%5-15</div>
+              <div class="text-text-body text-xs">Tıkalı filtrenin verim kaybı</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SCHEDULE ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Bakım Takvimi</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">KLİMA BAKIMI NE ZAMAN YAPILMALI?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+        <!-- Season 1 -->
+        <div class="bg-brand-cream rounded-2xl p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-orange flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Yaz Öncesi Bakım</h3>
+          <p class="text-text-body text-sm leading-relaxed mb-2" style="line-height: 1.7;"><strong class="text-brand-navy">Nisan – Mayıs</strong></p>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Yaz sezonu başlamadan önce yapılacak kapsamlı bakım, klimanızın yoğun kullanıma hazır olmasını sağlar. Filtre temizliği, gaz kontrolü ve genel performans testi bu bakımın parçasıdır.</p>
+        </div>
+        <!-- Season 2 -->
+        <div class="bg-brand-cream rounded-2xl p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-teal flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Sezon Ortası Bakım</h3>
+          <p class="text-text-body text-sm leading-relaxed mb-2" style="line-height: 1.7;"><strong class="text-brand-navy">Temmuz – Ağustos</strong></p>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Şanlıurfa'nın en sıcak aylarında klimanız en yoğun şekilde çalışır. Sezon ortası filtre temizliği ve performans kontrolü, arıza riskini minimize eder.</p>
+        </div>
+        <!-- Season 3 -->
+        <div class="bg-brand-cream rounded-2xl p-7">
+          <div class="w-12 h-12 rounded-full bg-brand-navy flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Kış Öncesi Bakım</h3>
+          <p class="text-text-body text-sm leading-relaxed mb-2" style="line-height: 1.7;"><strong class="text-brand-navy">Ekim – Kasım</strong></p>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Sezon bitiminde yapılacak koruma bakımı, klimanızı uzun kış uykusuna hazırlar. Dış ünite temizliği, koruma kapağı ve genel kontrol bu bakımda yapılır.</p>
+        </div>
+      </div>
+      <!-- Frequency Info -->
+      <div class="bg-brand-cream rounded-2xl p-8">
+        <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Bakım Sıklığı Önerileri</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="flex items-start gap-3">
+            <div class="w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+              <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            </div>
+            <div>
+              <strong class="text-brand-navy text-sm">Ev Tipi Klimalar:</strong>
+              <p class="text-text-body text-sm" style="line-height: 1.7;">Yılda en az 2 kez, Şanlıurfa için 3 kez önerilir</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div class="w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+              <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            </div>
+            <div>
+              <strong class="text-brand-navy text-sm">Ticari Klimalar:</strong>
+              <p class="text-text-body text-sm" style="line-height: 1.7;">Her 3 ayda bir profesyonel bakım</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div class="w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+              <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            </div>
+            <div>
+              <strong class="text-brand-navy text-sm">Filtre Temizliği:</strong>
+              <p class="text-text-body text-sm" style="line-height: 1.7;">Ayda 1 kez, yoğun kullanımda 2 haftada bir</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div class="w-8 h-8 rounded-full bg-brand-orange/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+              <svg class="w-4 h-4 text-brand-orange" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+            </div>
+            <div>
+              <strong class="text-brand-navy text-sm">Filtre Değişimi:</strong>
+              <p class="text-text-body text-sm" style="line-height: 1.7;">1-2 yılda bir tamamen değiştirilmeli</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SERVICE AREAS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Hizmet Alanlarımız</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">HİZMET VERDİĞİMİZ ŞANLIURFA İLÇELERİ</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Eyyübiye</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Haliliye</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Karaköprü</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Viranşehir</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Siverek</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Suruç</h3>
+        </div>
+      </div>
+      <p class="text-text-body text-sm text-center mt-8" style="line-height: 1.7;">
+        Şanlıurfa'nın tüm merkez ve ilçelerine klima bakım hizmeti sunuyoruz. Bölgenizde hizmet verilip verilmediğini öğrenmek için <a href="tel:+905533975244" class="text-brand-orange font-semibold hover:underline">0553 397 52 44</a> numarasından bize ulaşabilirsiniz.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ WHY US ============ -->
+  <section class="relative overflow-hidden" style="background-color: #1a2e3b; padding-top: 5rem; padding-bottom: 5.5rem;">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(26,46,59,0.97) 0%, rgba(42,125,138,0.55) 100%);"></div>
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Avantajlarımız</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white mt-3 tracking-[-0.03em]">NEDEN BİZİ TERCİH ETMELİSİNİZ?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-7">
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">Deneyimli Ekip</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">20+ yıllık sektör deneyimi ve sertifikalı teknik kadromuzla profesyonel hizmet sunuyoruz.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">7/24 Hizmet</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Acil durumlarda 7 gün 24 saat ulaşılabilir servis hizmeti ve hızlı müdahale garantisi.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">Garantili Bakım</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Tüm bakım işlemlerimiz garanti kapsamındadır. İşçilik ve parça garantisi sunuyoruz.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">5.000+ Müşteri</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Binlerce memnun müşterimiz ve Google 5.0 puan ortamamızla güvenilir hizmet veriyoruz.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#1a2e3b"/>
+    </svg>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Sıkça Sorulan Sorular</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">SORULARINIZ MI VAR?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="space-y-4">
+        <!-- FAQ 1 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakımı ne sıklıkta yapılmalı?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Ev tipi klimalar için yılda en az 2 kez bakım önerilir. Ancak Şanlıurfa gibi sıcak ve tozlu bölgelerde yılda 3 kez bakım yaptırmanızı tavsiye ediyoruz. Ticari klimalar ise her 3 ayda bir bakıma alınmalıdır. Filtre temizliğini ise ayda 1 kez kendiniz yapabilirsiniz.</div>
+          </div>
+        </div>
+        <!-- FAQ 2 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Şanlıurfa'da klima bakım ücreti ne kadar?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">2026 yılı itibarıyla split klima temel bakımı 1.200-2.000 TL, detaylı iç ünite yıkama 2.000-3.500 TL, salon tipi klima bakımı ise 2.500-5.000 TL arasında değişmektedir. Yıllık bakım sözleşmesi ile 2 bakım 2.500-5.000 TL'ye mal olur ve tek seferlik bakımlara göre daha ekonomiktir.</div>
+          </div>
+        </div>
+        <!-- FAQ 3 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakımı yaptırmazsam ne olur?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Bakımsız klima %15-25 daha fazla enerji tüketir ve yıllık 1.000-3.000 TL ek elektrik maliyeti oluşturur. Cihaz ömrü ortalama 10 yıldan 5-7 yıla düşer. Ayrıca iç ünitede biriken bakteri ve küf, solunum yolu enfeksiyonlarına ve alerjik reaksiyonlara neden olabilir. Bakımsız kompresör arızası ise çok maliyetli bir <a href="/klima-tamir" class="text-brand-orange font-semibold hover:underline">klima tamiri</a> gerektirebilir.</div>
+          </div>
+        </div>
+        <!-- FAQ 4 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima filtresi ne zaman değiştirilmeli?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Filtre temizliği ayda 1 kez yapılmalıdır — yoğun kullanımda 2 haftada bir önerilir. Filtrenin tamamen değiştirilmesi ise genellikle 1-2 yılda bir gerekir. Şanlıurfa'nın tozlu ikliminde bu süre daha kısa olabilir. Filtrenizi çıkarıp ışığa tutun; ışık geçmiyorsa değiştirme zamanı gelmiştir.</div>
+          </div>
+        </div>
+        <!-- FAQ 5 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakımı ne kadar sürer?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Standart bir split klima bakımı 30-60 dakika sürer. Detaylı iç ünite yıkama ve dezenfeksiyon dahil edildiğinde bu süre 1-2 saate çıkabilir. Salon tipi veya VRF sistem bakımları ise 2-4 saat sürebilmektedir.</div>
+          </div>
+        </div>
+        <!-- FAQ 6 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima dezenfeksiyonu neden önemlidir?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klima iç ünitesinde zamanla bakteri, küf ve mantar ürer. Bu mikroorganizmalar üflenen havaya karışarak alerji, astım, göz irritasyonu ve solunum yolu enfeksiyonlarına neden olabilir. Özellikle bebek, yaşlı ve kronik hastası olan hanelerde düzenli dezenfeksiyon sağlık açısından kritik önem taşır.</div>
+          </div>
+        </div>
+        <!-- FAQ 7 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Bakımlı klima ne kadar enerji tasarrufu sağlar?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Düzenli bakım yapılan klimalar %15-25 daha az enerji tüketir. Tıkalı filtreler tek başına verimliliği %5-15 düşürür. Yıllık bazda bu, Şanlıurfa'daki yoğun kullanım göz önüne alındığında 1.000-3.000 TL elektrik faturası tasarrufu anlamına gelir. Bakım maliyetinin kendini kısa sürede amorti ettiğini söyleyebiliriz.</div>
+          </div>
+        </div>
+        <!-- FAQ 8 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakım sözleşmesi yaptırmak avantajlı mı?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Evet, bakım sözleşmesi ile yılda 2 periyodik bakım, öncelikli servis hakkı ve %15 yedek parça indiriminden faydalanırsınız. Tek seferlik bakımlara kıyasla %20-30 daha ekonomiktir. Ayrıca acil durumlarda 7/24 destek hattımızdan öncelikli hizmet alırsınız. Detaylı bilgi için <a href="tel:+905533975244" class="text-brand-orange font-semibold hover:underline">bizi arayın</a>.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="bg-brand-orange rounded-2xl shadow-card p-10 sm:p-14 text-center relative overflow-hidden">
+        <div class="absolute -top-10 -left-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="relative z-10">
+          <span class="text-white/80 font-bold text-sm uppercase tracking-widest">Hemen Randevu Alın</span>
+          <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white mt-3 mb-6 tracking-[-0.03em]">KLİMA BAKIM SERVİSİ İÇİN BİZE ULAŞIN</h2>
+          <p class="text-white/90 leading-relaxed max-w-2xl mx-auto mb-8" style="line-height: 1.7;">
+            Klimanızın performansını artırmak, enerji tasarrufu sağlamak ve cihaz ömrünü uzatmak için profesyonel bakım hizmeti alın. Ücretsiz keşif ve uygun fiyat teklifi için hemen arayın.
+          </p>
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a href="tel:+905533975244" class="inline-flex items-center gap-2 bg-white text-brand-orange font-bold text-base px-8 py-4 rounded-full" style="transition: transform 0.15s ease-out;">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
+              0553 397 52 44
+            </a>
+            <a href="/services" class="inline-flex items-center gap-2 bg-white/20 text-white font-bold text-base px-8 py-4 rounded-full border border-white/30" style="transition: transform 0.15s ease-out;">
+              Tüm Hizmetlerimiz
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    function toggleFaq(btn) {
+      const answer = btn.nextElementSibling;
+      const chevron = btn.querySelector('.faq-chevron');
+      answer.classList.toggle('open');
+      chevron.classList.toggle('open');
+    }
+  </script>
+</Layout>

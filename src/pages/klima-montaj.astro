@@ -1,0 +1,969 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Şanlıurfa Klima Montaj | Aynı Gün Kurulum [2026]"
+  description="Şanlıurfa'da profesyonel klima montaj hizmeti. Split, inverter ve multi split klima kurulumu. Aynı gün montaj, garantili işçilik. Hemen teklif alın!"
+  activePage="services"
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Klima Montaj Hizmeti",
+      "name": "Şanlıurfa Klima Montaj Hizmeti",
+      "description": "Şanlıurfa'da profesyonel split, inverter ve multi split klima montaj hizmeti. Aynı gün kurulum, garantili işçilik.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Şanlıurfa Klima Servisi",
+        "telephone": "+905533975244",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Şanlıurfa",
+          "addressCountry": "TR"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Şanlıurfa"
+        }
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "2500",
+        "highPrice": "9000",
+        "priceCurrency": "TRY"
+      }
+    })} />
+
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Şanlıurfa'da klima montaj fiyatı ne kadar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2026 yılı itibarıyla Şanlıurfa'da standart split klima montaj fiyatları 2.500 – 4.500 ₺ arasında değişmektedir. İnverter klima montajı 3.000 – 5.500 ₺, multi split montaj ise ünite başı 4.000 – 7.000 ₺ aralığındadır. Fiyatlar montaj yapılacak kata, boru uzunluğuna ve klima kapasitesine göre değişiklik gösterebilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Klima montajı ne kadar sürer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standart bir split klima montajı ortalama 1,5 – 3 saat sürmektedir. Multi split sistemlerde bu süre 3 – 6 saate, VRF sistem kurulumlarında ise 1 – 3 güne uzayabilir. Klima söküm işlemi yaklaşık 30 – 60 dakika sürer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Klima montajında vakumlama neden gereklidir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vakumlama, boru tesisatı içindeki havayı ve nemi tahliye eder. Bu işlem yapılmazsa soğutucu gaz verimsiz çalışır, kompresöre aşırı yük biner ve klimanın ömrü kısalır. Profesyonel montajda vakumlama olmazsa olmaz bir adımdır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Şanlıurfa'da hangi BTU klima almalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Şanlıurfa'nın sıcak iklimi nedeniyle standart BTU hesaplamalarına %15-20 ekleme yapılması önerilir. 12 m² oda için 12.000 BTU, 20 m² oda için 18.000 BTU, 30 m² salon için 24.000 BTU tercih edilmelidir. Güneş alan odalarda bir üst BTU değerine çıkmak daha doğru olacaktır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Klima montajını kendim yapabilir miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Klima montajını kendiniz yapmanız kesinlikle önerilmez. Yanlış montaj, gaz kaçağına, kompresör arızasına ve elektrik tehlikesine yol açabilir. Ayrıca kendi montajınızda üretici garantisi geçersiz hale gelir. Mutlaka yetkili ve deneyimli bir teknik ekibe montaj yaptırmanız gerekir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Aynı gün klima montajı yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, Şanlıurfa merkez ve yakın ilçelerde aynı gün klima montaj hizmeti sunuyoruz. Sabah saat 09:00'a kadar verilen siparişlerde aynı gün montaj garantisi veriyoruz. Yoğun sezonda (Haziran-Ağustos) randevu önceliği uygulanabilir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Klima montajı sonrası garanti veriyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, tüm klima montaj işlemlerimizde 2 yıl işçilik garantisi sunuyoruz. Montajdan kaynaklanan herhangi bir arızada ücretsiz onarım veya yeniden montaj yapıyoruz. Ayrıca montaj sonrası ilk bakım ücretsizdir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Eski klimamı söküp yeni klimayı monte eder misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, eski klimanızın sökümü ve yeni klimanın montajını tek seferde gerçekleştiriyoruz. Klima söküm + yeniden montaj hizmetimiz 2.000 – 3.500 ₺ arasındadır. Eski klimanızın uygun şekilde sökülerek gazının toplanması işlemi de bu fiyata dahildir."
+          }
+        }
+      ]
+    })} />
+
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana Sayfa",
+          "item": "https://sanliurfaklimaservisi.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hizmetler",
+          "item": "https://sanliurfaklimaservisi.com/services"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Klima Montaj",
+          "item": "https://sanliurfaklimaservisi.com/klima-montaj"
+        }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       HERO SECTION
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-brand-navy" style="min-height: 280px;">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-center" style="min-height: 280px;">
+      <div class="py-14">
+        <nav class="flex items-center gap-2 text-gray-400 text-sm mb-5">
+          <a href="/" class="footer-link hover:text-brand-orange transition-colors duration-200">Ana Sayfa</a>
+          <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <a href="/services" class="footer-link hover:text-brand-orange transition-colors duration-200">Hizmetler</a>
+          <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-gray-300">Klima Montaj</span>
+        </nav>
+        <h1 class="font-heading font-extrabold text-white text-3xl sm:text-4xl lg:text-5xl tracking-[-0.03em] mb-4">ŞANLIURFA KLİMA MONTAJ HİZMETİ</h1>
+        <p class="text-brand-orange font-heading font-bold text-lg sm:text-xl tracking-wide">Profesyonel Kurulum [2026]</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       INTRO SECTION — White BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-white py-16 sm:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Profesyonel Kurulum</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Şanlıurfa'da Profesyonel Klima Montaj Hizmeti</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <div class="max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-10 items-start">
+          <div>
+            <p class="text-text-body text-sm leading-relaxed mb-4" style="line-height: 1.7;">
+              Şanlıurfa'da klima montajı, yalnızca bir cihazı duvara asmaktan ibaret değildir. Doğru konum seçimi, uygun boru tesisatı, elektrik bağlantısı, vakumlama işlemi ve gaz kontrolü gibi birçok teknik adımın eksiksiz uygulanması gerekir. <strong>Profesyonel klima montajı</strong>, klimanızın verimli çalışmasını, enerji tasarrufu yapmanızı ve cihazınızın uzun ömürlü olmasını sağlar.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed mb-4" style="line-height: 1.7;">
+              Şanlıurfa, yaz aylarında hava sıcaklıklarının <strong>45°C'nin üzerine</strong> çıktığı Türkiye'nin en sıcak şehirlerinden biridir. Bu zorlu iklim koşullarında klimanızın doğru montajlanması, sadece konfor değil aynı zamanda sağlık açısından da kritik öneme sahiptir. Yanlış montaj, klimanın kapasitesinin altında çalışmasına, yüksek elektrik faturalarına ve erken arızalara yol açar.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Ekibimiz; <strong>split klima montajı</strong>, <strong>inverter klima montajı</strong>, <strong>multi split klima kurulumu</strong>, salon tipi (kaset) klima montajı ve VRF sistem kurulumu dahil tüm klima tiplerinde profesyonel hizmet sunmaktadır. Şanlıurfa'nın tüm merkez ilçeleri ve yakın bölgelerinde <strong>aynı gün montaj</strong> imkanıyla yanınızdayız.
+            </p>
+          </div>
+          <div>
+            <p class="text-text-body text-sm leading-relaxed mb-4" style="line-height: 1.7;">
+              Klimanızın performansı büyük ölçüde montaj kalitesine bağlıdır. Araştırmalar, yanlış montajın klima verimini <strong>%30'a kadar düşürebildiğini</strong> göstermektedir. Bu da hem konforunuzu hem de cüzdanınızı doğrudan etkiler. Profesyonel montajda kullanılan kaliteli bakır borular, uygun izolasyon malzemeleri ve doğru vakumlama işlemi, klimanızın üretici tarafından vaat edilen performansı gerçekten sunmasını sağlar.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed mb-4" style="line-height: 1.7;">
+              Montaj hizmetimizin yanı sıra düzenli <a href="/klima-bakim" class="text-brand-orange font-semibold hover:underline">klima bakım</a> hizmetimizle klimanızın her zaman en yüksek verimde çalışmasını sağlıyoruz. Olası arızalarda <a href="/klima-tamir" class="text-brand-orange font-semibold hover:underline">klima tamir</a> ekibimiz hızla müdahale eder. Soğutma performansı düştüğünde ise <a href="/klima-gaz-dolumu" class="text-brand-orange font-semibold hover:underline">klima gaz dolumu</a> hizmetimizle klimanızı eski performansına kavuştururuz.
+            </p>
+            <div class="bg-brand-cream rounded-2xl p-6 border-l-4 border-brand-orange">
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                <strong class="text-brand-navy">Önemli:</strong> Klimanızın üretici garantisinin geçerli kalması için montajın yetkili ve sertifikalı teknisyenler tarafından yapılması zorunludur. Kendi başınıza yapılan montajlarda garanti kapsamı geçersiz hale gelir.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       SERVICE TYPES — Cream BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-brand-cream relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Hizmet Türleri</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Klima Montaj Hizmetlerimiz</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Şanlıurfa'da her türlü mekan ve ihtiyaca uygun klima montaj çözümleri sunuyoruz. Ev, ofis, dükkan veya büyük ticari alanlarda profesyonel kurulum hizmetimizden yararlanabilirsiniz.
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-6 lg:gap-8">
+        <!-- Split Klima Montajı -->
+        <div class="bg-white rounded-2xl shadow-card p-8 card-lift">
+          <div class="flex items-start gap-5">
+            <div class="w-14 h-14 bg-brand-orange/10 rounded-2xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            </div>
+            <div>
+              <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Split Klima Montajı</h3>
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                Ev ve ofislerde en yaygın kullanılan <strong>split klima montajı</strong> hizmetimiz, iç ve dış ünitenin profesyonel şekilde yerleştirilmesini, bakır boru tesisatını, elektrik bağlantısını ve vakumlama işlemini kapsar. Şanlıurfa'nın sıcak ikliminde en çok tercih edilen klima tipidir. 9.000 BTU'dan 24.000 BTU'ya kadar tüm kapasitelerde montaj yapıyoruz.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- İnverter Klima Montajı -->
+        <div class="bg-white rounded-2xl shadow-card p-8 card-lift">
+          <div class="flex items-start gap-5">
+            <div class="w-14 h-14 bg-brand-orange/10 rounded-2xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            </div>
+            <div>
+              <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">İnverter Klima Montajı</h3>
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                <strong>İnverter klima montajı</strong>, enerji tasarrufu sağlayan bu ileri teknoloji cihazların özel gereksinimlerine uygun şekilde yapılır. İnverter klimalar, kompresör hızını otomatik ayarlayarak %40'a varan enerji tasarrufu sağlar. Şanlıurfa gibi klimanın yoğun kullanıldığı şehirlerde inverter teknolojisi elektrik faturalarında ciddi fark yaratır. Montajda hassas vakumlama ve gaz ayarı kritik önem taşır.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Multi Split Klima Montajı -->
+        <div class="bg-white rounded-2xl shadow-card p-8 card-lift">
+          <div class="flex items-start gap-5">
+            <div class="w-14 h-14 bg-brand-orange/10 rounded-2xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            </div>
+            <div>
+              <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Multi Split Klima Montajı</h3>
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                Tek bir dış üniteyle birden fazla iç üniteyi çalıştıran <strong>multi split klima montajı</strong>, özellikle dış ünite alanı kısıtlı binalarda ve çok odalı evlerde ideal çözümdür. Her iç ünitenin bağımsız kontrol edilebilmesi sayesinde oda bazlı konfor sağlar. Montaj süreci, boru hatlarının doğru planlanmasını ve her iç ünitenin kapasitesine uygun bağlantı yapılmasını gerektirir.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Salon Tipi (Kaset) Klima Montajı -->
+        <div class="bg-white rounded-2xl shadow-card p-8 card-lift">
+          <div class="flex items-start gap-5">
+            <div class="w-14 h-14 bg-brand-orange/10 rounded-2xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            </div>
+            <div>
+              <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Salon Tipi (Kaset) Klima Montajı</h3>
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                Asma tavana gömülen <strong>kaset tipi klima montajı</strong>, geniş ofisler, mağazalar, restoranlar ve toplantı salonları için idealdir. Dört yönlü hava üfleme özelliği sayesinde mekanın her köşesine eşit şekilde soğutma/ısıtma sağlar. Montajda tavan yapısının uygunluğu, drenaj hattı planlaması ve elektrik altyapısı detaylı şekilde değerlendirilir.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- VRF Klima Sistemi Kurulumu (full width) -->
+        <div class="bg-white rounded-2xl shadow-card p-8 card-lift md:col-span-2">
+          <div class="flex items-start gap-5">
+            <div class="w-14 h-14 bg-brand-orange/10 rounded-2xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            </div>
+            <div>
+              <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">VRF Klima Sistemi Kurulumu</h3>
+              <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+                Büyük ticari binalar, oteller, hastaneler ve plaza gibi çok katlı yapılar için <strong>VRF (Variable Refrigerant Flow) klima sistemi kurulumu</strong> hizmeti sunuyoruz. VRF sistemler, onlarca iç üniteyi merkezi bir şekilde yöneterek maksimum enerji verimliliği sağlar. Şanlıurfa'daki ticari projelerde artan talebe profesyonel mühendislik ekibimizle yanıt veriyoruz. Proje bazlı keşif, tasarım, montaj ve devreye alma süreçlerinin tamamını yönetiyoruz.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       PRICING TABLE — White BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-white relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Fiyatlandırma</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Klima Montaj Fiyatları 2026</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Şanlıurfa'da <strong>klima montaj fiyatları</strong>, klima tipine, montaj koşullarına ve ek malzeme ihtiyacına göre değişiklik gösterir. Aşağıdaki tabloda 2026 yılı güncel fiyat aralıklarını bulabilirsiniz. Detaylı fiyat bilgisi için <a href="/blog/klima-montaj-fiyatlari" class="text-brand-orange font-semibold hover:underline">klima montaj fiyatları</a> yazımızı inceleyebilirsiniz.
+        </p>
+      </div>
+
+      <!-- Pricing Table -->
+      <div class="max-w-3xl mx-auto mb-12">
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <div class="bg-brand-navy px-6 py-4">
+            <div class="flex justify-between items-center">
+              <span class="font-heading font-bold text-white text-sm">Hizmet</span>
+              <span class="font-heading font-bold text-white text-sm">Fiyat Aralığı</span>
+            </div>
+          </div>
+          <div class="divide-y divide-gray-100">
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Split klima montajı (standart)</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">2.500 – 4.500 ₺</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">İnverter klima montajı</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">3.000 – 5.500 ₺</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Multi split klima montajı (ünite başı)</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">4.000 – 7.000 ₺</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Salon tipi klima montajı</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">5.000 – 9.000 ₺</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Ek bakır boru (metre başı)</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">400 – 700 ₺/m</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4 hover:bg-brand-cream/50 transition-colors duration-200">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Klima söküm + yeniden montaj</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">2.000 – 3.500 ₺</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Fiyatı Etkileyen Faktörler -->
+      <div class="max-w-3xl mx-auto mb-12">
+        <h3 class="font-heading font-extrabold text-brand-navy text-xl tracking-[-0.03em] mb-5">Fiyatı Etkileyen Faktörler</h3>
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Kat yüksekliği:</strong> Yüksek katlarda dış ünite montajı ek güvenlik ekipmanı ve işçilik gerektirir.</p>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Boru uzunluğu:</strong> Standart 3 metre dahildir; her ek metre için ayrıca ücretlendirilir.</p>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Klima kapasitesi:</strong> Yüksek BTU'lu klimalar daha kalın boru ve güçlü elektrik hattı gerektirir.</p>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Ek işçilik:</strong> Kanal açma, platform yapımı, ek elektrik hattı çekme gibi işlemler fiyatı artırır.</p>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Bina yapısı:</strong> Eski binalarda duvar yapısı ve tesisat uyumluluğu ek çalışma gerektirebilir.</p>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-5 h-5 text-brand-orange flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;"><strong>Sezon yoğunluğu:</strong> Yaz aylarında yoğun talep nedeniyle fiyatlar biraz yükselebilir.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Duration Table -->
+      <div class="max-w-3xl mx-auto">
+        <h3 class="font-heading font-extrabold text-brand-navy text-xl tracking-[-0.03em] mb-5">Montaj Süreleri</h3>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <div class="bg-brand-teal px-6 py-4">
+            <div class="flex justify-between items-center">
+              <span class="font-heading font-bold text-white text-sm">İşlem</span>
+              <span class="font-heading font-bold text-white text-sm">Süre</span>
+            </div>
+          </div>
+          <div class="divide-y divide-gray-100">
+            <div class="flex justify-between items-center px-6 py-4">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Standart split klima montajı</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">1,5 – 3 saat</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Multi split montaj</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">3 – 6 saat</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">VRF sistem kurulumu</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">1 – 3 gün</span>
+            </div>
+            <div class="flex justify-between items-center px-6 py-4">
+              <span class="text-text-body text-sm" style="line-height: 1.7;">Klima söküm</span>
+              <span class="font-heading font-bold text-brand-navy text-sm whitespace-nowrap ml-4">30 – 60 dakika</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       PROCESS — Cream BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-brand-cream relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Montaj Süreci</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Klima Montajı Nasıl Yapılır?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Profesyonel klima montaj sürecimiz 6 temel adımdan oluşur. Her adım, klimanızın maksimum verimde çalışması için kritik öneme sahiptir.
+        </p>
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+        <!-- Step 1 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">1</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Keşif ve Yer Belirleme</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Teknisyenimiz evinize gelerek iç ve dış ünite konumlarını belirler. Odanın büyüklüğü, güneş alma durumu, duvar yapısı ve elektrik altyapısı değerlendirilir. En verimli hava akışını sağlayacak konum seçilir.
+          </p>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">2</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">İç Ünite Montajı</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            İç ünite montaj plakası su terazisiyle duvara sabitlenir. Duvardan boru geçiş deliği açılır. İç ünite plakaya takılarak boru ve kablo bağlantıları için hazırlanır. Ünitenin yatay dengesi hassas şekilde ayarlanır.
+          </p>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">3</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Dış Ünite Montajı</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Dış ünite, hava sirkülasyonuna uygun bir konuma sağlam ayaklar üzerine monte edilir. Titreşim önleyici lastik takozlar yerleştirilir. Dış ünitenin doğrudan güneş ışığından korunması ve yeterli hava akışı sağlanması gözetilir.
+          </p>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">4</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Boru ve Kablo Bağlantıları</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Bakır borular özenle bükülüp, alev kaynak veya rakor bağlantısıyla iç ve dış ünite arasına döşenir. Elektrik kabloları bağlanır. Drenaj (su tahliye) hattı uygun eğimle yerleştirilir. Tüm bağlantılar izole edilir.
+          </p>
+        </div>
+
+        <!-- Step 5 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">5</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Vakumlama ve Gaz Kontrolü</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Boru hattındaki hava ve nem, vakum pompasıyla en az 15-20 dakika süreyle tahliye edilir. Vakumlama, klimanın verimli çalışması ve kompresörün korunması için vazgeçilmez bir adımdır. Ardından soğutucu gaz bağlantısı yapılır ve basınç kontrolü gerçekleştirilir.
+          </p>
+        </div>
+
+        <!-- Step 6 -->
+        <div class="text-center">
+          <div class="w-14 h-14 bg-brand-orange rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="font-heading font-extrabold text-white text-xl">6</span>
+          </div>
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-2">Test ve Devreye Alma</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Klima soğutma ve ısıtma modlarında test edilir. Hava akış yönü, sıcaklık farkı, ses seviyesi ve drenaj akışı kontrol edilir. Kumanda kullanımı ve temel bakım bilgileri müşteriye aktarılır. Garanti belgesi düzenlenir.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       TIPS — White BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-white relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Önemli Bilgiler</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Klima Montajında Dikkat Edilmesi Gerekenler</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-6 lg:gap-8 max-w-5xl mx-auto">
+        <!-- Tip 1 -->
+        <div class="bg-brand-cream rounded-2xl p-8">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 bg-brand-orange/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            </div>
+            <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em]">Doğru Konum Seçimi</h3>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            İç ünite, odanın en uzun duvarının ortasına yakın bir noktaya, yerden en az 2,1 metre yüksekliğe monte edilmelidir. Doğrudan güneş ışığı alan duvarlardan kaçınılmalıdır. Dış ünite ise hava sirkülasyonunu engellemeyecek, bakım için kolay erişilebilir ve mümkünse gölge bir konuma yerleştirilmelidir. Şanlıurfa'nın yoğun güneş ışığı göz önünde bulundurularak dış ünitenin kuzey veya doğu cephesine montajı tercih edilmelidir.
+          </p>
+        </div>
+
+        <!-- Tip 2 -->
+        <div class="bg-brand-cream rounded-2xl p-8">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 bg-brand-orange/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+            </div>
+            <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em]">Bakır Boru Kalitesi ve Uzunluğu</h3>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Klima montajında kullanılan bakır boruların kalitesi, soğutma performansını doğrudan etkiler. Birinci sınıf, içi temiz ve oksitlenmemiş bakır borular kullanılmalıdır. Boru uzunluğu mümkün olduğunca kısa tutulmalıdır; her ek metre, soğutma verimini düşürür. Standart montajlarda 3-5 metre boru yeterli olup, 15 metreyi aşan boru hatlarında ek gaz takviyesi gerekebilir. Boru bağlantılarında tork anahtarıyla uygun sıkma momenti uygulanmalıdır.
+          </p>
+        </div>
+
+        <!-- Tip 3 -->
+        <div class="bg-brand-cream rounded-2xl p-8">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 bg-brand-orange/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"/></svg>
+            </div>
+            <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em]">Elektrik Tesisatı Uygunluğu</h3>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Klimanın güvenli ve verimli çalışması için elektrik tesisatının uygun olması şarttır. 9.000-12.000 BTU klimalar için 16 amperlik ayrı bir sigorta hattı, 18.000 BTU ve üzeri klimalar için ise 20-25 amperlik hat gereklidir. Topraklama mutlaka yapılmalı ve klimaya özel bir priz hattı çekilmelidir. Şanlıurfa'da eski binalarda elektrik altyapısı yetersiz kalabilir; bu durumda montaj öncesi elektrik tesisatı güncellenmelidir.
+          </p>
+        </div>
+
+        <!-- Tip 4 -->
+        <div class="bg-brand-cream rounded-2xl p-8">
+          <div class="flex items-center gap-3 mb-4">
+            <div class="w-10 h-10 bg-brand-orange/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>
+            </div>
+            <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em]">Drenaj (Su Tahliye) Hattı</h3>
+          </div>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+            Klima çalışırken yoğuşma sonucu oluşan su, drenaj hattı aracılığıyla tahliye edilir. Bu hattın uygun eğimle (en az %1-2) döşenmesi, su birikintisi ve taşma problemlerini önler. Drenaj hattı tıkanırsa iç üniteden su sızıntısı yaşanır ve bu durum hem mobilyalara hem de duvarlara zarar verebilir. Şanlıurfa'nın sıcak ve kuru ikliminde yoğun kullanım dönemlerinde drenaj hattı düzenli kontrol edilmelidir.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       BTU GUIDE — Cream BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-brand-cream relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">BTU Rehberi</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Şanlıurfa'da Hangi Klima Kaç BTU Olmalı?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Doğru BTU seçimi, hem konforunuz hem de enerji tasarrufunuz için kritik öneme sahiptir. Şanlıurfa'nın aşırı sıcak iklimi nedeniyle standart BTU hesaplamalarına <strong>%15-20 ekleme yapılması</strong> önerilir. Detaylı bilgi için <a href="/blog/kac-btu-klima-almaliyim" class="text-brand-orange font-semibold hover:underline">kaç BTU klima almalıyım</a> rehberimizi okuyabilirsiniz.
+        </p>
+      </div>
+
+      <!-- BTU Table -->
+      <div class="max-w-3xl mx-auto mb-10">
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <div class="bg-brand-navy px-6 py-4">
+            <div class="grid grid-cols-3 gap-4">
+              <span class="font-heading font-bold text-white text-sm">Oda Büyüklüğü</span>
+              <span class="font-heading font-bold text-white text-sm text-center">Standart BTU</span>
+              <span class="font-heading font-bold text-white text-sm text-right">Şanlıurfa İçin Önerilen</span>
+            </div>
+          </div>
+          <div class="divide-y divide-gray-100">
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">8 – 12 m²</span>
+              <span class="text-text-body text-sm text-center">9.000 BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">12.000 BTU</span>
+            </div>
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">12 – 18 m²</span>
+              <span class="text-text-body text-sm text-center">12.000 BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">14.000 – 18.000 BTU</span>
+            </div>
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">18 – 25 m²</span>
+              <span class="text-text-body text-sm text-center">18.000 BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">21.000 – 24.000 BTU</span>
+            </div>
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">25 – 35 m²</span>
+              <span class="text-text-body text-sm text-center">24.000 BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">28.000 – 30.000 BTU</span>
+            </div>
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">35 – 50 m²</span>
+              <span class="text-text-body text-sm text-center">30.000 BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">36.000 BTU</span>
+            </div>
+            <div class="grid grid-cols-3 gap-4 px-6 py-4">
+              <span class="text-text-body text-sm">50+ m²</span>
+              <span class="text-text-body text-sm text-center">36.000+ BTU</span>
+              <span class="font-heading font-bold text-brand-navy text-sm text-right">42.000+ BTU veya Multi Split</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- BTU Additional Info -->
+      <div class="max-w-3xl mx-auto">
+        <div class="bg-white rounded-2xl p-8 shadow-card">
+          <h3 class="font-heading font-extrabold text-brand-navy text-lg tracking-[-0.03em] mb-4">BTU Seçiminde Dikkat Edilecek Faktörler</h3>
+          <div class="space-y-3">
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              <strong>Güneş alan odalar:</strong> Güney ve batı cephesindeki odalar daha fazla ısınır. Bu odalarda bir üst BTU değerine çıkmanız önerilir.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              <strong>Tavan yüksekliği:</strong> 3 metreden yüksek tavanlı odalarda BTU değeri %10-15 artırılmalıdır.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              <strong>Yalıtım durumu:</strong> İyi yalıtılmış binalarda standart BTU yeterli olabilir; yalıtımsız eski binalarda daha yüksek kapasite gerekir.
+            </p>
+            <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              <strong>Kişi sayısı:</strong> Odada sürekli bulunan her ek kişi için yaklaşık 600 BTU eklenmesi önerilir.
+            </p>
+          </div>
+
+          <div class="mt-6 pt-6 border-t border-gray-100">
+            <h4 class="font-heading font-bold text-brand-navy text-base mb-3">Elektrik Gereksinimleri</h4>
+            <div class="grid sm:grid-cols-2 gap-3">
+              <div class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-teal flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                <p class="text-text-body text-sm" style="line-height: 1.7;"><strong>9.000 – 12.000 BTU:</strong> 16A sigorta, 2,5 mm² kablo</p>
+              </div>
+              <div class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-teal flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                <p class="text-text-body text-sm" style="line-height: 1.7;"><strong>18.000 BTU:</strong> 20A sigorta, 4 mm² kablo</p>
+              </div>
+              <div class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-teal flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                <p class="text-text-body text-sm" style="line-height: 1.7;"><strong>24.000 BTU:</strong> 25A sigorta, 4 mm² kablo</p>
+              </div>
+              <div class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-teal flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                <p class="text-text-body text-sm" style="line-height: 1.7;"><strong>36.000+ BTU:</strong> Trifaze elektrik, 32A sigorta gerekebilir</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       SERVICE AREAS — White BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-white relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Hizmet Alanları</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Hizmet Bölgelerimiz</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Şanlıurfa genelinde tüm merkez ilçeler ve yakın ilçelerde <strong>klima montaj</strong> hizmeti sunuyoruz. Aynı gün servis imkanıyla hızlı kurulum garantisi veriyoruz.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 max-w-4xl mx-auto">
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Eyyübiye</span>
+        </div>
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Haliliye</span>
+        </div>
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Karaköprü</span>
+        </div>
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Viranşehir</span>
+        </div>
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Siverek</span>
+        </div>
+        <div class="bg-brand-cream rounded-2xl p-5 text-center card-lift">
+          <div class="w-10 h-10 bg-brand-orange/10 rounded-full flex items-center justify-center mx-auto mb-3">
+            <svg class="w-5 h-5 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <span class="font-heading font-bold text-brand-navy text-sm">Diğer İlçeler</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       WHY US — Navy BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="relative py-16 sm:py-20 overflow-hidden">
+    <div class="absolute inset-0 bg-brand-navy"></div>
+    <div class="absolute inset-0 bg-gradient-to-br from-brand-teal/20 to-transparent"></div>
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Neden Biz?</span>
+        <h2 class="font-heading font-extrabold text-white text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Neden Bizi Tercih Etmelisiniz?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-gray-300 text-sm leading-relaxed mt-6 max-w-2xl mx-auto" style="line-height: 1.7;">
+          Şanlıurfa'da yıllardır sürdürdüğümüz profesyonel klima montaj hizmetimizle binlerce müşterinin güvenini kazandık. İşte bizi farklı kılan özelliklerimiz:
+        </p>
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <!-- Card 1 -->
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 text-center border border-white/10">
+          <div class="w-14 h-14 bg-brand-orange/20 rounded-2xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+          </div>
+          <h3 class="font-heading font-extrabold text-white text-lg tracking-[-0.03em] mb-2">Garantili İşçilik</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">
+            Tüm montaj işlemlerimizde <strong class="text-white">2 yıl işçilik garantisi</strong> sunuyoruz. Montajdan kaynaklanan her türlü arızada ücretsiz müdahale ediyoruz. İlk bakım hizmetimiz de ücretsizdir.
+          </p>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 text-center border border-white/10">
+          <div class="w-14 h-14 bg-brand-orange/20 rounded-2xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-extrabold text-white text-lg tracking-[-0.03em] mb-2">Deneyimli Teknik Kadro</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">
+            <strong class="text-white">10 yılı aşkın deneyime</strong> sahip sertifikalı teknisyenlerimiz, her marka ve modelde uzman montaj hizmeti sunmaktadır. Sürekli eğitimlerle güncel kalıyoruz.
+          </p>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 text-center border border-white/10">
+          <div class="w-14 h-14 bg-brand-orange/20 rounded-2xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-extrabold text-white text-lg tracking-[-0.03em] mb-2">Uygun Fiyat Politikası</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">
+            <strong class="text-white">Şeffaf fiyatlandırma</strong> ile gizli maliyet yok. Montaj öncesi detaylı fiyat teklifi sunuyoruz. Kaliteden ödün vermeden Şanlıurfa'nın en rekabetçi fiyatlarını garanti ediyoruz.
+          </p>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 text-center border border-white/10">
+          <div class="w-14 h-14 bg-brand-orange/20 rounded-2xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-extrabold text-white text-lg tracking-[-0.03em] mb-2">Aynı Gün Montaj İmkanı</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">
+            Sabah verdiğiniz siparişte <strong class="text-white">aynı gün montaj</strong> garantisi. Şanlıurfa merkez ve yakın ilçelerde hızlı servis. Sıcak yaz günlerinde klimasız kalmayın, hemen arayın.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       FAQ SECTION — Cream BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-brand-cream relative py-16 sm:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl mx-auto text-center mb-12">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">SSS</span>
+        <h2 class="font-heading font-extrabold text-brand-navy text-2xl sm:text-3xl lg:text-4xl tracking-[-0.03em] mt-3">Sıkça Sorulan Sorular</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <div class="max-w-3xl mx-auto space-y-4">
+        <!-- FAQ 1 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Şanlıurfa'da klima montaj fiyatı ne kadar?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              2026 yılı itibarıyla Şanlıurfa'da standart split klima montaj fiyatları 2.500 – 4.500 ₺ arasında değişmektedir. İnverter klima montajı 3.000 – 5.500 ₺, multi split montaj ise ünite başı 4.000 – 7.000 ₺ aralığındadır. Fiyatlar montaj yapılacak kata, boru uzunluğuna ve klima kapasitesine göre değişiklik gösterebilir. Kesin fiyat için ücretsiz keşif hizmetimizden yararlanabilirsiniz.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 2 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima montajı ne kadar sürer?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Standart bir split klima montajı ortalama 1,5 – 3 saat sürmektedir. Multi split sistemlerde bu süre 3 – 6 saate, VRF sistem kurulumlarında ise 1 – 3 güne uzayabilir. Klima söküm işlemi yaklaşık 30 – 60 dakika sürer. Montaj süresi boru uzunluğu, kat yüksekliği ve duvar yapısına göre değişebilir.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 3 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima montajında vakumlama neden gereklidir?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Vakumlama, boru tesisatı içindeki havayı ve nemi tahliye eder. Bu işlem yapılmazsa soğutucu gaz verimsiz çalışır, kompresöre aşırı yük biner ve klimanın ömrü ciddi şekilde kısalır. Vakumlama yapılmayan montajlarda kısa süre içinde soğutma performansında düşüş ve kompresör arızaları görülür. Profesyonel montajda vakumlama olmazsa olmaz bir adımdır ve en az 15-20 dakika sürdürülmelidir.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 4 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Şanlıurfa'da hangi BTU klima almalıyım?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Şanlıurfa'nın sıcak iklimi nedeniyle standart BTU hesaplamalarına %15-20 ekleme yapılması önerilir. Genel kural olarak: 12 m² oda için 12.000 BTU, 20 m² oda için 18.000 BTU, 30 m² salon için 24.000 BTU tercih edilmelidir. Güneş alan odalarda bir üst BTU değerine çıkmak daha doğru olacaktır. Detaylı bilgi için <a href="/blog/kac-btu-klima-almaliyim" class="text-brand-orange font-semibold hover:underline">BTU rehberimizi</a> inceleyebilirsiniz.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 5 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima montajını kendim yapabilir miyim?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Klima montajını kendiniz yapmanız kesinlikle önerilmez. Yanlış montaj, gaz kaçağına, kompresör arızasına ve elektrik tehlikesine yol açabilir. Ayrıca kendiniz yaptığınız montajda üretici garantisi geçersiz hale gelir. Boru bağlantıları, vakumlama, gaz kontrolü ve elektrik tesisatı gibi işlemler profesyonel ekipman ve uzmanlık gerektirir. Güvenliğiniz ve klimanızın uzun ömürlü kullanımı için mutlaka yetkili ve deneyimli bir teknik ekibe montaj yaptırmanız gerekir.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 6 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Aynı gün klima montajı yapıyor musunuz?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Evet, Şanlıurfa merkez (Eyyübiye, Haliliye, Karaköprü) ve yakın ilçelerde aynı gün klima montaj hizmeti sunuyoruz. Sabah saat 09:00'a kadar verilen siparişlerde aynı gün montaj garantisi veriyoruz. Yoğun sezonda (Haziran-Ağustos) randevu önceliği uygulanabilir, bu nedenle erken rezervasyon yapmanızı öneriyoruz.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 7 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima montajı sonrası garanti veriyor musunuz?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Evet, tüm klima montaj işlemlerimizde 2 yıl işçilik garantisi sunuyoruz. Montajdan kaynaklanan herhangi bir arızada ücretsiz onarım veya yeniden montaj yapıyoruz. Ayrıca montaj sonrası ilk <a href="/klima-bakim" class="text-brand-orange font-semibold hover:underline">bakım hizmetimiz</a> ücretsizdir. Garanti süresi boyunca tüm montaj bağlantıları (boru, kablo, drenaj) kontrol altındadır.
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ 8 -->
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Eski klimamı söküp yeni klimayı monte eder misiniz?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer">
+            <div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">
+              Evet, eski klimanızın sökümü ve yeni klimanın montajını tek seferde gerçekleştiriyoruz. Klima söküm + yeniden montaj hizmetimiz 2.000 – 3.500 ₺ arasındadır. Eski klimanızın uygun şekilde sökülerek gazının toplanması işlemi de bu fiyata dahildir. Eski boru hattı uygunsa yeniden kullanılabilir, ancak genellikle yeni boru döşenmesini tavsiye ediyoruz.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════════════════
+       CTA SECTION — White BG
+       ════════════════════════════════════════════════════════════════ -->
+  <section class="bg-white relative py-16 sm:py-20">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto">
+        <div class="bg-gradient-to-br from-brand-orange to-[#d45520] rounded-3xl p-8 sm:p-12 text-center relative overflow-hidden">
+          <!-- Decorative elements -->
+          <div class="absolute top-0 right-0 w-40 h-40 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2"></div>
+          <div class="absolute bottom-0 left-0 w-32 h-32 bg-white/10 rounded-full translate-y-1/2 -translate-x-1/2"></div>
+
+          <div class="relative">
+            <h2 class="font-heading font-extrabold text-white text-2xl sm:text-3xl tracking-[-0.03em] mb-4">Klima Montaj Hizmeti İçin Bize Ulaşın</h2>
+            <p class="text-white/90 text-sm sm:text-base leading-relaxed mb-8 max-w-2xl mx-auto" style="line-height: 1.7;">
+              Şanlıurfa'da profesyonel klima montaj hizmeti için hemen bizi arayın. Ücretsiz keşif, aynı gün montaj ve 2 yıl garanti avantajlarından yararlanın. Yaz sıcakları gelmeden klimanızı monte ettirin!
+            </p>
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+              <a href="tel:+905533975244" class="inline-flex items-center gap-3 bg-white text-brand-orange font-bold text-lg px-8 py-4 rounded-full hover:bg-brand-cream transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-brand-orange active:scale-95" style="transition-property: color, background-color, transform;">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+                0553 397 52 44
+              </a>
+              <a href="/services" class="inline-flex items-center gap-2 bg-transparent text-white font-bold text-base px-8 py-4 rounded-full border-2 border-white/40 hover:bg-white/10 transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-brand-orange active:scale-95" style="transition-property: color, background-color, transform;">
+                Tüm Hizmetler
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Toggle Script -->
+  <script>
+    function toggleFaq(btn) {
+      const answer = btn.nextElementSibling;
+      const chevron = btn.querySelector('.faq-chevron');
+      answer.classList.toggle('open');
+      chevron.classList.toggle('open');
+    }
+  </script>
+</Layout>

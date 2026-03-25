@@ -1,0 +1,455 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Şanlıurfa Klima Tamir Servisi | 7/24 Garantili Onarım"
+  description="Şanlıurfa klima tamir, bakım ve onarım servisi. Klima soğutmuyor, su akıtıyor, gaz dolumu, kompresör tamiri. Aynı gün servis, garantili işçilik. Hemen arayın!"
+  activePage="services"
+>
+  <Fragment slot="head">
+    <meta name="keywords" content="şanlıurfa klima tamir, klima servisi şanlıurfa, klima onarım, klima tamircisi, klima arıza, klima soğutmuyor, klima su akıtıyor">
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Klima Tamir Hizmeti",
+      "provider": {
+        "@type": "HVACBusiness",
+        "name": "Şanlıurfa Klima Servisi",
+        "url": "https://sanliurfaklimaservisi.com",
+        "telephone": "+90-553-397-5244"
+      },
+      "areaServed": ["Haliliye", "Karaköprü", "Eyyübiye", "Şanlıurfa"],
+      "description": "Şanlıurfa klima tamir, bakım ve onarım servisi. 7/24 garantili işçilik."
+    }`}></script>
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "https://sanliurfaklimaservisi.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Hizmetler", "item": "https://sanliurfaklimaservisi.com/services"},
+        {"@type": "ListItem", "position": 3, "name": "Klima Tamir", "item": "https://sanliurfaklimaservisi.com/klima-tamir"}
+      ]
+    }`}></script>
+    <script type="application/ld+json" set:html={`{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {"@type": "Question", "name": "Klima neden soğutmuyor?", "acceptedAnswer": {"@type": "Answer", "text": "Klimanın soğutmamasının en yaygın 5 nedeni: gaz azalması veya kaçağı, tıkalı filtreler, kompresör arızası, fan motoru sorunu ve termostat bozukluğu. Basit filtre temizliği ile çözülebilecek sorunlardan kompresör değişimine kadar geniş bir yelpaze söz konusudur."}},
+        {"@type": "Question", "name": "Klima su akıtıyor, sebebi ne?", "acceptedAnswer": {"@type": "Answer", "text": "Klimadan su akmasının başlıca nedenleri: tıkalı drenaj hattı, donmuş evaporatör, yanlış montaj açısı ve kirli filtrelerdir. Çoğu durumda drenaj hattının temizlenmesi sorunu çözer."}},
+        {"@type": "Question", "name": "Şanlıurfa'da klima tamir fiyatları ne kadar?", "acceptedAnswer": {"@type": "Answer", "text": "Klima tamir fiyatları arıza türüne göre değişir. Basit arızalar 500-1.500 TL, gaz dolumu 1.200-3.500 TL, kompresör tamiri 3.000-6.000 TL, kart tamiri 1.500-3.000 TL aralığındadır. Kesin fiyat ücretsiz keşif sonrası belirlenir."}},
+        {"@type": "Question", "name": "Klima tamiri garantili mi?", "acceptedAnswer": {"@type": "Answer", "text": "Evet, tüm tamir işlemlerimiz garanti kapsamındadır. İşçilik garantisi 6 ay ile 1 yıl arasında değişir. Değiştirilen yedek parçalar için ayrıca parça garantisi verilir."}},
+        {"@type": "Question", "name": "Klima servisi eve gelir mi?", "acceptedAnswer": {"@type": "Answer", "text": "Evet, tüm klima tamir ve bakım hizmetlerimiz adresinize gelerek yapılır. Şanlıurfa merkez ve ilçelerinde aynı gün servis imkanı sunuyoruz."}},
+        {"@type": "Question", "name": "Klima ne sıklıkla bakım yaptırılmalı?", "acceptedAnswer": {"@type": "Answer", "text": "Ev tipi klimalar yılda en az 2 kez, Şanlıurfa gibi sıcak bölgelerde 3 kez bakım yaptırılmalıdır. Düzenli bakım arıza riskini önemli ölçüde azaltır."}},
+        {"@type": "Question", "name": "Klima bakımı yaptırmazsam ne olur?", "acceptedAnswer": {"@type": "Answer", "text": "Bakımsız klimalar %25-30 daha fazla enerji tüketir, ömrü 5-7 yıla düşer ve pahalı arızalara yol açabilir. Düzenli bakım hem cihaz ömrünü uzatır hem de büyük tamirattan korur."}},
+        {"@type": "Question", "name": "Eski klima tamir mi ettirilmeli yoksa yenisi mi alınmalı?", "acceptedAnswer": {"@type": "Answer", "text": "Genel kural olarak tamir maliyeti yeni klimanın %50'sini aşıyorsa veya cihaz 10 yaşını geçmişse yeni klima almak daha mantıklıdır. Ancak basit arızalarda tamir çok daha ekonomiktir. Ücretsiz keşfimizle size en doğru öneride bulunuruz."}}
+      ]
+    }`}></script>
+  </Fragment>
+
+  <!-- ============ HERO ============ -->
+  <section class="bg-brand-navy" style="min-height: 280px;">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-center" style="min-height: 280px;">
+      <div class="py-14">
+        <nav class="flex items-center gap-2 text-gray-400 text-sm mb-5">
+          <a href="/" class="footer-link hover:text-brand-orange">Ana Sayfa</a>
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <a href="/services" class="footer-link hover:text-brand-orange">Hizmetler</a>
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          <span class="text-gray-300">Klima Tamir</span>
+        </nav>
+        <h1 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-[-0.03em] leading-[1.1]">ŞANLIURFA KLİMA TAMİR SERVİSİ</h1>
+        <p class="text-gray-300 text-lg mt-4 max-w-2xl" style="line-height: 1.7;">Garantili ve aynı gün onarım hizmeti. Tüm marka ve modellerde klima arıza tespiti ve tamiri.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ REPAIR SERVICES ============ -->
+  <section class="bg-white py-16 sm:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Tamir Hizmetleri</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">ŞANLIURFA'DA KLİMA TAMİR HİZMETLERİMİZ</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7">
+        <!-- Service 1 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Klima Soğutmuyor</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klimanız çalışıyor ama soğutmuyor mu? Gaz kaçağı, tıkalı filtre, kompresör sorunu veya termostat arızası gibi olası nedenleri tespit edip hızla onarıyoruz. <a href="/blog/klima-sogutmuyor" class="text-brand-orange font-semibold hover:underline">Detaylı rehberimizi okuyun →</a></p>
+        </div>
+        <!-- Service 2 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Klima Su Akıtıyor</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">İç üniteden damlayan su, genellikle tıkalı drenaj hattından kaynaklanır. Donmuş evaporatör, yanlış montaj açısı veya kirli filtreler de su akıntısına yol açabilir. Sorunun kaynağını bulup kalıcı çözüm sunuyoruz.</p>
+        </div>
+        <!-- Service 3 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Klima Gaz Dolumu</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">R410A ve R32 gazları ile profesyonel gaz dolumu. Dolum öncesi kaçak testi ve vakumlama işlemi ile uzun ömürlü sonuç garanti ediyoruz. <a href="/klima-gaz-dolumu" class="text-brand-orange font-semibold hover:underline">Gaz dolumu detayları →</a></p>
+        </div>
+        <!-- Service 4 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Kompresör Tamiri</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Kompresör klimanın kalbidir. Çalışmayan, sesli çalışan veya kısa devre yapan kompresörlerin tamiri veya değişimi. Onarım mümkün değilse uygun fiyatlı değişim seçenekleri sunuyoruz.</p>
+        </div>
+        <!-- Service 5 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Petek ve Filtre Temizliği</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Tıkalı filtreler ve kirli petekler, klimanın hem performansını hem de enerji tüketimini olumsuz etkiler. Detaylı petek yıkama ve filtre temizliği ile klimanızı eski performansına kavuşturuyoruz.</p>
+        </div>
+        <!-- Service 6 -->
+        <div class="card-lift bg-white rounded-2xl shadow-card p-7 border border-gray-100">
+          <div class="w-12 h-12 rounded-full bg-brand-orange/10 flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brand-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-brand-navy mb-2">Kart Tamiri (Elektronik Arıza)</h3>
+          <p class="text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klima elektronik kartı (PCB) arızaları, cihazın hiç açılmamasına veya hatalı çalışmasına neden olur. Kart tamiri veya uyumlu kart değişimi ile sorunu çözüyoruz. Hata kodu okuma ve teşhis hizmetimiz mevcuttur.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COMMON PROBLEMS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Arıza Rehberi</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">EN SIK KARŞILAŞILAN KLİMA ARIZALARI</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+        <p class="text-text-body mt-4 max-w-2xl mx-auto" style="line-height: 1.7;">Klima arızalarının <strong class="text-brand-navy">%60'ı filtre tıkanıklığı ve gaz kaybından</strong> kaynaklanmaktadır. Yaz aylarında klima servis taleplerinde <strong class="text-brand-navy">%300'e varan artış</strong> yaşanmaktadır.</p>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <!-- Problem 1 -->
+        <div class="bg-white rounded-2xl shadow-card p-8">
+          <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Klima Neden Soğutmuyor? (5 Temel Neden)</h3>
+          <ol class="space-y-3 text-text-body text-sm" style="line-height: 1.7;">
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-6 h-6 rounded-full bg-brand-orange text-white text-xs font-bold flex items-center justify-center mt-0.5">1</span>
+              <div><strong class="text-brand-navy">Gaz Azalması veya Kaçağı:</strong> En yaygın neden. Klima gazı zamanla azalabilir veya bağlantı noktalarından kaçak olabilir. <a href="/klima-gaz-dolumu" class="text-brand-orange hover:underline">Gaz dolumu hizmetimiz</a> ile çözülebilir.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-6 h-6 rounded-full bg-brand-orange text-white text-xs font-bold flex items-center justify-center mt-0.5">2</span>
+              <div><strong class="text-brand-navy">Tıkalı Filtreler:</strong> Kirli filtreler hava akışını engeller ve soğutma kapasitesini ciddi oranda düşürür.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-6 h-6 rounded-full bg-brand-orange text-white text-xs font-bold flex items-center justify-center mt-0.5">3</span>
+              <div><strong class="text-brand-navy">Kompresör Arızası:</strong> Kompresör doğru çalışmıyorsa klima soğutma yapamaz. Profesyonel teşhis gerektirir.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-6 h-6 rounded-full bg-brand-orange text-white text-xs font-bold flex items-center justify-center mt-0.5">4</span>
+              <div><strong class="text-brand-navy">Fan Motoru Sorunu:</strong> İç veya dış ünite fanı arızalıysa hava sirkülasyonu bozulur ve soğutma yetersiz kalır.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-6 h-6 rounded-full bg-brand-orange text-white text-xs font-bold flex items-center justify-center mt-0.5">5</span>
+              <div><strong class="text-brand-navy">Termostat/Sensör Arızası:</strong> Sıcaklık sensörü hatalı okuma yapıyorsa klima hedef sıcaklığa ulaştığını düşünerek durabilir.</div>
+            </li>
+          </ol>
+        </div>
+        <!-- Problem 2 -->
+        <div class="bg-white rounded-2xl shadow-card p-8">
+          <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Klima Neden Su Akıtıyor?</h3>
+          <ul class="space-y-3 text-text-body text-sm" style="line-height: 1.7;">
+            <li class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-brand-teal/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <svg class="w-3.5 h-3.5 text-brand-teal" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <div><strong class="text-brand-navy">Tıkalı Drenaj Hattı:</strong> En sık görülen neden. Yoğuşma suyunun tahliye edildiği drenaj borusu tıkanınca su iç üniteden akar. Temizlik ile hızla çözülür.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-brand-teal/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <svg class="w-3.5 h-3.5 text-brand-teal" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <div><strong class="text-brand-navy">Donmuş Evaporatör:</strong> Düşük gaz seviyesi veya hava akış sorunu evaporatörün buzlanmasına neden olur. Buz eriyince su akar.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-brand-teal/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <svg class="w-3.5 h-3.5 text-brand-teal" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <div><strong class="text-brand-navy">Yanlış Montaj Açısı:</strong> İç ünite doğru eğimde monte edilmemişse yoğuşma suyu drenaj yönüne akmaz. Montaj düzeltmesi gerekir.</div>
+            </li>
+            <li class="flex items-start gap-3">
+              <div class="w-6 h-6 rounded-full bg-brand-teal/10 flex items-center justify-center flex-shrink-0 mt-0.5">
+                <svg class="w-3.5 h-3.5 text-brand-teal" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              </div>
+              <div><strong class="text-brand-navy">Kirli Filtreler:</strong> Aşırı kirli filtreler hava akışını bozarak evaporatörün buzlanmasına ve ardından su akıntısına neden olur.</div>
+            </li>
+          </ul>
+          <div class="mt-6">
+            <h3 class="font-heading font-bold text-xl text-brand-navy mb-4">Klima Neden Kötü Kokuyor?</h3>
+            <p class="text-text-body text-sm" style="line-height: 1.7;">Klima iç ünitesinde biriken nem, bakteri ve küf üremesine zemin hazırlar. Bu da klima açıldığında kötü kokuya neden olur. Çözüm: iç ünite yıkama ve dezenfeksiyon. Düzenli <a href="/klima-bakim" class="text-brand-orange font-semibold hover:underline">klima bakımı</a> bu sorunu önler.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRICING ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Fiyatlar</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">KLİMA TAMİR FİYATLARI 2026</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="bg-white rounded-2xl shadow-card overflow-hidden mb-10">
+        <table class="w-full">
+          <thead>
+            <tr class="bg-brand-navy text-white">
+              <th class="text-left font-heading font-bold text-sm px-6 py-4">Arıza / Hizmet</th>
+              <th class="text-right font-heading font-bold text-sm px-6 py-4">Fiyat Aralığı (₺)</th>
+            </tr>
+          </thead>
+          <tbody class="text-sm">
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Arıza Tespit ve Basit Onarım</td>
+              <td class="px-6 py-4 text-right text-text-body">500 – 1.500</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Gaz Dolumu (R410A / R32)</td>
+              <td class="px-6 py-4 text-right text-text-body">1.200 – 3.500</td>
+            </tr>
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Kompresör Tamiri / Değişimi</td>
+              <td class="px-6 py-4 text-right text-text-body">3.000 – 6.000</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Elektronik Kart Tamiri / Değişimi</td>
+              <td class="px-6 py-4 text-right text-text-body">1.500 – 3.000</td>
+            </tr>
+            <tr class="border-b border-gray-100">
+              <td class="px-6 py-4 text-brand-navy font-medium">Fan Motoru Değişimi</td>
+              <td class="px-6 py-4 text-right text-text-body">1.000 – 2.500</td>
+            </tr>
+            <tr class="border-b border-gray-100 bg-brand-cream/50">
+              <td class="px-6 py-4 text-brand-navy font-medium">Drenaj Hattı Temizliği</td>
+              <td class="px-6 py-4 text-right text-text-body">300 – 800</td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 text-brand-navy font-medium">Detaylı Bakım + Dezenfeksiyon</td>
+              <td class="px-6 py-4 text-right text-text-body">2.000 – 3.500</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="bg-brand-cream rounded-2xl p-6 text-center">
+        <p class="text-text-body text-sm" style="line-height: 1.7;">
+          <strong class="text-brand-navy">Önemli:</strong> Bakımsız klimanın ömrü 5-7 yıl iken, düzenli bakım yapılan klimanın ömrü 12-15 yıla kadar uzar. Tamir maliyetinden kaçınmanın en iyi yolu düzenli <a href="/klima-bakim" class="text-brand-orange font-semibold hover:underline">periyodik bakımdır</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SERVICE AREAS ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="white"/>
+    </svg>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Hizmet Alanlarımız</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">ŞANLIURFA'DA HİZMET VERDİĞİMİZ BÖLGELER</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Haliliye</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Eyyübiye</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Karaköprü</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Viranşehir</h3>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card p-5 text-center">
+          <svg class="w-8 h-8 text-brand-orange mx-auto mb-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+          <h3 class="font-heading font-bold text-sm text-brand-navy">Siverek</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHY US ============ -->
+  <section class="relative overflow-hidden" style="background-color: #1a2e3b; padding-top: 5rem; padding-bottom: 5.5rem;">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(26,46,59,0.97) 0%, rgba(42,125,138,0.55) 100%);"></div>
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Avantajlarımız</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white mt-3 tracking-[-0.03em]">NEDEN BİZİ TERCİH ETMELİSİNİZ?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-7">
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">7/24 Acil Servis</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Şanlıurfa'nın kavurucu sıcağında klimasız kalmayın. 7 gün 24 saat acil servis hizmetimizle hızla yanınızdayız.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">Garantili İşçilik</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Tüm tamir işlemlerimiz 6 ay - 1 yıl garanti kapsamındadır. Parça değişimlerinde ayrıca parça garantisi verilir.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">Tüm Markalar</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Daikin, Mitsubishi, Samsung, LG, Vestel, Arçelik ve daha birçok markada uzman servis hizmeti sunuyoruz.</p>
+        </div>
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-7 text-center border border-white/10">
+          <div class="w-14 h-14 rounded-full bg-brand-orange flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <h3 class="font-heading font-bold text-lg text-white mb-2">Her Noktaya Servis</h3>
+          <p class="text-gray-300 text-sm leading-relaxed" style="line-height: 1.7;">Haliliye, Eyyübiye, Karaköprü ve tüm Şanlıurfa ilçelerine aynı gün servis imkanı sunuyoruz.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ ============ -->
+  <section class="relative bg-brand-cream py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#1a2e3b"/>
+    </svg>
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="text-center mb-14">
+        <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Sıkça Sorulan Sorular</span>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">SORULARINIZ MI VAR?</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+      <div class="space-y-4">
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima neden soğutmuyor?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klimanın soğutmamasının en yaygın 5 nedeni: gaz azalması veya kaçağı, tıkalı filtreler, kompresör arızası, fan motoru sorunu ve termostat bozukluğu. Basit filtre temizliği ile çözülebilecek sorunlardan kompresör değişimine kadar geniş bir yelpaze söz konusudur. Doğru teşhis için profesyonel servis çağırmanız önerilir.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima su akıtıyor, sebebi ne?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Klimadan su akmasının başlıca nedenleri: tıkalı drenaj hattı, donmuş evaporatör, yanlış montaj açısı ve kirli filtrelerdir. Çoğu durumda drenaj hattının temizlenmesi sorunu çözer. Buzlanma varsa gaz kontrolü de gereklidir.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Şanlıurfa'da klima tamir fiyatları ne kadar?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">2026 yılı itibarıyla basit arızalar 500-1.500 TL, gaz dolumu 1.200-3.500 TL, kompresör tamiri 3.000-6.000 TL, kart tamiri 1.500-3.000 TL aralığındadır. Kesin fiyat, ücretsiz keşif sonrası arıza türüne göre belirlenir. Gizli ücret uygulamıyoruz.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima tamiri garantili mi?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Evet, tüm tamir işlemlerimiz garanti kapsamındadır. İşçilik garantisi 6 ay ile 1 yıl arasında değişir. Değiştirilen yedek parçalar için ayrıca parça garantisi verilir. Garanti süreleri faturanızda belirtilir.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima servisi eve gelir mi?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Evet, tüm klima tamir ve bakım hizmetlerimiz adresinize gelerek yapılır. Şanlıurfa merkez ilçeleri (Haliliye, Eyyübiye, Karaköprü) için genellikle aynı gün servis imkanı sunuyoruz. Diğer ilçeler için de randevu sistemiyle hizmet veriyoruz.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima ne sıklıkla bakım yaptırılmalı?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Ev tipi klimalar yılda en az 2 kez, Şanlıurfa gibi sıcak ve tozlu bölgelerde 3 kez bakım yaptırılmalıdır. Düzenli <a href="/klima-bakim" class="text-brand-orange font-semibold hover:underline">klima bakımı</a> arıza riskini önemli ölçüde azaltır ve cihaz ömrünü uzatır.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Klima bakımı yaptırmazsam ne olur?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Bakımsız klimalar %25-30 daha fazla enerji tüketir, ömrü 5-7 yıla düşer ve pahalı arızalara yol açabilir. Kompresör arızası gibi büyük tamiratlar, düzenli bakım maliyetinin 5-10 katına çıkabilir.</div></div>
+        </div>
+        <div class="bg-white rounded-2xl shadow-card overflow-hidden">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-6 text-left focus-visible:outline-2 focus-visible:outline-brand-orange">
+            <span class="font-heading font-bold text-brand-navy text-base pr-4">Eski klima tamir mi ettirilmeli yoksa yenisi mi alınmalı?</span>
+            <svg class="faq-chevron w-5 h-5 text-brand-orange flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-answer"><div class="px-6 pb-6 text-text-body text-sm leading-relaxed" style="line-height: 1.7;">Genel kural: tamir maliyeti yeni klimanın %50'sini aşıyorsa veya cihaz 10 yaşını geçmişse yeni klima almak daha mantıklıdır. Ancak basit arızalarda tamir çok daha ekonomiktir. Ücretsiz keşfimizde size dürüst öneride bulunuruz — gereksiz değişim tavsiye etmeyiz. Yeni klima almaya karar verirseniz <a href="/klima-montaj" class="text-brand-orange font-semibold hover:underline">montaj hizmetimizden</a> faydalanabilirsiniz.</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA ============ -->
+  <section class="relative bg-white py-20 overflow-hidden">
+    <svg class="absolute top-0 left-0 w-full" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="margin-top: -1px;">
+      <path d="M0,0 L1440,0 L1440,60 C960,0 480,0 0,60 Z" fill="#f5f0eb"/>
+    </svg>
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="bg-brand-orange rounded-2xl shadow-card p-10 sm:p-14 text-center relative overflow-hidden">
+        <div class="absolute -top-10 -left-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-white/10 rounded-full"></div>
+        <div class="relative z-10">
+          <span class="text-white/80 font-bold text-sm uppercase tracking-widest">Acil Servis</span>
+          <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-white mt-3 mb-6 tracking-[-0.03em]">KLİMA ARIZA SERVİSİ İÇİN HEMEN ARAYIN</h2>
+          <p class="text-white/90 leading-relaxed max-w-2xl mx-auto mb-8" style="line-height: 1.7;">
+            Klimanız arızalandığında vakit kaybetmeyin. Ücretsiz keşif, şeffaf fiyatlandırma ve garantili onarım hizmetimizle sorununuzu aynı gün çözüyoruz.
+          </p>
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a href="tel:+905533975244" class="inline-flex items-center gap-2 bg-white text-brand-orange font-bold text-base px-8 py-4 rounded-full" style="transition: transform 0.15s ease-out;">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
+              0553 397 52 44
+            </a>
+            <a href="/services" class="inline-flex items-center gap-2 bg-white/20 text-white font-bold text-base px-8 py-4 rounded-full border border-white/30" style="transition: transform 0.15s ease-out;">
+              Tüm Hizmetlerimiz
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    function toggleFaq(btn) {
+      const answer = btn.nextElementSibling;
+      const chevron = btn.querySelector('.faq-chevron');
+      answer.classList.toggle('open');
+      chevron.classList.toggle('open');
+    }
+  </script>
+</Layout>
