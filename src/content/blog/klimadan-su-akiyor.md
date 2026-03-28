@@ -5,7 +5,7 @@ keyword: "klimadan su akıyor"
 keywords: "klima iç üniteden su damlıyor, klima su sızıntısı nedenleri, klima drenaj tıkanıklığı, klima su kaçırıyor, klima kondense su sorunu, klima bakımı su akıtma"
 date: "2026-03-23"
 slug: "klimadan-su-akiyor"
-published: false
+published: true
 publishDate: "2026-03-28"
 ---
 
