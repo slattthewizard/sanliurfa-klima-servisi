@@ -5,7 +5,7 @@ keyword: "duvar tipi klima mı salon tipi klima mı"
 keywords: "duvar tipi klima avantajları, salon tipi klima nedir, split klima vs salon tipi, kaset tipi klima, yerden klima, klima tipi seçimi, duvar tipi klima dezavantajları"
 date: "2026-03-24"
 slug: "duvar-tipi-klima-mi-salon-tipi-klima-mi"
-published: false
+published: true
 publishDate: "2026-04-03"
 ---
 
