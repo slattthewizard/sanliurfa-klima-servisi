@@ -5,7 +5,7 @@ keyword: "12000 BTU klima fiyatı"
 keywords: "12000 BTU klima fiyatları 2026, 12000 BTU inverter klima fiyatı, ev için en iyi klima, 12000 BTU klima elektrik tüketimi, 12000 BTU klima kaç metrekareyi soğutur, ucuz 12000 BTU klima"
 date: "2026-03-23"
 slug: "12000-btu-klima-fiyati"
-published: false
+published: true
 publishDate: "2026-04-12"
 ---
 
