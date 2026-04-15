@@ -5,7 +5,7 @@ keyword: "klima montajında dikkat edilmesi gerekenler"
 keywords: "klima montajı nasıl yapılır, klima montaj hataları, klima iç ünite yerleşimi, klima dış ünite montajı, klima montaj yeri seçimi, klima boru tesisatı, klima montaj uzaklığı"
 date: "2026-03-23"
 slug: "klima-montajinda-dikkat-edilmesi-gerekenler"
-published: false
+published: true
 publishDate: "2026-04-15"
 ---
 
