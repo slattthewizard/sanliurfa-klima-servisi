@@ -5,7 +5,7 @@ keyword: "klima servis ücreti"
 keywords: "klima servis fiyatı 2026, yetkili klima servisi fiyatları, serbest klima servisi ücreti, klima tamiri ne kadar, klima servisi ne kadar tutar, klima arıza servis ücreti"
 date: "2026-03-23"
 slug: "klima-servis-ucreti"
-published: false
+published: true
 publishDate: "2026-04-18"
 ---
 
