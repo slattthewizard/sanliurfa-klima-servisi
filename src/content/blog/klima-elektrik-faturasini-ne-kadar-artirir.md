@@ -5,7 +5,7 @@ keyword: "klima elektrik faturasını ne kadar artırır"
 keywords: "klima fatura artışı, klima elektrik faturası hesaplama, 2026 elektrik tarifesi klima, klima aylık elektrik maliyeti, klima fatura etkisi, klimanın faturaya etkisi, klima elektrik tasarrufu"
 date: "2026-03-24"
 slug: "klima-elektrik-faturasini-ne-kadar-artirir"
-published: false
+published: true
 publishDate: "2026-04-27"
 ---
 
