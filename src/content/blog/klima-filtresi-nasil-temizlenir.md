@@ -5,7 +5,7 @@ keyword: "klima filtresi nasıl temizlenir"
 keywords: "klima filtre temizliği, klima filtresi temizleme, klima filtresi çıkarma, klima filtresi yıkama, klima filtresi ne sıklıkla temizlenir, klima filtresi temizliği nasıl yapılır"
 date: "2026-03-23"
 slug: "klima-filtresi-nasil-temizlenir"
-published: false
+published: true
 publishDate: "2026-05-03"
 ---
 
