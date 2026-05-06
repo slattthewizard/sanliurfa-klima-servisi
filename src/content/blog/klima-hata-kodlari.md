@@ -5,7 +5,7 @@ keyword: "klima hata kodları"
 keywords: "klima arıza kodları, klima hata kodu sorgulama, klima error kodları, daikin klima hata kodları, samsung klima arıza kodları, vestel klima hata kodları"
 date: "2026-03-23"
 slug: "klima-hata-kodlari"
-published: false
+published: true
 publishDate: "2026-05-06"
 ---
 
