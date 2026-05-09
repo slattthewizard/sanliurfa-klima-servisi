@@ -5,7 +5,7 @@ keyword: "klima ses yapıyor"
 keywords: "klima gürültü yapıyor, klima tıkırtı sesi, klima vızıltı yapıyor, klima çalışırken ses yapıyor, klima sesi nasıl azaltılır, klima kompresör sesi, klimadan garip ses geliyor"
 date: "2026-03-23"
 slug: "klima-ses-yapiyor"
-published: false
+published: true
 publishDate: "2026-05-09"
 ---
 
