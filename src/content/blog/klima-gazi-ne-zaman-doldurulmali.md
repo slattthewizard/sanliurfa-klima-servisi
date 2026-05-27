@@ -5,7 +5,7 @@ keyword: "klima gazı ne zaman doldurulmalı"
 keywords: "klima gaz dolumu zamanı, klima gazı ne zaman biter, klima gaz dolumu ne sıklıkla yapılır, klima gazı kaç yılda biter, klima gaz dolumu belirtileri, klima gaz kontrolü"
 date: "2026-03-23"
 slug: "klima-gazi-ne-zaman-doldurulmali"
-published: false
+published: true
 publishDate: "2026-05-27"
 ---
 
