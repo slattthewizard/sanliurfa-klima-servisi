@@ -5,7 +5,7 @@ keyword: "klima koku yapıyor"
 keywords: "klima kötü koku, klimadan kötü koku gelmesi, klima küf kokusu, klima ekşi kokuyor, klima kokusu nasıl giderilir, klima koku giderme"
 date: "2026-03-23"
 slug: "klima-koku-yapiyor"
-published: false
+published: true
 publishDate: "2026-05-30"
 ---
 
