@@ -5,7 +5,7 @@ keyword: "klima bakımı evde nasıl yapılır"
 keywords: "evde klima bakımı, klima temizliği evde nasıl yapılır, servis çağırmadan klima bakımı, klima filtre temizliği, klima iç ünite temizliği, klima drenaj temizliği, klima bakım yöntemleri"
 date: "2026-03-23"
 slug: "klima-bakimi-evde-nasil-yapilir"
-published: false
+published: true
 publishDate: "2026-06-02"
 ---
 
