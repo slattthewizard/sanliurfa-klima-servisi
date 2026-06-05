@@ -5,7 +5,7 @@ keyword: "klima alırken nelere dikkat edilmeli"
 keywords: "klima seçimi 2026, BTU hesaplama, inverter klima, klima enerji sınıfı, en iyi klima markası, klima satın alma rehberi, klima BTU nasıl hesaplanır"
 date: "2026-03-23"
 slug: "klima-alirken-nelere-dikkat-edilmeli"
-published: false
+published: true
 publishDate: "2026-06-05"
 ---
 
