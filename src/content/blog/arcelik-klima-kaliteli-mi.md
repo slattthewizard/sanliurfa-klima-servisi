@@ -5,7 +5,7 @@ keyword: "Arçelik klima kaliteli mi"
 keywords: "Arçelik klima yorumları, Arçelik inverter klima, Arçelik klima fiyatları, Arçelik klima servisi, Arçelik klima modelleri, Arçelik klima kullanıcı deneyimi"
 date: "2026-03-24"
 slug: "arcelik-klima-kaliteli-mi"
-published: false
+published: true
 publishDate: "2026-06-08"
 ---
 
