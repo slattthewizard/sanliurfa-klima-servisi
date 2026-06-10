@@ -206,7 +206,7 @@ Planlı bakım dışında şu durumlarda hemen servis çağırın:
 
 - [Klimanız soğutmuyor](/blog/klima-sogutmuyor) veya ılık hava üflüyor
 - Garip sesler çıkarıyor (tıkırtı, vızıltı, tıslama)
-- [Klimadan kötü koku](/blog/klima-koku-yapiyor) geliyor
+- [Klimadan kötü koku](/blog/klimadan-koku-gelmesi) geliyor
 - İç üniteden su damlıyor
 - Elektrik faturası açıklanamayacak şekilde arttı
 - Uzaktan kumandada hata kodu görünüyor

@@ -1,0 +1,33 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.sanliurfaklimaservisi.com" }],
+      "destination": "https://sanliurfaklimaservisi.com/$1",
+      "statusCode": 308
+    },
+    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "statusCode": 301 },
+    { "source": "/blog/klima-bakimi-evde-nasil-yapilir/(.*)", "destination": "/blog/klima-bakimi-nasil-yapilir/$1", "statusCode": 301 },
+    { "source": "/blog/klima-bakimi-evde-nasil-yapilir", "destination": "/blog/klima-bakimi-nasil-yapilir/", "statusCode": 301 },
+    { "source": "/blog/klima-koku-yapiyor/(.*)", "destination": "/blog/klimadan-koku-gelmesi/$1", "statusCode": 301 },
+    { "source": "/blog/klima-koku-yapiyor", "destination": "/blog/klimadan-koku-gelmesi/", "statusCode": 301 },
+    { "source": "/blog/klima-ic-uniteden-su-akiyor/(.*)", "destination": "/blog/klimadan-su-akiyor/$1", "statusCode": 301 },
+    { "source": "/blog/klima-ic-uniteden-su-akiyor", "destination": "/blog/klimadan-su-akiyor/", "statusCode": 301 },
+    { "source": "/blog/klima-elektrik-faturasini-ne-kadar-artirir/(.*)", "destination": "/blog/klima-ne-kadar-elektrik-harcar/$1", "statusCode": 301 },
+    { "source": "/blog/klima-elektrik-faturasini-ne-kadar-artirir", "destination": "/blog/klima-ne-kadar-elektrik-harcar/", "statusCode": 301 }
+  ],
+  "headers": [
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    }
+  ]
+}
