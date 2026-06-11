@@ -5,7 +5,7 @@ keyword: "klimadan koku gelmesi"
 keywords: "klima kötü koku yapıyor, klima koku giderme, klima küf kokusu, klima ekşi kokusu, klimadan neden koku gelir, klima koku spreyi"
 date: "2026-03-23"
 slug: "klimadan-koku-gelmesi"
-published: false
+published: true
 publishDate: "2026-06-11"
 ---
 
