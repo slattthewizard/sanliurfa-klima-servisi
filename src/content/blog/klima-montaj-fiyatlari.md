@@ -5,7 +5,7 @@ keyword: "klima montaj fiyatları"
 keywords: "klima kurulum ücreti, klima montaj ücreti 2026, split klima montaj fiyatı, salon tipi klima montaj fiyatı, kanallı klima montaj ücreti, klima taktırma fiyatı"
 date: "2026-03-23"
 slug: "klima-montaj-fiyatlari"
-published: false
+published: true
 publishDate: "2026-06-17"
 ---
 
