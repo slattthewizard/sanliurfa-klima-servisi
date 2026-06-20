@@ -5,7 +5,7 @@ keyword: "klima fiyatları"
 keywords: "klima fiyatları 2026, klima fiyat listesi, en ucuz klima, inverter klima fiyatları, split klima fiyatları, klima fiyatları ve özellikleri"
 date: "2026-03-23"
 slug: "klima-fiyatlari"
-published: false
+published: true
 publishDate: "2026-06-20"
 ---
 
