@@ -37,7 +37,7 @@ jobs:
             fi
 
             # Compare dates: if publishDate <= today, publish it
-            if [ "$PUB_DATE" \<= "$TODAY" ] || [ "$PUB_DATE" = "$TODAY" ]; then
+            if [ "$PUB_DATE" \< "$TODAY" ] || [ "$PUB_DATE" = "$TODAY" ]; then
               echo "Publishing: $file (scheduled: $PUB_DATE)"
               sed -i 's/published: false/published: true/' "$file"
               PUBLISHED=$((PUBLISHED + 1))

@@ -5,7 +5,7 @@ keyword: "klima buz tutuyor"
 keywords: "klima buz tutuyor, klima içi donuyor, klima iç ünite buzlanması, dış ünite buz tutması, klima defrost modu, klima buzlanma nedenleri"
 date: "2026-07-04"
 slug: "klima-buz-tutuyor"
-published: false
+published: true
 publishDate: "2026-07-05"
 ---
 
