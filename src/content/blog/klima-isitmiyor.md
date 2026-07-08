@@ -5,7 +5,7 @@ keyword: "klima ısıtmıyor"
 keywords: "klima ısıtmıyor, klima ısıtma yapmıyor, klima soğuk hava üflüyor, klima ısıtma modu çalışmıyor, klima kışın çalışmıyor, klima ısıtma sorunu"
 date: "2026-07-04"
 slug: "klima-isitmiyor"
-published: false
+published: true
 publishDate: "2026-07-08"
 ---
 
