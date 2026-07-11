@@ -5,7 +5,7 @@ keyword: "inverter klima nedir"
 keywords: "inverter klima nedir, inverter klima ne demek, inverter klima on off farkı, inverter klima avantajları, inverter klima elektrik tasarrufu, inverter klima fiyat farkı"
 date: "2026-07-04"
 slug: "inverter-klima-nedir"
-published: false
+published: true
 publishDate: "2026-07-11"
 ---
 
