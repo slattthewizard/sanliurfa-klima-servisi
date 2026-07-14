@@ -5,7 +5,7 @@ keyword: "klima ile ısınma maliyeti"
 keywords: "klima ile ısınma maliyeti, klima ile ısınmak mantıklı mı, klima mı doğalgaz mı, klima ısıtma elektrik tüketimi, klima ile ev ısıtma, kışın klima ile ısınma"
 date: "2026-07-04"
 slug: "klima-ile-isinma-maliyeti"
-published: false
+published: true
 publishDate: "2026-07-14"
 ---
 
