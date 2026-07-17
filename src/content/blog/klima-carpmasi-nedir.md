@@ -5,7 +5,7 @@ keyword: "klima çarpması"
 keywords: "klima çarpması nedir, klima çarpması belirtileri, klima çarpmasından korunma, klima ile uyumak zararlı mı, klima hava yönü ayarı, klima çarpması geçmiyor"
 date: "2026-07-04"
 slug: "klima-carpmasi-nedir"
-published: false
+published: true
 publishDate: "2026-07-17"
 ---
 
