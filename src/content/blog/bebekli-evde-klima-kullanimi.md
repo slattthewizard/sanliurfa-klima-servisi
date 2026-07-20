@@ -5,7 +5,7 @@ keyword: "bebekli evde klima kullanımı"
 keywords: "bebek odası klima sıcaklığı, klimalı odada bebek uyutma, klima bebek için zararlı mı, bebek odası ideal nem, klima çarpması bebek, bebekli evde klima ayarları"
 date: "2026-07-04"
 slug: "bebekli-evde-klima-kullanimi"
-published: false
+published: true
 publishDate: "2026-07-20"
 ---
 
