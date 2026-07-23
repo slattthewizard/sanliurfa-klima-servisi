@@ -5,7 +5,7 @@ keyword: "klima modları"
 keywords: "klima mod sembolleri, klima dry modu ne işe yarar, klima auto modu, klima turbo modu, klima uyku modu, klima fan only modu"
 date: "2026-07-04"
 slug: "klima-modlari-rehberi"
-published: false
+published: true
 publishDate: "2026-07-23"
 ---
 
