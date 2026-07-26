@@ -5,7 +5,7 @@ keyword: "klima kumandası çalışmıyor"
 keywords: "klima kumanda tepki vermiyor, klima kumanda pili, klima kumandası resetleme, kumandasız klima açma, klima uzaktan kumanda arızası, klima sinyal almıyor"
 date: "2026-07-04"
 slug: "klima-kumandasi-calismiyor"
-published: false
+published: true
 publishDate: "2026-07-26"
 ---
 
