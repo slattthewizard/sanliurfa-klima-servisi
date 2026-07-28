@@ -37,7 +37,7 @@ Standart oda hesabına şu ekleri yapmanız gerekiyor:
 - Her bilgisayar/cihaz için 300-500 BTU ekleyin.
 - Geniş vitrin camı varsa toplam hesaba yüzde 20-30 pay koyun.
 
-Bu hesabı [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizdeki temel formülle birlikte kullanmanızı öneririz. Orada oda tipine göre detaylı BTU tablosu var, burada işyerine özgü ek yükleri konuşuyoruz.
+Bu hesabı [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizdeki temel formülle birlikte kullanmanızı öneririz. Orada oda tipine göre detaylı BTU tablosu var, burada işyerine özgü ek yükleri konuşuyoruz.
 
 ## 2. İşyeri Tipine Göre Kapasite Tablosu
 
@@ -64,7 +64,7 @@ Tavan yüksekliği 3 metreyi aşan mekanlarda, standart hesaba yüzde 15-20 daha
 
 **Salon tipi (yer duvar tipi) klima** ise vitrin önü gibi geniş cepheli, tavanı asma olmayan mekanlarda iyi çalışır. Güçlü üfleme mesafesi sayesinde derin salonlarda havayı arka köşelere kadar ulaştırabilir.
 
-Hangisinin size uyduğuna karar vermeden önce [duvar tipi klima mı salon tipi klima mı](/blog/duvar-tipi-klima-mi-salon-tipi-klima-mi) ve [split klima kaset tipi klima karşılaştırması](/blog/split-klima-kaset-tipi-klima-karsilastirma) yazılarımıza göz atmanızı öneririz. Orada iki sistemin artı ve eksilerini detaylı karşılaştırdık.
+Hangisinin size uyduğuna karar vermeden önce [duvar tipi klima mı salon tipi klima mı](/blog/duvar-tipi-klima-mi-salon-tipi-klima-mi/) ve [split klima kaset tipi klima karşılaştırması](/blog/split-klima-kaset-tipi-klima-karsilastirma/) yazılarımıza göz atmanızı öneririz. Orada iki sistemin artı ve eksilerini detaylı karşılaştırdık.
 
 ## 4. Birden Fazla Oda veya Kat İçin Multi-Split mi VRF mi?
 
@@ -72,7 +72,7 @@ Hangisinin size uyduğuna karar vermeden önce [duvar tipi klima mı salon tipi 
 
 Daha büyük yapılarda, örneğin çok katlı bir işyeri binasında veya geniş bir plazada, VRF (değişken soğutucu akışkan) sistemleri devreye giriyor. VRF, çok sayıda odayı aynı anda farklı sıcaklıklarda çalıştırabilen, enerji açısından daha verimli bir sistem. Ancak kurulum maliyeti ve teknik gereksinimleri daha yüksek, bu yüzden genellikle 8-10 odanın üzerindeki projelerde tercih ediliyor.
 
-İki sistem arasındaki farkı ve hangi büyüklükte hangisinin mantıklı olduğunu [multi-split klima VRF klima farkları](/blog/multi-split-klima-vrf-klima-farklari) yazımızda ayrıntılı işledik.
+İki sistem arasındaki farkı ve hangi büyüklükte hangisinin mantıklı olduğunu [multi-split klima VRF klima farkları](/blog/multi-split-klima-vrf-klima-farklari/) yazımızda ayrıntılı işledik.
 
 Karaköprü'de üç katlı bir tıp merkezi işleten bir müşterimiz, her kata ayrı split klima taktırmak yerine multi-split sistemi tercih etti. Toplam 6 iç üniteyi 2 dış üniteye bağladık. Hem dış cephede daha az ünite kirliliği oluştu hem de aylık elektrik faturası tek tek split kullanımına göre belirgin şekilde düştü.
 
@@ -97,7 +97,7 @@ Bu yüzden çoğu işletme, tek seferlik bakım yerine yıllık servis sözleşm
 - Filtre ve serpantin temizliği düzenli takvime bağlanır.
 - Bazı sözleşmelerde parça değişiminde indirim uygulanır.
 
-Ticari tip klimaların (kaset, kanallı) bakım maliyeti standart split klimaya göre daha yüksek, ama arıza riskini düşürmesi ve iş sürekliliğini koruması nedeniyle çoğu işletme için kendini amorti ediyor. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden inceleyebilirsiniz.
+Ticari tip klimaların (kaset, kanallı) bakım maliyeti standart split klimaya göre daha yüksek, ama arıza riskini düşürmesi ve iş sürekliliğini koruması nedeniyle çoğu işletme için kendini amorti ediyor. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden inceleyebilirsiniz.
 
 Eyyübiye'de bir eczane, klimasının yaz ortasında bozulması yüzünden üç gün soğutmasız çalışmak zorunda kalmıştı. İlaçların bir kısmını soğuk zincir gerekliliği yüzünden başka bir noktaya taşımışlardı; o üç günün taşıma masrafı ve satış kaybı, birkaç yıllık bakım bütçesine denk geldi. O yaz sonunda yıllık servis sözleşmesi imzaladılar. Ticari tip klima bakımı tek seferde 1.500-3.000 TL civarında tutuyor; sözleşmeyle bu maliyet planlanabilir bir kaleme dönüştü. Bir sonraki yaz benzer bir arıza sinyali çıktığında aynı gün müdahale edildi, iş hiç durmadı.
 
@@ -107,7 +107,7 @@ Eyyübiye'de bir eczane, klimasının yaz ortasında bozulması yüzünden üç 
 
 Dış ünite, cephe estetiğini bozmayacak ama aynı zamanda yeterli hava akışı alacak bir noktaya yerleştirilmeli. Çatı katı yoksa genellikle arka cephe veya yan duvar tercih ediliyor. Kaset tip sistemlerde asma tavan boşluğunun montaj için yeterli olup olmadığı önceden kontrol edilmeli.
 
-Elektrik altyapısı da gözden geçirilmesi gereken bir konu. Yüksek kapasiteli ticari klimalar, ev tipi klimalara göre daha fazla akım çekiyor. Mevcut elektrik panosunun bu yükü kaldırıp kaldıramayacağı, montaj öncesi mutlaka kontrol edilmeli. Bu konuda genel prensipleri [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler) yazımızda bulabilirsiniz.
+Elektrik altyapısı da gözden geçirilmesi gereken bir konu. Yüksek kapasiteli ticari klimalar, ev tipi klimalara göre daha fazla akım çekiyor. Mevcut elektrik panosunun bu yükü kaldırıp kaldıramayacağı, montaj öncesi mutlaka kontrol edilmeli. Bu konuda genel prensipleri [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler/) yazımızda bulabilirsiniz.
 
 **Elektrik altyapısı ve panoya kendiniz müdahale etmeyin.** Yanlış kablolama hem yangın riski taşır hem de klimanın garantisini geçersiz kılabilir. Bu değerlendirmeyi mutlaka lisanslı bir teknisyene bırakın.
 
@@ -115,7 +115,7 @@ Elektrik altyapısı da gözden geçirilmesi gereken bir konu. Yüksek kapasitel
 
 İşyeri klima projesinde bütçe üç kalemden oluşuyor: cihaz bedeli, montaj ücreti ve yıllık bakım masrafı. Çoğu işletme sahibi sadece cihaz fiyatına bakıp karar veriyor, oysa toplam maliyeti görmek daha sağlıklı bir tablo çiziyor.
 
-Güncel cihaz fiyat aralıklarını [klima fiyatları](/blog/klima-fiyatlari) sayfamızdan, montaj ücretlerini ise [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimizden takip edebilirsiniz. Standart split klima montajı 2.500-6.500 TL aralığında seyrederken, ticari tip sistemlerde (kaset, kanallı) montaj maliyeti bunun üzerine çıkar, çünkü asma tavan işçiliği ve boru mesafesi genellikle daha uzundur.
+Güncel cihaz fiyat aralıklarını [klima fiyatları](/blog/klima-fiyatlari/) sayfamızdan, montaj ücretlerini ise [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimizden takip edebilirsiniz. Standart split klima montajı 2.500-6.500 TL aralığında seyrederken, ticari tip sistemlerde (kaset, kanallı) montaj maliyeti bunun üzerine çıkar, çünkü asma tavan işçiliği ve boru mesafesi genellikle daha uzundur.
 
 Fiyatlar bölgeye, markaya ve mekanın koşullarına göre değişebilir. Kesin bir teklif için işyerinizi yerinde görmemiz gerekiyor.
 

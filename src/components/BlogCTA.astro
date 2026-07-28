@@ -18,7 +18,7 @@ const {
       <h3 class="font-heading font-extrabold text-xl sm:text-2xl text-white mb-2" style="letter-spacing: -0.02em;">{heading}</h3>
       <p class="text-gray-300 text-sm sm:text-base" style="line-height: 1.7;">{subheading}</p>
     </div>
-    <form id="ctaForm" action="https://formspree.io/f/xaqlwkvr" method="POST" class="max-w-md mx-auto space-y-4">
+    <form id="ctaFormEl" action="https://formspree.io/f/xaqlwkvr" method="POST" class="max-w-md mx-auto space-y-4">
       <div>
         <input
           type="text"
@@ -72,6 +72,8 @@ const {
       </button>
       <p class="text-center text-gray-400 text-xs mt-2">
         veya hemen arayın: <a href="tel:+905533975244" class="text-brand-orange font-semibold hover:underline">0553 397 52 44</a>
+        <span class="mx-1.5 text-gray-600">·</span>
+        <a href="https://wa.me/905533975244" target="_blank" rel="noopener" class="text-green-400 font-semibold hover:underline">WhatsApp</a>
       </p>
     </form>
     <!-- Success message (hidden by default) -->
@@ -86,7 +88,7 @@ const {
 </div>
 
 <script>
-  const form = document.getElementById('ctaForm') as HTMLFormElement | null;
+  const form = document.getElementById('ctaFormEl') as HTMLFormElement | null;
   const success = document.getElementById('ctaSuccess');
 
   form?.addEventListener('submit', async (e) => {
@@ -95,14 +97,22 @@ const {
     btn.disabled = true;
     btn.textContent = 'Gönderiliyor...';
 
+    const data = new FormData(form);
+    data.append('page', window.location.pathname);
+
     try {
-      const res = await fetch('https://formspree.io/f/xaqlwkvr', {
+      const res = await fetch(form.action, {
         method: 'POST',
-        body: new FormData(form),
+        body: data,
         headers: { 'Accept': 'application/json' },
       });
 
       if (res.ok) {
+        (window as any).gtag?.('event', 'generate_lead', {
+          method: 'blog_form',
+          service: String(data.get('service') || ''),
+          page_path: window.location.pathname,
+        });
         form.classList.add('hidden');
         success?.classList.remove('hidden');
       } else {

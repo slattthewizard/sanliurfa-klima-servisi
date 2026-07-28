@@ -29,7 +29,7 @@ Buzlanmayı görmezden gelmek küçük bir sorunu büyütür. Buz kalınlaştık
 
 İç ünitede buzlanmanın en sık rastlanan nedeni budur. Filtreler tozla tıkandığında evaporatöre yeterli hava ulaşmaz. Serpantin üzerinden geçen hava azalınca, serpantin normalden daha soğuk çalışmaya başlar ve üzerindeki nem donar.
 
-Şanlıurfa'nın tozlu havası bu süreci hızlandırıyor. Yaz aylarında iki haftada bir filtre kontrolü önerilir; bu konuyu [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda adım adım anlattık.
+Şanlıurfa'nın tozlu havası bu süreci hızlandırıyor. Yaz aylarında iki haftada bir filtre kontrolü önerilir; bu konuyu [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda adım adım anlattık.
 
 **Belirti:** Klima ilk açıldığında normal soğutuyor, birkaç saat sonra hava akımı zayıflıyor ve iç üniteden buz görünüyor.
 
@@ -37,7 +37,7 @@ Filtre dışında evaporatör kanatçıklarının kendisi de zamanla toz ve yağ
 
 ## 2. Gaz Kaçağı ve Düşük Basınç
 
-Soğutucu gaz seviyesi düştüğünde evaporatördeki basınç normalin altına iner, sıcaklık aşırı düşer ve nem donmaya başlar. Bu konuyu detaylı işlediğimiz [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda anlattığımız gibi, buz tutma gaz kaçağının en tipik işaretlerinden biri.
+Soğutucu gaz seviyesi düştüğünde evaporatördeki basınç normalin altına iner, sıcaklık aşırı düşer ve nem donmaya başlar. Bu konuyu detaylı işlediğimiz [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda anlattığımız gibi, buz tutma gaz kaçağının en tipik işaretlerinden biri.
 
 Karaköprü'de bir müşterimiz, klimasının her akşam iki saat sonra buz tuttuğunu, kapatıp açtığında tekrar başladığını anlattı. Kontrol ettiğimizde evaporatör bağlantısında küçük bir sızıntı vardı. Kaçak onarımı ve gaz dolumu sonrası maliyet 2.400 TL oldu, sorun bir daha tekrarlamadı.
 
@@ -63,7 +63,7 @@ Fan motoru arızasının teşhisi ve değişimi teknisyen gerektirir; iç ünite
 
 Bazen gördüğünüz "buz" aslında evaporatörde değil, iç ve dış ünite arasındaki bakır boru hattında oluşur. Yalıtım köpüğü eskiyip çatladığında veya montaj sırasında eksik yalıtıldığında, soğuk boru üzerinde yoğuşan nem zamanla donar. Bu durumda buz genelde boru hattı boyunca, ünitenin kendisinden ziyade duvar geçişine yakın noktalarda görülür.
 
-Çözüm basit ama teknisyen gerektirir: eskiyen yalıtım köpüğünün yenilenmesi. Bu arada sürekli damlayan su varsa [klimadan su akıyor](/blog/klimadan-su-akiyor) yazımıza da göz atabilirsiniz, çünkü buzlanma ve su akıtma sorunları çoğu zaman aynı kaynaktan çıkar.
+Çözüm basit ama teknisyen gerektirir: eskiyen yalıtım köpüğünün yenilenmesi. Bu arada sürekli damlayan su varsa [klimadan su akıyor](/blog/klimadan-su-akiyor/) yazımıza da göz atabilirsiniz, çünkü buzlanma ve su akıtma sorunları çoğu zaman aynı kaynaktan çıkar.
 
 ## 6. Kışın Dış Ünite Buzlanması: Defrost Normal mi?
 
@@ -82,7 +82,7 @@ Klimalar bu durumu çözmek için "defrost" (buz çözme) döngüsüne girer. Ci
 - Isıtma performansı belirgin şekilde düşük, oda ısınmıyor.
 - Dış üniteden anormal ses geliyor.
 
-Bu ikinci grup, dört yollu vana arızası, gaz eksikliği veya defrost sensörü sorunu gibi bir arızaya işaret edebilir. Isıtma modundaki sorunları daha detaylı [klima ısıtmıyor](/blog/klima-isitmiyor) yazımızda ele aldık.
+Bu ikinci grup, dört yollu vana arızası, gaz eksikliği veya defrost sensörü sorunu gibi bir arızaya işaret edebilir. Isıtma modundaki sorunları daha detaylı [klima ısıtmıyor](/blog/klima-isitmiyor/) yazımızda ele aldık.
 
 Şanlıurfa'da kışlar diğer bölgelere göre daha ılıman geçse de gece sıcaklıkları zaman zaman 0°C civarına düşüyor, özellikle Aralık-Şubat arası. Bu aralıkta klimasını ısıtma amaçlı kullananlar defrost döngüsünü sık fark ediyor. Cihaz birden soğuk hava üflemeye başladığında "bozuldu" diye telaşlanmayın, önce birkaç dakika bekleyin.
 
@@ -97,7 +97,7 @@ Bu ikinci grup, dört yollu vana arızası, gaz eksikliği veya defrost sensör�
 
 1. Klimayı kapatın, sadece moddan çıkarmayın, fişten çekin veya kumandadan tamamen kapatın.
 2. Buzun tamamen erimesini bekleyin. Bu 2-4 saat sürebilir, iç ünitenin altına havlu serin.
-3. Filtreleri çıkarıp yıkayın (bkz. [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir)).
+3. Filtreleri çıkarıp yıkayın (bkz. [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/)).
 4. Klimayı tekrar açın, sıcaklığı 22-24°C'ye ayarlayın, birkaç saat gözlemleyin.
 5. Buz tekrar oluşuyorsa gaz kaçağı veya fan motoru arızası ihtimali yüksek, servis çağırın.
 
@@ -113,7 +113,7 @@ Kendiniz dış üniteye müdahale edip buzu kazımaya çalışmayın, serpantin 
 
 - Filtreleri yaz aylarında 2 haftada bir, kış aylarında ayda bir kontrol edin.
 - Sıcaklığı 22-24°C aralığında tutun, 16-18°C gibi aşırı düşük ayarlardan kaçının.
-- Yılda en az bir kez profesyonel [klima bakımı](/blog/klima-bakimi-nasil-yapilir) yaptırın, bu bakım gaz basıncını ve fan durumunu da kontrol eder.
+- Yılda en az bir kez profesyonel [klima bakımı](/blog/klima-bakimi-nasil-yapilir/) yaptırın, bu bakım gaz basıncını ve fan durumunu da kontrol eder.
 - Dış hava çok düşükken (18°C altı) soğutma modunu kapatın.
 - Gaz dolumu her yıl tekrarlanıyorsa bu normal değil, kaçak var demektir.
 - Dış üniteyi doğrudan güneşe ve tozlu rüzgara açık bırakmayın, kanatçıkların temiz kalması hem soğutmayı hem defrost performansını korur.

@@ -42,7 +42,7 @@ Aynı marka, aynı model iki klimadan biri 7 yılda ölürken diğeri 14 yıl da
 
 ### 1. Bakımsızlık
 
-[Klima bakımı ne zaman yapılmalı](/blog/klima-bakimi-ne-zaman-yapilmali) sorusunu ciddiye almayanlar, kompresörü gereksiz yere yoruyor. Kirli filtre ve tıkalı serpantin, klimanın aynı soğutmayı yapabilmek için daha sert çalışmasına neden oluyor. Bu da parçaların normalden erken aşınmasına yol açıyor.
+[Klima bakımı ne zaman yapılmalı](/blog/klima-bakimi-ne-zaman-yapilmali/) sorusunu ciddiye almayanlar, kompresörü gereksiz yere yoruyor. Kirli filtre ve tıkalı serpantin, klimanın aynı soğutmayı yapabilmek için daha sert çalışmasına neden oluyor. Bu da parçaların normalden erken aşınmasına yol açıyor.
 
 ### 2. Şanlıurfa'nın Tozu ve Sıcağı
 
@@ -54,7 +54,7 @@ Vakumlama atlanmış, boru hattı gereğinden uzun bırakılmış veya yanlış 
 
 ### 4. Sık Sık Gaz Kaybı
 
-Klima gazı normal şartlarda tükenmez. Eğer klimanız her yıl gaz istiyorsa, sistemde onarılmamış bir kaçak var demektir. [Klima gazı ne zaman doldurulmalı](/blog/klima-gazi-ne-zaman-doldurulmali) yazımızda da anlattığımız gibi, düşük gaz seviyesiyle çalışan kompresör aşırı ısınır ve zamanla hasar görür.
+Klima gazı normal şartlarda tükenmez. Eğer klimanız her yıl gaz istiyorsa, sistemde onarılmamış bir kaçak var demektir. [Klima gazı ne zaman doldurulmalı](/blog/klima-gazi-ne-zaman-doldurulmali/) yazımızda da anlattığımız gibi, düşük gaz seviyesiyle çalışan kompresör aşırı ısınır ve zamanla hasar görür.
 
 ### 5. Yanlış Kapasite Seçimi
 
@@ -74,7 +74,7 @@ Bir sezon içinde art arda arıza çıkıyorsa, bu tek bir parça sorunu değil,
 
 ### 3. Tamir Teklifi, Cihazın Güncel Değerinin Yarısına Yaklaşıyor
 
-Kompresör değişimi 5.000-15.000 TL arasında bir maliyet çıkarabiliyor. Eğer bu rakam, aynı kapasitede yeni bir klimanın fiyatının %40-50'sine ulaşıyorsa, mantıklı olan yeni cihaza yönelmek. Detaylı karar rehberi için [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi) yazımıza bakabilirsiniz.
+Kompresör değişimi 5.000-15.000 TL arasında bir maliyet çıkarabiliyor. Eğer bu rakam, aynı kapasitede yeni bir klimanın fiyatının %40-50'sine ulaşıyorsa, mantıklı olan yeni cihaza yönelmek. Detaylı karar rehberi için [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi/) yazımıza bakabilirsiniz.
 
 ### 4. Elektrik Faturasında Açıklanamayan Artış
 
@@ -114,7 +114,7 @@ Eski klimanızın kapasitesini birebir kopyalamak yerine, odanızın güncel iht
 
 ### Eski Cihazın Sökümünü Planlayın
 
-Yeni klima montajı öncesinde eski cihazın sökülmesi ayrı bir işlemdir. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) rehberimizde bu maliyetleri detaylı bulabilirsiniz. Çoğu firma yeni montajla birlikte söküm için indirimli paket sunuyor.
+Yeni klima montajı öncesinde eski cihazın sökülmesi ayrı bir işlemdir. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) rehberimizde bu maliyetleri detaylı bulabilirsiniz. Çoğu firma yeni montajla birlikte söküm için indirimli paket sunuyor.
 
 ### Elektrik Altyapısını Kontrol Ettirin
 
@@ -138,7 +138,7 @@ Yeni aldığınız klimanın kompresör garantisi süresini mutlaka sorun. 5 yı
 Değiştirme kararı vermeden önce, elinizdeki klimanın ömrünü mümkün olduğunca uzatmak isteyebilirsiniz. Bunun için:
 
 1. **Filtreleri düzenli temizleyin.** Yaz aylarında 2-4 haftada bir. Şanlıurfa'nın tozlu ikliminde bu süreyi kısaltmak faydalı olur.
-2. **Yılda en az bir kez profesyonel bakım yaptırın.** [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) 500-1.200 TL arasında değişiyor ve bu masraf, kompresör arızasının maliyetiyle kıyaslanamayacak kadar düşük.
+2. **Yılda en az bir kez profesyonel bakım yaptırın.** [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) 500-1.200 TL arasında değişiyor ve bu masraf, kompresör arızasının maliyetiyle kıyaslanamayacak kadar düşük.
 3. **Dış üniteyi gölgede tutun.** Doğrudan güneş altında çalışan kompresör daha çok yoruluyor.
 4. **Doğru sıcaklıkta kullanın.** 22-24°C ideal aralık; çok düşük ayarlar kompresöre gereksiz yük bindiriyor.
 5. **Gaz veya elektrik sorununu kendiniz çözmeye çalışmayın.** Gaz kaçağı, kompresör ve elektrik bağlantılarına dokunmak hem tehlikeli hem de yanlış müdahalede klimaya kalıcı zarar verebilir. Bu işlemleri her zaman lisanslı bir teknisyene bırakın.
@@ -149,7 +149,7 @@ Bu beş adımın hiçbiri klimanızı ölümsüz yapmaz ama ortalama ömrü bir-
 
 Basit bir karar kuralı var: Klimanız 5 yaşından küçükse ve arıza büyük bir parça değişimi gerektirmiyorsa, genellikle tamir mantıklıdır. 8 yaşını geçmiş, kompresör veya kart gibi pahalı bir arızayla karşı karşıyaysanız, yeni klimaya yönelmek uzun vadede daha ekonomiktir.
 
-Bütçeniz sınırlıysa [en ucuz klima modelleri](/blog/en-ucuz-klima-modelleri) rehberimiz, başlangıç fiyatı düşük ama uzun vadede pahalıya patlamayan modelleri seçmenize yardımcı olabilir. Karar sürecinin tamamını adım adım görmek isterseniz [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi) yazımızı okumanızı öneririz.
+Bütçeniz sınırlıysa [en ucuz klima modelleri](/blog/en-ucuz-klima-modelleri/) rehberimiz, başlangıç fiyatı düşük ama uzun vadede pahalıya patlamayan modelleri seçmenize yardımcı olabilir. Karar sürecinin tamamını adım adım görmek isterseniz [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi/) yazımızı okumanızı öneririz.
 
 ## Tamir mi Değişim mi? Hızlı Karar Tablosu
 

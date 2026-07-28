@@ -41,7 +41,7 @@ Aşağıdaki tablolar, 2026 yılı Mart ayı itibarıyla Türkiye genelinde orta
 
 *Zorlu montaj: 3. kat ve üzeri, uzun boru hattı, ek kırım gerektiren durumlar.
 
-12000 BTU klima almayı düşünüyorsanız, [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) rehberimizde en iyi modelleri ve güncel fiyatları karşılaştırabilirsiniz.
+12000 BTU klima almayı düşünüyorsanız, [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) rehberimizde en iyi modelleri ve güncel fiyatları karşılaştırabilirsiniz.
 
 ### Salon Tipi (Yer Ünitesi) Klima Montaj Fiyatları
 
@@ -144,7 +144,7 @@ Toplam süre: standart koşullarda 2-4 saat.
 
 > **Dikkat:** Vakumlama işlemini atlayan veya kısa kesen montajcılar, klimanın ömrünü ciddi şekilde kısaltır. Bu adımı mutlaka isteyin ve gözlemleyin.
 
-Montaj sonrasında klimanızın verimli çalışmaya devam etmesi için [düzenli klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmanız da kritik önem taşır.
+Montaj sonrasında klimanızın verimli çalışmaya devam etmesi için [düzenli klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmanız da kritik önem taşır.
 
 **Şanlıurfa'da profesyonel split klima montajı yaptırmak istiyorsanız,** tüm marka ve modellerde hizmet veren ekibimize ulaşabilirsiniz. [Ücretsiz keşif ve fiyat teklifi için: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
 
@@ -260,6 +260,6 @@ Klima montajı, cihazın performansını, enerji verimliliğini ve ömrünü do�
 2. **Sezon dışında yaptırın.** Hem cebinize hem kalitenize yatırım olur.
 3. **Belgeli, garantili, referanslı montajcı seçin.** Bu üç kriter tek başına birçok sorunu önler.
 
-Klimanızın verimli çalışması ve uzun yıllar sorunsuz hizmet vermesi, doğru montajla başlar. Montaj sonrası düzenli bakım da en az kurulum kadar önemli; [klima bakım fiyatları rehberimiz](/blog/klima-bakim-fiyatlari) ile bakım maliyetlerini de önceden planlayabilirsiniz. Fiyat karşılaştırması yaparken sadece rakama değil, hizmet kapsamına ve montajcının güvenilirliğine bakın.
+Klimanızın verimli çalışması ve uzun yıllar sorunsuz hizmet vermesi, doğru montajla başlar. Montaj sonrası düzenli bakım da en az kurulum kadar önemli; [klima bakım fiyatları rehberimiz](/blog/klima-bakim-fiyatlari/) ile bakım maliyetlerini de önceden planlayabilirsiniz. Fiyat karşılaştırması yaparken sadece rakama değil, hizmet kapsamına ve montajcının güvenilirliğine bakın.
 
 **Şanlıurfa'da klima montajı, bakım veya tamir hizmeti mi arıyorsunuz?** Lisanslı ve sigortalı ekibimiz tüm marka ve modellerde, 7/24 hizmet veriyor. [Hemen arayın: 0553 397 52 44](https://sanliurfaklimaservisi.com/)

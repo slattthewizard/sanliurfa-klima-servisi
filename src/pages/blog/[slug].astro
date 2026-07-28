@@ -30,6 +30,16 @@ const related = allPosts
 // Build table of contents from h2 headings
 const toc = headings.filter(h => h.depth === 2);
 
+// Blog posts previously linked only to other blog posts, so all the traffic
+// pooled in the blog and never reached the money pages. Every post now links
+// out to the four service pages.
+const services = [
+  { href: '/klima-tamir/', label: 'Klima Tamir', blurb: 'Soğutmayan, su akıtan, ses yapan klimalar için arıza tespiti ve onarım.' },
+  { href: '/klima-montaj/', label: 'Klima Montaj', blurb: 'Tüm marka ve modellerde profesyonel kurulum, 2 yıl işçilik garantisi.' },
+  { href: '/klima-bakim/', label: 'Klima Bakım', blurb: 'Filtre temizliği, dezenfeksiyon ve performans kontrolü ile periyodik bakım.' },
+  { href: '/klima-gaz-dolumu/', label: 'Gaz Dolumu', blurb: 'R410A ve R32 gaz dolumu, öncesinde kaçak testi ve vakumlama.' },
+];
+
 // Estimate reading time (~200 words/min for Turkish)
 const rawBody = post.body ?? '';
 const wordCount = rawBody.split(/\s+/).filter(Boolean).length;
@@ -105,7 +115,7 @@ while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
       <nav class="flex items-center gap-2 text-sm mb-8">
         <a href="/" class="text-gray-400 hover:text-brand-orange" style="transition: color 0.15s ease-out;">Ana Sayfa</a>
         <svg class="w-3.5 h-3.5 text-gray-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
-        <a href="/blog" class="text-gray-400 hover:text-brand-orange" style="transition: color 0.15s ease-out;">Blog</a>
+        <a href="/blog/" class="text-gray-400 hover:text-brand-orange" style="transition: color 0.15s ease-out;">Blog</a>
         <svg class="w-3.5 h-3.5 text-gray-500" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
         <span class="text-gray-500 truncate max-w-[200px] sm:max-w-none">{post.data.title}</span>
       </nav>
@@ -164,6 +174,28 @@ while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
             <Content />
           </div>
 
+          <!-- Service links: route blog readers to the pages that convert -->
+          <div class="mt-14">
+            <h2 class="font-heading font-extrabold text-xl sm:text-2xl text-brand-navy mb-2">Şanlıurfa'da Klima Hizmetlerimiz</h2>
+            <p class="text-text-body text-sm mb-6" style="line-height: 1.7;">
+              Sorununuzu kendiniz çözemediyseniz, Haliliye, Karaköprü, Eyyübiye ve tüm Şanlıurfa'da yerinde servis veriyoruz.
+            </p>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {services.map(s => (
+                <a
+                  href={s.href}
+                  class="block rounded-xl border border-gray-100 bg-brand-cream p-5 hover:border-brand-orange/40 group"
+                  style="transition: border-color 0.15s ease-out;"
+                >
+                  <span class="font-heading font-bold text-base text-brand-navy group-hover:text-brand-orange" style="transition: color 0.15s ease-out;">
+                    {s.label} &rarr;
+                  </span>
+                  <p class="text-text-body text-sm mt-1.5" style="line-height: 1.6;">{s.blurb}</p>
+                </a>
+              ))}
+            </div>
+          </div>
+
           <!-- CTA Form -->
           <div class="mt-14">
             <BlogCTA />
@@ -202,9 +234,28 @@ while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
                   <div class="text-xs text-text-body">7/24 Acil Servis</div>
                 </div>
               </div>
-              <a href="tel:+905533975244" class="btn-orange block text-center bg-brand-orange text-white font-bold text-sm px-5 py-3 rounded-full">
+              <a href="tel:+905533975244" data-loc="sidebar" class="btn-orange block text-center bg-brand-orange text-white font-bold text-sm px-5 py-3 rounded-full">
                 0553 397 52 44
               </a>
+              <a href="https://wa.me/905533975244" target="_blank" rel="noopener" data-loc="sidebar" class="block text-center bg-[#25D366] text-white font-bold text-sm px-5 py-3 rounded-full mt-2">
+                WhatsApp'tan Yazın
+              </a>
+            </div>
+
+            <!-- Service links -->
+            <div>
+              <h4 class="font-heading font-extrabold text-sm uppercase tracking-wider text-brand-navy mb-4">Hizmetlerimiz</h4>
+              <div class="space-y-2">
+                {services.map(s => (
+                  <a
+                    href={s.href}
+                    class="block rounded-xl border border-gray-100 bg-white px-4 py-3 text-sm font-semibold text-brand-navy hover:border-brand-orange/40 hover:text-brand-orange"
+                    style="transition: color 0.15s ease-out, border-color 0.15s ease-out;"
+                  >
+                    {s.label} &rarr;
+                  </a>
+                ))}
+              </div>
             </div>
 
             <!-- Related Posts -->
@@ -214,7 +265,7 @@ while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
                 <div class="space-y-3">
                   {related.map(r => (
                     <a
-                      href={`/blog/${r.data.slug}`}
+                      href={`/blog/${r.data.slug}/`}
                       class="block rounded-xl border border-gray-100 bg-white p-4 hover:border-brand-orange/30 group"
                       style="transition: border-color 0.15s ease-out, box-shadow 0.15s ease-out;"
                     >
@@ -240,7 +291,7 @@ while ((faqMatch = faqRegex.exec(faqSection)) !== null) {
         <h2 class="font-heading font-extrabold text-2xl text-brand-navy mb-8" style="letter-spacing: -0.02em;">Diğer Yazılar</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {related.map(r => (
-            <a href={`/blog/${r.data.slug}`} class="card-lift block bg-white rounded-2xl shadow-card overflow-hidden border border-gray-100 group">
+            <a href={`/blog/${r.data.slug}/`} class="card-lift block bg-white rounded-2xl shadow-card overflow-hidden border border-gray-100 group">
               <div class="p-6">
                 <span class="inline-block text-brand-orange font-bold text-xs uppercase tracking-widest mb-2">{r.data.keyword}</span>
                 <h3 class="font-heading font-bold text-base text-brand-navy group-hover:text-brand-orange leading-snug mb-3" style="transition: color 0.15s ease-out;">

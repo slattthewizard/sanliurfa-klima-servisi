@@ -99,7 +99,7 @@ Kesinlikle hayır. Her gaz türü farklı basınçta çalışır ve farklı yağ
 
 ## Klimanız Soğutmuyor mu? Gaz Eksikliği Belirtileri
 
-Klima gazı teorik olarak bitmez, azalmaz. Kapalı bir devre içinde süresiz olarak dolaşmalıdır. ([Klima soğutmuyor](/blog/klima-sogutmuyor) rehberimizde gaz dışındaki diğer soğutmama nedenlerini de inceleyebilirsiniz.) Eğer gazınız azaldıysa, bir yerde klima gaz kaçağı var demektir. İşte dikkat etmeniz gereken belirtiler:
+Klima gazı teorik olarak bitmez, azalmaz. Kapalı bir devre içinde süresiz olarak dolaşmalıdır. ([Klima soğutmuyor](/blog/klima-sogutmuyor/) rehberimizde gaz dışındaki diğer soğutmama nedenlerini de inceleyebilirsiniz.) Eğer gazınız azaldıysa, bir yerde klima gaz kaçağı var demektir. İşte dikkat etmeniz gereken belirtiler:
 
 ### 1. Soğutma Performansı Düşmüş
 
@@ -119,7 +119,7 @@ Gaz eksik olan klima, istenen sıcaklığa ulaşamadığı için kompresör sür
 
 ### 5. Kompresörün Sürekli Çalışması
 
-Normal şartlarda inverter klima, istenen sıcaklığa ulaştıktan sonra devir düşürür. Gaz eksikliğinde ise hedef sıcaklığa hiç ulaşamaz ve kompresör durmadan çalışır. Bu durum kompresör ömrünü ciddi şekilde kısaltır ve [klima tamir](/klima-tamir) gerektiren pahalı arızalara yol açar.
+Normal şartlarda inverter klima, istenen sıcaklığa ulaştıktan sonra devir düşürür. Gaz eksikliğinde ise hedef sıcaklığa hiç ulaşamaz ve kompresör durmadan çalışır. Bu durum kompresör ömrünü ciddi şekilde kısaltır ve [klima tamir](/klima-tamir/) gerektiren pahalı arızalara yol açar.
 
 Evinizde bu belirtilerden bir veya birkaçını fark ettiyseniz, profesyonel bir gaz basıncı kontrolü yaptırmanızın zamanı gelmiş demektir. Erken müdahale, hem daha düşük gaz dolum maliyeti hem de kompresör hasarını önlemek anlamına gelir. Kompresör arızası gibi ciddi sorunlarda [klima tamir](https://sanliurfaklimaservisi.com/klima-tamir) hizmeti gerekebilir ve maliyetler çok daha yüksek olur.
 
@@ -145,7 +145,7 @@ Kaçak tespiti ve onarımı, dolum fiyatına 500-3.000 TL arası ek maliyet ekle
 
 ### 4. Mevsim ve Talep Yoğunluğu
 
-Haziran, Temmuz ve Ağustos aylarında servis taleplerinde patlama yaşanır. Bu dönemde hem gaz fiyatları yükselir hem de acil servis ücreti devreye girer. Nisan veya Mayıs ayında [klima bakımı](/blog/klima-bakim-fiyatlari) ve gaz kontrolü yaptırmak, fiyat olarak %15-25 daha avantajlı olabilir.
+Haziran, Temmuz ve Ağustos aylarında servis taleplerinde patlama yaşanır. Bu dönemde hem gaz fiyatları yükselir hem de acil servis ücreti devreye girer. Nisan veya Mayıs ayında [klima bakımı](/blog/klima-bakim-fiyatlari/) ve gaz kontrolü yaptırmak, fiyat olarak %15-25 daha avantajlı olabilir.
 
 ### 5. Tam Dolum mu, Takviye mi?
 
@@ -203,9 +203,9 @@ Uzun vadede daha ekonomik seçenektir. R410A veya R32 gazlı yeni bir inverter k
 - Çevreye daha az zarar verir
 - 5-10 yıl arası kompresör garantisi sunar
 
-Basit bir hesap yapalım: R22 gazlı 15 yıllık bir klimanın yıllık elektrik maliyeti, eşdeğer kapasitedeki yeni bir inverter klimadan yaklaşık 2.500-4.000 TL daha fazla. Buna 2-3 yılda bir R22 gaz dolumu maliyetini (4.000-7.000 TL) ekleyin. 3 yıl içinde yeni klima maliyetinin büyük kısmını zaten eski klimaya harcamış olursunuz. Ev tipi klimalar için [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) rehberimizde 2026 güncel fiyatları ve model karşılaştırmalarını inceleyebilirsiniz.
+Basit bir hesap yapalım: R22 gazlı 15 yıllık bir klimanın yıllık elektrik maliyeti, eşdeğer kapasitedeki yeni bir inverter klimadan yaklaşık 2.500-4.000 TL daha fazla. Buna 2-3 yılda bir R22 gaz dolumu maliyetini (4.000-7.000 TL) ekleyin. 3 yıl içinde yeni klima maliyetinin büyük kısmını zaten eski klimaya harcamış olursunuz. Ev tipi klimalar için [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) rehberimizde 2026 güncel fiyatları ve model karşılaştırmalarını inceleyebilirsiniz.
 
-**Klimanızı yenilemeyi mi düşünüyorsunuz?** [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimize göz atın veya [bizi arayarak ücretsiz keşif ve fiyat teklifi alın: 0553 397 52 44](tel:+905533975244).
+**Klimanızı yenilemeyi mi düşünüyorsunuz?** [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimize göz atın veya [bizi arayarak ücretsiz keşif ve fiyat teklifi alın: 0553 397 52 44](tel:+905533975244).
 
 ## Gaz Dolumu ile İlgili Sıkça Yapılan Hatalar
 
@@ -215,7 +215,7 @@ Yanlış. Klima gazı kapalı bir devrede çalışır ve teorik olarak hiç azal
 
 ### "Gaz doldurduktan sonra klima yeni gibi olur"
 
-Kısmen doğru, kısmen yanıltıcı. Gaz eksikliği soğutma performansını doğrudan etkiler, dolayısıyla dolum sonrası performans artar. Ancak klimanın filtre temizliği, evaporatör temizliği ve genel bakımı yapılmadan sadece gaz dolmak tam verim almak için yeterli değildir. Gaz dolumu ile birlikte [kapsamlı klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak en doğru yaklaşımdır.
+Kısmen doğru, kısmen yanıltıcı. Gaz eksikliği soğutma performansını doğrudan etkiler, dolayısıyla dolum sonrası performans artar. Ancak klimanın filtre temizliği, evaporatör temizliği ve genel bakımı yapılmadan sadece gaz dolmak tam verim almak için yeterli değildir. Gaz dolumu ile birlikte [kapsamlı klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak en doğru yaklaşımdır.
 
 ### "Ucuz gaz dolumu yapan yeri buldum, oraya gideyim"
 
@@ -240,7 +240,7 @@ Basit bir takviye dolum 30-45 dakikada tamamlanabilir. Kaçak tespiti ve onarım
 
 Şanlıurfa'nın yazları 45 dereceyi aşabiliyor. Bu sıcaklıklarda klimasız kalmak sadece konfor meselesi değil, sağlık meselesidir. Ancak tam da bu dönemde servis bulmak zordur ve fiyatlar en yüksek seviyededir.
 
-En ideal zamanlama Nisan-Mayıs dönemidir. Yazdan önce [klima bakımı](/blog/klima-bakim-fiyatlari) ve gaz kontrolü yaptırmak:
+En ideal zamanlama Nisan-Mayıs dönemidir. Yazdan önce [klima bakımı](/blog/klima-bakim-fiyatlari/) ve gaz kontrolü yaptırmak:
 
 - **%15-25 daha uygun fiyat** avantajı sağlar
 - Randevu bulmak çok daha kolaydır

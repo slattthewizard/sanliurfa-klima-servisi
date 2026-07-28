@@ -15,7 +15,7 @@ Kumandaya basıyorsunuz, iç ünitede hiçbir ışık, hiçbir ses yok. Klima sa
 
 **Klima açılmıyor** şikayeti aslında tek bir arıza değil, birbirinden çok farklı birkaç nedenin ortak sonucu. Sigorta atmış olabilir, kumanda pilleri bitmiş olabilir, ya da içeride ciddi bir elektronik kart arızası olabilir. İyi haber şu: bu nedenleri sıralı bir şekilde kontrol ederek sorunu büyük ölçüde daraltabilirsiniz, hatta bazı durumlarda hiç servis çağırmadan çözebilirsiniz.
 
-Bu yazıda klimanız hiç açılmadığında hangi sırayla kontrol yapmanız gerektiğini, hangi noktada elektriğe dokunmayı bırakıp teknisyen çağırmanız gerektiğini anlatıyoruz. Kumandayla ilgili şüpheniz varsa ayrıntılı kontrol listesini [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor) yazımızda bulabilirsiniz.
+Bu yazıda klimanız hiç açılmadığında hangi sırayla kontrol yapmanız gerektiğini, hangi noktada elektriğe dokunmayı bırakıp teknisyen çağırmanız gerektiğini anlatıyoruz. Kumandayla ilgili şüpheniz varsa ayrıntılı kontrol listesini [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor/) yazımızda bulabilirsiniz.
 
 ## 1. Önce Kumandayı Devre Dışı Bırakıp Test Edin
 
@@ -23,7 +23,7 @@ Sorunun klimada mı kumandada mı olduğunu anlamanın en hızlı yolu, iç üni
 
 Manuel düğmeyle klima açılıyorsa sorun kumandada veya sinyal iletişimindedir, klimanın kendisi sağlamdır. Manuel düğmeyle de hiçbir tepki alamıyorsanız sorun elektrik beslemesinde veya klimanın iç aksamındadır, sıradaki adımlara geçin.
 
-Bu test o kadar ayırt edici ki, telefonla arayan müşterilerimize ilk sorduğumuz şey genelde bu oluyor. Karaköprü'de bir müşterimiz "klimam tamamen bozuldu" diye aramıştı; telefonda manuel düğme testini tarif ettik, klima anında çalıştı. Sorun kumandanın devresindeydi. Ertesi gün 250 TL'ye bir üniversal kumanda alıp kodunu eşleştirdi, servis ücreti bile ödemedi. Kumanda tarafındaki kontrollerin tamamını [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor) yazımızda adım adım anlattık.
+Bu test o kadar ayırt edici ki, telefonla arayan müşterilerimize ilk sorduğumuz şey genelde bu oluyor. Karaköprü'de bir müşterimiz "klimam tamamen bozuldu" diye aramıştı; telefonda manuel düğme testini tarif ettik, klima anında çalıştı. Sorun kumandanın devresindeydi. Ertesi gün 250 TL'ye bir üniversal kumanda alıp kodunu eşleştirdi, servis ücreti bile ödemedi. Kumanda tarafındaki kontrollerin tamamını [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor/) yazımızda adım adım anlattık.
 
 ## 2. Elektrik Panelini ve Sigortayı Kontrol Edin
 
@@ -35,7 +35,7 @@ Klima açılmıyorsa ilk bakılması gereken yer elektrik panelidir. Klimaya ait
 2. Sigorta kolu orta konumdaysa veya aşağıdaysa atmış demektir. Yukarı kaldırın.
 3. Sigorta tekrar atıyorsa asla zorlamayın, tekrar tekrar kaldırıp indirmeyin.
 
-Sigorta bir kez attıysa ve tekrar atmıyorsa geçici bir yüklenme olmuş olabilir, klimayı normal şekilde kullanmaya devam edebilirsiniz. **Ama sigorta sürekli veya kısa aralıklarla atıyorsa bu ciddi bir elektrik sorununa işaret eder** ve nedenlerini [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor) yazımızda ayrıntılı anlattık.
+Sigorta bir kez attıysa ve tekrar atmıyorsa geçici bir yüklenme olmuş olabilir, klimayı normal şekilde kullanmaya devam edebilirsiniz. **Ama sigorta sürekli veya kısa aralıklarla atıyorsa bu ciddi bir elektrik sorununa işaret eder** ve nedenlerini [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor/) yazımızda ayrıntılı anlattık.
 
 **Sigorta sürekli atıyorsa kendiniz müdahale etmeyin, elektrik kaçağı veya kompresör arızası olabilir. Hemen arayın: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
@@ -57,7 +57,7 @@ Bu senaryoda önce kumanda pilini değiştirin ve manuel düğmeyi deneyin. İki
 
 Bazen klima açılmıyor sanılan durum aslında normal bir koruma davranışıdır. Klimayı kapatıp hemen tekrar açtığınızda, fan çalışsa bile kompresör yaklaşık 3 dakika boyunca devreye girmez. Bu gecikme, kompresörü basınç dengelenmeden yeniden kalkış yapmaktan koruyan standart bir önlemdir ve neredeyse tüm modellerde bulunur.
 
-Yani klimayı açtınız, iç üniteden hava geliyor ama soğuk değil ve "açılmadı" diye tekrar kapatıp açıyorsanız, aslında koruma süresini her seferinde sıfırlıyorsunuz. Doğrusu şu: klimayı açın ve en az 5 dakika hiç dokunmadan bekleyin. Soğutma bu süre sonunda hâlâ başlamadıysa o zaman gerçek bir sorun olabilir; bu durumda [klima soğutmuyor](/blog/klima-sogutmuyor) yazımızdaki kontrol adımları devreye girer.
+Yani klimayı açtınız, iç üniteden hava geliyor ama soğuk değil ve "açılmadı" diye tekrar kapatıp açıyorsanız, aslında koruma süresini her seferinde sıfırlıyorsunuz. Doğrusu şu: klimayı açın ve en az 5 dakika hiç dokunmadan bekleyin. Soğutma bu süre sonunda hâlâ başlamadıysa o zaman gerçek bir sorun olabilir; bu durumda [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımızdaki kontrol adımları devreye girer.
 
 Aynı şekilde elektrik kesintisinden hemen sonra da bazı modeller kendini toparlamak için birkaç dakika bekler. Kesinti sonrası klimaya en az 5-10 dakika süre tanıyın.
 
@@ -65,7 +65,7 @@ Aynı şekilde elektrik kesintisinden hemen sonra da bazı modeller kendini topa
 
 Bazı klimalar açılmaya çalışırken kısa süreliğine bir hata kodu gösterip kendini kapatır. Bu kod genellikle sorunun nerede olduğuna dair doğrudan ipucu verir.
 
-Kodun ne anlama geldiğini markanıza göre [klima hata kodları](/blog/klima-hata-kodlari) rehberimizden kontrol edebilirsiniz. Kod aşırı akım, düşük voltaj veya sensör arızasına işaret ediyorsa kendiniz müdahale etmeden servis çağırmanız daha güvenli.
+Kodun ne anlama geldiğini markanıza göre [klima hata kodları](/blog/klima-hata-kodlari/) rehberimizden kontrol edebilirsiniz. Kod aşırı akım, düşük voltaj veya sensör arızasına işaret ediyorsa kendiniz müdahale etmeden servis çağırmanız daha güvenli.
 
 ## 7. Kart (PCB) Arızası Belirtileri
 
@@ -82,7 +82,7 @@ Kontrol kartı tamiri, arızanın boyutuna göre genelde 1.500-4.000 TL, tam de�
 
 Eyyübiye'de bir müşterimiz, gece yaşanan kısa bir elektrik kesintisinden sonra klimasının hiç açılmadığını fark etmişti. Sigorta sağlamdı, kumanda pili yeniydi. Kontrol ettiğimizde dış ünitenin kartı elektrik dalgalanmasından zarar görmüş. Kart değişimi 4.200 TL tuttu. Bölgede sık voltaj dalgalanması yaşanan evlerde bu tür arızaları önlemek için voltaj regülatörü kullanmayı öneriyoruz.
 
-Kart arızasında yaş faktörünü de hesaba katın. 8-10 yaşın üzerindeki bir klimada 5.000 TL'yi aşan bir kart masrafı çıkıyorsa, o parayı yaşlı bir cihaza gömmek yerine yeni cihaz seçeneklerini değerlendirmek çoğu zaman daha akıllıca. Karşılaştırma için [güncel klima fiyatları](/blog/klima-fiyatlari) rehberimize bakabilirsiniz; fiyatlar model ve sezona göre değişebilir.
+Kart arızasında yaş faktörünü de hesaba katın. 8-10 yaşın üzerindeki bir klimada 5.000 TL'yi aşan bir kart masrafı çıkıyorsa, o parayı yaşlı bir cihaza gömmek yerine yeni cihaz seçeneklerini değerlendirmek çoğu zaman daha akıllıca. Karşılaştırma için [güncel klima fiyatları](/blog/klima-fiyatlari/) rehberimize bakabilirsiniz; fiyatlar model ve sezona göre değişebilir.
 
 **Kart arızasından şüpheleniyorsanız tahmini maliyeti telefonda konuşabiliriz, yerinde teşhisle net fiyat veririz: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 

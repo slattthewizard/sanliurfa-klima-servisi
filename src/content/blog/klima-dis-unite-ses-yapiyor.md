@@ -48,7 +48,7 @@ Sonuç? Ritmik tıkırtı veya takırtı sesi. Klima ses yapıyor şikayetlerini
 
 > **Dikkat:** Vidalara aşırı kuvvet uygulamayın. Plastik parçalarda vida yuvası kırılabilir. Sıkma torku "hafif direnç hissedene kadar" yeterli.
 
-Bu basit bakım genellikle sorunu tamamen çözer. Vidalar sürekli gevşiyorsa montaj sırasında titreşim önleyici lastik conta kullanılmamış olabilir. Bu durumda profesyonel bir [klima montajı](/blog/klima-montaj-fiyatlari) gözden geçirmesi gerekebilir.
+Bu basit bakım genellikle sorunu tamamen çözer. Vidalar sürekli gevşiyorsa montaj sırasında titreşim önleyici lastik conta kullanılmamış olabilir. Bu durumda profesyonel bir [klima montajı](/blog/klima-montaj-fiyatlari/) gözden geçirmesi gerekebilir.
 
 ## 2. Klima Fan Sesi: Kanat Hasarı veya Dengesizliği
 
@@ -92,8 +92,8 @@ Klima kompresör sesi, dış ünite gürültüleri arasında en ciddiye alınmas
 Kompresör sorunları kesinlikle profesyonel iş. Kendiniz müdahale etmeyin. Ama şunları yapabilirsiniz:
 
 - Kompresörden metal vurma veya tiz çığlık sesi geliyorsa klimayı hemen kapatın. Çalıştırmaya devam etmek hasarı artırır.
-- [Klima soğutmuyor](/blog/klima-sogutmuyor) ama kompresör çalışıyorsa, gaz kaçağı olabilir. Düşük gaz seviyesiyle çalışan kompresör aşırı ısınır ve gürültülü hale gelir.
-- Kompresör arızası tespit edilirse, önce [klima gaz kaçağı kontrolü](/blog/klima-gaz-kacagi-belirtileri) yaptırın. Kaçak varsa sadece kompresör değişimi sorunu çözmez.
+- [Klima soğutmuyor](/blog/klima-sogutmuyor/) ama kompresör çalışıyorsa, gaz kaçağı olabilir. Düşük gaz seviyesiyle çalışan kompresör aşırı ısınır ve gürültülü hale gelir.
+- Kompresör arızası tespit edilirse, önce [klima gaz kaçağı kontrolü](/blog/klima-gaz-kacagi-belirtileri/) yaptırın. Kaçak varsa sadece kompresör değişimi sorunu çözmez.
 
 > **Maliyet bilgisi:** Kompresör değişimi, klima tamirinde en maliyetli kalemlerden biridir. Erken teşhis, kompresörü kurtarma şansını artırır. Bu yüzden anormal kompresör sesini duyduğunuz gün servis arayın, "bir bakalım geçer mi" demeyin.
 
@@ -109,8 +109,8 @@ Klima dış ünite ses yapıyor ve bu ses bir fokurdama, hışırtı veya çağl
 
 ### Olası Nedenler
 
-- **Gaz kaçağı:** Boru bağlantılarından veya valflerden gaz sızıyorsa tıslama sesi duyarsınız. Bu durumda [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızdaki diğer işaretleri de kontrol edin.
-- **Düşük gaz seviyesi:** Gaz miktarı yetersiz olduğunda sistemde hava kabarcıkları oluşur ve fokurdama sesi çıkar. [Klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) gerekebilir.
+- **Gaz kaçağı:** Boru bağlantılarından veya valflerden gaz sızıyorsa tıslama sesi duyarsınız. Bu durumda [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızdaki diğer işaretleri de kontrol edin.
+- **Düşük gaz seviyesi:** Gaz miktarı yetersiz olduğunda sistemde hava kabarcıkları oluşur ve fokurdama sesi çıkar. [Klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) gerekebilir.
 - **Genleşme valfi sorunu:** Valf düzgün çalışmıyorsa gaz akışı düzensizleşir ve sürekli hışırtı sesi oluşur.
 
 ### Çözüm
@@ -144,7 +144,7 @@ Ayşe Hanım, Haliliye'de 3. katta oturuyordu. Klima dış ünitesi balkona mont
 
 "Deprem mi oluyor" diye irkildiği geceler oldu. Sorun basitti: montajcı titreşim önleyici lastik takoz kullanmamıştı. Servis ekibimiz 4 adet kauçuk titreşim damperi taktı, borulara izolasyon uyguladı. Toplam maliyet 350 TL. Ayşe Hanım o geceden itibaren rahat uyudu.
 
-**Montaj kaynaklı titreşim sorunu yaşıyorsanız, ünitenin yeniden konumlandırılması gerekebilir.** [Klima sökme takma hizmeti hakkında bilgi alın.](/blog/klima-sokme-takma-ucreti)
+**Montaj kaynaklı titreşim sorunu yaşıyorsanız, ünitenin yeniden konumlandırılması gerekebilir.** [Klima sökme takma hizmeti hakkında bilgi alın.](/blog/klima-sokme-takma-ucreti/)
 
 ## 6. Kirli Kondenser Serpantini
 
@@ -167,7 +167,7 @@ Ne olur? Fan daha fazla çalışır. Kompresör zorlanır. Genel gürültü sevi
 3. Kondenser kanatçıklarını düşük basınçlı bahçe hortumu ile dışarıdan içeriye doğru yıkayın. Yüksek basınçlı su kullanmayın, kanatçıklar eğilir.
 4. Eğilmiş kanatçıkları "fin comb" (kanatçık tarağı) ile düzeltin. Bu alet 100-200 TL civarında bulunur.
 
-> **Uyarı:** Kondenser temizliğini yılda en az bir kez, tercihen bahar aylarında yapın. Şanlıurfa'da özellikle toz fırtınaları ve kum rüzgarı sonrası ekstra temizlik gerekebilir. Kapsamlı bir temizlik için profesyonel [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak en sağlıklı çözümdür.
+> **Uyarı:** Kondenser temizliğini yılda en az bir kez, tercihen bahar aylarında yapın. Şanlıurfa'da özellikle toz fırtınaları ve kum rüzgarı sonrası ekstra temizlik gerekebilir. Kapsamlı bir temizlik için profesyonel [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak en sağlıklı çözümdür.
 
 ## 7. Elektriksel Sorunlar ve Kontaktör Arızası
 
@@ -177,13 +177,13 @@ Dış üniteden vızıltı, cızırtı veya ark sesi mi geliyor? Elektriksel sor
 
 - **Sürekli vızıltı** ama kompresör çalışmıyor: Kontaktör yapışmış veya kapasitör arızalı olabilir.
 - **Cızırtı veya kıvılcım sesi:** Elektrik bağlantısında gevşeklik veya ark oluşumu. Yangın riski taşır.
-- **Tıklama sesi ve durma:** Klima sürekli açılıp kapanıyorsa (kısa devre koruması devreye giriyor olabilir), [klima hata kodları](/blog/klima-hata-kodlari) rehberimize bakın. Ayrıca [klima ışığı yanıp sönüyor](/blog/klima-isigi-yanip-sonuyor) mu kontrol edin; ışık yanıp sönmesi de hata kodlarıyla bağlantılıdır.
+- **Tıklama sesi ve durma:** Klima sürekli açılıp kapanıyorsa (kısa devre koruması devreye giriyor olabilir), [klima hata kodları](/blog/klima-hata-kodlari/) rehberimize bakın. Ayrıca [klima ışığı yanıp sönüyor](/blog/klima-isigi-yanip-sonuyor/) mu kontrol edin; ışık yanıp sönmesi de hata kodlarıyla bağlantılıdır.
 
 ### Çözüm
 
 Elektriksel sorunlar kesinlikle profesyonel müdahale gerektirir. Bu sorunlara kendiniz müdahale etmeyin; elektrik çarpması ve yangın riski var.
 
-Yapmanız gereken tek şey: klimayı kapatın, şalteri indirin ve servis arayın. Cızırtı veya kıvılcım sesi duyuyorsanız klimanın sigortasını da atın. [Klima servis ücreti](/blog/klima-servis-ucreti) hakkında bilgi almak isterseniz rehberimize göz atın. [Servis hattımız 7/24 açıktır: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
+Yapmanız gereken tek şey: klimayı kapatın, şalteri indirin ve servis arayın. Cızırtı veya kıvılcım sesi duyuyorsanız klimanın sigortasını da atın. [Klima servis ücreti](/blog/klima-servis-ucreti/) hakkında bilgi almak isterseniz rehberimize göz atın. [Servis hattımız 7/24 açıktır: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
 
 ## Hangi Sesler Acil, Hangilerine Servis Gerekir?
 
@@ -204,7 +204,7 @@ Tüm dış ünite seslerini aciliyet düzeyine göre özetleyelim:
 
 Klima dış ünite ses yapıyor sorunuyla tekrar karşılaşmamak için şu önlemleri alın:
 
-**1. Düzenli bakım yaptırın.** Yılda en az iki kez (sezon başı ve sezon sonu) profesyonel bakım, birçok gürültü kaynağını sorun büyümeden önler. [Klima bakım fiyatları hakkında detaylı bilgi alın.](/blog/klima-bakim-fiyatlari)
+**1. Düzenli bakım yaptırın.** Yılda en az iki kez (sezon başı ve sezon sonu) profesyonel bakım, birçok gürültü kaynağını sorun büyümeden önler. [Klima bakım fiyatları hakkında detaylı bilgi alın.](/blog/klima-bakim-fiyatlari/)
 
 **2. Titreşim önleyici ekipman kullanın.** Montaj sırasında kauçuk takozlar, titreşim damperleri ve izolasyon malzemesi kullanılmasını isteyin.
 
@@ -212,7 +212,7 @@ Klima dış ünite ses yapıyor sorunuyla tekrar karşılaşmamak için şu önl
 
 **4. Anormal sesleri erken fark edin.** Klimanızın normal çalışma sesini tanıyın. Yeni veya değişen bir ses duyduğunuzda beklemeden kontrol edin.
 
-**5. Kaliteli montaj yaptırın.** Gürültü sorunlarının önemli bir kısmı hatalı montajdan kaynaklanır. Lisanslı ve deneyimli bir ekiple [profesyonel klima montajı](/blog/klima-montaj-fiyatlari) yaptırarak bu sorunun önüne geçin.
+**5. Kaliteli montaj yaptırın.** Gürültü sorunlarının önemli bir kısmı hatalı montajdan kaynaklanır. Lisanslı ve deneyimli bir ekiple [profesyonel klima montajı](/blog/klima-montaj-fiyatlari/) yaptırarak bu sorunun önüne geçin.
 
 ## Sıkça Sorulan Sorular
 

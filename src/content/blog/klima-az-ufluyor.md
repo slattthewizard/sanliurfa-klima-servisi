@@ -15,7 +15,7 @@ Elinizi klimanın önüne tuttunuz ve fark ettiniz: hava geliyor ama eskisi kada
 
 İyi haber şu: bu sorunun büyük kısmı basit bir tıkanıklıktan kaynaklanıyor ve çoğu zaman evde kendiniz kontrol edebilirsiniz. Kötü haber ise, hava akışı zayıflığını görmezden gelirseniz zamanla kompresöre ekstra yük binip daha büyük ve pahalı bir arızaya dönüşebilmesi.
 
-Bu yazıda klima az üflüyor sorununun sıralı nedenlerini, hangisini kendiniz kontrol edebileceğinizi ve ne zaman teknisyen çağırmanız gerektiğini anlatıyoruz. Klimanız az üflemenin ötesinde hiç soğutmuyorsa [klima soğutmuyor](/blog/klima-sogutmuyor) yazımızdaki daha geniş neden listesine bakabilirsiniz. Sorunu netleştiremiyorsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan bize ulaşabilirsiniz.
+Bu yazıda klima az üflüyor sorununun sıralı nedenlerini, hangisini kendiniz kontrol edebileceğinizi ve ne zaman teknisyen çağırmanız gerektiğini anlatıyoruz. Klimanız az üflemenin ötesinde hiç soğutmuyorsa [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımızdaki daha geniş neden listesine bakabilirsiniz. Sorunu netleştiremiyorsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan bize ulaşabilirsiniz.
 
 ## 1. Kirli Filtre: En Sık Rastlanan Neden
 
@@ -23,7 +23,7 @@ Klima az üflüyor şikayetlerinin büyük çoğunluğu, basitçe tıkanmış bi
 
 **Kontrol nasıl yapılır:** İç ünitenin ön kapağını açıp filtreleri ışığa tutun. Işığın filtreden zar zor geçtiğini görüyorsanız, tıkanıklık var demektir.
 
-**Çözüm:** Filtreleri çıkarıp ılık su ve hafif deterjanla yıkayın, gölgede tamamen kurutup yerine takın. Şanlıurfa'nın tozlu ikliminde yaz aylarında bu işlemi 2 haftada bir tekrarlamanızı öneririz. Adım adım anlatım için [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımıza bakabilirsiniz.
+**Çözüm:** Filtreleri çıkarıp ılık su ve hafif deterjanla yıkayın, gölgede tamamen kurutup yerine takın. Şanlıurfa'nın tozlu ikliminde yaz aylarında bu işlemi 2 haftada bir tekrarlamanızı öneririz. Adım adım anlatım için [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımıza bakabilirsiniz.
 
 Haliliye'de bir müşterimiz klimasının giderek zayıf üflediğini fark etmiş ama "yaz sonu, klima yorgun düştü" diye düşünüp görmezden gelmişti. Filtreleri kontrol ettiğimizde neredeyse tamamen tıkanmış durumdaydı. Temizlik sonrası hava akımı gözle görülür şekilde güçlendi, ek bir maliyet çıkmadı.
 
@@ -104,13 +104,13 @@ Az üfleme şikayetinde zaman kaybetmemek için şu sırayla ilerleyin:
 
 ## 10. Klima Az Üflüyor mu, Soğutmuyor mu? Farkı Anlamak
 
-Bu iki şikayeti ayırt etmek teşhis sürecini hızlandırır. Klima az üflüyor ama üflediği hava soğuksa, sorun muhtemelen hava akışı yolunda (filtre, evaporatör, fan, kanal). Klima normal güçte üflüyor ama hava soğuk değilse, sorun muhtemelen gaz seviyesi veya kompresörle ilgili, bu durumda [klima soğutmuyor](/blog/klima-sogutmuyor) yazımızdaki nedenlere bakmanız daha doğru olur.
+Bu iki şikayeti ayırt etmek teşhis sürecini hızlandırır. Klima az üflüyor ama üflediği hava soğuksa, sorun muhtemelen hava akışı yolunda (filtre, evaporatör, fan, kanal). Klima normal güçte üflüyor ama hava soğuk değilse, sorun muhtemelen gaz seviyesi veya kompresörle ilgili, bu durumda [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımızdaki nedenlere bakmanız daha doğru olur.
 
-Bazı durumlarda ikisi birlikte görülür: zayıf ve ılık hava. Bu genellikle evaporatörde buzlanma olduğuna işaret eder, çünkü buz tabakası hem hava akışını hem soğutmayı aynı anda engeller. Buzlanmanın nedenlerini ve doğru çözüm adımlarını [klima buz tutuyor](/blog/klima-buz-tutuyor) yazımızda ayrıntılı anlattık; iç ünitede buz fark ettiyseniz klimayı kapatıp buzun erimesini beklemek ilk adımdır.
+Bazı durumlarda ikisi birlikte görülür: zayıf ve ılık hava. Bu genellikle evaporatörde buzlanma olduğuna işaret eder, çünkü buz tabakası hem hava akışını hem soğutmayı aynı anda engeller. Buzlanmanın nedenlerini ve doğru çözüm adımlarını [klima buz tutuyor](/blog/klima-buz-tutuyor/) yazımızda ayrıntılı anlattık; iç ünitede buz fark ettiyseniz klimayı kapatıp buzun erimesini beklemek ilk adımdır.
 
 ## 11. Düzenli Bakımla Az Üfleme Sorununu Önlemek
 
-Az üfleme şikayetlerinin büyük kısmı, düzenli bakımla baştan önlenebilir. Yılda en az bir kez profesyonel bakım (filtre, evaporatör, kondenser ve fan kontrolünü kapsayan) yaptırmak, bu tür tıkanıklıkların birikmeden temizlenmesini sağlar. Adım adım evde ve profesyonel bakım işlemlerini [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımızda topladık.
+Az üfleme şikayetlerinin büyük kısmı, düzenli bakımla baştan önlenebilir. Yılda en az bir kez profesyonel bakım (filtre, evaporatör, kondenser ve fan kontrolünü kapsayan) yaptırmak, bu tür tıkanıklıkların birikmeden temizlenmesini sağlar. Adım adım evde ve profesyonel bakım işlemlerini [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımızda topladık.
 
 Eyyübiye'de bir işletme sahibi müşterimiz, dükkanındaki klimanın hava akımının giderek zayıfladığını iki ay boyunca fark etmemişti. Sonunda kompresör aşırı yüklenip koruma moduna geçti ve klima tamamen durdu. Yapılan kontrolde evaporatörün yoğun yağ ve toz tabakasıyla kaplandığı görüldü. Serpantin temizliği ve filtre değişimiyle klima yeniden normale döndü, toplam maliyet 1.400 TL civarında kaldı. Erken fark edilip standart bakım (800-1.200 TL) yaptırılsaydı hem daha ucuza gelecek hem de dükkan iki gün klimasız kalmayacaktı.
 
@@ -133,7 +133,7 @@ Tablodan çıkan pratik ders: ilk dört adımı (filtre, fan ayarı, dış ünit
 
 Yeni bir klimada az üfleme şikayeti genellikle montaj hatasından kaynaklanırken, 6-8 yaşını geçmiş klimalarda mekanik aşınma devreye girer. Fan motorunun yatakları yıllar içinde doğal olarak aşınır, kanatlardaki toz birikimi ise her sezon biraz daha kalıcı hale gelir çünkü yağlı toz tabakası basit suyla artık tam temizlenmez.
 
-Klimanız 8 yaşın üzerindeyse ve az üfleme şikayeti tekrarlıyorsa, sadece o anki arızayı değil, cihazın genel durumunu da değerlendirmek mantıklı olur. Tamirin mi yoksa yeni cihaza geçmenin mi daha ekonomik olduğuna karar vermek için [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi) yazımızdaki karar çerçevesine bakabilirsiniz.
+Klimanız 8 yaşın üzerindeyse ve az üfleme şikayeti tekrarlıyorsa, sadece o anki arızayı değil, cihazın genel durumunu da değerlendirmek mantıklı olur. Tamirin mi yoksa yeni cihaza geçmenin mi daha ekonomik olduğuna karar vermek için [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi/) yazımızdaki karar çerçevesine bakabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 

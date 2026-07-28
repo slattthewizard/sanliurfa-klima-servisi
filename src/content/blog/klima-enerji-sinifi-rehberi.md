@@ -15,7 +15,7 @@ Mağazada iki klima yan yana duruyor. Aynı BTU, aynı marka segmenti, ama fiyat
 
 **Klima enerji sınıfı** etiketi aslında çok basit bir bilgi taşıyor: cihazın harcadığı elektriğe karşılık ne kadar soğutma verdiği. Ama etiketi doğru okumayı bilmezseniz, gereksiz yere pahalı bir model alabilir ya da tam tersi, uzun vadede daha pahalıya gelecek ucuz bir model seçebilirsiniz.
 
-Bu yazıda enerji sınıflarının ne anlama geldiğini, SEER değerinin nasıl hesaplandığını ve A sınıfı ile A+++ arasındaki farkın yıllık faturanıza gerçekte ne kadar yansıdığını anlatıyoruz. Klimanızın genel elektrik tüketimini merak ediyorsanız [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımıza da bakabilirsiniz; burada özellikle enerji sınıfı farkına odaklanıyoruz. Doğru model seçimi konusunda destek almak isterseniz [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızı arayabilirsiniz.
+Bu yazıda enerji sınıflarının ne anlama geldiğini, SEER değerinin nasıl hesaplandığını ve A sınıfı ile A+++ arasındaki farkın yıllık faturanıza gerçekte ne kadar yansıdığını anlatıyoruz. Klimanızın genel elektrik tüketimini merak ediyorsanız [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımıza da bakabilirsiniz; burada özellikle enerji sınıfı farkına odaklanıyoruz. Doğru model seçimi konusunda destek almak isterseniz [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızı arayabilirsiniz.
 
 ## 1. Klima Enerji Sınıfı Ne Anlama Gelir?
 
@@ -67,7 +67,7 @@ Etiketteki "yıllık enerji tüketimi" rakamı, kendi kullanım sürenize tam uy
 
 ## 6. Enerji Sınıfı ile Inverter Teknolojisi Aynı Şey mi?
 
-Hayır, bu ikisi sık karıştırılır ama farklı kavramlardır. Inverter teknolojisi, kompresörün sabit hızda değil değişken hızda çalışmasını sağlayan bir mekanizmadır ve genellikle yüksek enerji sınıfına ulaşmanın önkoşuludur. Ama her inverter klima otomatik olarak A+++ sınıfında değildir; model ve mühendislik kalitesine göre A+ ile A+++ arasında değişebilir. Inverter teknolojisinin genel çalışma mantığını ve on/off klimayla farkını [inverter klima nedir](/blog/inverter-klima-nedir) yazımızda ayrıntılı anlattık.
+Hayır, bu ikisi sık karıştırılır ama farklı kavramlardır. Inverter teknolojisi, kompresörün sabit hızda değil değişken hızda çalışmasını sağlayan bir mekanizmadır ve genellikle yüksek enerji sınıfına ulaşmanın önkoşuludur. Ama her inverter klima otomatik olarak A+++ sınıfında değildir; model ve mühendislik kalitesine göre A+ ile A+++ arasında değişebilir. Inverter teknolojisinin genel çalışma mantığını ve on/off klimayla farkını [inverter klima nedir](/blog/inverter-klima-nedir/) yazımızda ayrıntılı anlattık.
 
 Kısacası: inverter olması yüksek verim ihtimalini artırır ama garanti etmez. Satın almadan önce mutlaka enerji etiketindeki sınıfı ve kWh/yıl değerini kontrol edin.
 
@@ -77,17 +77,17 @@ Kısacası: inverter olması yüksek verim ihtimalini artırır ama garanti etme
 
 SCOP mantığı SEER ile aynıdır: harcanan 1 birim elektriğe karşılık üretilen ısı miktarını gösterir. SCOP 4,0 olan bir klima, 1 kWh elektrikle yaklaşık 4 kWh ısı üretir. Bu, elektrikli ısıtıcılardan kat kat verimli bir ısınma yöntemi demektir, çünkü elektrikli ısıtıcı 1 kWh elektrikle en fazla 1 kWh ısı verebilir.
 
-Enerji etiketinde soğutma ve ısıtma sınıfları ayrı ayrı gösterilir. Bir klima soğutmada A+++ iken ısıtmada A+ olabilir. Klimayı kışın da ana ısınma kaynağı olarak kullanmayı planlıyorsanız, iki değeri birlikte değerlendirin. Klima ile ısınmanın doğalgaz ve elektrikli ısıtıcıyla maliyet karşılaştırmasını [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımızda ayrıntılı senaryolarla ele aldık.
+Enerji etiketinde soğutma ve ısıtma sınıfları ayrı ayrı gösterilir. Bir klima soğutmada A+++ iken ısıtmada A+ olabilir. Klimayı kışın da ana ısınma kaynağı olarak kullanmayı planlıyorsanız, iki değeri birlikte değerlendirin. Klima ile ısınmanın doğalgaz ve elektrikli ısıtıcıyla maliyet karşılaştırmasını [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımızda ayrıntılı senaryolarla ele aldık.
 
 Bir not: SCOP değeri, ılıman iklim bölgesine göre hesaplanır. Dış sıcaklık eksi değerlere düştüğünde klimanın ısıtma verimi düşer. Şanlıurfa kışları görece ılıman geçtiği için klima ile ısınma bu bölgede çoğu zaman verimli bir seçenek olarak kalır; çok sert geçen kış günlerinde ise ek bir ısı kaynağı gerekebilir.
 
 ## 8. Klima Alırken Enerji Sınıfına Ne Kadar Ağırlık Vermelisiniz?
 
-Enerji sınıfı, klima seçiminde önemli ama tek kriter değil. Marka güvenilirliği, servis ağı, ses seviyesi ve fiyat gibi diğer faktörlerle birlikte değerlendirilmeli. Klima alırken dikkat edilmesi gereken genel kriterleri [klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli) yazımızda topladık.
+Enerji sınıfı, klima seçiminde önemli ama tek kriter değil. Marka güvenilirliği, servis ağı, ses seviyesi ve fiyat gibi diğer faktörlerle birlikte değerlendirilmeli. Klima alırken dikkat edilmesi gereken genel kriterleri [klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli/) yazımızda topladık.
 
 Genel önerimiz şu: Bütçeniz izin veriyorsa ve klimayı yılın büyük bölümünde yoğun kullanacaksanız (Şanlıurfa'da olduğu gibi), A++ veya A+++ sınıfı bir model tercih edin. Klimayı seyrek kullanacaksanız (örneğin yazlık bir evde), enerji sınıfı farkının geri kazanım süresi uzayacağı için bütçe dostu bir A veya A+ modeli de makul bir tercih olabilir.
 
-Marka bazında enerji verimliliği, kompresör garantisi ve fiyat segmentlerini karşılaştırmak isterseniz [en iyi klima markaları](/blog/en-iyi-klima-markalari) yazımızdaki tabloya göz atabilirsiniz. Üst segment markaların A+++ modelleri ile orta segment markaların A++ modelleri arasındaki fiyat farkı bazen enerji tasarrufundan daha belirleyici olabiliyor; bu yüzden karşılaştırmayı hem sınıf hem marka düzeyinde yapmak en sağlıklısı.
+Marka bazında enerji verimliliği, kompresör garantisi ve fiyat segmentlerini karşılaştırmak isterseniz [en iyi klima markaları](/blog/en-iyi-klima-markalari/) yazımızdaki tabloya göz atabilirsiniz. Üst segment markaların A+++ modelleri ile orta segment markaların A++ modelleri arasındaki fiyat farkı bazen enerji tasarrufundan daha belirleyici olabiliyor; bu yüzden karşılaştırmayı hem sınıf hem marka düzeyinde yapmak en sağlıklısı.
 
 Eyyübiye'de bir müşterimiz geçen yıl salon için klima alırken iki seçenek arasında kalmıştı: orta segment bir markanın A++ modeli ile üst segment bir markanın A+++ modeli. Aradaki fiyat farkı 6.000 TL'nin üzerindeydi. Kullanım hesabı yapıldığında A+++ modelin yıllık ek tasarrufu bu farkı ancak 4-5 yılda kapatıyordu. Servis ağı da iki markada benzer olduğu için A++ modeli tercih etti. Enerji sınıfı önemli, ama her zaman "en yüksek sınıfı al" formülü doğru sonuç vermiyor; hesap kendi kullanımınıza göre yapılmalı.
 
@@ -95,7 +95,7 @@ Eyyübiye'de bir müşterimiz geçen yıl salon için klima alırken iki seçene
 
 Burada sık atlanan bir gerçek var: A+++ etiketli bir klima, kirli filtre ve tıkanmış dış üniteyle çalışırsa etiketteki verimin çok altında kalır. Enerji etiketi, laboratuvar koşullarında temiz bir cihazla ölçülür. Gerçek hayatta filtre birikintisi, kirli evaporatör ve tozla kaplı dış ünite kanatçıkları, en yüksek sınıftaki bir klimayı bile orta sınıf bir cihaz gibi çalıştırabilir.
 
-Şanlıurfa'nın tozlu havası bu etkiyi büyütüyor. Bakımsız bırakılan bir A+++ klima, düzenli bakımı yapılan bir A++ klimadan daha fazla elektrik harcayabilir. Yani enerji sınıfı seçimi kadar, seçtiğiniz sınıfı korumak da önemli. Filtre temizliği ve sezonluk bakımın verime etkisini [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımızda ayrıntılı anlattık.
+Şanlıurfa'nın tozlu havası bu etkiyi büyütüyor. Bakımsız bırakılan bir A+++ klima, düzenli bakımı yapılan bir A++ klimadan daha fazla elektrik harcayabilir. Yani enerji sınıfı seçimi kadar, seçtiğiniz sınıfı korumak da önemli. Filtre temizliği ve sezonluk bakımın verime etkisini [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımızda ayrıntılı anlattık.
 
 Pratik kural: yılda en az iki kez profesyonel bakım yaptıran bir kullanıcı, hangi enerji sınıfını seçerse seçsin etiketteki değere yakın bir performans alır. Bakımı ihmal eden kullanıcı ise en pahalı A+++ modelde bile beklediği tasarrufu göremez.
 
@@ -109,7 +109,7 @@ Bu yüzden iki farklı klimayı karşılaştırırken sadece harfe değil, etike
 
 Evinizdeki mevcut klima 8-10 yaşından büyükse, muhtemelen bugünkü A+++ standartlarının gerisinde kalmıştır. Eski modellerde enerji etiketi genellikle iç ünitenin yan tarafında veya kullanım kılavuzunda bulunur. Etiket kaybolmuşsa marka ve model numarasını üreticinin web sitesinde aratarak teknik özelliklere ulaşabilirsiniz.
 
-Eski ve düşük verimli bir klimayı değiştirmenin mantıklı olup olmadığına karar verirken sadece enerji sınıfına değil, cihazın genel durumuna ve tamir maliyetine de bakmak gerekir. Bu karar için kapsamlı bir çerçeveyi [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi) yazımızda bulabilirsiniz.
+Eski ve düşük verimli bir klimayı değiştirmenin mantıklı olup olmadığına karar verirken sadece enerji sınıfına değil, cihazın genel durumuna ve tamir maliyetine de bakmak gerekir. Bu karar için kapsamlı bir çerçeveyi [klima tamir mi değişim mi](/blog/klima-tamir-mi-degisim-mi/) yazımızda bulabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 

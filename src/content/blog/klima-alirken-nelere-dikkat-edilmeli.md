@@ -59,7 +59,7 @@ Sadece metrekareye bakarak BTU seçmek yetmez. Şu faktörler de hesaba katılma
 - **Kişi sayısı:** Her kişi yaklaşık 400-600 BTU ısı üretir. 4+ kişilik ofislerde bunu hesaba katın.
 - **Elektronik cihazlar:** Bilgisayar, televizyon gibi cihazlar da ısı üretir.
 
-[2026 yılında 12.000 BTU klima fiyatlarını ve en çok tercih edilen modelleri bu rehberimizde inceledik.](/blog/12000-btu-klima-fiyati)
+[2026 yılında 12.000 BTU klima fiyatlarını ve en çok tercih edilen modelleri bu rehberimizde inceledik.](/blog/12000-btu-klima-fiyati/)
 
 ## Inverter Klima mı, On-Off Klima mı?
 
@@ -92,7 +92,7 @@ Inverter klima, kompresör hızını kademesiz olarak ayarlar. Oda soğudukça k
 
 **Tavsiyemiz:** Klimayı günde 6 saatten fazla kullanacaksanız inverter tercih edin. Fiyat farkını 1-2 yılda elektrik faturasından çıkarırsınız.
 
-[2026 yılında klima fiyatları, marka ve model karşılaştırmasıyla birlikte detaylı rehberimize göz atın.](/blog/klima-fiyatlari-2026)
+[2026 yılında klima fiyatları, marka ve model karşılaştırmasıyla birlikte detaylı rehberimize göz atın.](/blog/klima-fiyatlari-2026/)
 
 ## Enerji Sınıfı: A+++, A++ ve A+ Arasındaki Fark Ne Kadar?
 
@@ -182,7 +182,7 @@ Klimayı kışın da kullanacaksanız ısıtma performansına (COP değeri) dikk
 
 Kompresör garantisi minimum 5 yıl olmalıdır. Genel garanti süresi 3 yıl standarttır. Garanti kapsamında montaj garantisinin de olduğunu kontrol edin.
 
-[Klima bakımının ne zaman yaptırılması gerektiğini ve garantiye etkisini detaylı anlattığımız rehberimize göz atın.](/blog/klima-bakim-fiyatlari)
+[Klima bakımının ne zaman yaptırılması gerektiğini ve garantiye etkisini detaylı anlattığımız rehberimize göz atın.](/blog/klima-bakim-fiyatlari/)
 
 ## Montaj: Klima Performansının Gizli Belirleyicisi
 
@@ -200,9 +200,9 @@ Doğru klimayı seçmek işin yarısıdır. Diğer yarısı montajdır. Kötü m
 
 **Montaj fiyatı, klimanın toplam maliyetinin yüzde 10-15'i kadardır.** Bu yüzde 10'dan tasarruf etmek, yüzde 90'lık yatırımı riske atmak demektir.
 
-[Klima montaj fiyatlarının neden değiştiğini ve nelere dikkat etmeniz gerektiğini detaylı anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor)
+[Klima montaj fiyatlarının neden değiştiğini ve nelere dikkat etmeniz gerektiğini detaylı anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor/)
 
-[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari)
+[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari/)
 
 ## Klima Aldıktan Sonra Yapmanız Gerekenler
 
@@ -220,9 +220,9 @@ Doğru klimayı seçip kaliteli montaj yaptırdınız. Peki sonra? Klimanızın 
 - **Her sezon başında:** Profesyonel bakım yaptırın. Filtre, evaporatör, drenaj sistemi ve gaz seviyesi kontrol edilmeli.
 - **Yılda bir:** Kapsamlı bakım; elektrik bağlantıları, kompresör kontrolü dahil.
 
-Düzenli bakım yapılan klimalar ortalama 12-15 yıl ömür sürer. Bakımsız klimalar 7-8 yılda ciddi arıza yapar. [Klima bakımı nasıl yapılır adım adım rehberimiz](/blog/klima-bakimi-nasil-yapilir) bu konuda yardımcı olacaktır. Bakımsızlık sonucu en sık karşılaşılan sorunlardan biri [klimadan su akması](/blog/klimadan-su-akiyor); bir diğeri ise gaz kaybıdır. [Klima gaz dolumu fiyatları ve süreci hakkında detaylı bilgi](/blog/klima-gaz-dolumu-fiyatlari) edinmek isterseniz rehberimize göz atın.
+Düzenli bakım yapılan klimalar ortalama 12-15 yıl ömür sürer. Bakımsız klimalar 7-8 yılda ciddi arıza yapar. [Klima bakımı nasıl yapılır adım adım rehberimiz](/blog/klima-bakimi-nasil-yapilir/) bu konuda yardımcı olacaktır. Bakımsızlık sonucu en sık karşılaşılan sorunlardan biri [klimadan su akması](/blog/klimadan-su-akiyor/); bir diğeri ise gaz kaybıdır. [Klima gaz dolumu fiyatları ve süreci hakkında detaylı bilgi](/blog/klima-gaz-dolumu-fiyatlari/) edinmek isterseniz rehberimize göz atın.
 
-[Klima servis ücreti ve bakım paketleri hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-servis-ucreti)
+[Klima servis ücreti ve bakım paketleri hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-servis-ucreti/)
 
 ## 2026 Klima Fiyat Aralıkları
 

@@ -13,7 +13,7 @@ publishDate: "2026-04-15"
 
 Osman Bey, Eyyübiye'de yeni taşındığı dairesine 12.000 BTU'luk bir klima aldı. Internetten bulduğu en ucuz montajcıya yaptırdı. Montaj 2 saatte bitti, fiyat da uygundu. Ama sevinç kısa sürdü.
 
-İlk hafta klima odayı soğutamadı. İkinci hafta iç üniteden su damlamaya başladı. Üçüncü hafta dış üniteden gelen titreşim sesi komşuları rahatsız etti. Servisi aradığında aldığı cevap: "Montaj hatalı yapılmış, tekrar sökülüp takılması gerekiyor." [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) ile birlikte ek maliyet: 4.500 TL.
+İlk hafta klima odayı soğutamadı. İkinci hafta iç üniteden su damlamaya başladı. Üçüncü hafta dış üniteden gelen titreşim sesi komşuları rahatsız etti. Servisi aradığında aldığı cevap: "Montaj hatalı yapılmış, tekrar sökülüp takılması gerekiyor." [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) ile birlikte ek maliyet: 4.500 TL.
 
 Klima montajında dikkat edilmesi gerekenler listesi uzun ama kritik olanları bilmek sizi bu tür sürprizlerden korur. Yanlış montaj, klimanın performansını %30-40 düşürür, enerji tüketimini artırır ve ömrünü kısaltır. Doğru montaj ise klimanızın 15+ yıl sorunsuz çalışmasını sağlar.
 
@@ -25,7 +25,7 @@ Klima performansının %50'si cihazın kalitesine, %50'si montajın kalitesine b
 
 ### Performans Kaybı
 
-Yanlış yerleştirilen iç ünite havayı odaya eşit dağıtamaz. Bir köşe buz gibi olurken diğer köşe sıcak kalır. [Klima soğutmuyor](/blog/klima-sogutmuyor) şikayetlerinin önemli bir kısmı aslında montaj hatasından kaynaklanır.
+Yanlış yerleştirilen iç ünite havayı odaya eşit dağıtamaz. Bir köşe buz gibi olurken diğer köşe sıcak kalır. [Klima soğutmuyor](/blog/klima-sogutmuyor/) şikayetlerinin önemli bir kısmı aslında montaj hatasından kaynaklanır.
 
 ### Enerji İsrafı
 
@@ -33,7 +33,7 @@ Hatalı montaj, klimanın normalden %20-40 daha fazla elektrik harcamasına nede
 
 ### Arıza Riski
 
-Yanlış montaj; [gaz kaçağı](/blog/klima-gaz-kacagi-belirtileri), su akıntısı, kompresör hasarı ve elektrik arızalarının en büyük nedeni. Garanti kapsamındaki klimalar bile hatalı montaj yüzünden garantiden çıkabiliyor. Üretici firmalar, yetkisiz montajı garanti ihlali olarak değerlendiriyor.
+Yanlış montaj; [gaz kaçağı](/blog/klima-gaz-kacagi-belirtileri/), su akıntısı, kompresör hasarı ve elektrik arızalarının en büyük nedeni. Garanti kapsamındaki klimalar bile hatalı montaj yüzünden garantiden çıkabiliyor. Üretici firmalar, yetkisiz montajı garanti ihlali olarak değerlendiriyor.
 
 **Klima montajı yaptırmayı mı düşünüyorsunuz?** Ücretsiz keşif için bizi arayın: [0553 397 52 44](tel:+905533975244)
 
@@ -119,7 +119,7 @@ Kaliteli elastomerik yalıtım malzemesi kullanılmalı. Ucuz sünger yalıtım 
 
 ## 5. Drenaj (Yoğuşma Suyu) Hattı
 
-Klimanın soğutma işlemi sırasında oluşan yoğuşma suyu, drenaj hattı ile dışarı atılır. Yanlış drenaj montajı, [klimadan su akıyor](/blog/klimadan-su-akiyor) sorunlarının bir numaralı nedeni.
+Klimanın soğutma işlemi sırasında oluşan yoğuşma suyu, drenaj hattı ile dışarı atılır. Yanlış drenaj montajı, [klimadan su akıyor](/blog/klimadan-su-akiyor/) sorunlarının bir numaralı nedeni.
 
 ### Doğru Drenaj Montajı
 
@@ -168,7 +168,7 @@ Montaj bittikten sonra "tamam, çalışıyor" demek yetmez. Kapsamlı bir test y
 - **Isıtma testi**: Inverter klimalarda ısıtma modunu da test edin.
 - **Drenaj testi**: Drenaj çıkışına bir bardak su dökerek akışı kontrol edin.
 - **Gaz basıncı kontrolü**: Montajcının manometre ile basınç ölçümü yapmasını isteyin.
-- **Ses kontrolü**: İç ve dış ünitede anormal titreşim veya ses olmamalı. [Klima ses yapıyor](/blog/klima-ses-yapiyor) sorunu genellikle montaj hatalarından kaynaklanır.
+- **Ses kontrolü**: İç ve dış ünitede anormal titreşim veya ses olmamalı. [Klima ses yapıyor](/blog/klima-ses-yapiyor/) sorunu genellikle montaj hatalarından kaynaklanır.
 - **Elektrik kontrolü**: Tüm bağlantıların sıkı olduğunu kontrol ettirin.
 - **Uzaktan kumanda**: Tüm modları (soğutma, ısıtma, fan, kurutma) test edin.
 
@@ -184,11 +184,11 @@ Yetkisiz montaj, üretici garantisini geçersiz kılabilir. Garanti kapsamında 
 
 Montaj fişi olmadan yapılan garanti başvuruları genellikle reddedilir. Bu belge küçük bir kağıt parçası gibi görünse de, binlerce liralık garanti haklarınızı koruyan önemli bir evrak.
 
-Montaj sonrası klimanızın düzenli bakımını da ihmal etmeyin. [Klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımızda bakım süreçlerini detaylı anlattık.
+Montaj sonrası klimanızın düzenli bakımını da ihmal etmeyin. [Klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımızda bakım süreçlerini detaylı anlattık.
 
 ## Klima Montaj Maliyetini Etkileyen Faktörler
 
-Montaj ücreti sabit değildir. Birçok faktöre göre değişir. [Klima montaj ücreti neden değişiyor](/blog/klima-montaj-ucreti-neden-degisiyor) yazımızda bunu detaylı anlattık. Kısaca özetleyelim:
+Montaj ücreti sabit değildir. Birçok faktöre göre değişir. [Klima montaj ücreti neden değişiyor](/blog/klima-montaj-ucreti-neden-degisiyor/) yazımızda bunu detaylı anlattık. Kısaca özetleyelim:
 
 | Faktör | Etkisi |
 |--------|--------|
@@ -198,7 +198,7 @@ Montaj ücreti sabit değildir. Birçok faktöre göre değişir. [Klima montaj 
 | Duvar tipi | Beton duvar delme daha maliyetli |
 | Dış ünite konumu | Zor erişim ek ekipman gerektirir |
 
-Güncel fiyatlar için: [Klima montaj fiyatları 2026](/blog/klima-montaj-fiyatlari-2026)
+Güncel fiyatlar için: [Klima montaj fiyatları 2026](/blog/klima-montaj-fiyatlari-2026/)
 
 **En ucuz montajı değil, en doğru montajı tercih edin.** Ucuz montajın maliyeti, her zaman doğru montajdan daha yüksek olur.
 

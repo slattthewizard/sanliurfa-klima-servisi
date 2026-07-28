@@ -48,13 +48,13 @@ Haliliye'de bir müşterimiz, yatak odasındaki klima montajı yapılırken iç 
 
 Şanlıurfa'nın yazında dışarısı 44°C, içerisi 18°C olduğunda vücut sürekli büyük bir sıcaklık geçişi yaşıyor. Sık sık içeri dışarı girip çıkanlarda bu fark özellikle etkili oluyor. Vücut her seferinde yeniden uyum sağlamaya çalışıyor, bu da bağışıklık sistemini ve kasları yoruyor.
 
-Genel kural olarak iç ve dış sıcaklık arasındaki farkın 7-9°C'yi geçmemesi öneriliyor. Yani dışarısı 42-44°C ise içeriyi 24-26°C civarında tutmak, hem daha sağlıklı hem de klimanın enerji tüketimi açısından daha mantıklı. Aşırı düşük sıcaklık ayarlarının elektrik faturasına etkisini [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda detaylı anlatıyoruz.
+Genel kural olarak iç ve dış sıcaklık arasındaki farkın 7-9°C'yi geçmemesi öneriliyor. Yani dışarısı 42-44°C ise içeriyi 24-26°C civarında tutmak, hem daha sağlıklı hem de klimanın enerji tüketimi açısından daha mantıklı. Aşırı düşük sıcaklık ayarlarının elektrik faturasına etkisini [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda detaylı anlatıyoruz.
 
 ## 3. Gece Boyunca Klimanın Altında Uyumak
 
 Uyku sırasında vücut sıcaklığı zaten doğal olarak biraz düşer. Buna bir de tüm gece kesintisiz soğuk hava akışı eklenince, sabah kalkışta kas tutulması ve baş ağrısı riski artıyor. Özellikle klimanın hemen altına veya karşısına konan yataklarda bu durum sık yaşanıyor.
 
-Çoğu klima modelinde bu sorunu çözecek bir uyku modu var. Uyku modu gece boyunca sıcaklığı kademeli olarak birkaç derece yükseltiyor, böylece sabaha karşı oda çok soğumuyor. Timer (zamanlayıcı) kullanarak klimayı gecenin belirli bir saatinden sonra kapatmak da işe yarıyor. Farklı klima modlarının ne işe yaradığını [klima modları rehberi](/blog/klima-modlari-rehberi) yazımızda ayrıntılı anlattık.
+Çoğu klima modelinde bu sorunu çözecek bir uyku modu var. Uyku modu gece boyunca sıcaklığı kademeli olarak birkaç derece yükseltiyor, böylece sabaha karşı oda çok soğumuyor. Timer (zamanlayıcı) kullanarak klimayı gecenin belirli bir saatinden sonra kapatmak da işe yarıyor. Farklı klima modlarının ne işe yaradığını [klima modları rehberi](/blog/klima-modlari-rehberi/) yazımızda ayrıntılı anlattık.
 
 ## 4. Terli veya Nemli Bedenin Ani Soğuk Havayla Karşılaşması
 
@@ -68,7 +68,7 @@ Klimanın hava yönlendirme kanatları (jaluzi) genelde yatay veya hafif yukarı
 
 Karaköprü'de bir ofiste, resepsiyon masasının tam üstüne bakan klima yüzünden çalışan sürekli boyun ağrısından şikayet ediyordu. Salınım (swing) modu kapalıydı ve kanatlar sabitti. Salınımı açıp yönü masadan uzaklaştırdık, ek bir parça takmadan sadece ayar değişikliğiyle çözüldü. Bu tür ziyaretlerde ayar ve kontrol ücreti genelde 300-500 TL arasında değişiyor.
 
-Klima montajı sırasında iç ünitenin konumu doğru seçilmezse bu sorun kalıcı hale gelir. Böyle durumlarda üniteyi yeniden konumlandırmak gerekebilir, bunun için [klima montaj](/klima-montaj) hizmetimize göz atabilirsiniz.
+Klima montajı sırasında iç ünitenin konumu doğru seçilmezse bu sorun kalıcı hale gelir. Böyle durumlarda üniteyi yeniden konumlandırmak gerekebilir, bunun için [klima montaj](/klima-montaj/) hizmetimize göz atabilirsiniz.
 
 ## Klima Çarpması mı, Soğuk Algınlığı mı? Farkları
 
@@ -96,13 +96,13 @@ Klima çarpmasının çoğu vakası, aslında birkaç basit ayarla önlenebiliyo
 4. **Gerekirse hava yönlendirici (deflektör) taktırın.** Özellikle klima yatağın veya masanın tam üstündeyse, deflektör havayı yayarak doğrudan temas riskini azaltır.
 5. **Terliyken veya ıslakken doğrudan klima karşısına geçmeyin.** Birkaç dakika bekleyip vücut ısınızı dengelemeniz yeterli.
 
-Bu ayarlar aynı zamanda elektrik tüketimini de düşürüyor. Çok düşük sıcaklık ayarı klimayı gereksiz zorluyor ve faturayı artırıyor, detayları [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda var. Klimanızın hava akışı düzensizse veya bir taraftan hiç hava gelmiyorsa, bu ayar sorunu değil bakım veya arıza belirtisi olabilir; böyle durumlarda önce [klima soğutmuyor](/blog/klima-sogutmuyor) yazımıza, düzenli bakımın önemi için de [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) rehberimize bakabilirsiniz.
+Bu ayarlar aynı zamanda elektrik tüketimini de düşürüyor. Çok düşük sıcaklık ayarı klimayı gereksiz zorluyor ve faturayı artırıyor, detayları [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda var. Klimanızın hava akışı düzensizse veya bir taraftan hiç hava gelmiyorsa, bu ayar sorunu değil bakım veya arıza belirtisi olabilir; böyle durumlarda önce [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımıza, düzenli bakımın önemi için de [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) rehberimize bakabilirsiniz.
 
 Ayar denemelerinize rağmen klima hep aynı noktaya odaklı üflüyorsa ya da kanatlar hareket etmiyorsa, bu bir mekanik arıza olabilir. Böyle durumlarda bizi arayın: 0553 397 52 44.
 
 ### Bebekli ve Çocuklu Evlerde Ek Önlemler
 
-Bebekler ve küçük çocuklar sıcaklık farkına yetişkinlerden daha hassas tepki veriyor. Bu yaş grubunda klima ayarları, oda düzeni ve hava akış yönü konusunda ayrıca dikkat edilmesi gereken noktalar var. Bebekli evlerde klima kullanımını [bebekli evde klima kullanımı](/blog/bebekli-evde-klima-kullanimi) yazımızda ayrıntılı olarak ele aldık, bu konuda karar vermeden önce oraya göz atmanızı öneririz.
+Bebekler ve küçük çocuklar sıcaklık farkına yetişkinlerden daha hassas tepki veriyor. Bu yaş grubunda klima ayarları, oda düzeni ve hava akış yönü konusunda ayrıca dikkat edilmesi gereken noktalar var. Bebekli evlerde klima kullanımını [bebekli evde klima kullanımı](/blog/bebekli-evde-klima-kullanimi/) yazımızda ayrıntılı olarak ele aldık, bu konuda karar vermeden önce oraya göz atmanızı öneririz.
 
 ## Ne Zaman Doktora Gitmelisiniz?
 

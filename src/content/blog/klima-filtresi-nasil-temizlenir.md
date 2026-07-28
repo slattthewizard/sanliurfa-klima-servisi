@@ -33,7 +33,7 @@ Kirli filtre hava akışını engeller. Klima aynı soğutmayı sağlamak için 
 
 ### Soğutma Performansı Düşer
 
-Tıkalı filtre, klimanın emdiği hava miktarını azaltır. Klima tam kapasiteyle çalışsa bile oda istenen sıcaklığa ulaşamaz. [Klima soğutmuyor](/blog/klima-sogutmuyor) sorunuyla karşılaşanların önemli bir kısmında neden sadece kirli filtredir.
+Tıkalı filtre, klimanın emdiği hava miktarını azaltır. Klima tam kapasiteyle çalışsa bile oda istenen sıcaklığa ulaşamaz. [Klima soğutmuyor](/blog/klima-sogutmuyor/) sorunuyla karşılaşanların önemli bir kısmında neden sadece kirli filtredir.
 
 ### Sağlık Riskleri Oluşur
 
@@ -45,11 +45,11 @@ Kirli filtrede biriken toz, polen, küf sporları ve bakteriler her çalıştır
 
 Kirli filtre, evaporatörün (soğutucu serpantin) buzlanmasına, kompresörün aşırı yüklenmesine ve drenaj hattının tıkanmasına neden olur. Bu zincirleme etkiler klimanın ömrünü 5-7 yıl kısaltabilir.
 
-Bakımlı bir klima 15+ yıl çalışırken, bakımsız klima 7-8 yılda ekonomik ömrünü tamamlar. Drenaj tıkanması ayrıca [klimadan su akıyor](/blog/klimadan-su-akiyor) sorununa da yol açar.
+Bakımlı bir klima 15+ yıl çalışırken, bakımsız klima 7-8 yılda ekonomik ömrünü tamamlar. Drenaj tıkanması ayrıca [klimadan su akıyor](/blog/klimadan-su-akiyor/) sorununa da yol açar.
 
 ### Arıza Riskini Artırır
 
-Filtre tıkanması, klimanın en sık arıza nedenlerinden biri. Klima koruma moduna geçer ve çalışmayı durdurur. [Klima ışığı yanıp sönüyor](/blog/klima-isigi-yanip-sonuyor) sorunlarının %30-40'ı kirli filtreden kaynaklanır. Düzenli klima filtre temizliği bu arızaların çoğunluğunu önler.
+Filtre tıkanması, klimanın en sık arıza nedenlerinden biri. Klima koruma moduna geçer ve çalışmayı durdurur. [Klima ışığı yanıp sönüyor](/blog/klima-isigi-yanip-sonuyor/) sorunlarının %30-40'ı kirli filtreden kaynaklanır. Düzenli klima filtre temizliği bu arızaların çoğunluğunu önler.
 
 ## Klima Filtresi Temizliği İçin Gerekenler
 
@@ -117,7 +117,7 @@ Karaköprü'de aile hekimi olan Doktor Ahmet Bey, muayenehanesindeki iki kliman�
 
 İki yıldır tek bir klima arızası yaşamamış. Profesyonel bakımı da yılda bir kez yaptırıyor.
 
-**Filtre temizliği yetmiyorsa profesyonel bakım zamanı gelmiş olabilir.** [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel bakım ücretlerini öğrenin.
+**Filtre temizliği yetmiyorsa profesyonel bakım zamanı gelmiş olabilir.** [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel bakım ücretlerini öğrenin.
 
 ## Klima Filtresi Ne Sıklıkla Temizlenir?
 
@@ -176,7 +176,7 @@ Elektrikli süpürgeyle sadece yüzey tozu temizlenir. Ağ gözeneklerinin için
 
 "Bir hafta daha dayanır" düşüncesi, en pahalıya mal olan hata. Eyyübiye'de kuaför işleten Gamze Hanım, filtre temizliğini üç ay erteledi.
 
-Sonuç: evaporatör tamamen buzlandı, kompresör aşırı yüklendi ve koruma moduna geçti. [Klima servis ücreti](/blog/klima-servis-ucreti) olarak 2.800 TL ödedi. Oysa klima filtresi temizleme işlemi 15 dakika ve sıfır lira.
+Sonuç: evaporatör tamamen buzlandı, kompresör aşırı yüklendi ve koruma moduna geçti. [Klima servis ücreti](/blog/klima-servis-ucreti/) olarak 2.800 TL ödedi. Oysa klima filtresi temizleme işlemi 15 dakika ve sıfır lira.
 
 ## Profesyonel Bakım ve Filtre Temizliği Farkı
 

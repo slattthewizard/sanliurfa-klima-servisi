@@ -49,7 +49,7 @@ Portatif klimaların kutusunda 12.000 BTU yazması, split klimadaki 12.000 BTU i
 
 Pratik sonuç: split klimanın 15-20 dakikada soğuttuğu bir odayı, aynı etiket değerine sahip portatif klima çok daha uzun sürede ve daha yüksek elektrik tüketimiyle ancak birkaç derece serinletebiliyor. Şanlıurfa'nın 40-45°C bandındaki yaz günlerinde bu fark daha da açılıyor çünkü hortumdan geri kaçan ısı, dış sıcaklık arttıkça büyüyor.
 
-Odanız için doğru kapasiteyi hesaplarken [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizden yararlanabilirsiniz; oradaki hesap split klimalar içindir, portatif kullanacaksanız bir üst kapasiteye çıkmak genellikle şart olur.
+Odanız için doğru kapasiteyi hesaplarken [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizden yararlanabilirsiniz; oradaki hesap split klimalar içindir, portatif kullanacaksanız bir üst kapasiteye çıkmak genellikle şart olur.
 
 Haliliye'de bir müşterimiz geçen temmuz tam bu durumu yaşadı. Kiracı olduğu dairede ev sahibi dış ünite montajına izin vermeyince 14.000 TL'ye 12.000 BTU bir portatif klima aldı. Cihaz 25 m²'lik salonu öğle saatlerinde 30°C'nin altına düşüremedi, üstelik aylık elektrik faturası 1.400 TL arttı. Sonunda ev sahibiyle tekrar konuştu, dış ünitenin balkon içine monte edilmesi şartıyla izin aldı ve bize split montaj yaptırdı. Portatif cihazı yarı fiyatına ikinci el sattı. Toplam kaybı yaklaşık 7.000 TL oldu.
 
@@ -65,7 +65,7 @@ Portatif klimada ise kompresör sizinle aynı odada çalışır. Ortalama 55-65 
 
 Portatif klimaların neredeyse tamamı on-off mantığıyla çalışır; inverter portatif model piyasada yok denecek kadar azdır. Buna hortum kaynaklı verim kaybı da eklenince, aynı odayı serin tutmak için portatif klima split klimadan belirgin şekilde fazla elektrik harcar.
 
-Kabaca bir hesap: 12.000 BTU inverter split klima Şanlıurfa şartlarında günde 10 saat kullanımda aylık 1.000-1.500 TL civarında elektrik tüketirken, aynı odada aynı konforu zorlamaya çalışan bir portatif klima 1.500-2.500 TL bandına çıkabiliyor. Detaylı tüketim tabloları için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımıza bakabilirsiniz. Rakamlar tarifeye göre değişir ama oran hep portatifin aleyhine işliyor.
+Kabaca bir hesap: 12.000 BTU inverter split klima Şanlıurfa şartlarında günde 10 saat kullanımda aylık 1.000-1.500 TL civarında elektrik tüketirken, aynı odada aynı konforu zorlamaya çalışan bir portatif klima 1.500-2.500 TL bandına çıkabiliyor. Detaylı tüketim tabloları için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımıza bakabilirsiniz. Rakamlar tarifeye göre değişir ama oran hep portatifin aleyhine işliyor.
 
 Bir yaz sezonunda (5 ay) aradaki fark 2.500-5.000 TL'yi bulabiliyor. İki üç sezonda bu fark, split klimanın montaj maliyetini fazlasıyla karşılıyor.
 
@@ -98,7 +98,7 @@ Bunların dışındaki her senaryoda split klima hem konfor hem toplam maliyet a
 - Kışın ısıtma desteği de istiyorsanız; split klimaların çoğu verimli ısıtma yapar, portatiflerin çoğu yapmaz.
 - Şanlıurfa gibi uzun ve sert bir yaz sezonu geçiren bir şehirde günde 8 saatten fazla soğutma gerekiyorsa.
 
-Split tarafında karar verdiyseniz iç ünite tipi seçimi için [duvar tipi klima mı salon tipi klima mı](/blog/duvar-tipi-klima-mi-salon-tipi-klima-mi) rehberimize, kurulum bütçesi için de [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) yazımıza göz atabilirsiniz.
+Split tarafında karar verdiyseniz iç ünite tipi seçimi için [duvar tipi klima mı salon tipi klima mı](/blog/duvar-tipi-klima-mi-salon-tipi-klima-mi/) rehberimize, kurulum bütçesi için de [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) yazımıza göz atabilirsiniz.
 
 ## Portatif Klima Kullanacaksanız Verimi Artırmanın Yolları
 
@@ -121,7 +121,7 @@ Bu önlemler portatifi split seviyesine çıkarmaz ama aradaki farkı katlanıl�
 Portatif klimaya yönelen müşterilerimizin çoğu aslında split istiyor ama montaj iznini sorun olarak görüyor. Deneyimimiz şu: ev sahiplerinin büyük kısmı, birkaç koşul netleştirildiğinde izni veriyor.
 
 1. **Dış ünitenin balkon içine monte edilmesini önerin.** Cephe delme kaygısı en yaygın itiraz; balkon içi montaj bu sorunu çözer.
-2. **Çıkarken cihazı söküp duvarı onaracağınızı yazılı taahhüt edin.** Sökme maliyeti için [klima sökme takma ücreti rakamlarına](/blog/klima-sokme-takma-ucreti) önceden bakıp bütçeleyin.
+2. **Çıkarken cihazı söküp duvarı onaracağınızı yazılı taahhüt edin.** Sökme maliyeti için [klima sökme takma ücreti rakamlarına](/blog/klima-sokme-takma-ucreti/) önceden bakıp bütçeleyin.
 3. **Klimanın daireye değer kattığını hatırlatın.** Bazı ev sahipleri, çıkarken klimanın kalması karşılığında montaj masrafına ortak bile oluyor.
 
 Eyyübiye'de kiracı bir müşterimiz bu yolu izledi: ev sahibine balkon içi montaj ve çıkışta onarım taahhüdü sundu, izni aldı. 12.000 BTU inverter split ve montaj toplam 14.500 TL'ye mal oldu. Aynı parayla alacağı üst segment portatif cihaz, salonunu asla aynı seviyede soğutamayacaktı.

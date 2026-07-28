@@ -110,7 +110,7 @@ Kaset tipi klimalar genellikle daha sessiz çalışır: 30-40 dB. Tavana gömül
 
 ### 5. Montaj Gereksinimleri
 
-Split klima montajı basittir. Duvara plaka takılır, iç ünite asılır, dış üniteye boru ve kablo çekilir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) da buna paralel olarak makul seviyede.
+Split klima montajı basittir. Duvara plaka takılır, iç ünite asılır, dış üniteye boru ve kablo çekilir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) da buna paralel olarak makul seviyede.
 
 Ortalama süre: 3-5 saat.
 
@@ -148,7 +148,7 @@ Rakamlar ilginç bir tablo ortaya koyuyor: 5 yıllık toplam maliyette iki siste
 
 **Asma tavan zaten mevcutsa** kaset tipi klima farkı daha hızlı kapatır. **Asma tavan yoksa** ek tavan maliyeti denklemi split lehine çevirebilir.
 
-Güncel [klima fiyatları](/blog/klima-fiyatlari-2026) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
+Güncel [klima fiyatları](/blog/klima-fiyatlari-2026/) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
 
 ## Hangi İş Yeri Tipine Hangisi Uygun?
 
@@ -175,7 +175,7 @@ Bu alan dilimi en zor karar noktası. Her iki sistem de bu büyüklükte çalı�
 
 Karaköprü'de muhasebe bürosu işleten Ali Bey, 40 m²'lik ofisine 2 adet split klima taktırmıştı. 6 çalışanı var. Klimanın önündeki 2 kişi hırka giyiyor, arkadaki 2 kişi terliyor.
 
-[Klima bakım](/blog/klima-bakim-fiyatlari) zamanı geldiğinde bize durumu anlattı.
+[Klima bakım](/blog/klima-bakim-fiyatlari/) zamanı geldiğinde bize durumu anlattı.
 
 Tek bir 36.000 BTU kaset tipi üniteyle değiştirmeyi önerdik. Sonuç: ofiste herkes aynı sıcaklıkta, şikayet sıfıra indi. Ali Bey "iki klima yerine bir klima, ama herkes memnun" dedi.
 
@@ -237,7 +237,7 @@ Doğrudan dönüşüm mümkün değil. İç ünite tamamen farklı. Mevcut split
 
 ### Kaset tipi klima montajı ne kadar sürer?
 
-Asma tavan mevcutsa 1 gün, asma tavan yapılması gerekiyorsa 2-3 gün. [Klima montaj](/blog/klima-montaj-fiyatlari) süresi mekanın koşullarına göre değişir.
+Asma tavan mevcutsa 1 gün, asma tavan yapılması gerekiyorsa 2-3 gün. [Klima montaj](/blog/klima-montaj-fiyatlari/) süresi mekanın koşullarına göre değişir.
 
 ### Kaset tipi klima daha mı sessiz?
 

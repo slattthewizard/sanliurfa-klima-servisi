@@ -36,7 +36,7 @@ BTU (British Thermal Unit), klimanın soğutma gücünü gösterir. BTU arttık�
 
 Odanıza uygun BTU seçmek kritik. Küçük odaya büyük klima gereksiz enerji harcar. Büyük odaya küçük klima ise sürekli çalışır ve yine fazla enerji tüketir.
 
-Doğru BTU seçimi hakkında detaylı bilgi: [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati). Genel klima seçim rehberi için [klima fiyatları 2026](/blog/klima-fiyatlari-2026) yazımıza bakabilirsiniz.
+Doğru BTU seçimi hakkında detaylı bilgi: [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/). Genel klima seçim rehberi için [klima fiyatları 2026](/blog/klima-fiyatlari-2026/) yazımıza bakabilirsiniz.
 
 ### Inverter vs On/Off Teknoloji
 
@@ -125,9 +125,9 @@ Klimayı 24-25 dereceye ayarlayın. 16-18 derece ayarı konfor sağlamaz, sadece
 
 ### 2. Düzenli Bakım
 
-Kirli filtre klimanın hava akışını engeller. Klima aynı soğutmayı sağlamak için daha fazla enerji harcar. [Klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) rehberimizde anlattığımız gibi düzenli bakım yapılan klima **%15-25 daha az** elektrik tüketir.
+Kirli filtre klimanın hava akışını engeller. Klima aynı soğutmayı sağlamak için daha fazla enerji harcar. [Klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) rehberimizde anlattığımız gibi düzenli bakım yapılan klima **%15-25 daha az** elektrik tüketir.
 
-[Klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda adım adım anlattığımız filtre temizliği bile tek başına %10-15 tasarruf sağlar. [Klima bakımı ne zaman yapılmalı](/blog/klima-bakimi-ne-zaman-yapilmali) sorusunun cevabını da bilmek önemli.
+[Klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda adım adım anlattığımız filtre temizliği bile tek başına %10-15 tasarruf sağlar. [Klima bakımı ne zaman yapılmalı](/blog/klima-bakimi-ne-zaman-yapilmali/) sorusunun cevabını da bilmek önemli.
 
 ### 3. Oda Yalıtımı
 
@@ -160,7 +160,7 @@ Dış ünitenin etrafı temiz ve hava akışı açık olmalı. Tıkalı dış ü
 
 10+ yıllık bir klimayı A++ veya A+++ sınıfı inverter modelle değiştirmek, 2-3 yılda kendini amorti eder. Özellikle R22 gazlı eski klimalar hem çevre hem verimlilik açısından değiştirilmeli. Yeni nesil R32 gazlı klimalar hem daha verimli hem çevre dostu.
 
-Yeni klima seçenekleri için: [Klima fiyatları 2026](/blog/klima-fiyatlari-2026)
+Yeni klima seçenekleri için: [Klima fiyatları 2026](/blog/klima-fiyatlari-2026/)
 
 **Klimanız gereğinden fazla mı elektrik harcıyor?** Verimlilik testi ve bakım için arayın: [0553 397 52 44](tel:+905533975244)
 
@@ -209,9 +209,9 @@ Gece oda soğuduktan sonra klima düşük devirde çalıştığı için tüketim
 
 Isıtma modu, soğutma moduna göre %10-20 daha fazla elektrik tüketir. Çünkü dış ortam soğukken ısı transferi daha zor. Ancak elektrikli ısıtıcıya göre yine %50-60 daha verimli.
 
-### [Klima soğutmuyor](/blog/klima-sogutmuyor) ama elektrik harcıyor, neden?
+### [Klima soğutmuyor](/blog/klima-sogutmuyor/) ama elektrik harcıyor, neden?
 
-Soğutmayan ama çalışan klima genellikle gaz eksikliği, kirli filtre veya tıkalı serpantin nedeniyle verimsiz çalışır. Soğutamadığı için sürekli tam güçte çalışır ve normalden fazla elektrik harcar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) yazımızdan bakım maliyetlerini inceleyebilirsiniz.
+Soğutmayan ama çalışan klima genellikle gaz eksikliği, kirli filtre veya tıkalı serpantin nedeniyle verimsiz çalışır. Soğutamadığı için sürekli tam güçte çalışır ve normalden fazla elektrik harcar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) yazımızdan bakım maliyetlerini inceleyebilirsiniz.
 
 ### Klima fan modunda ne kadar elektrik harcar?
 

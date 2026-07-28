@@ -15,7 +15,7 @@ Düğmeye basıyorsunuz, ekranda hiçbir şey değişmiyor. Bir daha basıyorsun
 
 **Klima kumandası çalışmıyor** şikayetinin büyük kısmı aslında klimanın kendisinden değil, kumandadan veya sinyal iletişiminden kaynaklanıyor. İyi haber şu: bu sorunların çoğunu birkaç dakikada, hiçbir teknik bilgiye ihtiyaç duymadan kendiniz çözebilirsiniz.
 
-Bu yazıda kumandanın neden yanıt vermediğini sırayla kontrol edeceğiz, kumandasız klimayı nasıl açabileceğinizi göstereceğiz ve hangi durumlarda profesyonel destek gerektiğini anlatacağız. Klimanız hiçbir şekilde açılmıyorsa önce [klima açılmıyor](/blog/klima-acilmiyor) yazımıza bakmanızı öneririz, çünkü orada elektrik kaynaklı nedenleri ayrı ele aldık.
+Bu yazıda kumandanın neden yanıt vermediğini sırayla kontrol edeceğiz, kumandasız klimayı nasıl açabileceğinizi göstereceğiz ve hangi durumlarda profesyonel destek gerektiğini anlatacağız. Klimanız hiçbir şekilde açılmıyorsa önce [klima açılmıyor](/blog/klima-acilmiyor/) yazımıza bakmanızı öneririz, çünkü orada elektrik kaynaklı nedenleri ayrı ele aldık.
 
 ## 1. Piller Bitmiş veya Yanlış Takılmış Olabilir
 
@@ -72,7 +72,7 @@ Karaköprü'de bir müşterimiz, çocuğunun kumandayı bardağa düşürmesinde
 
 Bazen sorun kumandada değil, klimanın elektrik beslemesinde. Sigorta atmışsa veya klima fişten çekilmişse kumanda ne kadar sağlam olursa olsun hiçbir tepki alamazsınız.
 
-**Hızlı kontrol:** İç ünitenin üzerinde küçük bir gösterge ışığı (standby ışığı) var mı? Işık hiç yanmıyorsa sorun kumandada değil, elektrik beslemesinde. Bu durumda sigorta panelini kontrol edin ve [klima açılmıyor](/blog/klima-acilmiyor) yazımızdaki adımları izleyin.
+**Hızlı kontrol:** İç ünitenin üzerinde küçük bir gösterge ışığı (standby ışığı) var mı? Işık hiç yanmıyorsa sorun kumandada değil, elektrik beslemesinde. Bu durumda sigorta panelini kontrol edin ve [klima açılmıyor](/blog/klima-acilmiyor/) yazımızdaki adımları izleyin.
 
 **Elektrikle ilgili şüpheniz varsa kendiniz müdahale etmeyin, sigorta sürekli atıyorsa veya elektrik kokusu varsa hemen bizi arayın: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
@@ -107,7 +107,7 @@ Bu köprü cihazları, kumandanızın gönderdiği IR sinyallerini öğrenip tel
 
 Yedek fiziksel kumandayı yine de evde bulundurmanızı öneririz; internet kesintisinde veya uygulama sorununda köprü cihazı devre dışı kalabilir.
 
-Kurulumu, hangi markaların desteklendiğini ve enerji takibi özelliklerini [akıllı klima wifi kontrol](/blog/akilli-klima-wifi-kontrol) yazımızda anlattık.
+Kurulumu, hangi markaların desteklendiğini ve enerji takibi özelliklerini [akıllı klima wifi kontrol](/blog/akilli-klima-wifi-kontrol/) yazımızda anlattık.
 
 ## 9. Orijinal mi Üniversal mi Kumanda Almalı?
 
@@ -152,7 +152,7 @@ Aşağıdaki durumlarda kumandayla uğraşmak yerine profesyonel destek almanız
 - Kumanda çalışıyor görünüyor ama klima rastgele modlara geçiyor veya komutları yanlış uyguluyor; bu iç ünitenin alıcı kartında sorun olabileceğine işaret eder.
 - Klima kumandayla açılıyor ama birkaç dakika sonra kendiliğinden kapanıyor.
 
-Bu son belirtiyi yaşıyorsanız kumanda sorunu değil, farklı bir arıza söz konusu olabilir; ayrıntıları [klima kendiliğinden kapanıyor](/blog/klima-kendiliginden-kapaniyor) yazımızda ele aldık.
+Bu son belirtiyi yaşıyorsanız kumanda sorunu değil, farklı bir arıza söz konusu olabilir; ayrıntıları [klima kendiliğinden kapanıyor](/blog/klima-kendiliginden-kapaniyor/) yazımızda ele aldık.
 
 ## Sıkça Sorulan Sorular
 

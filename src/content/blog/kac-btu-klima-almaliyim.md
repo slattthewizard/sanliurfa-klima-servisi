@@ -12,7 +12,7 @@ published: true
 
 Geçen yaz Şanlıurfa'da yaşayan Murat Bey, 35 metrekarelik salon için 9.000 BTU'luk bir klima aldı. "Ekonomik model, yeter" diye düşündü. Temmuz'un ilk haftasında dış sıcaklık 44 dereceye çıkınca klima durmadan çalıştı ama oda 28 derecenin altına inmedi. Elektrik faturası? 2.800 TL.
 
-Sonunda klimayı değiştirmek zorunda kaldı. [Söküm, takım](/blog/klima-sokme-takma-ucreti) ve yeni cihaz dahil toplam 22.000 TL ek masraf.
+Sonunda klimayı değiştirmek zorunda kaldı. [Söküm, takım](/blog/klima-sokme-takma-ucreti/) ve yeni cihaz dahil toplam 22.000 TL ek masraf.
 
 Yanlış BTU seçimi Türkiye'de en yaygın klima hatalarından biri. Düşük kapasiteli klima seçerseniz cihaz aşırı çalışır, enerji harcar ve yine de soğutamaz. Yüksek kapasiteli seçerseniz gereksiz para ödersiniz ve cihaz kısa çevrimlerle çalışıp nem alamaz.
 
@@ -142,7 +142,7 @@ Sonunda [klima servisimizi](https://sanliurfaklimaservisi.com/) arayarak 18.000 
 | 30-40 m2 | 18.000 - 24.000 BTU | Çatı katı veya güneye bakarsa 24.000 |
 | 40+ m2 | 24.000 BTU veya çift klima | Tek klima yetersiz kalabilir |
 
-**[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari)** hakkında detaylı bilgi almak için ilgili rehberimize göz atabilirsiniz.
+**[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/)** hakkında detaylı bilgi almak için ilgili rehberimize göz atabilirsiniz.
 
 ### Ofis ve İş Yeri (15-60 m2)
 
@@ -182,7 +182,7 @@ Diyelim ki Şanlıurfa'da 25 metrekarelik, güneye bakan, çatı katında, yalı
 
 **Sonuç:** Bu oda için 24.000 BTU klima bile sınırda kalır. 24.000 BTU inverter klima alınmalı veya yalıtım yaptırılması düşünülmeli.
 
-Bu hesaplama, doğru [klima fiyatlarını](/blog/klima-fiyatlari) araştırırken hangi kapasite grubuna bakmanız gerektiğini de belirler.
+Bu hesaplama, doğru [klima fiyatlarını](/blog/klima-fiyatlari/) araştırırken hangi kapasite grubuna bakmanız gerektiğini de belirler.
 
 ## BTU Seçiminde En Sık Yapılan 5 Hata
 
@@ -190,7 +190,7 @@ Bu hesaplama, doğru [klima fiyatlarını](/blog/klima-fiyatlari) araştırırke
 
 Düşük kapasiteli klima daha ucuzdur ama sürekli tam güçte çalışır. 9.000 BTU ile 12.000 BTU arasındaki fiyat farkı genellikle 2.000-4.000 TL civarı.
 
-Ancak yanlış kapasiteli klima yıllık 1.500-3.000 TL ek elektrik faturası çıkarabilir. Bir yılda fiyat farkını geri alırsınız. Üstelik düşük BTU, [klimanın soğutmamasının](/blog/klima-sogutmuyor) bir numaralı nedeni.
+Ancak yanlış kapasiteli klima yıllık 1.500-3.000 TL ek elektrik faturası çıkarabilir. Bir yılda fiyat farkını geri alırsınız. Üstelik düşük BTU, [klimanın soğutmamasının](/blog/klima-sogutmuyor/) bir numaralı nedeni.
 
 ### Hata 2: "Çok güçlü alayım, kesin soğutur"
 
@@ -206,9 +206,9 @@ Yukarıda anlattığımız 7 faktörü hesaba katmadan sadece "20 metrekare = 12
 
 Yeni inverter klimalar daha verimli çalışır. Ama bina koşullarınız değiştiyse (ek pencere, yalıtım bozulması) farklı bir kapasite gerekebilir.
 
-### Hata 5: [Klima bakımını](/blog/klima-bakim-fiyatlari) ihmal etmek
+### Hata 5: [Klima bakımını](/blog/klima-bakim-fiyatlari/) ihmal etmek
 
-Doğru BTU'yu seçseniz bile bakımsız klima kapasitesinin %20-30'unu kaybedebilir. Tıkanmış filtreler, kirli serpantin ve düşük gaz seviyesi klimanızı daha düşük kapasiteli bir cihaza dönüştürür. [Klima gaz kaçağı belirtilerini](/blog/klima-gaz-kacagi-belirtileri) bilmek bu sorunu erken yakalamanızı sağlar.
+Doğru BTU'yu seçseniz bile bakımsız klima kapasitesinin %20-30'unu kaybedebilir. Tıkanmış filtreler, kirli serpantin ve düşük gaz seviyesi klimanızı daha düşük kapasiteli bir cihaza dönüştürür. [Klima gaz kaçağı belirtilerini](/blog/klima-gaz-kacagi-belirtileri/) bilmek bu sorunu erken yakalamanızı sağlar.
 
 ## Inverter Klima mı Sabit Hız mı? BTU Seçimindeki Rolü
 
@@ -226,7 +226,7 @@ Inverter teknolojisi BTU hesaplamasını doğrudan etkilemez, ancak enerji verim
 | Fiyat (12.000 BTU) | 10.000 - 15.000 TL | 14.000 - 22.000 TL |
 | Ses seviyesi | 35-45 dB | 20-30 dB |
 
-**[12.000 BTU klima fiyatları](/blog/12000-btu-klima-fiyati)** hakkında detaylı karşılaştırma için ilgili yazımıza göz atabilirsiniz.
+**[12.000 BTU klima fiyatları](/blog/12000-btu-klima-fiyati/)** hakkında detaylı karşılaştırma için ilgili yazımıza göz atabilirsiniz.
 
 **Profesyonel BTU hesaplama ve klima montajı için bize ulaşın.** [Şanlıurfa klima servisi olarak doğru kapasite seçiminde ücretsiz danışmanlık sunuyoruz.](https://sanliurfaklimaservisi.com/)
 
@@ -264,6 +264,6 @@ Doğru BTU hesaplama, klima satın alırken yapacağınız en kritik karardır. 
 2. **Sıcak bölgelerde %15-25 kapasite artışı** planlayın.
 3. **Ucuz diye düşük BTU almayın.** Elektrik faturası farkı bir yılda cihaz farkını geçer.
 4. **Inverter klima tercih edin.** Uzun vadede kendini amorti eder.
-5. **Düzenli bakım yaptırın.** Doğru BTU'yu seçseniz bile bakımsız klima verim kaybeder. Yılda bir [klima servisi](/blog/klima-servis-ucreti) ve [gaz dolumu kontrolü](/blog/klima-gaz-dolumu-fiyatlari) şart.
+5. **Düzenli bakım yaptırın.** Doğru BTU'yu seçseniz bile bakımsız klima verim kaybeder. Yılda bir [klima servisi](/blog/klima-servis-ucreti/) ve [gaz dolumu kontrolü](/blog/klima-gaz-dolumu-fiyatlari/) şart.
 
 Hangi kapasiteyi seçeceğinizden emin değilseniz, profesyonel yardım alın. [Şanlıurfa klima servisimiz](https://sanliurfaklimaservisi.com/) olarak evinize veya iş yerinize uygun BTU hesaplamasını ücretsiz yapıyor, doğru klimayı seçmenize yardımcı oluyoruz. **[Hemen arayın, ücretsiz BTU hesaplama ve klima danışmanlığı alın.](https://sanliurfaklimaservisi.com/)**

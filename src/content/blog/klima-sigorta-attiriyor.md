@@ -41,7 +41,7 @@ Bu arıza kendi kendine düzelmez ve elektrik çarpması riski taşır. Kaçak a
 
 Kompresör, çalışmaya başladığı anda normal çalışma akımının birkaç katını çeker. Buna kalkış akımı denir. Sağlıklı bir sistemde bu ani yük sorun çıkarmaz. Ama kompresör yaşlanmışsa, kondansatörü zayıflamışsa veya voltaj düşükse, kalkış akımı normalden yüksek ve uzun olur; sigorta da tam bu anda atar.
 
-Belirtisi tipiktir: klima açıldıktan birkaç saniye sonra, tam dış ünite devreye girerken sigorta düşer. Fan çalışır, kompresör devreye giremez. Bu durumda [klima açılmıyor](/blog/klima-acilmiyor) yazımızda anlattığımız diğer açılma sorunlarıyla karışabilir; farkı, buradaki sorunun her seferinde sigortayı da düşürmesidir.
+Belirtisi tipiktir: klima açıldıktan birkaç saniye sonra, tam dış ünite devreye girerken sigorta düşer. Fan çalışır, kompresör devreye giremez. Bu durumda [klima açılmıyor](/blog/klima-acilmiyor/) yazımızda anlattığımız diğer açılma sorunlarıyla karışabilir; farkı, buradaki sorunun her seferinde sigortayı da düşürmesidir.
 
 ### 3. Yetersiz Hat Kesiti
 
@@ -65,11 +65,11 @@ Dış ünitedeki kondansatör (kapasitör), kompresörün kalkışını destekle
 
 İç ve dış ünite arasındaki ara bağlantı kablosu; kemirgen hasarı, güneşten sertleşme veya montaj hatası nedeniyle kısa devre yapabilir. Elektronik kartta patlayan bir bileşen de aynı sonucu doğurur. Kısa devrede sigorta genellikle klima açılır açılmaz, saniye bile beklemeden atar.
 
-Bu belirtiyi görüyorsanız klimayı bir daha denemeyin. Her deneme, hasarı büyütebilir ve [klima hata kodları](/blog/klima-hata-kodlari) ekranda görünmeden kartı tamamen bitirebilir.
+Bu belirtiyi görüyorsanız klimayı bir daha denemeyin. Her deneme, hasarı büyütebilir ve [klima hata kodları](/blog/klima-hata-kodlari/) ekranda görünmeden kartı tamamen bitirebilir.
 
 ### 7. Voltaj Dalgalanması
 
-Şanlıurfa'nın bazı bölgelerinde, özellikle yaz aylarında şebeke yükü artınca voltaj düşüşleri ve dalgalanmalar yaşanıyor. Düşük voltajda kompresör aynı işi yapmak için daha fazla akım çeker; bu da sigortayı zorlar. Sık dalgalanma yaşanan bölgelerde regülatör kullanımı hem sigorta sorununu hem de kart arızası riskini azaltır. Bu konuyu [klima voltaj regülatörü gerekli mi](/blog/klima-voltaj-regulatoru-gerekli-mi) yazımızda ayrıntılı ele aldık.
+Şanlıurfa'nın bazı bölgelerinde, özellikle yaz aylarında şebeke yükü artınca voltaj düşüşleri ve dalgalanmalar yaşanıyor. Düşük voltajda kompresör aynı işi yapmak için daha fazla akım çeker; bu da sigortayı zorlar. Sık dalgalanma yaşanan bölgelerde regülatör kullanımı hem sigorta sorununu hem de kart arızası riskini azaltır. Bu konuyu [klima voltaj regülatörü gerekli mi](/blog/klima-voltaj-regulatoru-gerekli-mi/) yazımızda ayrıntılı ele aldık.
 
 **Klimanız sigorta attırıyorsa ve nedenini bilmiyorsanız, denemeye devam etmeyin.** [Aynı gün arıza tespiti için arayın: 0553 397 52 44](tel:+905533975244)
 
@@ -80,7 +80,7 @@ Aşağıdaki kontrollerin hiçbiri panoya veya kabloya dokunmayı gerektirmez. S
 1. **Hangi şalterin attığını not edin.** Normal otomat mı, kaçak akım rölesi mi? Bu bilgi teşhisi hızlandırır.
 2. **Zamanlamayı gözlemleyin.** Sigorta klima açılır açılmaz mı atıyor, birkaç dakika sonra mı, yoksa sadece öğle sıcağında mı? Her senaryo farklı bir nedene işaret eder.
 3. **Aynı hattaki diğer cihazları kapatıp deneyin.** Fırın, ütü, ısıtıcı kapalıyken sorun kayboluyorsa yük dağılımı sorununu yakaladınız demektir.
-4. **Filtrelerin durumuna bakın.** Aşırı kirli filtre, kompresörü daha uzun ve yüklü çalıştırarak dolaylı yoldan sigorta sorununa katkıda bulunabilir. Filtre temizliği güvenli bir kullanıcı işlemidir; nasıl yapılacağını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda anlattık.
+4. **Filtrelerin durumuna bakın.** Aşırı kirli filtre, kompresörü daha uzun ve yüklü çalıştırarak dolaylı yoldan sigorta sorununa katkıda bulunabilir. Filtre temizliği güvenli bir kullanıcı işlemidir; nasıl yapılacağını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda anlattık.
 
 Bu dört kontrolün ötesindeki her şey (pano, kablo, kondansatör, kompresör, gaz devresi) lisanslı teknisyen işidir. "İnternette videosunu izledim" diyerek dış ünitenin kapağını açmak, her yıl ciddi yaralanmalara yol açan bir hatadır.
 
@@ -102,7 +102,7 @@ Haliliye'nin eski mahallelerindeki binalarda 30-40 yıllık tesisatlarla sık ka
 
 Eyyübiye'de bir müşterimizin yaşadığı örnek bunu iyi anlatıyor: yeni aldığı 18.000 BTU klima montajdan sonraki ilk hafta içinde üç kez sigorta attırdı. Cihazda arıza yoktu; sorun, klimanın 1,5 mm² kesitli eski bir priz hattına bağlanmış olmasıydı. Elektrikçiye panodan klimaya özel 2,5 mm² yeni bir hat çektirdi, maliyeti yaklaşık 2.500 TL tuttu. O günden beri tek bir sigorta atması yaşanmadı.
 
-Yeni klima taktırırken elektrik altyapısını da kontrol ettirmek, bu tür sorunları baştan önler. Klimanın hattınızdan ne kadar akım çekeceğini kestirmek için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) rehberimizdeki tüketim tablolarına bakabilirsiniz.
+Yeni klima taktırırken elektrik altyapısını da kontrol ettirmek, bu tür sorunları baştan önler. Klimanın hattınızdan ne kadar akım çekeceğini kestirmek için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) rehberimizdeki tüketim tablolarına bakabilirsiniz.
 
 ## Yaz Sıcağında Sigorta Atmaları Neden Artıyor?
 

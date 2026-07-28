@@ -25,7 +25,7 @@ Peki klima gaz kaçağı nasıl anlaşılır? Bu yazıda, klima gaz kaçağı be
 
 Klimanızın soğutma yapabilmesi için içinde soğutucu gaz (freon) bulunur. Bu gaz (R410A, R32 veya eski modellerde R22), kapalı bir devre içinde dolaşarak iç ortamdan ısıyı alır ve dışarı atar. Gaz seviyesi düştüğünde bu döngü bozulur ve klima verimi düşer.
 
-Önemli bir nokta: **Klima gazı normal kullanımda bitmez.** Eğer gazınız azalmışsa, bir yerden kaçak var demektir. Sadece [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) yaptırmak sorunu çözmez, kaçak noktasını bulmadan dolum yapmak para çöpe atmaktır.
+Önemli bir nokta: **Klima gazı normal kullanımda bitmez.** Eğer gazınız azalmışsa, bir yerden kaçak var demektir. Sadece [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) yaptırmak sorunu çözmez, kaçak noktasını bulmadan dolum yapmak para çöpe atmaktır.
 
 Mehmet Bey, Karaköprü'de yaşıyor. Geçen yaz kliması soğutmayınca bir tanıdığına gaz doldurtmuş. 500 TL vermiş. İki hafta sonra aynı sorun tekrarlamış.
 
@@ -35,7 +35,7 @@ Sonra bize geldi, kaçak tespiti yaptık. Dış ünite bağlantı noktasında mi
 
 ## 1. Soğutma Performansında Belirgin Düşüş
 
-Klima gaz kaçağı belirtileri arasında en bariz olanı budur. Klimanız çalışıyor, fan dönüyor, rüzgar geliyor ama oda serinlemiyor. [Klimanız soğutmuyor](/blog/klima-sogutmuyor) ve gaz kaçağı olasılığı akla gelen ilk neden olmalı.
+Klima gaz kaçağı belirtileri arasında en bariz olanı budur. Klimanız çalışıyor, fan dönüyor, rüzgar geliyor ama oda serinlemiyor. [Klimanız soğutmuyor](/blog/klima-sogutmuyor/) ve gaz kaçağı olasılığı akla gelen ilk neden olmalı.
 
 Normal şartlarda bir split klima, çalışmaya başladıktan 15-20 dakika içinde odayı ayarlanan sıcaklığa yaklaştırmalı. Eğer klimanız saatlerce çalışmasına rağmen oda sıcaklığı düşmüyorsa, gaz seviyesi muhtemelen kritik eşiğin altına inmiştir.
 
@@ -63,7 +63,7 @@ Gaz seviyesi düştüğünde, evaporatör serpantindeki basınç normalin altın
 
 Buz tutma başladığında klimayı kapatıp buzun erimesini beklemek geçici bir çözümdür. Ama altta yatan sorun gaz kaçağıysa, klima tekrar çalıştırıldığında aynı durum tekrarlanır.
 
-Fatma Hanım, Haliliye'deki evinde klimanın iç ünitesinden su damlıyormuş. "[Klimadan su akıyor](/blog/klimadan-su-akiyor)" diye aramıştı bizi. Gittiğimizde gördük ki su değil, eriyen buz.
+Fatma Hanım, Haliliye'deki evinde klimanın iç ünitesinden su damlıyormuş. "[Klimadan su akıyor](/blog/klimadan-su-akiyor/)" diye aramıştı bizi. Gittiğimizde gördük ki su değil, eriyen buz.
 
 Serpantin tamamen buzla kaplanmış. Gaz kaçağı tespiti yaptık, evaporatör bağlantısında sızıntı bulduk. Onarım ve gaz dolumu sonrası sorun tamamen çözüldü.
 
@@ -97,7 +97,7 @@ Ses genellikle bağlantı noktalarından gelir. Yani iç ünite ile dış ünite
 
 Özellikle gece sessiz bir ortamda bu sesi daha kolay duyarsınız. Klimayı kapattıktan hemen sonra birkaç saniye dikkatli dinleyin. Tıslama devam ediyorsa kaçak muhtemelen aktif.
 
-Montajın kalitesi burada kritik önem taşır. Profesyonel olmayan montajlarda bağlantılar düzgün sıkılmaz, flare işlemi hatalı yapılır ve 1-2 sezon içinde kaçak başlar. Bu yüzden [klima montajında](/blog/klima-montaj-fiyatlari) işçilik kalitesi, klimanın markası kadar önemlidir.
+Montajın kalitesi burada kritik önem taşır. Profesyonel olmayan montajlarda bağlantılar düzgün sıkılmaz, flare işlemi hatalı yapılır ve 1-2 sezon içinde kaçak başlar. Bu yüzden [klima montajında](/blog/klima-montaj-fiyatlari/) işçilik kalitesi, klimanın markası kadar önemlidir.
 
 ## 5. Dış Ünitede Yağ Lekesi veya Nemlenme
 
@@ -184,7 +184,7 @@ Tamamen önlemek mümkün olmasa da riskini minimuma indirebilirsiniz. Klima gaz
 
 ### Önleyici Bakım ve Koruma
 
-**Düzenli bakım yaptırın.** Yılda en az bir kez, tercihen sezon başında [profesyonel klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak, olası kaçakları erken aşamada yakalamanızı sağlar. Bakım sırasında gaz basıncı kontrol edilir ve anormal bir düşüş varsa kaçak araştırması yapılır.
+**Düzenli bakım yaptırın.** Yılda en az bir kez, tercihen sezon başında [profesyonel klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak, olası kaçakları erken aşamada yakalamanızı sağlar. Bakım sırasında gaz basıncı kontrol edilir ve anormal bir düşüş varsa kaçak araştırması yapılır.
 
 **Kaliteli montaj yaptırın.** Kaçakların büyük bölümü hatalı montajdan kaynaklanır. Bağlantı noktalarının düzgün sıkılması, bakır boruların doğru bükülmesi ve flare işleminin standartlara uygun yapılması, yıllarca sorunsuz kullanım demektir.
 

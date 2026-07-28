@@ -129,7 +129,7 @@ LG'nin Dual Inverter kompresörü, standart inverter teknolojisine göre %40'a k
 
 Servis konusunda tartışmasız lider. Türkiye'nin her ilçesinde yetkili servisi var. Bu, özellikle büyükşehir dışında yaşayanlar için büyük avantaj.
 
-Fatih Bey, Siverek'te bir dükkan işletiyor. 2024'te ithal marka klima aldı. Arıza olduğunda en yakın yetkili servis Diyarbakır'daydı. 3 gün bekledi, [söküm-takım ücreti](/blog/klima-sokme-takma-ucreti) ayrı, işgücü kaybı ayrı.
+Fatih Bey, Siverek'te bir dükkan işletiyor. 2024'te ithal marka klima aldı. Arıza olduğunda en yakın yetkili servis Diyarbakır'daydı. 3 gün bekledi, [söküm-takım ücreti](/blog/klima-sokme-takma-ucreti/) ayrı, işgücü kaybı ayrı.
 
 Ertesi yıl Arçelik'e geçti. Arıza bildirdiğinde aynı gün içinde teknisyen geldi. "Fiyat farkı var ama servis rahatlığı parasıyla ölçülmez" diyor.
 
@@ -146,7 +146,7 @@ Ertesi yıl Arçelik'e geçti. Arıza bildirdiğinde aynı gün içinde teknisye
 
 **Fiyat aralığı (12.000 BTU inverter):** 16.000 - 22.000 TL
 
-**Kim için ideal?** Servis güvencesi arayanlar, küçük şehirlerde yaşayanlar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) konusunda da Arçelik servis ağı avantaj sağlıyor.
+**Kim için ideal?** Servis güvencesi arayanlar, küçük şehirlerde yaşayanlar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) konusunda da Arçelik servis ağı avantaj sağlıyor.
 
 ### 6. Bosch: Alman Mühendisliği, Sessiz Çalışma
 
@@ -209,7 +209,7 @@ Enerji ve Tabii Kaynaklar Bakanlığı verilerine göre A++ sınıfı bir invert
 
 **Bu segmentte ne beklemeli?** A+++ enerji sınıfı, Wi-Fi kontrol, düşük ses seviyesi ve marka güvencesi. Fiyat-performans klima arıyorsanız bu segment en doğru aralık.
 
-**[Klima fiyatları](/blog/klima-fiyatlari) rehberimizde** tüm kapasite ve markaların 2026 güncel fiyatlarını bulabilirsiniz. Özellikle [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) karşılaştırması için detaylı tablomuza göz atın.
+**[Klima fiyatları](/blog/klima-fiyatlari/) rehberimizde** tüm kapasite ve markaların 2026 güncel fiyatlarını bulabilirsiniz. Özellikle [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) karşılaştırması için detaylı tablomuza göz atın.
 
 ### Üst Segment (28.000 - 42.000 TL)
 
@@ -225,7 +225,7 @@ Enerji ve Tabii Kaynaklar Bakanlığı verilerine göre A++ sınıfı bir invert
 
 ### 1. Servis Ağı ve Yedek Parça
 
-Klimanız ne kadar iyi olursa olsun, arıza anında servise ulaşamıyorsanız sorun büyür. Özellikle Şanlıurfa, Diyarbakır, Mardin gibi şehirlerde yetkili servis varlığını mutlaka kontrol edin. [Klima servis ücreti](/blog/klima-servis-ucreti) rehberimizde ortalama maliyetleri bulabilirsiniz.
+Klimanız ne kadar iyi olursa olsun, arıza anında servise ulaşamıyorsanız sorun büyür. Özellikle Şanlıurfa, Diyarbakır, Mardin gibi şehirlerde yetkili servis varlığını mutlaka kontrol edin. [Klima servis ücreti](/blog/klima-servis-ucreti/) rehberimizde ortalama maliyetleri bulabilirsiniz.
 
 ### 2. Enerji Verimliliği (Enerji Sınıfı)
 
@@ -233,7 +233,7 @@ A+++ ile A sınıfı arasında yıllık 1.000-2.000 TL elektrik farkı olabilir.
 
 ### 3. Doğru BTU Seçimi
 
-En iyi marka bile yanlış kapasitede alındığında verim sağlamaz. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizde odanıza uygun kapasiteyi hesaplayabilirsiniz.
+En iyi marka bile yanlış kapasitede alındığında verim sağlamaz. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizde odanıza uygun kapasiteyi hesaplayabilirsiniz.
 
 ### 4. Garanti Koşulları
 
@@ -241,11 +241,11 @@ Kompresör garantisi özellikle önemli. LG 10 yıl, Daikin 5 yıl, çoğu yerli
 
 ### 5. Ses Seviyesi
 
-Yatak odası için 24 dB altı, salon için 30 dB altı hedefleyin. Dış ünite sesi de önemli; apartman yaşamında komşu şikayetlerine neden olabilir. [Klimanız ses yapıyorsa](/blog/klima-ses-yapiyor) rehberimizden çözüm bulabilirsiniz.
+Yatak odası için 24 dB altı, salon için 30 dB altı hedefleyin. Dış ünite sesi de önemli; apartman yaşamında komşu şikayetlerine neden olabilir. [Klimanız ses yapıyorsa](/blog/klima-ses-yapiyor/) rehberimizden çözüm bulabilirsiniz.
 
 ### 6. Montaj Kalitesi
 
-En pahalı klima bile kötü montajla verim kaybeder. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) ve montaj kalitesi hakkında detaylı rehberimize göz atın.
+En pahalı klima bile kötü montajla verim kaybeder. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) ve montaj kalitesi hakkında detaylı rehberimize göz atın.
 
 **Profesyonel marka danışmanlığı ve montaj için** [Şanlıurfa klima servisimize](https://sanliurfaklimaservisi.com/) ulaşabilirsiniz. Evinizin koşullarına göre en uygun marka ve model önerisi sunuyoruz.
 
@@ -269,11 +269,11 @@ Daikin ve Samsung Wind-Free modelleri 19-21 dB ile sektörün en sessiz klimalar
 
 ### Klima alırken kaç BTU tercih etmeliyim?
 
-Bu tamamen odanızın büyüklüğüne, yalıtımına ve bulunduğunuz bölgeye bağlı. [BTU hesaplama rehberimizden](/blog/kac-btu-klima-almaliyim) odanıza uygun kapasiteyi kolayca öğrenebilirsiniz.
+Bu tamamen odanızın büyüklüğüne, yalıtımına ve bulunduğunuz bölgeye bağlı. [BTU hesaplama rehberimizden](/blog/kac-btu-klima-almaliyim/) odanıza uygun kapasiteyi kolayca öğrenebilirsiniz.
 
 ### Klima aldıktan sonra nelere dikkat etmeliyim?
 
-Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak, filtreleri temizlemek ve [gaz seviyesini](/blog/klima-gaz-dolumu-fiyatlari) kontrol ettirmek klimanızın ömrünü uzatır ve performansını korur.
+Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak, filtreleri temizlemek ve [gaz seviyesini](/blog/klima-gaz-dolumu-fiyatlari/) kontrol ettirmek klimanızın ömrünü uzatır ve performansını korur.
 
 ## Sonuç: 2026'da Doğru Klima Markasını Seçmenin Yolu
 

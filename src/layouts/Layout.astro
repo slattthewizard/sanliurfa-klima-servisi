@@ -2,6 +2,7 @@
 import TopBar from '../components/TopBar.astro';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
+import ContactBar from '../components/ContactBar.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -38,6 +39,25 @@ const ogImageURL = new URL(ogImage, siteUrl).href;
     gtag('js', new Date());
     gtag('config', 'G-WXKSXFGE5J');
   </script>
+  <!-- Conversion tracking: delegated so every tel:/WhatsApp link on the site is covered -->
+  <script is:inline>
+    document.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+      if (!a) return;
+      var href = a.getAttribute('href') || '';
+      if (href.indexOf('tel:') === 0) {
+        gtag('event', 'phone_click', {
+          link_location: a.getAttribute('data-loc') || 'body',
+          page_path: location.pathname
+        });
+      } else if (href.indexOf('wa.me') > -1) {
+        gtag('event', 'whatsapp_click', {
+          link_location: a.getAttribute('data-loc') || 'body',
+          page_path: location.pathname
+        });
+      }
+    }, true);
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
@@ -69,5 +89,6 @@ const ogImageURL = new URL(ogImage, siteUrl).href;
   <Navbar activePage={activePage} />
   <slot />
   <Footer />
+  <ContactBar />
 </body>
 </html>

@@ -51,7 +51,7 @@ Bu sürekli açılıp kapanma, hem enerji açısından verimsiz hem de oda sıca
 
 On/off klima her devreye girdiğinde tam güç çeker, bu da elektrik şebekesinden ani ve yüksek bir akım talebi demek. Inverter klima ise ihtiyaç kadar güç kullanır. Oda soğuduktan sonra kompresör düşük devirde "idare" ederek çalışır, tam güç harcamaz.
 
-Bu farkın somut karşılığını [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda detaylı hesapladık. Özetle: 12.000 BTU inverter klima aylık ortalama 1.000-1.500 TL elektrik harcarken, aynı kapasitede on/off klima 1.500-2.100 TL bandında. Yıllık fark 3.000-5.000 TL'ye ulaşabiliyor.
+Bu farkın somut karşılığını [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda detaylı hesapladık. Özetle: 12.000 BTU inverter klima aylık ortalama 1.000-1.500 TL elektrik harcarken, aynı kapasitede on/off klima 1.500-2.100 TL bandında. Yıllık fark 3.000-5.000 TL'ye ulaşabiliyor.
 
 Haliliye'de bir müşterimiz eski on/off klimasını inverter modelle değiştirdi. Aynı kullanım alışkanlığıyla temmuz faturası 1.600 TL'den 950 TL'ye düştü. Aradaki fark, klimanın fiyat farkını yaklaşık 2 yılda amorti etmesini sağladı.
 
@@ -79,13 +79,13 @@ Bebek odası, yatak odası gibi sessizlik ve sabit sıcaklığın önemli olduğ
 
 ## Isıtmada Fark Var mı?
 
-Kışın ısıtma amaçlı kullanımda da inverter klimalar avantajlı. Çünkü dış hava sıcaklığı değiştikçe kompresör hızını buna göre ayarlayabiliyor, sabit tam güçte çalışmak zorunda kalmıyor. Bu konuyu [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımızda daha detaylı ele aldık.
+Kışın ısıtma amaçlı kullanımda da inverter klimalar avantajlı. Çünkü dış hava sıcaklığı değiştikçe kompresör hızını buna göre ayarlayabiliyor, sabit tam güçte çalışmak zorunda kalmıyor. Bu konuyu [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımızda daha detaylı ele aldık.
 
 On/off klimalarda ısıtma modunda sıcaklık dalgalanması daha da belirgin hissedilir; oda ısınır, kompresör durur, oda tekrar soğur, kompresör yeniden tam güçte devreye girer. Bu döngü hem konforu hem de enerji verimliliğini olumsuz etkiler.
 
 ## Hangi Markalar İnverter Konusunda Güçlü?
 
-Bugün piyasadaki klimaların büyük çoğunluğu, özellikle orta ve üst segment modeller, inverter teknolojisiyle üretiliyor. On/off modeller daha çok giriş seviyesi ve düşük bütçeli segmentte kalmış durumda. Marka karşılaştırması için [en iyi klima markaları](/blog/en-iyi-klima-markalari) yazımıza göz atabilirsiniz.
+Bugün piyasadaki klimaların büyük çoğunluğu, özellikle orta ve üst segment modeller, inverter teknolojisiyle üretiliyor. On/off modeller daha çok giriş seviyesi ve düşük bütçeli segmentte kalmış durumda. Marka karşılaştırması için [en iyi klima markaları](/blog/en-iyi-klima-markalari/) yazımıza göz atabilirsiniz.
 
 **Dikkat:** Bir klimanın kutusunda veya reklamında "inverter" yazmıyorsa, büyük ihtimalle on/off modeldir. Satın almadan önce ürün özelliklerinde bu ibareyi mutlaka arayın.
 
@@ -97,7 +97,7 @@ Mevcut klimanızın hangi tip olduğunu anlamanın birkaç pratik yolu var:
 2. **Dış üniteyi dinleyin.** On/off klimada kompresör belirgin bir sesle devreye girer, bir süre çalışır, tam sessizliğe gömülür ve döngü tekrarlanır. Inverter klimada ses seviyesi kademeli olarak alçalıp yükselir ama nadiren tamamen kesilir.
 3. **Elektrik sayacını izleyin.** Klima çalışırken tüketim sabit aralıklarla inip çıkıyorsa on/off, yumuşak bir eğriyle değişiyorsa inverter olma ihtimali yüksek.
 
-10 yaşından eski klimaların büyük kısmı on/off tiptir. Cihazınız bu yaştaysa ve değişim düşünüyorsanız, [klima fiyatları](/blog/klima-fiyatlari) rehberimizden güncel model fiyatlarına bakabilirsiniz.
+10 yaşından eski klimaların büyük kısmı on/off tiptir. Cihazınız bu yaştaysa ve değişim düşünüyorsanız, [klima fiyatları](/blog/klima-fiyatlari/) rehberimizden güncel model fiyatlarına bakabilirsiniz.
 
 ## Inverter Klimanın Dezavantajı Var mı?
 
@@ -105,15 +105,15 @@ Dürüst olmak gerekirse, evet, birkaç nokta var. İlk satın alma maliyeti dah
 
 Bir de ikinci el piyasasıyla ilgili bir not: inverter klimalar ikinci elde değerini daha iyi koruyor. Beş yıllık bir inverter model, aynı yaştaki on/off modele göre belirgin şekilde daha kolay ve daha iyi fiyata alıcı buluyor. İleride cihazı satmayı ya da başka eve taşımayı düşünüyorsanız bu da hesaba katılmalı.
 
-Buna rağmen, uzun vadeli toplam maliyet (satın alma + elektrik + bakım) hesaplandığında inverter klima çoğu kullanım senaryosunda daha avantajlı çıkıyor. Kart arızası riskini büyütmemek için yapılacak en etkili şey de düzenli bakım: kirli filtre ve tıkalı serpantin, kartın ve kompresörün sürekli yüksek devirde zorlanmasına neden olur. Bakım adımlarını [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımızda anlattık.
+Buna rağmen, uzun vadeli toplam maliyet (satın alma + elektrik + bakım) hesaplandığında inverter klima çoğu kullanım senaryosunda daha avantajlı çıkıyor. Kart arızası riskini büyütmemek için yapılacak en etkili şey de düzenli bakım: kirli filtre ve tıkalı serpantin, kartın ve kompresörün sürekli yüksek devirde zorlanmasına neden olur. Bakım adımlarını [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımızda anlattık.
 
 **Hangi modelin size uygun olduğuna karar veremiyorsanız, ihtiyacınızı anlatın, size göre öneride bulunalım: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
 ## Enerji Sınıfı ile İlişkisi
 
-Inverter olması bir klimanın otomatik olarak en verimli enerji sınıfında olduğu anlamına gelmez, ama inverter modellerin büyük çoğunluğu A++ ve A+++ sınıfında yer alır. Enerji sınıfı etiketlerinin nasıl okunacağını ve sınıflar arası yıllık maliyet farkını [klima enerji sınıfı rehberi](/blog/klima-enerji-sinifi-rehberi) yazımızda ayrıntılı ele aldık; şimdilik bilmeniz gereken, inverter ve yüksek enerji sınıfının genelde birlikte geldiği.
+Inverter olması bir klimanın otomatik olarak en verimli enerji sınıfında olduğu anlamına gelmez, ama inverter modellerin büyük çoğunluğu A++ ve A+++ sınıfında yer alır. Enerji sınıfı etiketlerinin nasıl okunacağını ve sınıflar arası yıllık maliyet farkını [klima enerji sınıfı rehberi](/blog/klima-enerji-sinifi-rehberi/) yazımızda ayrıntılı ele aldık; şimdilik bilmeniz gereken, inverter ve yüksek enerji sınıfının genelde birlikte geldiği.
 
-Alım kararında bakılacak diğer kriterleri (marka, garanti, montaj koşulları, satış sonrası servis ağı) [klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli) yazımızda topladık. Inverter/on-off tercihi bu kriterlerden sadece biri; tek başına doğru bir cihazı garanti etmez.
+Alım kararında bakılacak diğer kriterleri (marka, garanti, montaj koşulları, satış sonrası servis ağı) [klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli/) yazımızda topladık. Inverter/on-off tercihi bu kriterlerden sadece biri; tek başına doğru bir cihazı garanti etmez.
 
 ## Şanlıurfa Koşullarında Inverter Klima Neden Daha Öne Çıkıyor?
 
@@ -131,19 +131,19 @@ Birincisi sezon uzunluğu. Mayıs ortasından ekim başına kadar, yani yılın 
 Genelde evet. Kompresör sabit yüksek devirde değil, ihtiyaca göre değişken hızda çalıştığı için ani açılış sesleri ve gürültü daha az hissedilir.
 
 **Inverter klima her odaya uygun mu?**
-Evet, kapasite doğru seçildiği sürece her oda tipine uygundur. Asıl önemli olan BTU hesabının doğru yapılması, bunun için [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) yazımıza bakabilirsiniz.
+Evet, kapasite doğru seçildiği sürece her oda tipine uygundur. Asıl önemli olan BTU hesabının doğru yapılması, bunun için [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) yazımıza bakabilirsiniz.
 
 **Eski on/off klimamı inverter ile değiştirmeli miyim?**
 Klimanız 8-10 yaşını geçtiyse ve sık arıza yapıyorsa, değişim mantıklı olabilir. Hâlâ sorunsuz çalışıyorsa, sadece enerji tasarrufu için erken değişim yapmak genelde kısa vadede ekonomik olmaz.
 
 **Inverter klimanın gaz dolumu farklı mı?**
-Hayır, gaz dolumu işlemi ve kullanılan gaz tipleri (R32, R410A) inverter ve on/off modellerde benzer. Fiyat konusunda [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) yazımızı inceleyebilirsiniz.
+Hayır, gaz dolumu işlemi ve kullanılan gaz tipleri (R32, R410A) inverter ve on/off modellerde benzer. Fiyat konusunda [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) yazımızı inceleyebilirsiniz.
 
 **Inverter klima arızası daha mı pahalıya mal olur?**
 Elektronik kart arızalarında evet, genelde biraz daha pahalı. Ama arıza sıklığı istatistiksel olarak daha düşük, çünkü kompresör daha az yıpranıyor.
 
 **Inverter klima montajı farklı mı?**
-Montaj süreci aynı: dış ünite, iç ünite, boru bağlantısı, vakumlama, gaz kontrolü. Fiyat bilgisi için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) yazımıza bakabilirsiniz.
+Montaj süreci aynı: dış ünite, iç ünite, boru bağlantısı, vakumlama, gaz kontrolü. Fiyat bilgisi için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) yazımıza bakabilirsiniz.
 
 **Inverter klima voltaj dalgalanmasından etkilenir mi?**
 Elektronik kartı daha gelişmiş olduğu için ani voltaj değişimlerine karşı on/off modellere göre biraz daha hassastır. Şebeke voltajının dalgalı olduğu bölgelerde regülatör kullanımı kartı korur; şüpheniz varsa montaj sırasında teknisyeninize sorun.

@@ -86,7 +86,7 @@ Bazı tekliflerde konsol (bracket) dahilken, bazılarında ayrı. Kaliteli pasla
 
 ### 5. Eski Klima Söküm Ücreti
 
-Mevcut klimanızı söktürmeniz gerekiyorsa, bu genellikle montaj ücretine dahil değil. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) 500-1.500 TL arasında ayrıca ücretlendirilir.
+Mevcut klimanızı söktürmeniz gerekiyorsa, bu genellikle montaj ücretine dahil değil. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) 500-1.500 TL arasında ayrıca ücretlendirilir.
 
 ### 6. Drenaj Hattı Uzatma
 
@@ -114,7 +114,7 @@ Karaköprü'de yaşayan Derya Hanım, geçen Mayıs'ta 9.000 BTU klimasını 2.2
 
 İbrahim Bey, Haliliye'deki dükkanına 24.000 BTU salon tipi klima taktırdı. Aldığı üç tekliften en ucuzunu seçti. Montajcı fark ettirmeden ince çaplı (1/4 inç) bakır boru kullanmıştı. Oysa 24.000 BTU cihaz 3/8 inç boru gerektiriyordu.
 
-Klima çalışıyordu ama tam verimle değil. Elektrik faturası beklediğinden %30 daha yüksek geldi. Altı ay sonra kompresör aşırı yüklenme nedeniyle arızalandı. [Tamir ve gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) dahil toplam zarar: 8.000 TL'nin üzerinde.
+Klima çalışıyordu ama tam verimle değil. Elektrik faturası beklediğinden %30 daha yüksek geldi. Altı ay sonra kompresör aşırı yüklenme nedeniyle arızalandı. [Tamir ve gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) dahil toplam zarar: 8.000 TL'nin üzerinde.
 
 ### Senaryo 3: Konsol Hatası
 
@@ -161,7 +161,7 @@ Her teklifte şu kalemlerin dahil olup olmadığını sorun:
 
 "Telefonla hallederiz" diyen montajcıdan uzak durun. Yazılı teklif; kapsamı, malzemeleri, ek ücret koşullarını ve garanti süresini net gösterir. Sözlü anlaşmalar, montaj sonrasında "ama ben onu söylemedim" tartışmasına dönüşür.
 
-[Klima montaj fiyatları rehberimizde](/blog/klima-montaj-fiyatlari) 2026 güncel fiyat tablosunu inceleyerek piyasa ortalamasını önceden öğrenebilirsiniz.
+[Klima montaj fiyatları rehberimizde](/blog/klima-montaj-fiyatlari/) 2026 güncel fiyat tablosunu inceleyerek piyasa ortalamasını önceden öğrenebilirsiniz.
 
 ## Gizli Maliyetlerden Korunmanın 6 Yolu
 
@@ -183,7 +183,7 @@ Klima montaj ücretinde sürpriz yaşamamak için şu adımları izleyin:
 
 Montajla ilgili gizli maliyetler sadece kurulum aşamasında kalmıyor. Montaj sonrası bakım ihmal edildiğinde, klimanın verimliliği her yıl %5-10 düşüyor. Bu da artan elektrik faturası ve erken arıza demek.
 
-Profesyonel montaj yaptıran ama sonrasında [düzenli bakım](/blog/klima-bakim-fiyatlari) ihmal eden kullanıcılar, 3-5 yıl içinde montaj ücretinin yarısı kadar tamir masrafıyla karşılaşabiliyor. Yılda bir bakım yaptırmak, bu gizli maliyeti sıfıra indirmenin en etkili yolu.
+Profesyonel montaj yaptıran ama sonrasında [düzenli bakım](/blog/klima-bakim-fiyatlari/) ihmal eden kullanıcılar, 3-5 yıl içinde montaj ücretinin yarısı kadar tamir masrafıyla karşılaşabiliyor. Yılda bir bakım yaptırmak, bu gizli maliyeti sıfıra indirmenin en etkili yolu.
 
 ## Sıkça Sorulan Sorular
 

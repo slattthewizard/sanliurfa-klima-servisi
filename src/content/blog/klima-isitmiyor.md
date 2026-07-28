@@ -43,7 +43,7 @@ Haliliye'de bir müşterimiz, klimayı açar açmaz "soğuk hava geliyor, bozuk"
 
 Dış hava sıcaklığı düştüğünde, dış ünitenin serpantini üzerinde buz oluşur. Klima bu buzu eritmek için periyodik olarak kısa süreliğine soğutma moduna geçer; buna defrost denir. Bu sırada iç üniteden birkaç dakika soğuk hava gelebilir veya fan tamamen durabilir.
 
-Bu normal bir davranış ve genelde 5-10 dakika sürer, ardından ısıtma kaldığı yerden devam eder. Defrost döngüsünün ne zaman normal ne zaman arıza belirtisi olduğunu [klima buz tutuyor](/blog/klima-buz-tutuyor) yazımızda daha detaylı anlattık. Eğer soğuk hava üflemesi 15-20 dakikadan uzun sürüyorsa veya sık sık tekrarlıyorsa, defrost sensöründe veya dört yollu vanada bir sorun olabilir.
+Bu normal bir davranış ve genelde 5-10 dakika sürer, ardından ısıtma kaldığı yerden devam eder. Defrost döngüsünün ne zaman normal ne zaman arıza belirtisi olduğunu [klima buz tutuyor](/blog/klima-buz-tutuyor/) yazımızda daha detaylı anlattık. Eğer soğuk hava üflemesi 15-20 dakikadan uzun sürüyorsa veya sık sık tekrarlıyorsa, defrost sensöründe veya dört yollu vanada bir sorun olabilir.
 
 ## 4. Dört Yollu Vana Arızası
 
@@ -62,7 +62,7 @@ Karaköprü'de bir müşterimizin klimasında tam olarak bu tablo vardı: yazın
 
 Soğutucu gaz seviyesi düşükse hem soğutma hem ısıtma performansı düşer. Isıtmada gaz eksikliği, dış ünitenin ısıyı yeterince "çekememesi" olarak ortaya çıkar; klima çalışır ama üflenen hava ılık kalır, hiçbir zaman gerçekten sıcak olmaz.
 
-Bu konuyu [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda ayrıntılı işledik. Gaz seviyesinin kontrolü manometre gerektirir, evde yapılabilecek bir şey değil.
+Bu konuyu [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda ayrıntılı işledik. Gaz seviyesinin kontrolü manometre gerektirir, evde yapılabilecek bir şey değil.
 
 > **Uyarı:** Gaz dolumu kesinlikle profesyonel iş. Yanlış gaz miktarı kompresöre kalıcı hasar verir.
 
@@ -76,15 +76,15 @@ Bu noktada yapabileceğiniz pratik bir şey var: klimayı gece boyunca kapatıp 
 
 ## 7. Kirli Filtre ve Tıkanmış Hava Akımı
 
-Isıtmada da tıpkı soğutmada olduğu gibi kirli filtreler hava akımını keser. Sıcak hava odaya yeterince ulaşamaz, klima çalışıyor gibi görünür ama ısıtma etkisi zayıf hissedilir. Bu, soğutma sorunlarında en sık karşılaşılan nedenle aynı; detaylarını [klima soğutmuyor](/blog/klima-sogutmuyor) yazımızda da bulabilirsiniz.
+Isıtmada da tıpkı soğutmada olduğu gibi kirli filtreler hava akımını keser. Sıcak hava odaya yeterince ulaşamaz, klima çalışıyor gibi görünür ama ısıtma etkisi zayıf hissedilir. Bu, soğutma sorunlarında en sık karşılaşılan nedenle aynı; detaylarını [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımızda da bulabilirsiniz.
 
-**Evde çözüm:** Filtreleri çıkarıp ılık suyla yıkayın, tamamen kurumasını bekleyip takın. Kış aylarında ayda bir kontrol yeterli. Adım adım filtre temizliğini [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda anlattık.
+**Evde çözüm:** Filtreleri çıkarıp ılık suyla yıkayın, tamamen kurumasını bekleyip takın. Kış aylarında ayda bir kontrol yeterli. Adım adım filtre temizliğini [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda anlattık.
 
 Yazın hiç kullanılmayan bir klimayı doğrudan kışın ısıtma moduna almadan önce filtreleri kontrol etmek özellikle önemli. Yaz boyunca biriken toz, ilk çalıştırmada hem hava akımını keser hem de odaya hafif bir toz kokusu yayabilir.
 
 ## 8. Kompresör veya Elektronik Kart Arızası
 
-Kompresör hiç çalışmıyorsa ya da ana kart arızalıysa klima ısıtma modunda tamamen tepkisiz kalabilir, fan döner ama hiçbir ısıtma hissedilmez. Bu durumda genelde kumandada bir hata kodu da görürsünüz; kodların anlamını [klima hata kodları](/blog/klima-hata-kodlari) yazımızdan kontrol edebilirsiniz.
+Kompresör hiç çalışmıyorsa ya da ana kart arızalıysa klima ısıtma modunda tamamen tepkisiz kalabilir, fan döner ama hiçbir ısıtma hissedilmez. Bu durumda genelde kumandada bir hata kodu da görürsünüz; kodların anlamını [klima hata kodları](/blog/klima-hata-kodlari/) yazımızdan kontrol edebilirsiniz.
 
 Eyyübiye'de bir müşterimizin klimasında E4 hata kodu belirmiş, ısıtma tamamen durmuştu. Kontrol ettiğimizde ana karttaki bir röle arızalıydı. Kart onarımı 1.800 TL tuttu; kartın tamamen değişimi gerekseydi bu rakam 3.000-4.500 TL bandına çıkabilirdi.
 
@@ -117,7 +117,7 @@ Bu belirtilerden biri varsa, evde deneme yaparak vakit kaybetmeyin. Özellikle e
 
 ## Klima ile Isıtma Ne Zaman Mantıklı, Ne Zaman Değil?
 
-Klimayı ısıtma amaçlı kullanmak, özellikle inverter modellerde elektrikli ısıtıcılara göre daha verimli olabilir. Ancak dış sıcaklık çok düştüğünde verim düşer ve maliyet hesabı değişir. Bu konuyu ayrıntılı şekilde [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımızda ele aldık; klimanın hangi durumda doğalgaz veya elektrikli ısıtıcıya göre daha mantıklı olduğunu orada bulabilirsiniz.
+Klimayı ısıtma amaçlı kullanmak, özellikle inverter modellerde elektrikli ısıtıcılara göre daha verimli olabilir. Ancak dış sıcaklık çok düştüğünde verim düşer ve maliyet hesabı değişir. Bu konuyu ayrıntılı şekilde [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımızda ele aldık; klimanın hangi durumda doğalgaz veya elektrikli ısıtıcıya göre daha mantıklı olduğunu orada bulabilirsiniz.
 
 | Belirti | Olası Neden | Evde mi Çözülür? |
 |---------|-------------|-------------------|
@@ -130,7 +130,7 @@ Klimayı ısıtma amaçlı kullanmak, özellikle inverter modellerde elektrikli 
 
 ## Isıtma Sorununu Önlemenin Yolları
 
-Sezon başında (Ekim-Kasım) klimanızı kontrol ettirmek, kış boyunca sürpriz arızaların önüne geçer. Profesyonel [klima bakımı](/blog/klima-bakimi-nasil-yapilir) sırasında teknisyen gaz basıncını, elektrik bağlantılarını ve dört yollu vananın çalışmasını da test eder.
+Sezon başında (Ekim-Kasım) klimanızı kontrol ettirmek, kış boyunca sürpriz arızaların önüne geçer. Profesyonel [klima bakımı](/blog/klima-bakimi-nasil-yapilir/) sırasında teknisyen gaz basıncını, elektrik bağlantılarını ve dört yollu vananın çalışmasını da test eder.
 
 Filtreleri düzenli temizlemek, dış üniteyi rüzgardan ve yoğun tozdan mümkün olduğunca korumak, ısıtma performansını uzun vadede korur. Dış ünitenin önüne kışlık örtü veya çuval gibi hava akımını tamamen kesen malzemeler koymayın; bu defrost döngüsünü bozabilir ve ısıtmayı daha da kötüleştirebilir.
 
@@ -151,7 +151,7 @@ Bu genelde dört yollu vana arızasına işaret eder. Gaz devresi çalışıyor 
 Oda büyüklüğüne ve klima kapasitesine göre değişir ama genelde 15-20 dakika içinde hissedilir bir ısınma beklenir. Daha uzun sürüyorsa kapasite yetersizliği veya gaz eksikliği düşünülmeli.
 
 **Isıtma modunda elektrik faturası neden bu kadar yüksek?**
-Isıtmada kompresör dış havadan ısı çekmek için soğutmaya göre daha uzun süre çalışabilir, özellikle dış sıcaklık düştükçe verim düşer. Detaylı hesaplamayı [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımızda bulabilirsiniz.
+Isıtmada kompresör dış havadan ısı çekmek için soğutmaya göre daha uzun süre çalışabilir, özellikle dış sıcaklık düştükçe verim düşer. Detaylı hesaplamayı [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımızda bulabilirsiniz.
 
 **Klimam ısıtmıyor, hemen mi servis çağırmalıyım?**
 Önce mod ve sıcaklık ayarını, filtreleri kontrol edin. Bunlar sorunu çözmüyorsa ve özellikle soğutma normal çalışıp ısıtma çalışmıyorsa, servis çağırmanız gerekir.
@@ -166,7 +166,7 @@ Dış hava çok soğuksa kompresör istenen sıcaklığa ulaşmak için uzun sü
 Kış aylarında dış ünitenin serpantininde ince bir buz tabakası oluşması normaldir, klima bunu defrost döngüsüyle düzenli olarak eritir. Ancak buz kalınlaşıp dış üniteyi tamamen kaplıyorsa veya defrost döngüsü buzu bir türlü eritemiyorsa, defrost sensöründe veya vanada bir sorun var demektir.
 
 **Isıtma modunda iç üniteden su damlıyor, bu normal mi?**
-Isıtmada normalde su damlaması beklenmez, çünkü yoğuşma daha çok soğutma modunda oluşur. Isıtma sırasında su damlıyorsa büyük ihtimalle drenaj hattında soğutma döneminden kalan bir tıkanıklık veya klimanın montaj eğiminde bir sorun var demektir; bu durumda [klimadan su akması](/blog/klimadan-su-akiyor) yazımıza bakabilirsiniz.
+Isıtmada normalde su damlaması beklenmez, çünkü yoğuşma daha çok soğutma modunda oluşur. Isıtma sırasında su damlıyorsa büyük ihtimalle drenaj hattında soğutma döneminden kalan bir tıkanıklık veya klimanın montaj eğiminde bir sorun var demektir; bu durumda [klimadan su akması](/blog/klimadan-su-akiyor/) yazımıza bakabilirsiniz.
 
 ## Sonuç: Isıtma Sorunlarının Çoğu Basit Bir Kontrolle Çözülür
 

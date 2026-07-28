@@ -184,7 +184,7 @@ Eyyübiye'de yazılım ofisi işleten Burak Bey, 10 yıllık iki adet on-off kli
 
 Bunun yerine iki adet yeni inverter klima aldı (toplam 22.000 TL, montaj dahil). İlk yıl elektrik faturasından aylık 400 TL tasarruf etti. Hesabını yapınca, yeni almanın 2 yılda kendini amorti ettiğini gördü.
 
-Yeni klima taktırmayı düşünüyorsanız, [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimizde güncel kurulum ücretlerini inceleyebilirsiniz.
+Yeni klima taktırmayı düşünüyorsanız, [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimizde güncel kurulum ücretlerini inceleyebilirsiniz.
 
 ## Klima Sökme Takma Ücretinde Tasarruf Etmenin Yolları
 
@@ -204,7 +204,7 @@ Evinizde veya ofisinizde birden fazla klima varsa, hepsini tek seferde taşıtma
 
 ### 4. Taşıma Öncesi Bakım Yaptırın
 
-Taşıma öncesi klimanıza bakım yaptırmak, yeni konumda sürpriz arızaların önüne geçer. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz.
+Taşıma öncesi klimanıza bakım yaptırmak, yeni konumda sürpriz arızaların önüne geçer. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz.
 
 ### 5. Mutlaka Yazılı Teklif ve Garanti İsteyin
 

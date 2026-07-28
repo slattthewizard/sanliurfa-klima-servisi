@@ -15,7 +15,7 @@ Termometre 45°C'yi gösteriyor, klimanız açık, fan tam güçte çalışıyor
 
 Bunun basit bir fiziksel açıklaması var. Dış ortam sıcaklığı arttıkça klimanın soğutma kapasitesi de düşer. Bu, cihazın bozuk olduğu anlamına gelmez; ama doğru önlemler alınmazsa gerçek bir arıza gibi hissettirir. Bu yazıda 45 derecelik bir günde klimanızdan gerçekçi bir performans nasıl alırsınız, dış üniteyi nasıl korursunuz, doğru kapasiteyi nasıl seçersiniz anlatıyoruz.
 
-Klimanız zaten hiç soğutmuyorsa (aşırı sıcaktan bağımsız, kalıcı bir sorunsa) önce [klima soğutmuyor](/blog/klima-sogutmuyor) yazımızdaki 7 nedeni kontrol edin. Bu yazı özellikle aşırı sıcaklarda görülen performans düşüşüne odaklanıyor. Sorunu tam olarak ayırt edemiyorsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan bize ulaşabilirsiniz, telefonda ön teşhis yapabiliyoruz.
+Klimanız zaten hiç soğutmuyorsa (aşırı sıcaktan bağımsız, kalıcı bir sorunsa) önce [klima soğutmuyor](/blog/klima-sogutmuyor/) yazımızdaki 7 nedeni kontrol edin. Bu yazı özellikle aşırı sıcaklarda görülen performans düşüşüne odaklanıyor. Sorunu tam olarak ayırt edemiyorsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan bize ulaşabilirsiniz, telefonda ön teşhis yapabiliyoruz.
 
 ## 1. Aşırı Sıcakta Klima Kapasitesi Neden Düşer?
 
@@ -31,7 +31,7 @@ Bunun üstüne bir de kompresör aşırı ısınma koruması devreye girebilir. 
 
 Şanlıurfa'da yaz ayları boyunca gündüz sıcaklıkları düzenli olarak 40-45°C bandında seyrediyor. Bu, Türkiye'nin çoğu şehrine göre çok daha ağır bir yük demek. Aynı BTU'daki bir klima, İstanbul'da rahatça yeten bir odayı Şanlıurfa'da zorlanarak soğutabilir.
 
-Bu yüzden Şanlıurfa'da klima seçerken standart BTU hesabına ek pay eklemek gerekir. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) yazımızda anlattığımız 10 metrekareye 7.000-8.000 BTU kuralına, Şanlıurfa gibi aşırı sıcak ve güneş alan bölgelerde yüzde 15-20 ekleme yapmanızı öneriyoruz. 25 metrekarelik bir salon için standart hesap 18.000-20.000 BTU çıkıyorsa, Şanlıurfa'da bu rakamı 21.000-24.000 BTU'ya çekmek daha gerçekçi bir sonuç verir.
+Bu yüzden Şanlıurfa'da klima seçerken standart BTU hesabına ek pay eklemek gerekir. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) yazımızda anlattığımız 10 metrekareye 7.000-8.000 BTU kuralına, Şanlıurfa gibi aşırı sıcak ve güneş alan bölgelerde yüzde 15-20 ekleme yapmanızı öneriyoruz. 25 metrekarelik bir salon için standart hesap 18.000-20.000 BTU çıkıyorsa, Şanlıurfa'da bu rakamı 21.000-24.000 BTU'ya çekmek daha gerçekçi bir sonuç verir.
 
 Karaköprü'de bir müşterimiz iki yıl önce 25 metrekarelik salonuna 18.000 BTU klima taktırmıştı. Kışın ve ilkbaharda sorun yaşamadı. Ama temmuzda dış sıcaklık 44-46°C'ye çıktığında klima öğleden sonraları odayı 27-28°C'nin altına indiremedi. Çözüm klima değiştirmek olmadı; dış üniteyi gölgeye almak ve kullanım saatlerini ayarlamakla performans kabul edilebilir seviyeye geldi. Yeni klima alacak olsaydı, doğru hesapla muhtemelen bu sorunu hiç yaşamayacaktı.
 
@@ -52,7 +52,7 @@ Doğru gölgeleme, aşırı sıcak günlerde soğutma performansını yüzde 10-
 
 Gölgeleme kadar önemli bir başka nokta, dış ünitenin etrafında yeterli hava boşluğu bırakmak. Dış ünite ısıyı attığı havayı geri emmeye başlarsa (kısa devre etkisi denir), verimlilik ciddi şekilde düşer.
 
-Etrafında en az 50 santimetre boşluk olmalı, üzerine hiçbir eşya konmamalı. Kanatçıklarda biriken toz da (Şanlıurfa'nın tozlu ikliminde bu birikim hızlı olur) ısı transferini engeller. Sezon ortasında bir kez, bahçe hortumuyla hafif basınçla kanatçıkları temizlemek performansı gözle görülür şekilde artırır. Detaylı temizlik adımları için [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımıza bakabilirsiniz.
+Etrafında en az 50 santimetre boşluk olmalı, üzerine hiçbir eşya konmamalı. Kanatçıklarda biriken toz da (Şanlıurfa'nın tozlu ikliminde bu birikim hızlı olur) ısı transferini engeller. Sezon ortasında bir kez, bahçe hortumuyla hafif basınçla kanatçıkları temizlemek performansı gözle görülür şekilde artırır. Detaylı temizlik adımları için [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımıza bakabilirsiniz.
 
 Eyyübiye'de bir müşterimizin balkonundaki dış ünite, kışın konan eşyaların arasında sıkışmış kalmıştı. Yaz geldiğinde klima üfürüyor ama etkili soğutmuyordu. Teknisyenimiz eşyaları kaldırıp kanatçıkları temizledikten sonra 20 dakika içinde oda 8-9 derece düştü. Herhangi bir parça değişimi gerekmedi, ücret sadece standart keşif bedeliydi.
 
@@ -83,7 +83,7 @@ Bazen sorun ne klimada ne de dış ünitede olur; odanın kendisi klimanın işi
 
 ## 7. Voltaj Dalgalanması ve Aşırı Sıcak Kombinasyonu
 
-Yaz aylarında bölgesel elektrik yükü arttığında voltaj dalgalanmaları da sık görülür. Aşırı sıcakta zaten zorlanan kompresör, düşük voltajla çalışmaya çalıştığında daha da verimsizleşir ve zamanla hasar görebilir. Şanlıurfa'da uzun yaz sezonu ve şebeke dalgalanmaları göz önüne alındığında, özellikle eski binalarda voltaj regülatörü kullanmak makul bir önlem olabilir. Bu konuyu ve genel bölgesel klima seçim ipuçlarını [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi) yazımızda daha kapsamlı ele aldık.
+Yaz aylarında bölgesel elektrik yükü arttığında voltaj dalgalanmaları da sık görülür. Aşırı sıcakta zaten zorlanan kompresör, düşük voltajla çalışmaya çalıştığında daha da verimsizleşir ve zamanla hasar görebilir. Şanlıurfa'da uzun yaz sezonu ve şebeke dalgalanmaları göz önüne alındığında, özellikle eski binalarda voltaj regülatörü kullanmak makul bir önlem olabilir. Bu konuyu ve genel bölgesel klima seçim ipuçlarını [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi/) yazımızda daha kapsamlı ele aldık.
 
 ## 8. Aşırı Sıcakta Normal Performans Düşüşü mü, Gerçek Arıza mı?
 
@@ -94,7 +94,7 @@ Bu ayrımı yapmak önemli çünkü gereksiz yere servis çağırmak da, gerçek
 | Oda soğuyor ama yavaş, hedef sıcaklığa 1-2 saatte ulaşıyor | Aşırı sıcakta normal kapasite düşüşü | Gölgeleme, kullanım saatini ayarlama |
 | Oda hiç soğumuyor, hava ılık geliyor | Gaz eksikliği veya kompresör arızası | Servis çağırın |
 | Dış ünite belirli aralıklarla duruyor, sonra tekrar başlıyor | Aşırı ısınma koruması (normal olabilir) | Gölgeleme ve etraf temizliği yeterli olabilir |
-| İç üniteden su damlıyor veya buzlanma var | Filtre tıkanıklığı veya gaz sorunu | [Klima buz tutuyor](/blog/klima-buz-tutuyor) yazımıza bakın, gerekirse servis çağırın |
+| İç üniteden su damlıyor veya buzlanma var | Filtre tıkanıklığı veya gaz sorunu | [Klima buz tutuyor](/blog/klima-buz-tutuyor/) yazımıza bakın, gerekirse servis çağırın |
 | Dış üniteden anormal ses (vuruntu, tıkırtı) | Mekanik veya elektriksel arıza | Kendiniz müdahale etmeyin, servis çağırın |
 
 Gaz veya elektrik kaynaklı olabilecek belirtilerde kendiniz müdahale etmeyin; bu işlemler lisanslı teknisyen gerektirir. **Şanlıurfa'da aşırı sıcak dönemlerde talep yoğunlaştığı için aynı gün randevu almanızı öneririz.** [Hemen arayın: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
@@ -115,13 +115,13 @@ Hayır, tam tersine performansı artırır. Tek şart, hava akışını engellem
 Şanlıurfa gibi gece sıcaklıklarının da yüksek kaldığı yerlerde sürekli düşük güçte çalıştırmak, sık sık kapatıp yeniden soğutmaya çalışmaktan genellikle daha verimlidir. Ama gündüz evde değilseniz kapatmak elektrik açısından mantıklı.
 
 **Şanlıurfa için standart BTU hesabı yeterli mi?**
-Genellikle yetmez. Standart hesaba yüzde 15-20 pay eklemenizi öneriyoruz. Detaylı hesap için [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) yazımıza bakabilirsiniz.
+Genellikle yetmez. Standart hesaba yüzde 15-20 pay eklemenizi öneriyoruz. Detaylı hesap için [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) yazımıza bakabilirsiniz.
 
 **Aşırı sıcakta klima sık sık duruyor, bu normal mi?**
 Kısa aralıklarla durup tekrar çalışması aşırı ısınma korumasından kaynaklanabilir ve genellikle zararsızdır. Ama hiç durmadan sürekli tam güçte çalışıp yine de soğutamıyorsa, kapasite yetersizliği veya gaz eksikliği olabilir.
 
 **Yeni klima alırken aşırı sıcak için hangi özelliklere bakmalıyım?**
-İnverter teknoloji, yüksek dış sıcaklıkta çalışma aralığı geniş modeller ve doğru BTU hesabı öncelikli kriterler olmalı. [En iyi klima markaları](/blog/en-iyi-klima-markalari) yazımızda marka bazlı karşılaştırmayı bulabilirsiniz.
+İnverter teknoloji, yüksek dış sıcaklıkta çalışma aralığı geniş modeller ve doğru BTU hesabı öncelikli kriterler olmalı. [En iyi klima markaları](/blog/en-iyi-klima-markalari/) yazımızda marka bazlı karşılaştırmayı bulabilirsiniz.
 
 **Dış üniteye su püskürtmek performansı artırır mı?**
 Kısa süreliğine evet, kanatçıklara püskürtülen su buharlaşırken üniteyi soğutur. Ama bunu düzenli bir yöntem olarak kullanmayın: sert su kanatçıklarda kireç tabakası bırakır, bu tabaka zamanla kalıcı verim kaybına yol açar. Elektrik bağlantılarına su kaçma riski de var. Kalıcı çözüm gölgeleme ve düzenli temizliktir.

@@ -23,7 +23,7 @@ Klima tamir mi değişim mi kararını tek bir kritere göre vermek yanıltıcı
 
 ### Yaş
 
-Ortalama bir klima, düzenli bakımla 12-15 yıl sorunsuz çalışabiliyor. Bakımsız kullanılan cihazlarda bu süre 6-8 yıla kadar düşebiliyor. Klimanızın yaklaşık ömrünü ve değişim sinyallerini [klima ömrü ne zaman değiştirilmeli](/blog/klima-omru-ne-zaman-degistirilmeli) yazımızda detaylı anlattık. Genel kural şu: klima 8 yaşın altındaysa tamir genellikle mantıklı, 10 yaşın üzerindeyse büyük bir arızada değişimi ciddi şekilde düşünmek gerekiyor.
+Ortalama bir klima, düzenli bakımla 12-15 yıl sorunsuz çalışabiliyor. Bakımsız kullanılan cihazlarda bu süre 6-8 yıla kadar düşebiliyor. Klimanızın yaklaşık ömrünü ve değişim sinyallerini [klima ömrü ne zaman değiştirilmeli](/blog/klima-omru-ne-zaman-degistirilmeli/) yazımızda detaylı anlattık. Genel kural şu: klima 8 yaşın altındaysa tamir genellikle mantıklı, 10 yaşın üzerindeyse büyük bir arızada değişimi ciddi şekilde düşünmek gerekiyor.
 
 ### Tamir Maliyeti
 
@@ -88,7 +88,7 @@ Tamir mi değişim mi kararı verirken sadece o anki fatura tutarına bakmak eks
 
 **Garanti avantajı.** Yeni bir klima aldığınızda genellikle 2-10 yıl arası garanti (markaya göre değişir) yeniden başlıyor. Tamir edilen eski bir cihazda böyle bir güvence yok.
 
-**Servis çağırma ücreti.** Her tamir talebinde ayrıca bir keşif veya servis ücreti ödeniyor. Güncel servis ücretlerini [klima servis ücreti](/blog/klima-servis-ucreti) rehberimizden inceleyebilirsiniz. Kısa aralıklarla tekrarlayan arızalarda bu ücretler de toplam maliyete ekleniyor.
+**Servis çağırma ücreti.** Her tamir talebinde ayrıca bir keşif veya servis ücreti ödeniyor. Güncel servis ücretlerini [klima servis ücreti](/blog/klima-servis-ucreti/) rehberimizden inceleyebilirsiniz. Kısa aralıklarla tekrarlayan arızalarda bu ücretler de toplam maliyete ekleniyor.
 
 Eyyübiye'de bir müşterimizin 11 yaşındaki klimasında kompresör arızası çıktı. Teklif 8.500 TL'ydi. Aynı kapasitede yeni bir inverter klima, montaj dahil yaklaşık 15.000 TL'ye geliyordu. İlk bakışta tamir daha ucuz görünse de, müşteri son iki yılda kart tamiri (2.200 TL) ve iki kez gaz dolumu (toplam 3.000 TL) için de ödeme yapmıştı. Kompresör tamirini yaptırsa bile klima 11 yaşında kalacak ve başka bir arıza riski yüksek olacaktı. Sonunda yeni klima tercih etti, üstelik yeni cihaz eskisine göre elektrik faturasında da belirgin bir düşüş sağladı.
 
@@ -112,7 +112,7 @@ Garanti konusu da bu noktada kritik. Klimanız garanti kapsamındaysa, arıza te
 - R22 gazlı eski bir modelse ve parça temini zorlaşmışsa.
 - Son 1-2 yılda tekrar tekrar arıza çıkmış ve toplam tamir masrafı birikmişse.
 
-Güncel klima fiyatlarını karşılaştırmak isterseniz [klima fiyatları](/blog/klima-fiyatlari) rehberimizden marka ve kapasiteye göre fiyat aralıklarını görebilirsiniz.
+Güncel klima fiyatlarını karşılaştırmak isterseniz [klima fiyatları](/blog/klima-fiyatlari/) rehberimizden marka ve kapasiteye göre fiyat aralıklarını görebilirsiniz.
 
 Değişime karar verdiyseniz zamanlamayı da düşünün. Yaz ortasında hem cihaz fiyatları yükseliyor hem montaj randevusu bulmak zorlaşıyor. Klimanız tamamen ölmemişse ve sezonu idare edebiliyorsa, değişimi sonbahar veya kış aylarına planlamak aynı cihaz için ciddi bir fiyat avantajı sağlayabiliyor. Eski cihazın sökümünü ve yenisinin montajını aynı ekibe yaptırmak da işçilik maliyetini düşürüyor.
 

@@ -46,7 +46,7 @@ Bu farkın en somut yanı küresel ısınma potansiyeli, kısaca GWP. R410A'nın
 
 ### Enerji Verimliliği
 
-R32 gazlı klimalar, aynı kapasitede R410A gazlı modellere göre genellikle biraz daha az elektrik tüketiyor. Bu fark tek başına devrim yaratacak büyüklükte değil ama [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda anlattığımız diğer faktörlerle (inverter teknoloji, enerji sınıfı) birleştiğinde yıllık bazda gözle görülür bir tasarrufa dönüşebiliyor.
+R32 gazlı klimalar, aynı kapasitede R410A gazlı modellere göre genellikle biraz daha az elektrik tüketiyor. Bu fark tek başına devrim yaratacak büyüklükte değil ama [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda anlattığımız diğer faktörlerle (inverter teknoloji, enerji sınıfı) birleştiğinde yıllık bazda gözle görülür bir tasarrufa dönüşebiliyor.
 
 ### Yanıcılık Konusu
 
@@ -94,7 +94,7 @@ Burada sık karşılaştığımız bir soru var: "Klimam eski, R22 gazlı. R410A
 
 R410A gazlı bir klimanız varsa ve R32'ye "yükseltme" yapmak istiyorsanız, bu da mümkün değil; sistem baştan R32'ye uygun tasarlanmalı. Yani gaz tipi, klimanın üretildiği andan itibaren sabit kalan bir özellik. Değiştirmek istiyorsanız tek seçenek yeni klima almak.
 
-R22 gazlı bir klimanız varsa ve gaz sorunu yaşıyorsanız, [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) yazımızda bu durumda hangi seçeneklerin mantıklı olduğunu detaylı anlattık.
+R22 gazlı bir klimanız varsa ve gaz sorunu yaşıyorsanız, [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) yazımızda bu durumda hangi seçeneklerin mantıklı olduğunu detaylı anlattık.
 
 ## Dolum Fiyatları Arasında Fark Var mı?
 
@@ -119,20 +119,20 @@ Yeni bir klima alıyorsanız, günümüzde çoğu üst ve orta segment model zat
 - Biraz daha yüksek enerji verimliliği
 - Gelecekte R410A'nın aşamalı olarak sınırlandırılma ihtimaline karşı daha güvenli bir seçim
 
-Ancak elinizde zaten R410A gazlı, birkaç yaşındaki sağlıklı bir klima varsa, sadece gaz tipi yüzünden değiştirmenize gerek yok. R410A hâlâ yaygın ve uzun yıllar servis desteği bulunan bir gaz. [Klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli) yazımızda gaz tipi dışında da nelere bakmanız gerektiğini bulabilirsiniz.
+Ancak elinizde zaten R410A gazlı, birkaç yaşındaki sağlıklı bir klima varsa, sadece gaz tipi yüzünden değiştirmenize gerek yok. R410A hâlâ yaygın ve uzun yıllar servis desteği bulunan bir gaz. [Klima alırken nelere dikkat edilmeli](/blog/klima-alirken-nelere-dikkat-edilmeli/) yazımızda gaz tipi dışında da nelere bakmanız gerektiğini bulabilirsiniz.
 
 Eyyübiye'de bir müşterimiz yeni ofisi için klima araştırırken iki teklif arasında kaldı: biri R410A gazlı, 500 TL daha ucuz; diğeri R32 gazlı, biraz daha pahalı ama enerji sınıfı bir kademe daha yüksek. Yıllık elektrik tüketimi hesabını yaptığımızda R32 gazlı modelin bir yıl içinde aradaki fiyat farkını kapattığını gördük. Müşterimiz R32'yi tercih etti ve ilk yaz sonunda memnuniyetini bize iletti.
 
 ## Gaz Kaçağı Şüphesi Varsa Ne Yapmalı?
 
-Gaz türü ne olursa olsun, klima gazı normal şartlarda hiç azalmaz. Eğer klimanız gaz istiyorsa bir yerde kaçak var demektir. [Klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda anlattığımız şu işaretlere dikkat edin:
+Gaz türü ne olursa olsun, klima gazı normal şartlarda hiç azalmaz. Eğer klimanız gaz istiyorsa bir yerde kaçak var demektir. [Klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda anlattığımız şu işaretlere dikkat edin:
 
 - Soğutma performansında ani düşüş
 - İç ünitede veya borularda buz oluşumu
 - Dış üniteden anormal ses
 - Elektrik faturasında açıklanamayan artış
 
-Bu belirtilerden birini fark ettiğinizde, gaz tipi ne olursa olsun kendiniz müdahale etmeyin. Gaz kaçağı, basınçlı bir sistemle uğraşmayı gerektirir ve yanlış müdahale hem tehlikeli hem de kompresöre zarar verici olabilir. [Klima gazı ne zaman doldurulmalı](/blog/klima-gazi-ne-zaman-doldurulmali) yazımızda doğru zamanlama ve süreç hakkında detaylı bilgi bulabilirsiniz.
+Bu belirtilerden birini fark ettiğinizde, gaz tipi ne olursa olsun kendiniz müdahale etmeyin. Gaz kaçağı, basınçlı bir sistemle uğraşmayı gerektirir ve yanlış müdahale hem tehlikeli hem de kompresöre zarar verici olabilir. [Klima gazı ne zaman doldurulmalı](/blog/klima-gazi-ne-zaman-doldurulmali/) yazımızda doğru zamanlama ve süreç hakkında detaylı bilgi bulabilirsiniz.
 
 ## Gaz Kaçağı Onarımında Gaz Tipinin Rolü
 

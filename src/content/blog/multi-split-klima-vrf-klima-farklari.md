@@ -126,7 +126,7 @@ VRF sistemde boru uzunluğu 150-200 metreye kadar çıkabilir. Dış üniteyi ç
 
 ### 6. Bakım ve Servis
 
-Multi split sistem bakımı nispeten basittir. Standart klima bakımı yapabilen bir teknisyen yeterli. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) da standart klima bakımına yakın seviyelerde.
+Multi split sistem bakımı nispeten basittir. Standart klima bakımı yapabilen bir teknisyen yeterli. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) da standart klima bakımına yakın seviyelerde.
 
 VRF sistem bakımı daha karmaşıktır. Özel eğitimli teknisyen gerektirir. Soğutucu gaz miktarı fazla olduğu için kaçak tespiti ve dolum daha kritik.
 
@@ -214,7 +214,7 @@ Her iki sistemin montajı da profesyonel ekip gerektirir. Ama süreçler farklı
 - Vakum, gaz kontrolü ve sistem konfigürasyonu yapılır
 - Süre: 3-7 gün (ölçeğe bağlı)
 
-[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) her iki sistem türü için de kapasite ve mekan koşullarına göre değişir.
+[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) her iki sistem türü için de kapasite ve mekan koşullarına göre değişir.
 
 ## Sıkça Sorulan Sorular
 

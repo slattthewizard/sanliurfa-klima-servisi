@@ -19,11 +19,11 @@ Türkiye'nin başka bir şehrinde satılan klima kataloğu ile Şanlıurfa'da sa
 
 ## 1. Neden Şanlıurfa'da Standart BTU Hesabı Yetersiz Kalır
 
-Türkiye genelinde kullanılan pratik kural her 10 m² için 7.000-8.000 BTU şeklinde. Bu hesabı nasıl yapacağınızı [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizde adım adım anlattık, burada tekrar etmeyeceğiz. Ama Şanlıurfa'da bu hesaba mutlaka bir "sıcaklık payı" eklemeniz gerekiyor.
+Türkiye genelinde kullanılan pratik kural her 10 m² için 7.000-8.000 BTU şeklinde. Bu hesabı nasıl yapacağınızı [kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizde adım adım anlattık, burada tekrar etmeyeceğiz. Ama Şanlıurfa'da bu hesaba mutlaka bir "sıcaklık payı" eklemeniz gerekiyor.
 
 Standart BTU tabloları, dış ortam sıcaklığının 32-35°C civarında olduğu varsayımıyla hazırlanıyor. Şanlıurfa'da yaz aylarının büyük bölümünde dış sıcaklık bu değerin çok üzerinde seyrediyor. Klima, iç ve dış sıcaklık farkı arttıkça daha zorlanıyor ve aynı kapasiteyle daha az verim veriyor.
 
-Bu yüzden Şanlıurfa'da klima alırken standart hesaba yüzde 15-20 ek kapasite payı bırakmanızı öneriyoruz. Özellikle güney ve batı cepheli, öğleden sonra doğrudan güneş alan odalarda bu pay yüzde 25-30'a kadar çıkabilir. Aşırı sıcakta klimanın neden daha az soğuttuğunu ve gün içi kullanım stratejisini [aşırı sıcakta klima verimi](/blog/asiri-sicakta-klima-verimi) yazımızda detaylı işledik.
+Bu yüzden Şanlıurfa'da klima alırken standart hesaba yüzde 15-20 ek kapasite payı bırakmanızı öneriyoruz. Özellikle güney ve batı cepheli, öğleden sonra doğrudan güneş alan odalarda bu pay yüzde 25-30'a kadar çıkabilir. Aşırı sıcakta klimanın neden daha az soğuttuğunu ve gün içi kullanım stratejisini [aşırı sıcakta klima verimi](/blog/asiri-sicakta-klima-verimi/) yazımızda detaylı işledik.
 
 Karaköprü'de bir müşterimiz, 25 m²'lik salonuna standart hesapla 9.000 BTU klima taktırmıştı. Temmuz ayında öğleden sonraları oda hiçbir zaman istenen sıcaklığa düşmedi. Cihazı 12.000 BTU ile değiştirdiğimizde fark hemen ortaya çıktı. İki kapasite arasındaki cihaz fiyat farkı ekonomik segmentte 2.000-3.000 TL civarındaydı; buna karşılık yetersiz cihaz, tam güçte sürekli çalıştığı için hem odayı soğutamıyor hem de fazladan elektrik yakıyordu. Baştan doğru kapasite seçilseydi ikinci bir sökme takma masrafı da hiç ödenmeyecekti.
 
@@ -43,11 +43,11 @@ Bu tablo kesin bir formül değil, saha deneyimimize dayanan bir başlangıç no
 
 Şanlıurfa, özellikle ilkbahar ve yaz aylarında toz taşınımına açık bir bölge. Güneydoğu'dan gelen toz rüzgarları, klimaların filtre ve dış ünite kanatçıklarını Türkiye ortalamasına göre çok daha hızlı kirletiyor.
 
-Genel tavsiye, filtreleri yaz aylarında ayda bir temizlemek yönünde. Şanlıurfa'da bu süreyi kısaltmanızı öneriyoruz: yoğun toz döneminde 2 haftada bir filtre kontrolü, ayda bir de tam temizlik yapılmalı. Filtre temizliğinin nasıl yapılacağını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) rehberimizde adım adım anlattık.
+Genel tavsiye, filtreleri yaz aylarında ayda bir temizlemek yönünde. Şanlıurfa'da bu süreyi kısaltmanızı öneriyoruz: yoğun toz döneminde 2 haftada bir filtre kontrolü, ayda bir de tam temizlik yapılmalı. Filtre temizliğinin nasıl yapılacağını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) rehberimizde adım adım anlattık.
 
 Dış ünitenin kondenser kanatçıkları da benzer şekilde etkileniyor. Toz, kanatçıklara yapışarak hava akışını azaltıyor. Bu da hem soğutma performansını düşürüyor hem de kompresörü gereğinden fazla çalıştırıyor. Toz fırtınası sonrası dış ünite etrafını kontrol etmek ve gerekirse hafif basınçlı suyla yıkamak iyi bir alışkanlık.
 
-Profesyonel bakım sıklığı konusunda da Şanlıurfa'da genel Türkiye tavsiyesinden bir adım öne geçmek mantıklı. Standart öneri yılda bir bakım iken, burada yılda iki bakım (sezon öncesi ve sezon ortası) klimanın ömrünü uzatıyor. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari) sayfamızdan görebilirsiniz.
+Profesyonel bakım sıklığı konusunda da Şanlıurfa'da genel Türkiye tavsiyesinden bir adım öne geçmek mantıklı. Standart öneri yılda bir bakım iken, burada yılda iki bakım (sezon öncesi ve sezon ortası) klimanın ömrünü uzatıyor. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) sayfamızdan görebilirsiniz.
 
 Eyyübiye'de bir müşterimiz, iki yıl boyunca hiç bakım yaptırmadan klimasını kullanmıştı. Üçüncü yazın başında klima artık odayı soğutamaz hale geldi. Kontrolde filtrelerin ve evaporatörün kalın bir toz tabakasıyla kaplandığını gördük. 500-800 TL aralığındaki standart bir bakım yerine, detaylı serpantin yıkaması gereken kapsamlı bir temizlik gerekti ve fatura 1.100 TL'yi buldu. Üstelik iki yıl boyunca tıkalı filtreyle çalışan cihaz, olması gerekenden fazla elektrik tüketmişti. Urfa'nın tozunda bakım ertelemek, tasarruf değil ertelenmiş masraf anlamına geliyor.
 
@@ -55,9 +55,9 @@ Eyyübiye'de bir müşterimiz, iki yıl boyunca hiç bakım yaptırmadan klimas�
 
 Yaz aylarında elektrik şebekesi üzerindeki yük, klima kullanımının artmasıyla birlikte ciddi şekilde yükseliyor. Özellikle bazı mahallelerde akşam saatlerinde voltaj dalgalanmaları yaşanabiliyor. Bu dalgalanmalar klimanın elektronik kartına ve kompresörüne zarar verebilen bir risk faktörü.
 
-Voltaj dalgalanmasının klimaya nasıl zarar verdiğini, ne zaman bir regülatör gerektiğini ve doğru regülatör seçimini [klima voltaj regülatörü gerekli mi](/blog/klima-voltaj-regulatoru-gerekli-mi) yazımızda ayrıntılı anlattık. Burada kısaca şunu söyleyebiliriz: eski bina elektrik altyapısı olan, sık sık ışıkların titrediği gözlemlenen evlerde bir regülatör yatırımı, uzun vadede kart ve kompresör tamirinden çok daha ucuza geliyor.
+Voltaj dalgalanmasının klimaya nasıl zarar verdiğini, ne zaman bir regülatör gerektiğini ve doğru regülatör seçimini [klima voltaj regülatörü gerekli mi](/blog/klima-voltaj-regulatoru-gerekli-mi/) yazımızda ayrıntılı anlattık. Burada kısaca şunu söyleyebiliriz: eski bina elektrik altyapısı olan, sık sık ışıkların titrediği gözlemlenen evlerde bir regülatör yatırımı, uzun vadede kart ve kompresör tamirinden çok daha ucuza geliyor.
 
-Bu konu aynı zamanda [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor) ve [klima açılmıyor](/blog/klima-acilmiyor) gibi elektrik kaynaklı arızalarla da bağlantılı. Voltaj sorunlarının belirtilerini erken fark etmek, büyük bir tamir masrafını önleyebiliyor.
+Bu konu aynı zamanda [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor/) ve [klima açılmıyor](/blog/klima-acilmiyor/) gibi elektrik kaynaklı arızalarla da bağlantılı. Voltaj sorunlarının belirtilerini erken fark etmek, büyük bir tamir masrafını önleyebiliyor.
 
 **Elektrik tesisatı ve voltaj konularına kendiniz müdahale etmeyin.** Bu değerlendirme mutlaka bir elektrikçi veya lisanslı teknisyen tarafından yapılmalı. [Değerlendirme için arayın: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
 
@@ -67,13 +67,13 @@ Bu konu aynı zamanda [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor)
 
 Bu kadar uzun ve yoğun kullanımda sabit hızlı (on-off) klima ile inverter klima arasındaki fark, kısa sezonlu şehirlere göre çok daha hızlı ortaya çıkıyor. Inverter klima, kompresör hızını sürekli ayarlayarak enerji tüketimini yüzde 40-60 oranında düşürüyor. Şanlıurfa'nın uzun sezonunda bu fark, klimanın fiyatındaki ek maliyeti genellikle 2-3 yıl içinde geri kazandırıyor.
 
-Sistemin çalışma mantığını ve fiyat farkının ne zaman kendini amorti ettiğini [inverter klima nedir](/blog/inverter-klima-nedir) yazımızda ele aldık. Kışın klimayı ısıtma amaçlı da kullananlar için [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımız ayrı bir bakış açısı sunuyor.
+Sistemin çalışma mantığını ve fiyat farkının ne zaman kendini amorti ettiğini [inverter klima nedir](/blog/inverter-klima-nedir/) yazımızda ele aldık. Kışın klimayı ısıtma amaçlı da kullananlar için [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımız ayrı bir bakış açısı sunuyor.
 
 ## 5. Şanlıurfa Şartlarına Uygun Marka Seçimi
 
 Marka seçimi kişisel tercih ve bütçeye bağlı olsa da, aşırı sıcak ve tozlu iklimde bazı özellikler öne çıkıyor: geniş çalışma sıcaklığı aralığı (bazı modeller 52-54°C dış sıcaklığa kadar çalışabiliyor), dayanıklı kondenser kaplaması ve yaygın servis ağı.
 
-Farklı markaların güçlü ve zayıf yönlerini, hangi segmentte hangi markanın öne çıktığını [en iyi klima markaları](/blog/en-iyi-klima-markalari) rehberimizde karşılaştırdık. Şanlıurfa için ek olarak şunu söylemek gerekir: hangi markayı seçerseniz seçin, yaygın ve hızlı servis erişimi olan bir marka tercih etmek, aşırı sıcak günlerde arıza anında bekleme süresini kısaltıyor.
+Farklı markaların güçlü ve zayıf yönlerini, hangi segmentte hangi markanın öne çıktığını [en iyi klima markaları](/blog/en-iyi-klima-markalari/) rehberimizde karşılaştırdık. Şanlıurfa için ek olarak şunu söylemek gerekir: hangi markayı seçerseniz seçin, yaygın ve hızlı servis erişimi olan bir marka tercih etmek, aşırı sıcak günlerde arıza anında bekleme süresini kısaltıyor.
 
 Haliliye'de bir müşterimiz, düşük fiyat avantajı gördüğü ama bölgede servis ağı zayıf olan bir marka tercih etmişti. Klimasının kartı arızalandığında parça temini iki haftayı buldu, bu süre boyunca 43°C sıcakta klimasız kaldı. Marka seçiminde sadece cihaz fiyatına değil, bölgesel servis erişimine de bakmak gerektiğini bu deneyimle anladı.
 
@@ -89,7 +89,7 @@ Apartman yaşayanlar için dış ünite yerleşiminde bina yönetim planına uym
 
 Şanlıurfa'da klima denince akla önce soğutma geliyor, ama kışlar da göründüğünden daha önemli bir kullanım dönemi. Kentte kış ayları İç Anadolu'ya göre ılıman geçse de, aralık-şubat arasında ısıtma ihtiyacı ciddi şekilde hissediliyor. Doğalgaz altyapısının olmadığı veya kombiye yatırım yapılmayan dairelerde klima, pratik bir ısıtma kaynağına dönüşüyor.
 
-Bu senaryoyu düşünüyorsanız klima seçerken ısıtma performansına da bakmanız gerekiyor. Etikette yazan SCOP değeri (ısıtma verimlilik katsayısı) yüksek olan modeller, düşük dış sıcaklıkta bile verimli ısıtma yapabiliyor. Bazı modeller eksi sıcaklıklarda belirgin performans kaybı yaşarken, ısıtma odaklı tasarlanan modeller kış kullanımında fark yaratıyor. Klimayla ısınmanın doğalgaz ve elektrikli ısıtıcıya göre maliyet karşılaştırmasını [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti) yazımızda ayrıntılı hesapladık.
+Bu senaryoyu düşünüyorsanız klima seçerken ısıtma performansına da bakmanız gerekiyor. Etikette yazan SCOP değeri (ısıtma verimlilik katsayısı) yüksek olan modeller, düşük dış sıcaklıkta bile verimli ısıtma yapabiliyor. Bazı modeller eksi sıcaklıklarda belirgin performans kaybı yaşarken, ısıtma odaklı tasarlanan modeller kış kullanımında fark yaratıyor. Klimayla ısınmanın doğalgaz ve elektrikli ısıtıcıya göre maliyet karşılaştırmasını [klima ile ısınma maliyeti](/blog/klima-ile-isinma-maliyeti/) yazımızda ayrıntılı hesapladık.
 
 Yazın soğutma, kışın ısıtma derken Şanlıurfa'da bir klima yılda 7-8 ay aktif çalışabiliyor. Bu da cihaz kalitesinin ve düzenli bakımın önemini bir kat daha artırıyor.
 

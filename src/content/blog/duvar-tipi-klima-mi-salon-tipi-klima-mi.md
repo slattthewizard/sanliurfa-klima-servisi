@@ -34,7 +34,7 @@ Evlerin, küçük ofislerin ve yatak odalarının vazgeçilmezi olan duvar tipi 
 
 ### Duvar Tipi Klima Avantajları
 
-- **Uygun fiyat:** En geniş fiyat yelpazesine sahip tip. [2026 klima fiyatları](/blog/klima-fiyatlari-2026) rehberimizde detaylı karşılaştırma bulabilirsiniz.
+- **Uygun fiyat:** En geniş fiyat yelpazesine sahip tip. [2026 klima fiyatları](/blog/klima-fiyatlari-2026/) rehberimizde detaylı karşılaştırma bulabilirsiniz.
 - **Kolay montaj:** Standart montaj 2-4 saat sürer. Ek yapısal müdahale gerekmez.
 - **Düşük montaj maliyeti:** 2.000-3.500 TL arasında.
 - **Geniş model seçeneği:** Her bütçeye ve her oda boyutuna uygun yüzlerce model var.
@@ -52,7 +52,7 @@ Evlerin, küçük ofislerin ve yatak odalarının vazgeçilmezi olan duvar tipi 
 >
 > İkinci yaz bize danıştığında salon tipi klimayı önerdiğimizde tereddüt etti. Ama taktırdıktan sonra farkı hemen hissetti: hava yerden yukarı doğru yayılıyordu ve odanın her köşesi eşit sıcaklıktaydı.
 
-[Klima alırken nelere dikkat edilmeli rehberimizde BTU hesaplama, enerji sınıfı ve marka seçimi konularını detaylı anlattık.](/blog/klima-alirken-nelere-dikkat-edilmeli)
+[Klima alırken nelere dikkat edilmeli rehberimizde BTU hesaplama, enerji sınıfı ve marka seçimi konularını detaylı anlattık.](/blog/klima-alirken-nelere-dikkat-edilmeli/)
 
 ## Salon Tipi Klima Nedir?
 
@@ -107,7 +107,7 @@ Duvar tipi klima mı salon tipi klima mı sorusunun cevabı, mekanınıza ve kul
 - **Ofis odası (10-20 m²):** Bireysel ofisler için en pratik çözüm.
 - **Bütçe kısıtlıysa:** Her durumda duvar tipi daha uygun fiyatlıdır.
 
-[12.000 BTU klima fiyatları ve model karşılaştırması rehberimize buradan ulaşabilirsiniz.](/blog/12000-btu-klima-fiyati)
+[12.000 BTU klima fiyatları ve model karşılaştırması rehberimize buradan ulaşabilirsiniz.](/blog/12000-btu-klima-fiyati/)
 
 ### Salon Tipi Klima Tercih Edin
 
@@ -153,9 +153,9 @@ Kaset tipi, ticari mekanlar için harika bir seçenektir ama ev kullanımı içi
 
 **Dikkat:** Montaj fiyatları standart montaj içindir. Uzun boru hattı, ek kırıcı veya özel montaj gereksinimleri ek maliyet oluşturur.
 
-[Klima montaj fiyatlarının neden değiştiğini ve nelere dikkat etmeniz gerektiğini detaylı anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor)
+[Klima montaj fiyatlarının neden değiştiğini ve nelere dikkat etmeniz gerektiğini detaylı anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor/)
 
-[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari)
+[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari/)
 
 ## Montaj ve Bakım Farklılıkları
 
@@ -173,7 +173,7 @@ Duvar tipi klimanın filtre temizliği kolaydır. Ön paneli açıp filtreleri �
 
 Salon tipi klimada filtre temizliği yine kolaydır ama iç ünitenin arka kısmına erişim daha zor olabilir. Yıllık profesyonel bakımda her iki tip de benzer işlemlerden geçer.
 
-[Klima bakım fiyatları ve bakımda neler yapıldığını öğrenmek için rehberimize göz atın.](/blog/klima-bakim-fiyatlari)
+[Klima bakım fiyatları ve bakımda neler yapıldığını öğrenmek için rehberimize göz atın.](/blog/klima-bakim-fiyatlari/)
 
 ## Sıkça Sorulan Sorular
 
@@ -195,7 +195,7 @@ Asma tavanınız varsa ve estetik önemliyse kaset tipi tercih edin. Asma tavan 
 
 ### Dış ünite gürültüsü farklı mıdır?
 
-Salon tipi klimaların dış ünitesi genelde daha büyüktür ve biraz daha fazla ses üretebilir. Ama modern inverter modellerde bu fark minimumdur. [Klima dış ünite sesi hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-dis-unite-ses-yapiyor)
+Salon tipi klimaların dış ünitesi genelde daha büyüktür ve biraz daha fazla ses üretebilir. Ama modern inverter modellerde bu fark minimumdur. [Klima dış ünite sesi hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-dis-unite-ses-yapiyor/)
 
 ## Karar Rehberi: Hızlı Özet
 

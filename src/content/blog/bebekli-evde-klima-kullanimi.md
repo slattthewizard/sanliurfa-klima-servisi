@@ -31,7 +31,7 @@ Bebeğin üşüyüp üşümediğini kontrol etmenin en güvenilir yolu el veya a
 
 ## 2. Hava Akımı Doğrudan Bebeğe Gelmemeli
 
-Bebekli evde klima kullanımında en sık yapılan hata, soğuk havanın doğrudan beşiğe veya yatağa üflemesi. Sürekli aynı noktaya gelen soğuk hava akımı, kas gerginliği ve tutulma şikayetlerinin en yaygın nedeni. Bu belirtileri halk arasında "klima çarpması" olarak biliyoruz; nedenlerini ve doktora ne zaman gidilmesi gerektiğini [klima çarpması nedir](/blog/klima-carpmasi-nedir) yazımızda ayrıntılı anlattık.
+Bebekli evde klima kullanımında en sık yapılan hata, soğuk havanın doğrudan beşiğe veya yatağa üflemesi. Sürekli aynı noktaya gelen soğuk hava akımı, kas gerginliği ve tutulma şikayetlerinin en yaygın nedeni. Bu belirtileri halk arasında "klima çarpması" olarak biliyoruz; nedenlerini ve doktora ne zaman gidilmesi gerektiğini [klima çarpması nedir](/blog/klima-carpmasi-nedir/) yazımızda ayrıntılı anlattık.
 
 **Doğru yön ayarı için:**
 
@@ -48,7 +48,7 @@ Karaköprü'de bir müşterimiz, üç aylık bebeğinin sürekli burnunun tıkal
 
 Bebek odasında gece modunu kullanmak, sabah 5-6 gibi bebeğin üşüyerek uyanmasını önler. Fan sesi de bu modda genelde azaltılır, bu da hafif bir beyaz gürültü etkisi yaratarak bazı bebeklerin daha kolay uykuya dalmasına yardımcı olabilir.
 
-Modların hangisinin ne işe yaradığını, sembollerin ne anlama geldiğini merak ediyorsanız [klima modları rehberimize](/blog/klima-modlari-rehberi) göz atabilirsiniz.
+Modların hangisinin ne işe yaradığını, sembollerin ne anlama geldiğini merak ediyorsanız [klima modları rehberimize](/blog/klima-modlari-rehberi/) göz atabilirsiniz.
 
 **Bebek odasında klimayı sabaha kadar açık bırakmak yerine güvenilir ayarlarla çalıştırmak istiyorsanız kurulum ve ayar desteği için bizi arayabilirsiniz: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
@@ -62,11 +62,11 @@ Yetişkin bir yatak odasında biraz tozlu filtre büyük sorun yaratmayabilir am
 2. Kış aylarında ayda bir kontrol yeterli.
 3. Evde toz veya polen alerjisi öyküsü varsa haftalık kontrolü ihmal etmeyin.
 
-Filtre temizliğinin adım adım nasıl yapıldığını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda gösterdik; bebek odasında bu adımları normalden sık tekrarlamanız yeterli.
+Filtre temizliğinin adım adım nasıl yapıldığını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda gösterdik; bebek odasında bu adımları normalden sık tekrarlamanız yeterli.
 
-Filtre dışında evaporatör ve drenaj hattı da zamanla nemli kalıp mikrobiyal koku yapabilir. Klimadan tuhaf bir koku geliyorsa bunu hafife almayın; nedenlerini [klimadan koku gelmesi](/blog/klimadan-koku-gelmesi) yazımızda inceledik. Bebek odasında koku fark ettiğiniz anda klimayı kapatıp profesyonel temizlik planlamanız daha güvenli.
+Filtre dışında evaporatör ve drenaj hattı da zamanla nemli kalıp mikrobiyal koku yapabilir. Klimadan tuhaf bir koku geliyorsa bunu hafife almayın; nedenlerini [klimadan koku gelmesi](/blog/klimadan-koku-gelmesi/) yazımızda inceledik. Bebek odasında koku fark ettiğiniz anda klimayı kapatıp profesyonel temizlik planlamanız daha güvenli.
 
-Eyyübiye'de bir müşterimiz, yeni doğan bebeğini hastaneden eve getirmeden önce bebek odasındaki klimanın iç temizliğini yaptırmak istedi. Cihaz iki yıldır hiç bakım görmemişti; filtrelerin arkasında ve evaporatör yüzeyinde belirgin toz ve nem birikimi vardı. Serpantin yıkama dahil detaylı iç ünite temizliği 800 TL tuttu ve oda, bebek gelmeden iki gün önce hazırdı. Bu tarz bir hijyen temizliği için standart bakım fiyat aralıkları geçerli; güncel rakamları [klima bakım fiyatları](/blog/klima-bakim-fiyatlari) yazımızdan kontrol edebilirsiniz, fiyatlar cihaz tipine göre değişebilir.
+Eyyübiye'de bir müşterimiz, yeni doğan bebeğini hastaneden eve getirmeden önce bebek odasındaki klimanın iç temizliğini yaptırmak istedi. Cihaz iki yıldır hiç bakım görmemişti; filtrelerin arkasında ve evaporatör yüzeyinde belirgin toz ve nem birikimi vardı. Serpantin yıkama dahil detaylı iç ünite temizliği 800 TL tuttu ve oda, bebek gelmeden iki gün önce hazırdı. Bu tarz bir hijyen temizliği için standart bakım fiyat aralıkları geçerli; güncel rakamları [klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) yazımızdan kontrol edebilirsiniz, fiyatlar cihaz tipine göre değişebilir.
 
 Bir pratik ipucu daha: klimayı kapatmadan önce 5-10 dakika sadece fan (vantilatör) modunda çalıştırmak evaporatör yüzeyini kurutur ve nemli ortamda üreyen koku yapıcı mikroorganizmaların önünü keser. Bebek odasında bu küçük alışkanlık, iç ünitenin uzun süre hijyenik kalmasına ciddi katkı sağlar.
 
@@ -103,7 +103,7 @@ Yeni klima alacaksanız veya montaj planlıyorsanız, bebek odaları için birka
 - **Doğru konum:** İç üniteyi beşiğin tam üzerine veya karşısına değil, yan duvara monte edin.
 - **Doğru kapasite:** Oda büyüklüğüne göre fazla büyük kapasiteli bir klima seçmek, kısa aralıklarla açılıp kapanmasına (kısa devre çalışma) ve nemi yeterince almamasına neden olur. Küçük bebek odaları genelde 9.000 BTU ile rahatça soğutulur.
 
-Montaj sırasında dikkat edilmesi gereken diğer noktaları [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler) yazımızda bulabilirsiniz.
+Montaj sırasında dikkat edilmesi gereken diğer noktaları [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler/) yazımızda bulabilirsiniz.
 
 ## 9. Sık Yapılan Hatalar
 
@@ -136,7 +136,7 @@ Hayır. Açık pencere hem klimanın verimini düşürür hem de dışarıdan to
 Evet, sıcaklık ve hava yönü doğru ayarlandığı sürece yeni doğan için de klima kullanımı güvenlidir. Aksine yaz sıcağında klimasız bir ortam, yeni doğan için daha riskli olabilir.
 
 **Bebek odasında klima ne sıklıkla bakım görmeli?**
-Filtre temizliğini kendiniz 2 haftada bir yapabilirsiniz, profesyonel bakımı ise yılda en az bir kez, tercihen yaz öncesi yaptırın. Detayları [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir) yazımızda bulabilirsiniz.
+Filtre temizliğini kendiniz 2 haftada bir yapabilirsiniz, profesyonel bakımı ise yılda en az bir kez, tercihen yaz öncesi yaptırın. Detayları [klima bakımı nasıl yapılır](/blog/klima-bakimi-nasil-yapilir/) yazımızda bulabilirsiniz.
 
 ## Sonuç: Bebekli Evde Klima Kullanımı Üç Basit Kurala Dayanır
 

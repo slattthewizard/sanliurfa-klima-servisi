@@ -37,9 +37,9 @@ Klima bakım zamanı konusunda uzmanların hemfikir olduğu bir dönem var: **Ni
 
 **Klimanız sezona hazır girer.** İlk sıcak günde klimayı açtığınızda verimli, temiz ve sorunsuz çalışmasını istiyorsunuz. Yaz öncesi klima bakımı tam olarak bunu sağlar.
 
-> **Elif Hanım'ın hikayesi:** Elif Hanım, Şanlıurfa Haliliye'de oturuyor. 2025 yazında klimasını Nisan'da bakıma verdirdi. Teknisyen gaz seviyesinin düşük olduğunu ve drenaj hortumunun tıkandığını tespit etti. Gaz dolumu ve temizlik yapıldı, toplam maliyet 2.800 TL. Aynı apartmanda komşusu Zeynep Hanım bakım yaptırmadı. Temmuz'da [klima soğutmayı bıraktı](/blog/klima-sogutmuyor). Acil servis çağırdığında gaz tamamen bitmiş, evaporatör buzlanmıştı. Acil servis + gaz dolumu + evaporatör temizliği: 6.500 TL. Üstelik 4 gün klimasız kaldı. Aynı sorun, zamanında fark edilseydi yarı fiyatına çözülecekti.
+> **Elif Hanım'ın hikayesi:** Elif Hanım, Şanlıurfa Haliliye'de oturuyor. 2025 yazında klimasını Nisan'da bakıma verdirdi. Teknisyen gaz seviyesinin düşük olduğunu ve drenaj hortumunun tıkandığını tespit etti. Gaz dolumu ve temizlik yapıldı, toplam maliyet 2.800 TL. Aynı apartmanda komşusu Zeynep Hanım bakım yaptırmadı. Temmuz'da [klima soğutmayı bıraktı](/blog/klima-sogutmuyor/). Acil servis çağırdığında gaz tamamen bitmiş, evaporatör buzlanmıştı. Acil servis + gaz dolumu + evaporatör temizliği: 6.500 TL. Üstelik 4 gün klimasız kaldı. Aynı sorun, zamanında fark edilseydi yarı fiyatına çözülecekti.
 
-[Klima bakım fiyatları hakkında detaylı bilgi almak isterseniz **güncel bakım ücretleri rehberimize göz atın.**](/blog/klima-bakim-fiyatlari)
+[Klima bakım fiyatları hakkında detaylı bilgi almak isterseniz **güncel bakım ücretleri rehberimize göz atın.**](/blog/klima-bakim-fiyatlari/)
 
 ### Kış Aylarında Isıtma Kullananlar İçin
 
@@ -61,7 +61,7 @@ Yıllık bakım ücreti genelde 1.500-3.000 TL. İlk iki ayda bakım masrafı sa
 
 ### 2. Klima Ömrü 3-5 Yıl Kısalır
 
-Bir split klimanın ortalama ömrü 10-15 yıldır. Düzenli bakım yapılan klimalar bu ömrün üst sınırına yaklaşırken, bakımsız klimalar 7-8 yılda verimsiz hale gelir. 30.000-50.000 TL'lik bir yatırımdan 3-5 yıl daha fazla verim almak mı, yoksa erken yenilemek mi? Hesap ortada. Klimanız artık verimsizse ve değiştirmeyi düşünüyorsanız [klima sökme takma ücreti rehberimize](/blog/klima-sokme-takma-ucreti) göz atın.
+Bir split klimanın ortalama ömrü 10-15 yıldır. Düzenli bakım yapılan klimalar bu ömrün üst sınırına yaklaşırken, bakımsız klimalar 7-8 yılda verimsiz hale gelir. 30.000-50.000 TL'lik bir yatırımdan 3-5 yıl daha fazla verim almak mı, yoksa erken yenilemek mi? Hesap ortada. Klimanız artık verimsizse ve değiştirmeyi düşünüyorsanız [klima sökme takma ücreti rehberimize](/blog/klima-sokme-takma-ucreti/) göz atın.
 
 ### 3. Büyük Arıza Riski Katlanır
 
@@ -79,7 +79,7 @@ Temiz filtre sadece klima için değil, ailenizin sağlığı için de gerekli.
 
 Çoğu klima üreticisi, garanti koşullarında "düzenli bakım yapılmış olması" şartı arar. Bakımsızlıktan kaynaklanan arızalar garanti kapsamı dışında tutulabilir. Garanti süresi içinde bile olsanız, bakım kaydınız yoksa üretici onarımı ücretsiz yapmayabilir.
 
-[Klimanızda arıza kodu görüyorsanız bakım ihtiyacının işareti olabilir. **Klima hata kodları rehberimize bakın.**](/blog/klima-hata-kodlari)
+[Klimanızda arıza kodu görüyorsanız bakım ihtiyacının işareti olabilir. **Klima hata kodları rehberimize bakın.**](/blog/klima-hata-kodlari/)
 
 ## Profesyonel Klima Bakımında Neler Yapılır?
 
@@ -108,7 +108,7 @@ Temiz filtre sadece klima için değil, ailenizin sağlığı için de gerekli.
 
 Bu kapsamlı bakım genelde 45-90 dakika sürer. Bakım sonunda teknisyen size klimanın genel durumu hakkında bilgi verir ve varsa ek müdahale gerektiren noktaları raporlar.
 
-[Gaz seviyesi düşükse gaz dolumu gerekebilir. **Klima gaz dolumu fiyatları ve süreci hakkında detaylı bilgi alın.**](/blog/klima-gaz-dolumu-fiyatlari)
+[Gaz seviyesi düşükse gaz dolumu gerekebilir. **Klima gaz dolumu fiyatları ve süreci hakkında detaylı bilgi alın.**](/blog/klima-gaz-dolumu-fiyatlari/)
 
 ## Kendiniz Yapabileceğiniz 6 Basit Klima Bakım Kontrolü
 
@@ -124,7 +124,7 @@ Dış ünitenin etrafında en az 50 cm boşluk olmalı. Üzerine eşya koymayın
 
 ### 3. Drenaj Hortumunu Kontrol Edin
 
-Dış duvardaki drenaj hortumu çıkışına bakın. Tıkalı veya ezik olmadığından emin olun. [Klimadan su akıyorsa nedenleri ve çözümleri rehberimizde anlattık.](/blog/klimadan-su-akiyor)
+Dış duvardaki drenaj hortumu çıkışına bakın. Tıkalı veya ezik olmadığından emin olun. [Klimadan su akıyorsa nedenleri ve çözümleri rehberimizde anlattık.](/blog/klimadan-su-akiyor/)
 
 ### 4. Klimayı Doğru Sıcaklıkta Kullanın
 
@@ -173,7 +173,7 @@ Klimanız garanti süresi içindeyse yetkili servisten bakım yaptırmanız gara
 
 ### Fiyat Teklifi Alın
 
-Bakım fiyatı markaya, modele ve yapılacak işleme göre değişir. Önceden fiyat bilgisi almak sürpriz maliyetleri önler. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) ve [montaj ücretinin neden değiştiği](/blog/klima-montaj-ucreti-neden-degisiyor) hakkında bilgi alabilirsiniz.
+Bakım fiyatı markaya, modele ve yapılacak işleme göre değişir. Önceden fiyat bilgisi almak sürpriz maliyetleri önler. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) ve [montaj ücretinin neden değiştiği](/blog/klima-montaj-ucreti-neden-degisiyor/) hakkında bilgi alabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 
@@ -199,7 +199,7 @@ Filtre temizliği, dış ünite etrafı temizleme ve drenaj hortumu kontrolü gi
 
 ### Klima bakımı ne kadar tutar?
 
-Ev tipi split klima bakımı 2026 yılında ortalama 1.500-3.000 TL arasında değişir. Salon tipi ve kanallı klimalarda fiyat daha yüksek olabilir. Bakım sırasında gaz dolumu veya parça değişimi gerekirse ek maliyet oluşur. [Güncel fiyatlar için bakım fiyatları rehberimize bakın.](/blog/klima-bakim-fiyatlari)
+Ev tipi split klima bakımı 2026 yılında ortalama 1.500-3.000 TL arasında değişir. Salon tipi ve kanallı klimalarda fiyat daha yüksek olabilir. Bakım sırasında gaz dolumu veya parça değişimi gerekirse ek maliyet oluşur. [Güncel fiyatlar için bakım fiyatları rehberimize bakın.](/blog/klima-bakim-fiyatlari/)
 
 ### Yeni klimaya da bakım gerekir mi?
 

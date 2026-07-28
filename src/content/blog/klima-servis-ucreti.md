@@ -171,9 +171,9 @@ Net bir karar rehberi. Klima servis ücreti karşılaştırması yaparken durumu
 
 - **Garanti süresi bitmişse.** Garanti yoksa yetkili servise fazla ödemenin anlamı azalır.
 - **Rutin bakım işlemlerinde.** Filtre temizliği, genel kontrol ve basit bakımda serbest servis yeterli.
-- **Gaz dolumu gerekiyorsa.** Gaz dolumu standart bir işlem; lisanslı serbest servis bunu rahatlıkla yapar. [Klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) rehberimizden güncel ücretleri görebilirsiniz.
+- **Gaz dolumu gerekiyorsa.** Gaz dolumu standart bir işlem; lisanslı serbest servis bunu rahatlıkla yapar. [Klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) rehberimizden güncel ücretleri görebilirsiniz.
 - **Acil müdahale gerekiyorsa.** Yetkili servisin randevu süresini bekleyemiyorsanız, güvenilir serbest servis daha hızlı gelir.
-- **Klima sökme takma işleminde.** [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) zaten yüksek bir kalem; serbest serviste bu maliyeti düşürebilirsiniz.
+- **Klima sökme takma işleminde.** [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) zaten yüksek bir kalem; serbest serviste bu maliyeti düşürebilirsiniz.
 
 **Önemli:** Serbest servis tercih ederken "herhangi bir usta" değil, lisanslı ve referanslı bir firma seçin. Aradaki fark devasa.
 
@@ -181,7 +181,7 @@ Net bir karar rehberi. Klima servis ücreti karşılaştırması yaparken durumu
 
 ### 1. Düzenli Bakım Yaptırın
 
-Bakım yaptırılan klima daha az arıza yapar. Yılda bir bakım, olası büyük arızaların önüne geçer. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz. Düzenli bakım, klima servis ücretini uzun vadede ciddi ölçüde düşürür.
+Bakım yaptırılan klima daha az arıza yapar. Yılda bir bakım, olası büyük arızaların önüne geçer. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz. Düzenli bakım, klima servis ücretini uzun vadede ciddi ölçüde düşürür.
 
 ### 2. Sezon Öncesi Kontrol Yaptırın
 
@@ -244,7 +244,7 @@ Bu firma sorunu ilk gelişinde doğru teşhis etti: sadece gaz kaçağı. Kaçak
 
 Haliliye, Karaköprü ve Eyyübiye merkez ilçelerinde hem yetkili hem serbest servis bulunur. Yetkili servisler genellikle organize sanayi bölgesine yakın konumlanır. Serbest servisler ise mahalle bazında dağılmıştır ve erişimi daha kolaydır. Şanlıurfa'da ortalama klima servis ücreti, İstanbul ve Ankara gibi büyükşehirlere göre %10-15 daha uygun seviyededir.
 
-Yeni klima taktırmayı düşünüyorsanız [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimize de göz atın.
+Yeni klima taktırmayı düşünüyorsanız [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimize de göz atın.
 
 ## Sıkça Sorulan Sorular
 

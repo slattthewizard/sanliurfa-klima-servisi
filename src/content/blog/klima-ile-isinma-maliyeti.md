@@ -37,7 +37,7 @@ Bu tablo, klimanın COP değerinin kış boyunca çoğunlukla 3 ve üzerinde kal
 
 Tek dikkat edilecek dönem, aralık sonu ile şubat başı arasındaki en soğuk haftalar. Gece sıcaklığı sıfırın altına indiğinde dış ünite daha sık defrost döngüsüne girer ve verim geçici olarak düşer. Bu haftalarda klimayı destekleyecek ikinci bir kaynak (kombi veya soba) bulundurmak, hem konforu hem fatura dengesini korur. Yılın geri kalanında klima tek başına rahatlıkla yeterli olur.
 
-İkinci avantaj: Şanlıurfa'da zaten neredeyse her evde soğutma için alınmış bir klima var. Yani ek bir cihaz yatırımı gerekmiyor; mevcut cihazın kış aylarında da kullanılması söz konusu. Isıtma modunda yaşanan sorunlar için [klima ısıtmıyor](/blog/klima-isitmiyor) yazımıza bakabilirsiniz.
+İkinci avantaj: Şanlıurfa'da zaten neredeyse her evde soğutma için alınmış bir klima var. Yani ek bir cihaz yatırımı gerekmiyor; mevcut cihazın kış aylarında da kullanılması söz konusu. Isıtma modunda yaşanan sorunlar için [klima ısıtmıyor](/blog/klima-isitmiyor/) yazımıza bakabilirsiniz.
 
 ## Klima ile Isınma Maliyeti: Üç Yöntem Yan Yana
 
@@ -49,7 +49,7 @@ Aşağıdaki senaryo 25 m2'lik bir salonun günde 8 saat ısıtılmasına dayan�
 | Elektrikli ısıtıcı (2 kW) | 2.000 - 2.800 TL | Verim artmaz, sabit tüketim |
 | Doğalgaz kombi (tek oda payı) | 700 - 1.200 TL | Ev geneli ısıtmada birim maliyet düşer |
 
-Tablodan çıkan üç sonuç var. Birincisi, klima elektrikli ısıtıcıdan her senaryoda belirgin şekilde ucuz. İkincisi, doğalgazla kıyaslama daha çetrefilli: tek bir odayı ısıtacaksanız klima doğalgazla yarışabiliyor, hatta bazı durumlarda öne geçiyor; evin tamamını ısıtacaksanız doğalgaz genelde daha ekonomik kalıyor. Üçüncüsü, on/off eski bir klimayla bu tablodaki alt bantları yakalamak zor; verim farkını [inverter klima nedir](/blog/inverter-klima-nedir) yazımızda anlattık.
+Tablodan çıkan üç sonuç var. Birincisi, klima elektrikli ısıtıcıdan her senaryoda belirgin şekilde ucuz. İkincisi, doğalgazla kıyaslama daha çetrefilli: tek bir odayı ısıtacaksanız klima doğalgazla yarışabiliyor, hatta bazı durumlarda öne geçiyor; evin tamamını ısıtacaksanız doğalgaz genelde daha ekonomik kalıyor. Üçüncüsü, on/off eski bir klimayla bu tablodaki alt bantları yakalamak zor; verim farkını [inverter klima nedir](/blog/inverter-klima-nedir/) yazımızda anlattık.
 
 Eyyübiye'de doğalgaz aboneliği olmayan bir apartman dairesinde oturan müşterimiz, geçen kışa kadar iki elektrikli ısıtıcıyla ısınıyordu ve aralık faturası 3.400 TL gelmişti. Salondaki inverter klimayı ısıtma modunda kullanmaya başladıktan sonra ocak faturası 1.900 TL'ye indi. Aynı konfor, aynı ev, sadece yöntem değişti.
 
@@ -69,7 +69,7 @@ Isı kaçıran bir evde klima sürekli yüksek devirde çalışmak zorunda kalı
 
 ## 3. Bakım Durumu
 
-Kirli filtre ve tıkalı serpantin, ısıtma verimini doğrudan düşürür. Sezon başında yapılan bir [klima bakımı](/blog/klima-bakimi-nasil-yapilir), kış boyunca tüketimi düşük tutmanın en ucuz yolu. Kışa girmeden filtrelerinizi mutlaka temizleyin.
+Kirli filtre ve tıkalı serpantin, ısıtma verimini doğrudan düşürür. Sezon başında yapılan bir [klima bakımı](/blog/klima-bakimi-nasil-yapilir/), kış boyunca tüketimi düşük tutmanın en ucuz yolu. Kışa girmeden filtrelerinizi mutlaka temizleyin.
 
 ## 4. Sıcaklık Ayarı
 
@@ -77,7 +77,7 @@ Isıtma modunda her fazladan derece, tüketimi yaklaşık yüzde 5-8 artırır. 
 
 ## 5. Dış Ünitenin Konumu
 
-Rüzgara tamamen açık, kuzeye bakan bir dış ünite, kış aylarında daha sık defrost döngüsüne girer ve verim kaybeder. Defrost sırasında buzlanmanın normal olup olmadığını [klima buz tutuyor](/blog/klima-buz-tutuyor) yazımızda anlattık.
+Rüzgara tamamen açık, kuzeye bakan bir dış ünite, kış aylarında daha sık defrost döngüsüne girer ve verim kaybeder. Defrost sırasında buzlanmanın normal olup olmadığını [klima buz tutuyor](/blog/klima-buz-tutuyor/) yazımızda anlattık.
 
 ## Klimayla Isınma Hangi Durumda Mantıklı?
 
@@ -103,7 +103,7 @@ Haliliye'de üç odalı bir dairede oturan bir müşterimiz geçen kış tam bu 
 3. Kanatları aşağı yönlendirin; sıcak hava yükseldiği için ısıtmada hava akımı zemine verilmeli.
 4. Kısa sürelerle açıp kapatmak yerine düşük ayarda sürekli çalıştırın; soğumuş odayı sıfırdan ısıtmak daha pahalı.
 5. Perde ve mobilyaların iç üniteyi engellemediğinden emin olun.
-6. Genel tüketim hesabı ve tarife detayları için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımıza bakın.
+6. Genel tüketim hesabı ve tarife detayları için [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımıza bakın.
 
 Karaköprü'de bir müşterimiz bu ayarlamaları yaptıktan sonra, aynı kullanım süresiyle aylık ısıtma maliyetinin yaklaşık 400 TL düştüğünü söyledi. En büyük etkiyi gece sıcaklığını düşürmek ve kanat yönünü değiştirmek yapmış.
 
@@ -137,7 +137,7 @@ Standart modellerde -5°C civarından itibaren verim belirgin düşer. Şanlıur
 Soğuk başlangıçta kompresörün devreye girmesi ve dış üniteden ısı çekmeye başlaması birkaç dakika alır. 15-20 dakikada hissedilir ısınma normaldir. Daha uzun sürüyorsa filtre, gaz veya kapasite sorunu olabilir.
 
 **Isıtma modunda gaz tüketimi artar mı?**
-Klima gazı yakıt değildir, tüketilmez. Kapalı devrede dolaşır. Gaz eksiliyorsa kaçak vardır; belirtileri [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda bulabilirsiniz.
+Klima gazı yakıt değildir, tüketilmez. Kapalı devrede dolaşır. Gaz eksiliyorsa kaçak vardır; belirtileri [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda bulabilirsiniz.
 
 **Isıtma için ayrı bir klima mı almalıyım?**
 Hayır, mevcut split klimanız ısıtma modunu destekliyorsa (bugün satılan modellerin neredeyse tamamı destekler) aynı cihaz iki mevsim de kullanılır. Yeni alım yapacaksanız SCOP değeri yüksek bir inverter model seçmeniz yeterli.

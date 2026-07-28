@@ -45,7 +45,7 @@ Doğrudan rakamlara geçelim. 2026 yılında 12000 BTU klima fiyatları, markan�
 | Regal | Sabit Hız | A | 12.000 - 15.000 TL |
 | Altus | Inverter | A+ | 13.500 - 16.500 TL |
 
-Yerli markalarda 12000 BTU inverter klima fiyatı ortalama 15.000-18.000 TL bandında seyrediyor. Ucuz 12000 BTU klima arıyorsanız sabit hız modelleri 12.000 TL'den başlıyor ama uzun vadede elektrik faturasına etkisini hesaba katmak gerekiyor. Düzenli [klima bakım fiyatları](/blog/klima-bakim-fiyatlari) da toplam maliyetin bir parçası.
+Yerli markalarda 12000 BTU inverter klima fiyatı ortalama 15.000-18.000 TL bandında seyrediyor. Ucuz 12000 BTU klima arıyorsanız sabit hız modelleri 12.000 TL'den başlıyor ama uzun vadede elektrik faturasına etkisini hesaba katmak gerekiyor. Düzenli [klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) da toplam maliyetin bir parçası.
 
 ### İthal Marka 12000 BTU Klima Fiyatları
 
@@ -140,7 +140,7 @@ A+++ ile A sınıfı arasındaki elektrik tüketimi farkı yılda 1.000 TL'yi bu
 
 ### 2. Montaj Maliyetini Hesaba Katın
 
-Klimanın fiyatı sadece cihazın kendisi değil. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) 2026'da 2.500 TL ile 6.000 TL arasında değişiyor.
+Klimanın fiyatı sadece cihazın kendisi değil. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) 2026'da 2.500 TL ile 6.000 TL arasında değişiyor.
 
 Bazı mağazalar "montaj hediye" kampanyaları düzenliyor ama bu kampanyalarda genellikle 3 metre bakır boru dahil oluyor. Şanlıurfa'da birçok binada dış ünite mesafesi 5-7 metre. Yani ekstra boru ve işçilik ücreti çıkabiliyor.
 
@@ -158,7 +158,7 @@ Kompresör, klimanın kalbi. Değişimi 5.000-15.000 TL tutuyor. Yerli markalard
 
 ### 4. Gaz Türünü Öğrenin
 
-Yeni klimaların çoğu R32 veya R410A gazı kullanıyor. R32, çevreye daha az zarar veren ve daha verimli bir gaz. İleride [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) konusunda bilgi sahibi olmanız önemlidir;, R32 gazlı klimalar hem daha kolay dolum yapılabilir hem de gaz maliyeti daha düşüktür.
+Yeni klimaların çoğu R32 veya R410A gazı kullanıyor. R32, çevreye daha az zarar veren ve daha verimli bir gaz. İleride [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) konusunda bilgi sahibi olmanız önemlidir;, R32 gazlı klimalar hem daha kolay dolum yapılabilir hem de gaz maliyeti daha düşüktür.
 
 ### 5. Wi-Fi ve Akıllı Ev Özelliklerine Aldanmayın
 
@@ -201,13 +201,13 @@ Bir elektronik mağazasının "erken sezon" kampanyasında, 22.000 TL'lik Samsun
 
 ## Düzenli Bakımla Klimanızın Ömrünü Uzatın
 
-Klima aldıktan sonra hikaye bitmiyor. Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak hem cihazın ömrünü uzatır hem de verimli çalışmasını sağlar.
+Klima aldıktan sonra hikaye bitmiyor. Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak hem cihazın ömrünü uzatır hem de verimli çalışmasını sağlar.
 
 **Bakım yaptırmayan klimalarda sık görülen sorunlar:**
 - Soğutma performansında %15-30 düşüş
 - Elektrik tüketiminde %20-25 artış
 - Kompresör aşınması ve erken arıza
-- Filtre tıkanmasına bağlı [kötü koku](/blog/klimadan-koku-gelmesi) ve sağlık sorunları
+- Filtre tıkanmasına bağlı [kötü koku](/blog/klimadan-koku-gelmesi/) ve sağlık sorunları
 
 Yılda en az bir kez, tercihen yaz sezonu öncesinde profesyonel bakım yaptırmak, klimanızın 15 yıl ve üzeri çalışmasını sağlayabilir.
 
@@ -241,7 +241,7 @@ En uygun fiyatlar Ocak-Mart döneminde. Montaj yoğunluğu düşük, fiyatlar se
 **Bu yazıdan çıkarmanız gereken 5 temel nokta:**
 
 1. **Inverter klima Şanlıurfa'da kendini 2-3 yılda amorti ediyor.** Elektrik faturası farkı aylık 150-300 TL.
-2. **Toplam maliyeti hesaplayın.** Klima fiyatı + montaj + ekstra boru + yıllık bakım. Mevcut klimanızı değiştiriyorsanız [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) de bütçenize dahil edin.
+2. **Toplam maliyeti hesaplayın.** Klima fiyatı + montaj + ekstra boru + yıllık bakım. Mevcut klimanızı değiştiriyorsanız [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) de bütçenize dahil edin.
 3. **Sezon dışında alın.** Ucuz 12000 BTU klima arayanlar için Ocak-Mart dönemi en uygun fiyatları sunar.
 4. **BTU kapasitesini Şanlıurfa koşullarına göre hesaplayın.** Standart hesapların %15-30 üstünü hedefleyin.
 5. **Kompresör garantisine dikkat edin.** Uzun garanti = üreticinin kalite güvencesi.

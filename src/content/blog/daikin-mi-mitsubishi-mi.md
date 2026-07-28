@@ -69,11 +69,11 @@ Mitsubishi, hemen her kapasitede Daikin'den **%10-20 daha pahalı**. Bu fark öz
 
 **Peki bu fark haklı mı?** Cevap kullanım senaryonuza bağlı. Aşağıdaki performans karşılaştırmasında bu farkın nereden geldiğini göreceksiniz.
 
-Güncel [klima fiyatları](/blog/klima-fiyatlari) ve tüm markaların karşılaştırması için detaylı rehberimize göz atabilirsiniz. Özellikle [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) karşılaştırması en popüler kapasite grubu olduğu için ayrıca incelenmeye değer.
+Güncel [klima fiyatları](/blog/klima-fiyatlari/) ve tüm markaların karşılaştırması için detaylı rehberimize göz atabilirsiniz. Özellikle [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) karşılaştırması en popüler kapasite grubu olduğu için ayrıca incelenmeye değer.
 
 ### Montaj Maliyeti Farkı
 
-Her iki marka için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) benzer aralıktadır. Standart montaj 3.000-5.000 TL, yüksek kat veya uzun boru hattı gerektiren montaj 5.000-8.000 TL arasında değişir. Marka değişikliği yapıyorsanız [klima söküm-takım ücreti](/blog/klima-sokme-takma-ucreti) de hesaba katılmalı.
+Her iki marka için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) benzer aralıktadır. Standart montaj 3.000-5.000 TL, yüksek kat veya uzun boru hattı gerektiren montaj 5.000-8.000 TL arasında değişir. Marka değişikliği yapıyorsanız [klima söküm-takım ücreti](/blog/klima-sokme-takma-ucreti/) de hesaba katılmalı.
 
 ## Soğutma ve Isıtma Performansı Karşılaştırması
 
@@ -123,7 +123,7 @@ Kısacası, enerji verimliliği her iki markada da mükemmel seviyede. Bu kriter
 
 Enerji ve Tabii Kaynaklar Bakanlığı verilerine göre A+++ sınıfı inverter klimalar, A sınıfı sabit hızlı modellere göre yıllık 1.500-2.500 TL tasarruf sağlıyor.
 
-**Odanıza uygun BTU kapasitesini bilmeden doğru klima seçemezsiniz.** [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizden hesaplayabilirsiniz.
+**Odanıza uygun BTU kapasitesini bilmeden doğru klima seçemezsiniz.** [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizden hesaplayabilirsiniz.
 
 ## Ses Seviyesi: Daikin mi Mitsubishi mi Daha Sessiz?
 
@@ -154,7 +154,7 @@ Türkiye'de yaşıyorsanız servis ağı en az performans kadar önemli. Özelli
 | Servis yanıt süresi (ortalama) | 2-4 gün | 3-7 gün |
 | Online servis talebi | Var | Var |
 
-Daikin, Türkiye'de Mitsubishi'ye göre daha geniş servis ağına sahip. Ama her iki marka da Arçelik veya Vestel gibi yerli markaların servis yaygınlığıyla kıyaslanamaz. [Klima servis ücreti](/blog/klima-servis-ucreti) karşılaştırması ve [en iyi klima markaları](/blog/en-iyi-klima-markalari) rehberimizde detaylı bilgi bulabilirsiniz.
+Daikin, Türkiye'de Mitsubishi'ye göre daha geniş servis ağına sahip. Ama her iki marka da Arçelik veya Vestel gibi yerli markaların servis yaygınlığıyla kıyaslanamaz. [Klima servis ücreti](/blog/klima-servis-ucreti/) karşılaştırması ve [en iyi klima markaları](/blog/en-iyi-klima-markalari/) rehberimizde detaylı bilgi bulabilirsiniz.
 
 Şanlıurfa özelinde her iki markanın da yetkili servisi sınırlı. Profesyonel destek için [klima servisimize](https://sanliurfaklimaservisi.com/) ulaşabilirsiniz; her iki markanın bakım ve onarımını yapıyoruz.
 
@@ -166,7 +166,7 @@ Daikin, Türkiye'de Mitsubishi'ye göre daha geniş servis ağına sahip. Ama he
 | Kompresör garantisi | 5 yıl | 5 yıl |
 | Uzatılmış garanti seçeneği | Var (ek ücretli) | Var (ek ücretli) |
 
-Garanti koşullarında iki marka neredeyse aynı. Ancak garantinin geçerli olması için yıllık [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmanız gerektiğini unutmayın.
+Garanti koşullarında iki marka neredeyse aynı. Ancak garantinin geçerli olması için yıllık [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmanız gerektiğini unutmayın.
 
 ## Teknoloji ve Özel Özellikler
 
@@ -217,7 +217,7 @@ Her iki marka da uzun ömürlü cihazlar üretiyor. Ama uzun vadeli maliyeti sad
 | Olası onarım (10 yılda) | 3.000 TL | 3.500 TL |
 | **10 yıllık toplam** | **50.250 TL** | **56.400 TL** |
 
-10 yıllık toplam maliyette Daikin yaklaşık 6.000 TL daha ekonomik çıkıyor. Bu fark büyük ölçüde cihaz fiyatından kaynaklanıyor. Enerji ve bakım maliyetleri neredeyse aynı. Düzenli [klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) ve bakım her iki marka için de performansı korumak açısından şart.
+10 yıllık toplam maliyette Daikin yaklaşık 6.000 TL daha ekonomik çıkıyor. Bu fark büyük ölçüde cihaz fiyatından kaynaklanıyor. Enerji ve bakım maliyetleri neredeyse aynı. Düzenli [klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) ve bakım her iki marka için de performansı korumak açısından şart.
 
 Muharrem Bey, Eyyübiye'deki 45 metrekarelik lokantasına 2023'te Mitsubishi 24.000 BTU taktırdı. 3 yılda toplam arıza sayısı: sıfır. Yıllık bakım masrafı: 900 TL. Aynı binada komşu dükkan Daikin 24.000 BTU kullanıyor ve o da 3 yılda arıza görmedi. "İkisi de sağlam, farkı serviste hissediyorsun" diyor Muharrem Bey. Daikin servisi 2 günde gelirken Mitsubishi için 5 gün beklemiş.
 
@@ -259,7 +259,7 @@ Daikin, iç ünite ses seviyesinde 2 dB avantajlı (19 dB vs 21 dB). Gece kullan
 
 ### İkisi de çok pahalı, daha uygun alternatif var mı?
 
-Samsung Wind-Free ve LG Dual Inverter, performans olarak yakın ama %30-40 daha uygun fiyatlı. [En iyi klima markaları](/blog/en-iyi-klima-markalari) rehberimizde tüm alternatifleri karşılaştırabilirsiniz.
+Samsung Wind-Free ve LG Dual Inverter, performans olarak yakın ama %30-40 daha uygun fiyatlı. [En iyi klima markaları](/blog/en-iyi-klima-markalari/) rehberimizde tüm alternatifleri karşılaştırabilirsiniz.
 
 ### Daikin ve Mitsubishi en iyi inverter klima mı?
 

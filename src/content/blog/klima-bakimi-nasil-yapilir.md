@@ -107,7 +107,7 @@ Klimanın iç ünitesi, soğutma sırasında havadaki nemi yoğuşturarak su ür
 - Boru ucunda yosun veya kir birikintisi varsa temizleyin
 - Tıkanma şüphesi varsa boruya hafifçe üfleyerek açmayı deneyin
 
-Drenaj tıkanması, [klimadan su akması](/blog/klimadan-su-akiyor) probleminin en yaygın nedenidir. Düzenli kontrol bu sorunu kolayca önler.
+Drenaj tıkanması, [klimadan su akması](/blog/klimadan-su-akiyor/) probleminin en yaygın nedenidir. Düzenli kontrol bu sorunu kolayca önler.
 
 ### 5. Uzaktan Kumanda ve Ayar Kontrolü
 
@@ -137,7 +137,7 @@ Profesyonel bir teknisyen, özel temizleme solüsyonu ve düşük basınçlı y�
 
 ### 2. Gaz Basıncı Kontrolü ve Gaz Dolumu
 
-Soğutucu gaz seviyesinin kontrolü, özel manometre (basınç ölçer) gerektirir. Gaz basıncı normalin altındaysa, [gaz kaçağı](/blog/klima-gaz-kacagi-belirtileri) olasılığı araştırılmalı ve gerekirse [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) yapılmalıdır.
+Soğutucu gaz seviyesinin kontrolü, özel manometre (basınç ölçer) gerektirir. Gaz basıncı normalin altındaysa, [gaz kaçağı](/blog/klima-gaz-kacagi-belirtileri/) olasılığı araştırılmalı ve gerekirse [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) yapılmalıdır.
 
 **Bu işlemi neden teknisyen yapmalı:**
 
@@ -204,9 +204,9 @@ Klimayı kışa hazırlamak için hafif bir bakım. Filtreleri temizleyin, dış
 
 Planlı bakım dışında şu durumlarda hemen servis çağırın:
 
-- [Klimanız soğutmuyor](/blog/klima-sogutmuyor) veya ılık hava üflüyor
+- [Klimanız soğutmuyor](/blog/klima-sogutmuyor/) veya ılık hava üflüyor
 - Garip sesler çıkarıyor (tıkırtı, vızıltı, tıslama)
-- [Klimadan kötü koku](/blog/klimadan-koku-gelmesi) geliyor
+- [Klimadan kötü koku](/blog/klimadan-koku-gelmesi/) geliyor
 - İç üniteden su damlıyor
 - Elektrik faturası açıklanamayacak şekilde arttı
 - Uzaktan kumandada hata kodu görünüyor
@@ -228,7 +228,7 @@ Planlı bakım dışında şu durumlarda hemen servis çağırın:
 
 ## Profesyonel Klima Bakımı Ne Kadar Tutar?
 
-[Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) klimanın tipine, bakımın kapsamına ve bölgeye göre değişir. Genel olarak:
+[Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) klimanın tipine, bakımın kapsamına ve bölgeye göre değişir. Genel olarak:
 
 - **Standart bakım (tek split klima):** 500-800 TL
 - **Detaylı bakım (serpantin yıkama dahil):** 800-1.200 TL
@@ -253,7 +253,7 @@ En tehlikeli hata bu. Klima bozulmadan önce uzun süre performans kaybıyla ça
 
 ### Her Yıl Gereksiz Gaz Doldurtmak
 
-Klima gazı normal şartlarda bitmez. Her yıl gaz doldurtuyorsanız, çözülmemiş bir [gaz kaçağınız](/blog/klima-gaz-kacagi-belirtileri) var demektir. Önce kaçak tespiti yaptırın.
+Klima gazı normal şartlarda bitmez. Her yıl gaz doldurtuyorsanız, çözülmemiş bir [gaz kaçağınız](/blog/klima-gaz-kacagi-belirtileri/) var demektir. Önce kaçak tespiti yaptırın.
 
 ## Şanlıurfa'da Profesyonel Klima Bakım Hizmeti
 
@@ -290,4 +290,4 @@ Servisin lisanslı olduğundan emin olun. Yapılacak işlemlerin listesini ve fi
 Bakım sonrası garanti verilip verilmediğini kontrol edin. Detaylı bakım yapılmadan sadece filtre temizliğiyle geçiştirilmemesine dikkat edin.
 
 **Yeni klima ne zaman ilk bakıma alınmalı?**
-İlk profesyonel bakım, [klima montajından](/blog/klima-montaj-fiyatlari) 1 yıl sonra yapılmalı. Filtre temizliğine ise ilk aydan itibaren başlanmalı.
+İlk profesyonel bakım, [klima montajından](/blog/klima-montaj-fiyatlari/) 1 yıl sonra yapılmalı. Filtre temizliğine ise ilk aydan itibaren başlanmalı.

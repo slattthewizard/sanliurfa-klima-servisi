@@ -36,7 +36,7 @@ Hata kodu genellikle iç ünitenin LED ekranında veya uzaktan kumandanın ekran
 
 > **Ahmet Bey'in hikayesi:** Ahmet Bey, Şanlıurfa Eyyübiye'deki dairesinde Temmuz ortasında klimasının ekranında "E4" kodu gördü. İnternette aradı, bir sitede "kompresör arızası, cihaz değişmeli" yazıyordu. Panikle yeni klima fiyatlarına bakmaya başladı. Bize ulaştığında cihazı kontrol ettik: sorun sadece kirlenmiş bir filtreydi. Filtre temizliği ve reset ile klima 20 dakikada normale döndü. Ahmet Bey gereksiz yere 25.000 TL harcamaktan kurtuldu. Doğru bilgi, gerçekten bu kadar fark yaratıyor.
 
-[Klima arızalarının çoğu düzenli bakımla önlenebilir. **Klima bakım fiyatları ve kapsamı hakkında detaylı bilgi alın.**](/blog/klima-bakim-fiyatlari)
+[Klima arızalarının çoğu düzenli bakımla önlenebilir. **Klima bakım fiyatları ve kapsamı hakkında detaylı bilgi alın.**](/blog/klima-bakim-fiyatlari/)
 
 ## Klima Hata Kodları: İlk Yapmanız Gereken 5 Adım
 
@@ -83,9 +83,9 @@ Daikin, Türkiye'de en yaygın kullanılan premium klima markalarından biridir.
 | **U0** | Soğutucu gaz yetersiz | Hayır, servis gerekli |
 | **U4** | İç-dış ünite iletişim hatası | Kabloları kontrol edin. Devam ederse servis |
 
-**Daikin klima hata kodları** arasında en sık karşılaşılan E3 ve E4 kodları yaz aylarında çok yaygındır. E3 genelde tıkalı filtre veya tıkalı dış ünite kaynaklı olup filtreleri temizleyerek çözülebilir. E4 ise genellikle gaz kaçağına işaret eder ve profesyonel gaz dolumu gerektirir. Klimanız soğutmuyorsa ve hata kodu vermiyorsa [klima soğutmuyor rehberimiz](/blog/klima-sogutmuyor) de yardımcı olabilir.
+**Daikin klima hata kodları** arasında en sık karşılaşılan E3 ve E4 kodları yaz aylarında çok yaygındır. E3 genelde tıkalı filtre veya tıkalı dış ünite kaynaklı olup filtreleri temizleyerek çözülebilir. E4 ise genellikle gaz kaçağına işaret eder ve profesyonel gaz dolumu gerektirir. Klimanız soğutmuyorsa ve hata kodu vermiyorsa [klima soğutmuyor rehberimiz](/blog/klima-sogutmuyor/) de yardımcı olabilir.
 
-[Klima gaz eksikliği belirtileri ve gaz dolumu süreci hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-gaz-dolumu-fiyatlari)
+[Klima gaz eksikliği belirtileri ve gaz dolumu süreci hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-gaz-dolumu-fiyatlari/)
 
 ## Samsung Klima Arıza Kodları
 
@@ -124,7 +124,7 @@ LG klima hata kodları "CH" (check) formatında görülür. Bu kodlar iç ünite
 | **CH10** | Dış fan motoru arızası | Dış üniteyi temizleyin. Devam ederse servis |
 | **CH21** | Kompresör aşırı akım | Hayır, servis gerekli |
 | **CH22** | Kompresör akım sensörü hatası | Hayır, servis gerekli |
-| **CH23** | Kompresör düşük basınç | Hayır, servis gerekli ([gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari)) |
+| **CH23** | Kompresör düşük basınç | Hayır, servis gerekli ([gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/)) |
 | **CH26** | Dış ünite sıcaklık yüksek | Dış ünite etrafını temizleyin |
 | **CH32** | Dış ünite yüksek basınç | Filtreleri temizleyin. Devam ederse servis |
 | **CH38** | Dış ünite kompresör sıcaklığı | Hayır, servis gerekli |
@@ -145,12 +145,12 @@ Mitsubishi Electric klimalar, hata kodları konusunda oldukça detaylı bir sist
 | **E9** | Dış ünite fan hatası | Dış üniteyi kontrol edin. Devam ederse servis |
 | **P1** | Dış ünite basınç sensörü | Hayır, servis gerekli |
 | **P2** | İç boru sensörü hatası | Hayır, servis gerekli |
-| **P4** | Drenaj tepsisi taşması | Drenaj hortumunu kontrol edin. [Klimadan su akıyor](/blog/klimadan-su-akiyor) rehberine bakın |
+| **P4** | Drenaj tepsisi taşması | Drenaj hortumunu kontrol edin. [Klimadan su akıyor](/blog/klimadan-su-akiyor/) rehberine bakın |
 | **P8** | Boru sıcaklık anormali | Hayır, servis gerekli |
 | **U1** | Faz eksikliği / ters faz | Hayır, servis gerekli (elektrik sorunu) |
 | **U2** | Gerilim düşüklüğü / fazlalığı | Gerilim stabilize edici kullanın, devam ederse servis |
 
-Klima montajında doğru elektrik bağlantısı kritik öneme sahiptir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) ve [montaj ücretinin neden değiştiği](/blog/klima-montaj-ucreti-neden-degisiyor) hakkında detaylı bilgi alabilirsiniz.
+Klima montajında doğru elektrik bağlantısı kritik öneme sahiptir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) ve [montaj ücretinin neden değiştiği](/blog/klima-montaj-ucreti-neden-degisiyor/) hakkında detaylı bilgi alabilirsiniz.
 
 ## Vestel Klima Hata Kodları
 
@@ -215,7 +215,7 @@ Tüm hata kodları eşit değildir. Bazıları acil müdahale gerektirirken baz�
 - **Kumanda sinyal hataları**: Pil değişimi veya engel kaldırma.
 - **Geçici iletişim hataları**: Reset (fişi çekip takma).
 
-[Klimanızda su akması veya damlama varsa bu ayrı bir sorun olabilir. **Klimadan su akıyor rehberimizde nedenleri ve çözümleri anlattık.**](/blog/klimadan-su-akiyor)
+[Klimanızda su akması veya damlama varsa bu ayrı bir sorun olabilir. **Klimadan su akıyor rehberimizde nedenleri ve çözümleri anlattık.**](/blog/klimadan-su-akiyor/)
 
 ## Klima Hata Kodlarını Önlemenin 4 Yolu
 
@@ -239,7 +239,7 @@ Dış ünitenin etrafında en az 50 cm boşluk bırakın. Üzerine eşya koymay�
 
 > **Hasan Bey'in dersi:** Hasan Bey'in Siverek'teki iş yerinde 3 adet klima var. Her yaz en az 2-3 kez arıza kodu alıyordu. Servis masrafları yıllık 8.000 TL'yi buluyordu. 2025'te tavsiyemiz üzerine yıllık bakım anlaşması yaptı ve 3 klimaya voltaj regülatörü taktırdı. 2026 yılında henüz tek bir arıza kodu bile almadı. Yıllık bakım + regülatör yatırımı toplam 4.500 TL tuttu; önceki yıl sadece servis masrafları 8.000 TL'ydi.
 
-[Klima taşıma veya yer değişikliği sırasında yapılan hatalar da arızalara yol açar. **Klima sökme takma ücreti ve süreç hakkında bilgi alın.**](/blog/klima-sokme-takma-ucreti)
+[Klima taşıma veya yer değişikliği sırasında yapılan hatalar da arızalara yol açar. **Klima sökme takma ücreti ve süreç hakkında bilgi alın.**](/blog/klima-sokme-takma-ucreti/)
 
 ## Sıkça Sorulan Sorular
 
@@ -261,7 +261,7 @@ Hata kodunu görmezden gelip klimayı çalıştırmaya devam etmeyin. Sorun büy
 
 ### Her markada aynı kod aynı anlama mı gelir?
 
-Hayır, kesinlikle gelmez. Örneğin "E1" kodu Daikin'de ana kart arızası anlamına gelirken, Samsung'da iletişim hatası, Vestel'de oda sensörü arızası anlamına gelir. Bu yüzden kodunuzu ararken mutlaka markanızı da belirtin. [E1 hata kodu hakkında detaylı rehberimize bakın.](/blog/klima-e1-hatasi)
+Hayır, kesinlikle gelmez. Örneğin "E1" kodu Daikin'de ana kart arızası anlamına gelirken, Samsung'da iletişim hatası, Vestel'de oda sensörü arızası anlamına gelir. Bu yüzden kodunuzu ararken mutlaka markanızı da belirtin. [E1 hata kodu hakkında detaylı rehberimize bakın.](/blog/klima-e1-hatasi/)
 
 ### Garanti kapsamında hata kodları ücretsiz mi onarılır?
 
@@ -269,7 +269,7 @@ Garanti süresi içindeki (genellikle 3 yıl kompresör, 2 yıl genel) arızalar
 
 ### Klima hata kodu almazsam her şey yolunda mı?
 
-Hata kodu olmaması her şeyin sorunsuz olduğu anlamına gelmez. Bazı sorunlar (kademeli gaz kaybı, yavaş performans düşüşü) hata kodu üretmeden ilerleyebilir. Yılda bir [profesyonel klima bakımı](/blog/klima-bakim-fiyatlari), gözle görülmeyen sorunları da tespit eder.
+Hata kodu olmaması her şeyin sorunsuz olduğu anlamına gelmez. Bazı sorunlar (kademeli gaz kaybı, yavaş performans düşüşü) hata kodu üretmeden ilerleyebilir. Yılda bir [profesyonel klima bakımı](/blog/klima-bakim-fiyatlari/), gözle görülmeyen sorunları da tespit eder.
 
 ## Sonuç: Klima Hata Kodlarını Anlayın, Doğru Adımı Atın
 

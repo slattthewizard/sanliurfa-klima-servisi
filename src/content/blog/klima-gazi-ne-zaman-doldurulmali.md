@@ -41,7 +41,7 @@ Peki neden herkes "klima gazı bitti" diyor? Gerçek sorun gaz kaçağıdır. Ba
 
 Bu kaçaklar yavaş ilerler. Fark edilmesi aylar alabilir.
 
-**Kritik bilgi:** Eğer klimanızın gazı azalmışsa, doğrudan dolum yaptırmak sorunu çözmez. Önce [kaçak noktasının tespit edilmesi](/blog/klima-gaz-kacagi-belirtileri) gerekir. Kaçak onarılmadan yapılan dolum, birkaç hafta veya ay içinde yine azalacak ve tekrar para harcamanız gerekecek.
+**Kritik bilgi:** Eğer klimanızın gazı azalmışsa, doğrudan dolum yaptırmak sorunu çözmez. Önce [kaçak noktasının tespit edilmesi](/blog/klima-gaz-kacagi-belirtileri/) gerekir. Kaçak onarılmadan yapılan dolum, birkaç hafta veya ay içinde yine azalacak ve tekrar para harcamanız gerekecek.
 
 ## Klima Gazı Dolumu Gerektiren 6 Net Belirti
 
@@ -49,7 +49,7 @@ Klima gazı ne zaman doldurulmalı sorusunun cevabı aslında basit: gaz seviyes
 
 ### 1. Soğutma Performansında Düşüş
 
-En belirgin işaret budur. [Klimanız çalışıyor ama soğutmuyor](/blog/klima-sogutmuyor). Fan dönüyor, hava akışı var ama oda bir türlü serinlemiyor.
+En belirgin işaret budur. [Klimanız çalışıyor ama soğutmuyor](/blog/klima-sogutmuyor/). Fan dönüyor, hava akışı var ama oda bir türlü serinlemiyor.
 
 Normal çalışan bir split klimanın iç ünitesinden çıkan hava 8-12°C arasında olmalı. Eğer elinizi tuttuğunuzda ılık veya oda sıcaklığında hava hissediyorsanız, gaz seviyesi muhtemelen düşmüş.
 
@@ -136,7 +136,7 @@ Klima gazı ne zaman doldurulmalı sorusunun bir de "yılın hangi döneminde" b
 
 **Servisler yoğun değil:** Haziran-Ağustos arası klima servisleri yoğunluktan randevu veremez hale gelir. Sezon öncesi hem daha kolay randevu alırsınız hem de daha az beklersiniz.
 
-**Fiyatlar daha uygun:** Yaz ortasında acil servis talebi arttığında fiyatlar da yükselir. Sezon öncesi [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak genellikle %15-25 daha uygun fiyatlı olur.
+**Fiyatlar daha uygun:** Yaz ortasında acil servis talebi arttığında fiyatlar da yükselir. Sezon öncesi [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak genellikle %15-25 daha uygun fiyatlı olur.
 
 **Sorun varsa çözüm süresi olur:** Kaçak tespiti, parça siparişi veya onarım birkaç gün sürebilir. Sezon öncesi bu süreyi karşılayabilirsiniz. Temmuz ortasında klimasız kalmak Şanlıurfa'da gerçek bir işkencedir.
 
@@ -163,11 +163,11 @@ Klimanızın gerçekten gaz dolumuna ihtiyacı olduğuna karar verdiyseniz, doğ
 
 ### 1. Önce Kaçak Tespiti, Sonra Dolum
 
-Bu kuralı tekrar vurguluyoruz çünkü en sık yapılan hata budur. Kaçak noktası bulunmadan gaz dolumu yapmak, delik kovaya su doldurmak gibidir. [Gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) varsa önce kaçak tespiti ve onarımı yapılmalı, ardından dolum yapılmalı.
+Bu kuralı tekrar vurguluyoruz çünkü en sık yapılan hata budur. Kaçak noktası bulunmadan gaz dolumu yapmak, delik kovaya su doldurmak gibidir. [Gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) varsa önce kaçak tespiti ve onarımı yapılmalı, ardından dolum yapılmalı.
 
 ### 2. Doğru Gaz Türünü Kullanın
 
-Klimanızın etiketinde yazan gaz türü (R410A, R32 veya R22) neyse o kullanılmalı. Farklı gaz dolumu kompresöre ciddi hasar verir. [Gaz türlerine göre fiyatlar](/blog/klima-gaz-dolumu-fiyatlari) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
+Klimanızın etiketinde yazan gaz türü (R410A, R32 veya R22) neyse o kullanılmalı. Farklı gaz dolumu kompresöre ciddi hasar verir. [Gaz türlerine göre fiyatlar](/blog/klima-gaz-dolumu-fiyatlari/) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
 
 ### 3. Tartarak Dolum Yaptırın
 

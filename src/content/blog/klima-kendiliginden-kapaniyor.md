@@ -15,7 +15,7 @@ Klimayı açıyorsunuz, oda soğumaya başlıyor, sonra 10-15 dakika içinde her
 
 **Klima kendiliğinden kapanıyor** sorununun kaynağı bazen çok masum: unutulmuş bir zamanlayıcı ayarı. Bazen ise ciddi: gaz eksikliği, aşırı ısınma koruması veya elektronik kart arızası. İkisi arasındaki farkı ayırt etmek, gereksiz yere servis çağırmak veya tam tersi ciddi bir arızayı görmezden gelmek arasındaki farkı belirliyor.
 
-Bu yazıda klimanızın neden kendi kendine kapandığını sıralı olarak kontrol edeceğiz. Klima hiç açılmıyorsa bu farklı bir konu; o durumda [klima açılmıyor](/blog/klima-acilmiyor) yazımıza bakmanızı öneririz.
+Bu yazıda klimanızın neden kendi kendine kapandığını sıralı olarak kontrol edeceğiz. Klima hiç açılmıyorsa bu farklı bir konu; o durumda [klima açılmıyor](/blog/klima-acilmiyor/) yazımıza bakmanızı öneririz.
 
 ## 1. Zamanlayıcı (Timer) Ayarı Aktif Olabilir
 
@@ -29,7 +29,7 @@ Bu, çocukların kumandayla oynaması veya önceki kullanıcının ayarı unutma
 
 Uyku modu, sıcaklığı kademeli değiştirir ve klimayı kapatmaz, ama bazı kullanıcılar bu modu yanlış anlayıp klimanın "kapandığını" düşünür. Aslında klima çalışmaya devam eder, sadece fan sesi ve güç seviyesi düşer.
 
-Gerçekten kapanma ile uyku modu arasındaki farkı ayırt etmek için ekrana bakın: ekran tamamen sönmüşse ve standby ışığı da yoksa gerçek bir kapanma söz konusu. Modların tam listesini [klima modları rehberi](/blog/klima-modlari-rehberi) yazımızda bulabilirsiniz.
+Gerçekten kapanma ile uyku modu arasındaki farkı ayırt etmek için ekrana bakın: ekran tamamen sönmüşse ve standby ışığı da yoksa gerçek bir kapanma söz konusu. Modların tam listesini [klima modları rehberi](/blog/klima-modlari-rehberi/) yazımızda bulabilirsiniz.
 
 ## 3. Aşırı Isınma Koruması Devreye Giriyor Olabilir
 
@@ -49,7 +49,7 @@ Bu koruma genellikle dış ünitenin yetersiz havalandırılmasından, kirli kon
 
 Soğutucu gaz seviyesi kritik derecede düştüğünde bazı klimalar kompresörü koruma amaçlı otomatik olarak durdurur. Bu durumda klima birkaç dakika çalışır, soğutma zayıf hisseder ve sonra kapanır; bazen de tekrar açılıp kısa süre sonra yine kapanır.
 
-Gaz eksikliğinin diğer belirtilerini (evaporatörde buzlanma, ılık hava, dış ünite borularında kırağı) [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda ayrıntılı anlattık. Gaz seviyesi kontrolü ve dolumu kesinlikle profesyonel iş; manometre ve özel ekipman gerektirir.
+Gaz eksikliğinin diğer belirtilerini (evaporatörde buzlanma, ılık hava, dış ünite borularında kırağı) [klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda ayrıntılı anlattık. Gaz seviyesi kontrolü ve dolumu kesinlikle profesyonel iş; manometre ve özel ekipman gerektirir.
 
 **Gaz eksikliğinden şüpheleniyorsanız kendiniz gaz eklemeye çalışmayın, yanlış miktar veya tip kompresöre kalıcı hasar verir. Ücretsiz keşif için arayın: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
@@ -87,13 +87,13 @@ Bu tür dalgalanmaların sık yaşandığı bölgelerde regülatör kullanmak, t
 
 Aşırı kirli filtreler, iç ünitenin hava akışını o kadar kısıtlayabilir ki evaporatör hızla buzlanır ve klima koruma amaçlı kendini kapatır. Bu, en kolay çözülebilen nedenlerden biri.
 
-**Kontrol edin:** Filtreleri çıkarın, gözle inceleyin. Kalın bir toz tabakası varsa yıkayıp kurutup takın. Filtre temizliğinin detaylarını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir) yazımızda bulabilirsiniz.
+**Kontrol edin:** Filtreleri çıkarın, gözle inceleyin. Kalın bir toz tabakası varsa yıkayıp kurutup takın. Filtre temizliğinin detaylarını [klima filtresi nasıl temizlenir](/blog/klima-filtresi-nasil-temizlenir/) yazımızda bulabilirsiniz.
 
 ## 9. Hata Kodu ile Birlikte Kapanıyorsa
 
 Klima kapanmadan hemen önce veya kapandıktan sonra ekranda kısa süreliğine bir kod görünüyorsa, bu kodu not edin. Kod, sorunun tam olarak nerede olduğuna işaret eder ve servis çağırdığınızda teşhis süresini kısaltır.
 
-Markanıza göre kodların anlamını [klima hata kodları](/blog/klima-hata-kodlari) rehberimizden kontrol edebilirsiniz.
+Markanıza göre kodların anlamını [klima hata kodları](/blog/klima-hata-kodlari/) rehberimizden kontrol edebilirsiniz.
 
 ## 10. Kapanma Zamanını Not Almak: Teşhisi Hızlandıran Basit Bir Alışkanlık
 

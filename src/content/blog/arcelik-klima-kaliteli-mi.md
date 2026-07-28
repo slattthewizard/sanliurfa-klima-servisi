@@ -59,7 +59,7 @@ Arçelik klima yorumlarını toplarken hem olumlu hem olumsuz deneyimleri dengel
 Fatma Hanım, Siverek'te yaşıyor. Kliması Ağustos ortasında arızalandı. Arçelik servisini aradı, ertesi gün teknisyen geldi. "Komşumun ithal marka kliması aynı hafta bozuldu, 10 gün servis bekledi. Ben bir günde hallettim" diyor.
 
 **Fiyat-performans memnuniyeti:**
-Ali Bey, Haliliye'deki 22 metrekarelik yatak odasına Arçelik 12.000 BTU inverter klima aldı. Fiyatı 17.500 TL (2025 yazı). "Aynı kapasitede Samsung 23.000 TL, Daikin 28.000 TL istiyordu" diyor. [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) karşılaştırmasında da bu fark net görülüyor. "Arçelik gayet iyi soğutuyor, sessiz sayılır, 6 aydır hiç sorun yaşamadım" diyor Ali Bey.
+Ali Bey, Haliliye'deki 22 metrekarelik yatak odasına Arçelik 12.000 BTU inverter klima aldı. Fiyatı 17.500 TL (2025 yazı). "Aynı kapasitede Samsung 23.000 TL, Daikin 28.000 TL istiyordu" diyor. [12.000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) karşılaştırmasında da bu fark net görülüyor. "Arçelik gayet iyi soğutuyor, sessiz sayılır, 6 aydır hiç sorun yaşamadım" diyor Ali Bey.
 
 **Enerji tüketimi:**
 Mehmet Bey, 3 odasına Arçelik inverter klima taktırdı. "Eski sabit hızlı klimalarla aylık 1.800 TL elektrik geliyordu. Arçelik inverterlere geçtikten sonra 900 TL'ye düştü" diyor.
@@ -111,9 +111,9 @@ Arçelik'in 2026 klima portföyünde farklı ihtiyaçlara yönelik modeller var.
 
 **Salon (25-35 m²):** Prosmart Plus 18.000 BTU tercih edin. A+++ enerji sınıfı uzun vadede tasarruf sağlar.
 
-**Geniş salon veya ofis (35-50 m²):** 24.000 BTU Prosmart Plus veya çift klima çözümü düşünün. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim) rehberimizden odanıza uygun kapasiteyi hesaplayabilirsiniz.
+**Geniş salon veya ofis (35-50 m²):** 24.000 BTU Prosmart Plus veya çift klima çözümü düşünün. [Kaç BTU klima almalıyım](/blog/kac-btu-klima-almaliyim/) rehberimizden odanıza uygun kapasiteyi hesaplayabilirsiniz.
 
-[Klima fiyatları](/blog/klima-fiyatlari) rehberimizde Arçelik dahil tüm markaların güncel fiyat listesini bulabilirsiniz.
+[Klima fiyatları](/blog/klima-fiyatlari/) rehberimizde Arçelik dahil tüm markaların güncel fiyat listesini bulabilirsiniz.
 
 ## Arçelik Klimanın 5 Güçlü Yönü
 
@@ -121,7 +121,7 @@ Arçelik'in 2026 klima portföyünde farklı ihtiyaçlara yönelik modeller var.
 
 550'den fazla yetkili servis noktası. Her ilde, çoğu ilçede yetkili servis var. Bu, özellikle Şanlıurfa, Diyarbakır, Mardin gibi şehirlerde devasa bir avantaj.
 
-Arçelik klima servisi arıza durumunda ortalama 1-2 gün yanıt süresi sunuyor. İthal markalarda bu süre 3-7 güne çıkabiliyor. [Klima servis ücretleri](/blog/klima-servis-ucreti) konusunda da Arçelik'in yaygın ağı rekabetçi fiyatlar sunuyor.
+Arçelik klima servisi arıza durumunda ortalama 1-2 gün yanıt süresi sunuyor. İthal markalarda bu süre 3-7 güne çıkabiliyor. [Klima servis ücretleri](/blog/klima-servis-ucreti/) konusunda da Arçelik'in yaygın ağı rekabetçi fiyatlar sunuyor.
 
 ### 2. Yedek Parça Bulunabilirliği
 
@@ -135,7 +135,7 @@ Hitachi ortaklığı sadece kompresörle sınırlı değil. Isı eşanjörü ve 
 
 ### 4. Fiyat-Performans Liderliği
 
-Aynı kapasite ve enerji sınıfında ithal markalara göre %20-40 daha uygun fiyatlı. Bu tasarruf, [klima montaj fiyatını](/blog/klima-montaj-fiyatlari) da karşılayacak düzeyde.
+Aynı kapasite ve enerji sınıfında ithal markalara göre %20-40 daha uygun fiyatlı. Bu tasarruf, [klima montaj fiyatını](/blog/klima-montaj-fiyatlari/) da karşılayacak düzeyde.
 
 ### 5. Türkçe Müşteri Deneyimi
 
@@ -203,7 +203,7 @@ Arçelik, 5 yılda Samsung'a göre 4.250 TL, Daikin'e göre 9.375 TL daha ekonom
 - **Aşırı sıcak bölgedeyseniz ve maksimum performans istiyorsanız.** Mitsubishi 52°C'ye kadar çalışır.
 - **Uzun vadeli enerji tasarrufu hesabı yapıyorsanız.** A+++ modeller yıllık 200-400 TL daha az harcar.
 
-[En iyi klima markaları](/blog/en-iyi-klima-markalari) rehberimizde tüm markaların detaylı karşılaştırmasını bulabilirsiniz. Daikin ve Mitsubishi arasında kararsızsanız [Daikin mi Mitsubishi mi](/blog/daikin-mi-mitsubishi-mi) karşılaştırma yazımıza göz atın.
+[En iyi klima markaları](/blog/en-iyi-klima-markalari/) rehberimizde tüm markaların detaylı karşılaştırmasını bulabilirsiniz. Daikin ve Mitsubishi arasında kararsızsanız [Daikin mi Mitsubishi mi](/blog/daikin-mi-mitsubishi-mi/) karşılaştırma yazımıza göz atın.
 
 ## Arçelik Klima Bakımı ve Uzun Ömür İpuçları
 
@@ -214,9 +214,9 @@ Arçelik klimanızın verimli çalışması ve uzun ömürlü olması için düz
 - **Gaz kontrolü:** Yılda 1 kez, soğutma performansı düşerse hemen
 - **Dış ünite temizliği:** Sezon başı ve sonunda
 
-Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmak hem garantiyi korur hem de cihazın enerji verimliliğini %20-30 artırır. Şanlıurfa gibi tozlu iklimlerde filtre temizliği daha da kritik. Toz birikimi hem soğutma verimini düşürür hem de kötü koku sorununa yol açar.
+Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmak hem garantiyi korur hem de cihazın enerji verimliliğini %20-30 artırır. Şanlıurfa gibi tozlu iklimlerde filtre temizliği daha da kritik. Toz birikimi hem soğutma verimini düşürür hem de kötü koku sorununa yol açar.
 
-Özellikle sezon sonunda profesyonel bakım yaptırmak, kış boyunca kullanılmayan klimanın ertesi yaz sorunsuz çalışmasını sağlar. Bakım ihmal edilirse [klimanın soğutmaması](/blog/klima-sogutmuyor) veya koku yapması gibi sorunlarla karşılaşma olasılığı artar. Arçelik klimaların bakım maliyeti ithal markalara göre daha düşük; yedek parça ve işçilik toplamda yıllık 600-900 TL arasında seyrediyor. [Klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) gerekirse Arçelik servislerinde hızlı ve uygun fiyatla yapılabiliyor.
+Özellikle sezon sonunda profesyonel bakım yaptırmak, kış boyunca kullanılmayan klimanın ertesi yaz sorunsuz çalışmasını sağlar. Bakım ihmal edilirse [klimanın soğutmaması](/blog/klima-sogutmuyor/) veya koku yapması gibi sorunlarla karşılaşma olasılığı artar. Arçelik klimaların bakım maliyeti ithal markalara göre daha düşük; yedek parça ve işçilik toplamda yıllık 600-900 TL arasında seyrediyor. [Klima gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) gerekirse Arçelik servislerinde hızlı ve uygun fiyatla yapılabiliyor.
 
 ## Sıkça Sorulan Sorular
 

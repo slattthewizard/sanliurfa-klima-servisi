@@ -58,7 +58,7 @@ En ucuz klima modelleri 2026'da BTU değerine, teknoloji tipine (on-off veya inv
 
 **Not:** Fiyatlar 2026 Mart ayı itibarıyla piyasa ortalamasıdır. Kampanya dönemlerinde (özellikle Nisan-Mayıs) yüzde 10-15 indirimler görebilirsiniz.
 
-[2026 yılı klima fiyatları hakkında marka ve model bazlı detaylı karşılaştırma için rehberimize göz atın.](/blog/klima-fiyatlari-2026)
+[2026 yılı klima fiyatları hakkında marka ve model bazlı detaylı karşılaştırma için rehberimize göz atın.](/blog/klima-fiyatlari-2026/)
 
 Peki bu tablodaki en düşük fiyatlı modelleri almanız mantıklı mı? Her zaman değil. Nedenini açıklayalım.
 
@@ -92,7 +92,7 @@ Sık karşılaşılan arıza maliyetleri:
 
 Bir kompresör arızası bile, satın almada tasarruf ettiğiniz tutarı çoktan aşar.
 
-[Klima servis ücreti ve tamir maliyetleri hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-servis-ucreti)
+[Klima servis ücreti ve tamir maliyetleri hakkında detaylı bilgi için rehberimize bakın.](/blog/klima-servis-ucreti/)
 
 ### 3. Kısa Ömür
 
@@ -109,7 +109,7 @@ En ucuz klimayı alanlar genellikle montajda da tasarruf arar. İnternetten bulu
 
 Hatalı montaj sonrası düzeltme maliyeti: 2.000-5.000 TL. Baştan kaliteli montaj yaptırsanız 2.000-3.500 TL'ye çıkardınız.
 
-[Klima montaj ücretinin neden değiştiğini ve kaliteli montajın farkını bu yazımızda anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor)
+[Klima montaj ücretinin neden değiştiğini ve kaliteli montajın farkını bu yazımızda anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor/)
 
 ## 5 Yıllık Toplam Maliyet Karşılaştırması
 
@@ -129,7 +129,7 @@ Tablo açık: Mağazada en ucuz olan klima, 5 yılda en pahalıya gelen klimadı
 
 **En bütçe dostu seçenek hangisi?** Orta segment inverter A+ model. Satın alma fiyatı makul, elektrik tasarrufu yüksek ve arıza riski düşük. 5 yıllık toplamda en ucuz on-off modele göre 7.000 TL daha az harcıyorsunuz.
 
-[Klima alırken nelere dikkat edilmeli rehberimizde BTU hesaplama, marka seçimi ve enerji sınıfı konularını detaylı anlattık.](/blog/klima-alirken-nelere-dikkat-edilmeli)
+[Klima alırken nelere dikkat edilmeli rehberimizde BTU hesaplama, marka seçimi ve enerji sınıfı konularını detaylı anlattık.](/blog/klima-alirken-nelere-dikkat-edilmeli/)
 
 ## Hesaplı Klima Seçimi İçin 6 Kritik Kriter
 
@@ -147,7 +147,7 @@ A sınıfı yerine A+ tercih etmek, 5 yılda 3.000-5.000 TL elektrik tasarrufu s
 
 ### 3. Doğru BTU Hesabı
 
-Yanlış BTU seçimi hem performansı düşürür hem enerji israf eder. 20 metrekarelik bir oda için 9.000 BTU yetersiz kalır, klima durmadan çalışır ve fatura şişer. [12.000 BTU klima fiyatları ve model karşılaştırması rehberimiz](/blog/12000-btu-klima-fiyati) bu konuda yardımcı olacaktır.
+Yanlış BTU seçimi hem performansı düşürür hem enerji israf eder. 20 metrekarelik bir oda için 9.000 BTU yetersiz kalır, klima durmadan çalışır ve fatura şişer. [12.000 BTU klima fiyatları ve model karşılaştırması rehberimiz](/blog/12000-btu-klima-fiyati/) bu konuda yardımcı olacaktır.
 
 ### 4. Kompresör Garantisine Bakın
 
@@ -161,7 +161,7 @@ Ucuz ama yaygın servis ağı olmayan bir marka tercih ederseniz arıza durumund
 
 Klimanın toplam maliyetinin yüzde 10-15'i montajdır. Bu yüzde 10'dan tasarruf etmek, yüzde 90'lık cihaz yatırımını riske atar. Kaliteli montaj 2.000-3.500 TL'dir. Bu paranın karşılığını fazlasıyla alırsınız.
 
-[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari)
+[2026 klima montaj fiyatları ve süreç rehberimize buradan ulaşabilirsiniz.](/blog/klima-montaj-fiyatlari/)
 
 ## 2026'da Bütçe Dostu Klima Markaları ve Modelleri
 
@@ -209,7 +209,7 @@ Klima çalışırken kapı ve pencereler kapalı olmalı. Açık kapı/pencere, 
 
 Yılda bir profesyonel bakım yaptırmak 500-1.000 TL'ye mal olur. Ama bakımsız klimanın yüzde 15-20 fazla enerji harcadığını düşünürseniz, bakım masrafı birkaç ayda kendini amorti eder.
 
-[Klima bakım fiyatları ve bakımda neler yapıldığını öğrenmek için rehberimize göz atın.](/blog/klima-bakim-fiyatlari)
+[Klima bakım fiyatları ve bakımda neler yapıldığını öğrenmek için rehberimize göz atın.](/blog/klima-bakim-fiyatlari/)
 
 ## Sıkça Sorulan Sorular
 

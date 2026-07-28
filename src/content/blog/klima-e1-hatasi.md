@@ -169,7 +169,7 @@ LG'de E1 kodu, Daikin'e benzer şekilde iletişim sorununa işaret eder.
 **Klima E1 hatası nasıl çözülür?** Markanızı bilmiyorsanız veya yukarıdaki marka listesinde yoksa, şu genel adımları deneyin:
 
 1. **Klimayı resetleyin.** Klimayı kapatın, fişini çekin veya sigortasını indirin. En az 5 dakika bekleyin. Bu süre, kontrol kartının tamamen deşarj olması için gerekli. Tekrar elektrik verip klimayı açın.
-2. **Filtreleri kontrol edin.** Tıkanmış filtreler hava akışını engelleyerek sensör hatalarına yol açabilir. Filtreleri çıkarıp temizleyin. Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari) bu tür sorunları büyük ölçüde önler.
+2. **Filtreleri kontrol edin.** Tıkanmış filtreler hava akışını engelleyerek sensör hatalarına yol açabilir. Filtreleri çıkarıp temizleyin. Düzenli [klima bakımı](/blog/klima-bakim-fiyatlari/) bu tür sorunları büyük ölçüde önler.
 3. **Bağlantı kablolarını kontrol edin.** İç ünitenin kapağını açın. Kablo bağlantılarının sıkı olduğunu, gevşeme veya oksitlenme olmadığını kontrol edin.
 4. **Sensörü gözle inceleyin.** İç ünitede filtrelerin arkasında veya evaporatörün yanında küçük bir sensör bulunur. Yerinden çıkıp çıkmadığını kontrol edin.
 5. **Elektrik voltajını kontrol edin.** Evinizde voltaj düşüklüğü veya dalgalanma sorunu varsa, bu durum klima kontrol kartını etkileyebilir. [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr) standartlarına göre klima beslemesi 220V (+-10%) olmalıdır. Voltaj regülatörü kullanmak sorunu çözebilir.
@@ -195,19 +195,19 @@ Klima hata kodları sadece E1 ile sınırlı değil. İşte en sık karşılaş�
 
 > **Not:** Bu kodlar genel eğilimleri gösterir. Markalara göre farklılık olabilir. Klimanızın kullanım kılavuzundaki hata kodu listesi en güvenilir kaynaktır.
 
-Klimanızda E1 dışında bir hata kodu görüyorsanız ve [klima soğutmuyor](/blog/klima-sogutmuyor) sorunuyla da karşılaşıyorsanız, soğutmama rehberimize de göz atmanızı öneririz.
+Klimanızda E1 dışında bir hata kodu görüyorsanız ve [klima soğutmuyor](/blog/klima-sogutmuyor/) sorunuyla da karşılaşıyorsanız, soğutmama rehberimize de göz atmanızı öneririz.
 
 ## E1 Hatasını Önlemenin 4 Yolu
 
 Çoğu E1 hatası düzenli bakım ve doğru kullanımla önlenebilir.
 
-**1. Düzenli bakım yaptırın.** Yılda en az 2 kez profesyonel klima bakımı, sensör ve kablo bağlantılarını kontrol altında tutar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel ücretleri öğrenebilirsiniz.
+**1. Düzenli bakım yaptırın.** Yılda en az 2 kez profesyonel klima bakımı, sensör ve kablo bağlantılarını kontrol altında tutar. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel ücretleri öğrenebilirsiniz.
 
 **2. Filtreleri aylık temizleyin.** Kirli filtreler hava akışını bozarak sensör hatalarına neden olabilir. Yaz aylarında ayda bir filtre temizliği şart.
 
 **3. Voltaj regülatörü kullanın.** Elektrik dalgalanması yaşanan bölgelerde (kırsal alanlar, eski binalar) voltaj regülatörü hem klima kontrol kartını hem kompresörü korur. 500-2.000 TL'lik bir yatırımla binlerce TL'lik tamir masrafından kurtulabilirsiniz.
 
-**4. Profesyonel montaj yaptırın.** Kötü montaj, kablo bağlantı sorunlarının en büyük sebebi. Sertifikalı teknisyen tarafından yapılan montaj, iletişim hatası riskini minimuma indirir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimizden profesyonel montaj ücretlerini inceleyebilirsiniz. Klima yer değiştirme gerekiyorsa [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) rehberimize de bakabilirsiniz.
+**4. Profesyonel montaj yaptırın.** Kötü montaj, kablo bağlantı sorunlarının en büyük sebebi. Sertifikalı teknisyen tarafından yapılan montaj, iletişim hatası riskini minimuma indirir. [Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimizden profesyonel montaj ücretlerini inceleyebilirsiniz. Klima yer değiştirme gerekiyorsa [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) rehberimize de bakabilirsiniz.
 
 ## E1 Hatası Tamir Maliyetleri
 
@@ -221,7 +221,7 @@ E1 hatasının tamir maliyeti, sorunun kaynağına göre büyük fark gösterir:
 | Kontrol kartı (PCB) tamiri | 1.500-4.000 TL | 1-3 saat |
 | Kontrol kartı değişimi | 3.000-8.000 TL | 1-2 saat |
 
-> **İpucu:** Kontrol kartı değişimi gereken durumlarda, klimanın yaşını ve genel durumunu değerlendirin. 8-10 yaş üstü bir klimada 5.000+ TL kart masrafı çıkıyorsa, yeni cihaz almak daha mantıklı olabilir. [Güncel klima fiyatları](/blog/klima-fiyatlari) rehberimizden karşılaştırma yapabilirsiniz.
+> **İpucu:** Kontrol kartı değişimi gereken durumlarda, klimanın yaşını ve genel durumunu değerlendirin. 8-10 yaş üstü bir klimada 5.000+ TL kart masrafı çıkıyorsa, yeni cihaz almak daha mantıklı olabilir. [Güncel klima fiyatları](/blog/klima-fiyatlari/) rehberimizden karşılaştırma yapabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 
@@ -262,4 +262,4 @@ E1 hatası tüm markalarda görülebilir. Ancak ekonomik segmentteki klimalar, d
 
 Doğru teşhis, hem gereksiz masrafı hem de zaman kaybını önler. Okan'ın hikayesinde gördüğünüz gibi, 6.000 TL teklif edilen iş aslında 500 TL'lik bir kablo sıkma işiydi.
 
-**Şanlıurfa'da klima arızası mı yaşıyorsunuz?** Lisanslı ekibimiz tüm marka ve modellerde arıza teşhisi, sensör değişimi, kart tamiri ve [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) hizmeti sunuyor. [Hemen arayın: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
+**Şanlıurfa'da klima arızası mı yaşıyorsunuz?** Lisanslı ekibimiz tüm marka ve modellerde arıza teşhisi, sensör değişimi, kart tamiri ve [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) hizmeti sunuyor. [Hemen arayın: 0553 397 52 44](https://sanliurfaklimaservisi.com/)

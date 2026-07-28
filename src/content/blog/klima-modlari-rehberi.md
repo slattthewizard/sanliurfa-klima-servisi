@@ -15,7 +15,7 @@ Kumandaya bakıyorsunuz, altı yedi sembol var: kar tanesi, güneş, damla, yelp
 
 Oysa **klima modları** doğru kullanıldığında hem konfor artıyor hem de elektrik faturası düşüyor. Yanlış modda çalışan bir klima, örneğin nemli bir günde cool yerine dry modunda çalıştırılsaydı çok daha az enerjiyle aynı ferahlığı verebilirdi.
 
-Bu yazıda kumandanızdaki her sembolün ne işe yaradığını, hangi durumda hangi modu seçmeniz gerektiğini ve Şanlıurfa'nın sıcak-kuru ikliminde en mantıklı kombinasyonları anlatıyoruz. Mod ayarlarıyla ilgili kumandanız yanıt vermiyorsa önce [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor) yazımıza bakabilirsiniz. Klimanızın mod geçişlerinde tuhaf davranışlar (kendiliğinden mod değiştirme, komuta geç yanıt verme) fark ederseniz bunun bir yazılım tuhaflığı mı yoksa gerçek arıza mı olduğunu anlamak için bizi arayabilirsiniz: [0553 397 52 44](https://sanliurfaklimaservisi.com/)
+Bu yazıda kumandanızdaki her sembolün ne işe yaradığını, hangi durumda hangi modu seçmeniz gerektiğini ve Şanlıurfa'nın sıcak-kuru ikliminde en mantıklı kombinasyonları anlatıyoruz. Mod ayarlarıyla ilgili kumandanız yanıt vermiyorsa önce [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor/) yazımıza bakabilirsiniz. Klimanızın mod geçişlerinde tuhaf davranışlar (kendiliğinden mod değiştirme, komuta geç yanıt verme) fark ederseniz bunun bir yazılım tuhaflığı mı yoksa gerçek arıza mı olduğunu anlamak için bizi arayabilirsiniz: [0553 397 52 44](https://sanliurfaklimaservisi.com/)
 
 Şunu baştan söyleyelim: kumandanızdaki sembollerin hiçbiri "gizli" veya karmaşık değil. Üreticiler bu ikonları uluslararası standarda yakın tutuyor, bu yüzden markanız değişse bile mantık genelde aynı kalıyor. Asıl fark, hangi modu ne zaman seçeceğinizi bilmekte.
 
@@ -31,7 +31,7 @@ Kar tanesi simgesiyle gösterilen cool modu, klimaların en çok kullanılan ve 
 
 Güneş simgesiyle gösterilen heat modu, klimayı ısıtıcıya çevirir. Şanlıurfa'da kışlar diğer bölgelere göre daha ılıman olsa da, aralık-şubat arası geceleri klimayı ısıtma amacıyla çalıştıran hane sayısı hiç az değil.
 
-Isıtma modunda klimalar dış sıcaklık çok düşükse (0°C altı gibi) verim kaybeder ve bazen defrost (buz çözme) döngüsüne girip birkaç dakikalığına soğuk hava üfleyebilir. Bu normal bir çalışma, arıza değil. Isıtma modunda yaşanan sorunları ve verim düşüşünü daha detaylı [klima ısıtmıyor](/blog/klima-isitmiyor) yazımızda ele aldık.
+Isıtma modunda klimalar dış sıcaklık çok düşükse (0°C altı gibi) verim kaybeder ve bazen defrost (buz çözme) döngüsüne girip birkaç dakikalığına soğuk hava üfleyebilir. Bu normal bir çalışma, arıza değil. Isıtma modunda yaşanan sorunları ve verim düşüşünü daha detaylı [klima ısıtmıyor](/blog/klima-isitmiyor/) yazımızda ele aldık.
 
 **Ne zaman kullanılır:** Dış sıcaklık 5°C üzerindeyken klima verimli ısıtma yapar. Daha düşük sıcaklıklarda ek bir ısıtıcıyla desteklemek daha mantıklı olabilir.
 
@@ -123,7 +123,7 @@ Auto modu özellikle geniş salonlarda veya tavanı yüksek odalarda beklediğin
 
 ## 10. Yanlış Mod Kullanımının Faturaya Etkisi
 
-Yaz boyunca sürekli cool modunda ve düşük derecede (16-18°C) çalıştırılan bir klima ile ihtiyaca göre dry, auto ve sleep modlarını dönüşümlü kullanan bir klima arasındaki fark aylık faturada kolayca hissedilir. Elektrik tüketimini etkileyen diğer faktörleri (kapasite, yalıtım, kullanım süresi) [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda detaylı işledik.
+Yaz boyunca sürekli cool modunda ve düşük derecede (16-18°C) çalıştırılan bir klima ile ihtiyaca göre dry, auto ve sleep modlarını dönüşümlü kullanan bir klima arasındaki fark aylık faturada kolayca hissedilir. Elektrik tüketimini etkileyen diğer faktörleri (kapasite, yalıtım, kullanım süresi) [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda detaylı işledik.
 
 Haliliye'de bir müşterimiz yaz boyunca klimasını gece gündüz cool modunda 20°C'de çalıştırıyordu, aylık faturası 2.400 TL civarındaydı. Sıcaklığı 24°C'ye çekip geceleri sleep modunu, gündüz bazı saatlerde dry modunu devreye aldıktan sonra fatura bir sonraki ay 1.600 TL'ye düştü. Cihazda hiçbir değişiklik yapılmadı, sadece mod ve sıcaklık alışkanlığı değişti.
 
@@ -135,7 +135,7 @@ Bebekli veya yaşlı bireylerin bulunduğu odalarda mod seçiminden çok hava y�
 
 Bir gün içinde tipik bir Şanlıurfa yaz rutini şöyle görünebilir: sabah 8-11 arası klima kapalı veya fan only, öğlen 11'den akşam 19'a kadar cool 23-24°C (eve girişte 15 dakika turbo), akşam 19-23 arası cool 24-25°C, gece boyunca sleep modu 25-26°C. Bu rutin hem konforu korur hem de klimanın günün en pahalı saatlerinde tam kapasite çalışmasını önler.
 
-Akıllı kumanda veya wifi üzerinden mod değiştirmeyi merak ediyorsanız [akıllı klima wifi kontrol](/blog/akilli-klima-wifi-kontrol) yazımıza göz atabilirsiniz.
+Akıllı kumanda veya wifi üzerinden mod değiştirmeyi merak ediyorsanız [akıllı klima wifi kontrol](/blog/akilli-klima-wifi-kontrol/) yazımıza göz atabilirsiniz.
 
 **Klimanızın modları beklediğiniz gibi çalışmıyorsa veya kumanda ayarları tutmuyorsa arayın, aynı gün yerinde kontrol edelim: [0553 397 52 44](https://sanliurfaklimaservisi.com/)**
 
@@ -160,7 +160,7 @@ Evet, hem konfor hem enerji açısından. Gece boyu sabit yüksek güçte çalı
 Hayır, tam tersine. Kapatmadan önce birkaç dakika fan only modunda çalıştırmak iç üniteyi kurutur ve küf, kötü koku oluşumunu azaltır.
 
 **Kumandada semboller karışıyorsa ne yapmalıyım?**
-Klimanızın marka ve modeline özel kullanım kılavuzunu üretici sitesinden PDF olarak indirebilirsiniz. Kumanda arızalıysa veya semboller hiç görünmüyorsa [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor) yazımızdaki adımları deneyin.
+Klimanızın marka ve modeline özel kullanım kılavuzunu üretici sitesinden PDF olarak indirebilirsiniz. Kumanda arızalıysa veya semboller hiç görünmüyorsa [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor/) yazımızdaki adımları deneyin.
 
 ## Sonuç: Doğru Mod, Doğru Zamanda Kullanılan Klimadır
 

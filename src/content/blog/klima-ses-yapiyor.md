@@ -34,9 +34,9 @@ Klimanızdan gelen bu sesler tamamen normaldir ve endişelenmenize gerek yoktur:
 
 **Peki ne zaman endişelenmelisiniz?** Ses aniden başladıysa, giderek artıyorsa, ritmik değilse veya daha önce duymadığınız bir sesse, dikkatli olmanız gerekiyor.
 
-Ayşe Hanım, Karaköprü'de oturuyordu ve klimasının her açılışta çıkardığı hafif tıkırtıdan endişelenip servis çağırmıştı. Teknisyen geldiğinde plastik panellerin ısıyla genleşmesinden kaynaklanan tamamen normal bir ses olduğunu söyledi. Ayşe Hanım gereksiz yere [servis ücreti](/blog/klima-servis-ucreti) ödemişti. Bu yazıyı okusaydı, o masraftan kurtulabilirdi.
+Ayşe Hanım, Karaköprü'de oturuyordu ve klimasının her açılışta çıkardığı hafif tıkırtıdan endişelenip servis çağırmıştı. Teknisyen geldiğinde plastik panellerin ısıyla genleşmesinden kaynaklanan tamamen normal bir ses olduğunu söyledi. Ayşe Hanım gereksiz yere [servis ücreti](/blog/klima-servis-ucreti/) ödemişti. Bu yazıyı okusaydı, o masraftan kurtulabilirdi.
 
-**Klimanızla ilgili başka sorunlar da mı var?** [Klimanız soğutmuyorsa nedenlerini ve çözümlerini inceleyin.](/blog/klima-sogutmuyor)
+**Klimanızla ilgili başka sorunlar da mı var?** [Klimanız soğutmuyorsa nedenlerini ve çözümlerini inceleyin.](/blog/klima-sogutmuyor/)
 
 ## Klima Ses Yapıyor: 8 Farklı Ses ve Nedenleri
 
@@ -88,7 +88,7 @@ Klimanız ses yapıyorsa, sesin tipini doğru tanımlamak çözüme giden en kı
 
 **Tehlike seviyesi:** Değişken. Filtre kirliliği basit, gaz kaçağı ise ciddi bir sorundur.
 
-Klimanızda gaz kaçağı şüphesi varsa, [klima gaz kaçağı belirtileri rehberimize](/blog/klima-gaz-kacagi-belirtileri) göz atmanızı tavsiye ederiz.
+Klimanızda gaz kaçağı şüphesi varsa, [klima gaz kaçağı belirtileri rehberimize](/blog/klima-gaz-kacagi-belirtileri/) göz atmanızı tavsiye ederiz.
 
 ### 4. Gürültülü Titreşim Sesi
 
@@ -126,7 +126,7 @@ Klimanızda gaz kaçağı şüphesi varsa, [klima gaz kaçağı belirtileri rehb
 
 **Tehlike seviyesi:** Düşük-orta. Fokurdama sesi sıklıkla gaz eksikliğine işaret eder.
 
-[Klimanızdan su akıyorsa](/blog/klimadan-su-akiyor) bu rehberimiz sorunu tanımlamanıza yardımcı olacaktır.
+[Klimanızdan su akıyorsa](/blog/klimadan-su-akiyor/) bu rehberimiz sorunu tanımlamanıza yardımcı olacaktır.
 
 ### 7. Metal Sürtünme Sesi
 
@@ -178,7 +178,7 @@ Murat Bey, Haliliye'deki dairesinde klimasının her çalıştığında duvarda 
 
 Poşeti çıkardığında ses tamamen kesildi. Toplam maliyet: sıfır lira. Toplam süre: 10 dakika.
 
-**Düzenli bakım birçok ses sorununu daha başlamadan önler.** [Klima bakım fiyatları ve neleri kapsadığını öğrenin.](/blog/klima-bakim-fiyatlari)
+**Düzenli bakım birçok ses sorununu daha başlamadan önler.** [Klima bakım fiyatları ve neleri kapsadığını öğrenin.](/blog/klima-bakim-fiyatlari/)
 
 ## Klima Çalışırken Ses Yapıyor: Ne Zaman Servis Çağırmalısınız?
 
@@ -194,9 +194,9 @@ Bazı sesler "kendin yap" yöntemleriyle çözülemez. Aşağıdaki durumlardan 
 ### Servis Gerektiren (Acil Olmayan) Durumlar
 
 - **Giderek artan vızıltı sesi:** Motor yatakları aşınıyor olabilir. Erken müdahale daha ucuza gelir.
-- **Fokurdama sesi ve soğutma performansı düşüşü:** Büyük ihtimalle gaz eksikliği. [Gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) gerekir.
+- **Fokurdama sesi ve soğutma performansı düşüşü:** Büyük ihtimalle gaz eksikliği. [Gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) gerekir.
 - **Düzenli tıkırtı sesi (yabancı cisim yoksa):** İç mekanik gevşeklik, profesyonel sıkıştırma gerektirir.
-- **Klima hata kodu gösteriyorsa:** Sesle birlikte klima panelinde hata kodu yanıyorsa, [klima hata kodları rehberimize](/blog/klima-hata-kodlari) bakabilir veya doğrudan servis çağırabilirsiniz. Eğer klimanızın ışığı yanıp sönüyorsa [klima ışığı yanıp sönüyor rehberimiz](/blog/klima-isigi-yanip-sonuyor) de yardımcı olabilir.
+- **Klima hata kodu gösteriyorsa:** Sesle birlikte klima panelinde hata kodu yanıyorsa, [klima hata kodları rehberimize](/blog/klima-hata-kodlari/) bakabilir veya doğrudan servis çağırabilirsiniz. Eğer klimanızın ışığı yanıp sönüyorsa [klima ışığı yanıp sönüyor rehberimiz](/blog/klima-isigi-yanip-sonuyor/) de yardımcı olabilir.
 
 ### Servis Çağırırken Nelere Dikkat Etmelisiniz?
 
@@ -226,7 +226,7 @@ Düzenli bakım yapılan klimalar hem daha sessiz çalışır hem de %20-30 daha
 
 ### Profesyonel Montaj Yaptırın
 
-Klima seslerinin büyük bir kısmı hatalı montajdan kaynaklanır. Dış ünite düzgün sabitlenmemişse, bakır borular doğru yalıtılmamışsa veya drenaj eğimi yeterli değilse klima sürekli ses çıkarır. İlk [montajın doğru yapılması](/blog/klima-montaj-fiyatlari), yıllarca sessiz çalışmanın garantisidir.
+Klima seslerinin büyük bir kısmı hatalı montajdan kaynaklanır. Dış ünite düzgün sabitlenmemişse, bakır borular doğru yalıtılmamışsa veya drenaj eğimi yeterli değilse klima sürekli ses çıkarır. İlk [montajın doğru yapılması](/blog/klima-montaj-fiyatlari/), yıllarca sessiz çalışmanın garantisidir.
 
 ### Titreşim Önleyici Aksesuarlar Kullanın
 
@@ -238,7 +238,7 @@ Bu aksesuarlar düşük maliyetlidir ve ses seviyesini belirgin şekilde düşü
 
 ### Eski Klimanızı Değerlendirin
 
-10 yaşını geçmiş klimalar doğal olarak daha gürültülü çalışır. Motor yatakları aşınır, fan kanatları eğilir, kompresör verimliliği düşer. Modern inverter klimalar eski modellere göre %40-60 daha sessizdir. Sürekli ses sorunu yaşıyorsanız [yeni bir klima yatırımı](/blog/klima-fiyatlari) uzun vadede hem konfor hem de enerji tasarrufu sağlar.
+10 yaşını geçmiş klimalar doğal olarak daha gürültülü çalışır. Motor yatakları aşınır, fan kanatları eğilir, kompresör verimliliği düşer. Modern inverter klimalar eski modellere göre %40-60 daha sessizdir. Sürekli ses sorunu yaşıyorsanız [yeni bir klima yatırımı](/blog/klima-fiyatlari/) uzun vadede hem konfor hem de enerji tasarrufu sağlar.
 
 ## Klima Ses Seviyeleri: Ne Kadar Ses Normal?
 
@@ -260,14 +260,14 @@ Klimanızın gürültü seviyesinin normal olup olmadığını anlamak için ref
 Farklı klima markaları ve modellerinde bazı klima ses sorunları daha sık görülür. Özellikle split klima ses yapıyor şikayetlerinde model tipi belirleyici olabilir:
 
 - **Eski tip on-off klimalar:** Kompresör sürekli aç-kapa yaptığı için her devreye girişte belirgin ses çıkarır. Inverter modellerde bu sorun yoktur.
-- **Kaset tipi klimalar:** Tavan montajı nedeniyle titreşim sesleri daha fazla hissedilir. [Montaj kalitesi](/blog/klima-montaj-ucreti-neden-degisiyor) kritik önem taşır.
+- **Kaset tipi klimalar:** Tavan montajı nedeniyle titreşim sesleri daha fazla hissedilir. [Montaj kalitesi](/blog/klima-montaj-ucreti-neden-degisiyor/) kritik önem taşır.
 - **Multi-split sistemler:** Birden fazla iç üniteye hizmet veren dış ünite daha yüksek kapasitede çalıştığı için ses seviyesi artabilir.
 
 Emre Bey, Eyyübiye'deki ofisinde kaset tipi klimasının sürekli titreşim sesi çıkardığını fark etti. Iki farklı tamirci sorunu çözemedi. Sonunda profesyonel bir klima servisi çağırdı.
 
 Teknisyen, tavan montaj çerçevesindeki bir vidanın eksik olduğunu ve üniteye titreşim emici conta takılmadığını tespit etti. 30 dakikalık bir müdahaleyle klima neredeyse tamamen sessizleşti. Bazen sorun karmaşık değildir, ama doğru teşhis her şeydir.
 
-**Klimanızda hata kodu mu yanıyor?** [Klima hata kodları ve anlamları rehberimize göz atın.](/blog/klima-hata-kodlari) Özellikle sık karşılaşılan [E1 hata kodu](/blog/klima-e1-hatasi) hakkında da ayrıntılı bilgi alabilirsiniz.
+**Klimanızda hata kodu mu yanıyor?** [Klima hata kodları ve anlamları rehberimize göz atın.](/blog/klima-hata-kodlari/) Özellikle sık karşılaşılan [E1 hata kodu](/blog/klima-e1-hatasi/) hakkında da ayrıntılı bilgi alabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 
@@ -275,7 +275,7 @@ Teknisyen, tavan montaj çerçevesindeki bir vidanın eksik olduğunu ve ünitey
 Evet, klima açılırken veya kapanırken duyulan tek seferlik tık sesi termostat rölesinin devreye girmesinden kaynaklanır ve tamamen normaldir.
 
 **Klimadan fokurdama sesi geliyorsa ne yapmalıyım?**
-Fokurdama sesi genellikle soğutucu gaz seviyesinin düşük olduğuna işaret eder. Klima soğutma performansı da düştüyse [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) için servis çağırın.
+Fokurdama sesi genellikle soğutucu gaz seviyesinin düşük olduğuna işaret eder. Klima soğutma performansı da düştüyse [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) için servis çağırın.
 
 **Klima sesi gece daha çok duyuluyor, neden?**
 Gece ortam sesleri azaldığı için klimanın sesi daha belirgin hale gelir. Bu normal olabilir. Ancak ses gerçekten artıyorsa, klima gece moduna geçtiğinde fan hızı değişikliğinden kaynaklanan bir ses olabilir.

@@ -15,7 +15,7 @@ Yeni klimanız geldi, montaj ekibi kapıda ve size soruyorlar: "Dış üniteyi n
 
 **Klima dış ünitesi nereye takılır** sorusu basit görünür ama yanlış cevaplandığında hem performans kaybına hem komşu anlaşmazlıklarına hem de sökme-takma masrafına yol açar. Montajdan sonra yeri değiştirmek, ilk montajın iki katına mal olabilir.
 
-Bu yazıda doğru konum seçiminin kriterlerini, apartmanda dikkat edilmesi gereken kat mülkiyeti meselelerini ve komşu şikayetlerine yol açan damlama sorununu nasıl önleyeceğinizi anlatıyoruz. Montajın diğer teknik detayları için [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler) yazımıza da göz atabilirsiniz. Doğru yer seçimi konusunda kararsızsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan keşif talep edebilirsiniz.
+Bu yazıda doğru konum seçiminin kriterlerini, apartmanda dikkat edilmesi gereken kat mülkiyeti meselelerini ve komşu şikayetlerine yol açan damlama sorununu nasıl önleyeceğinizi anlatıyoruz. Montajın diğer teknik detayları için [klima montajında dikkat edilmesi gerekenler](/blog/klima-montajinda-dikkat-edilmesi-gerekenler/) yazımıza da göz atabilirsiniz. Doğru yer seçimi konusunda kararsızsanız [0553 397 52 44](https://sanliurfaklimaservisi.com/) numaralı hattımızdan keşif talep edebilirsiniz.
 
 ## 1. Doğru Dış Ünite Konumunun 4 Kriteri
 
@@ -83,15 +83,15 @@ Karaköprü'de bir müşterimiz, montaj günü evde olamadığı için yer seçi
 
 ## 6. Cephe Braketi ve Titreşim: Komşu Şikayetlerinin Diğer Kaynağı
 
-Damlama kadar sık karşılaşılan bir başka sorun, dış ünitenin titreşiminin bina yapısına iletilmesi. Braket doğru sabitlenmemişse veya titreşim önleyici lastik takozlar kullanılmamışsa, ünitenin çıkardığı düşük frekanslı uğultu tüm binaya yayılabilir. Bu konuyu ve teknik çözüm yollarını [klima dış ünite ses yapıyor](/blog/klima-dis-unite-ses-yapiyor) yazımızda ayrıntılı işledik. Eğer sorun zaten oluşmuş ve komşunuzdan şikayet almışsanız, sürecin nasıl yürütülmesi gerektiğine dair [komşu klima şikayeti gürültü](/blog/komsu-klima-sikayeti-gurultu) rehberimize bakmanızı öneririz.
+Damlama kadar sık karşılaşılan bir başka sorun, dış ünitenin titreşiminin bina yapısına iletilmesi. Braket doğru sabitlenmemişse veya titreşim önleyici lastik takozlar kullanılmamışsa, ünitenin çıkardığı düşük frekanslı uğultu tüm binaya yayılabilir. Bu konuyu ve teknik çözüm yollarını [klima dış ünite ses yapıyor](/blog/klima-dis-unite-ses-yapiyor/) yazımızda ayrıntılı işledik. Eğer sorun zaten oluşmuş ve komşunuzdan şikayet almışsanız, sürecin nasıl yürütülmesi gerektiğine dair [komşu klima şikayeti gürültü](/blog/komsu-klima-sikayeti-gurultu/) rehberimize bakmanızı öneririz.
 
 ## 7. Boru Mesafesi ve Servis Erişimi Neden Önemli?
 
 Dış ünite konumu belirlenirken sadece görünüş değil, gelecekteki bakım ihtiyacı da düşünülmeli. Çok yüksek veya erişimi zor bir noktaya monte edilen ünitelerde her bakım ve arıza müdahalesi için halat ekibi gerekebilir, bu da maliyeti artırır.
 
-Ayrıca iç ünite ile dış ünite arası boru mesafesi arttıkça hem malzeme maliyeti hem de soğutma verimliliği kaybı devreye girer. Çoğu üretici iki ünite arasında en az 3 metre, ideal olarak 3-5 metre mesafe önerir; mesafe 15-20 metreyi aştığında kapasiteye bağlı olarak performans kaybı belirginleşir. Bakır boru maliyeti metre başına eklendiği için uzun güzergahlar toplam faturayı da kabartır. Boru mesafesinin ve diğer kalemlerin montaj ücretine etkisini [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) yazımızda ayrıntılı tablolarla bulabilirsiniz.
+Ayrıca iç ünite ile dış ünite arası boru mesafesi arttıkça hem malzeme maliyeti hem de soğutma verimliliği kaybı devreye girer. Çoğu üretici iki ünite arasında en az 3 metre, ideal olarak 3-5 metre mesafe önerir; mesafe 15-20 metreyi aştığında kapasiteye bağlı olarak performans kaybı belirginleşir. Bakır boru maliyeti metre başına eklendiği için uzun güzergahlar toplam faturayı da kabartır. Boru mesafesinin ve diğer kalemlerin montaj ücretine etkisini [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) yazımızda ayrıntılı tablolarla bulabilirsiniz.
 
-Mevcut bir klimanın yerini değiştirmeyi düşünüyorsanız, söküm ve yeniden montaj ayrı bir maliyet kalemidir; güncel aralıklar için [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) rehberimize göz atın.
+Mevcut bir klimanın yerini değiştirmeyi düşünüyorsanız, söküm ve yeniden montaj ayrı bir maliyet kalemidir; güncel aralıklar için [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) rehberimize göz atın.
 
 ## 8. Şanlıurfa'da Yaygın Dış Ünite Yerleşim Hataları
 

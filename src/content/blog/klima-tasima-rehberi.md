@@ -78,7 +78,7 @@ Bu, tüm sürecin en kritik adımıdır. Klimanın içindeki soğutucu gaz, sök
 - 3-5 dakika sonra ikinci vana da kapatılır
 - Klima kapatılır
 
-Bu işlem doğru yapılmazsa gaz kaçar. Kaçan gaz hem çevreye zararlıdır hem de yeni evde [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari) yaptırmanız gerekir. Bu da ekstra 1.500-3.000 TL maliyet demek.
+Bu işlem doğru yapılmazsa gaz kaçar. Kaçan gaz hem çevreye zararlıdır hem de yeni evde [gaz dolumu](/blog/klima-gaz-dolumu-fiyatlari/) yaptırmanız gerekir. Bu da ekstra 1.500-3.000 TL maliyet demek.
 
 ### Adım 2: Elektrik Bağlantılarının Kesilmesi
 
@@ -113,7 +113,7 @@ Yeni evde montaj, sıfır klima montajıyla neredeyse aynı süreçtir:
 - Gaz kontrolü yapılır, gerekirse dolum yapılır
 - Test çalıştırması yapılır
 
-[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
+[Klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) hakkında detaylı bilgiyi ayrı rehberimizde bulabilirsiniz.
 
 **Profesyonel klima taşıma hizmeti için bizi arayın.** [0553 397 52 44](tel:+905533975244)
 
@@ -145,7 +145,7 @@ Haliliye'de Osman Bey, taşınırken nakliyecilere "klimayı da sökün" dedi. N
 
 Boruları makas ile kestiler. Gaz tamamen kaçtı.
 
-Yeni evde servis çağırdığında manzara şuydu: kırık kapak 800 TL, gaz dolumu 2.200 TL, yeni boru hattı 1.500 TL. Toplam hasar: 4.500 TL. Profesyonel [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) ise 3.500 TL civarında olacaktı. Hem ucuz hem de risksiz.
+Yeni evde servis çağırdığında manzara şuydu: kırık kapak 800 TL, gaz dolumu 2.200 TL, yeni boru hattı 1.500 TL. Toplam hasar: 4.500 TL. Profesyonel [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) ise 3.500 TL civarında olacaktı. Hem ucuz hem de risksiz.
 
 ### 5. Vakum İşlemi Yapmadan Çalıştırmak
 
@@ -207,7 +207,7 @@ Bu koordinasyon yapılmazsa klimasız günler geçirebilirsiniz. Şanlıurfa yaz
 
 ### 4. Bakım Yaptırmayı Düşünün
 
-Taşınma, klimanıza [bakım yaptırmak](/blog/klima-bakim-fiyatlari) için ideal bir fırsat. Zaten sökülmüş durumdayken iç ünite temizliği, filtre değişimi ve genel kontrol yaptırabilirsiniz. Hem zaman hem de para tasarrufu sağlar.
+Taşınma, klimanıza [bakım yaptırmak](/blog/klima-bakim-fiyatlari/) için ideal bir fırsat. Zaten sökülmüş durumdayken iç ünite temizliği, filtre değişimi ve genel kontrol yaptırabilirsiniz. Hem zaman hem de para tasarrufu sağlar.
 
 ## Taşıma Sonrası Dikkat Edilmesi Gerekenler
 

@@ -36,10 +36,10 @@ Ani voltaj yükselmeleri (özellikle şebekeye ani yük binmesi veya yıldırım
 - Klima aniden kapanıyor, tekrar açmak gerekiyor.
 - Elektronik kartta yanık kokusu veya iz.
 - Kompresör normalden daha gürültülü çalışmaya başlıyor.
-- Sık sık [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor) durumu yaşanıyor.
+- Sık sık [klima sigorta attırıyor](/blog/klima-sigorta-attiriyor/) durumu yaşanıyor.
 - Klima bazı günler hiç çalışmıyor, bazı günler normal çalışıyor (dalgalanma zamanlarıyla örtüşüyor).
 
-Bu belirtilerden birkaçını yaşıyorsanız ve [klima açılmıyor](/blog/klima-acilmiyor) durumuyla sık karşılaşıyorsanız, sorunun kökeninde voltaj dalgalanması olabilir. Elektrik panonuzu ve şebeke gerilimini bir elektrikçiye ölçtürmeniz gerekiyor.
+Bu belirtilerden birkaçını yaşıyorsanız ve [klima açılmıyor](/blog/klima-acilmiyor/) durumuyla sık karşılaşıyorsanız, sorunun kökeninde voltaj dalgalanması olabilir. Elektrik panonuzu ve şebeke gerilimini bir elektrikçiye ölçtürmeniz gerekiyor.
 
 ## Klima Voltaj Regülatörü Ne Zaman Gerçekten Şart Olur
 
@@ -110,7 +110,7 @@ Karaköprü'de ise garanti süresi bitmiş bir inverter klimada tam tersi bir ta
 
 Şanlıurfa'da temmuz ve ağustos aylarında neredeyse her evde ve işyerinde klima aynı saatlerde çalışıyor. Öğleden sonra ve akşam saatlerinde şebekeye binen bu toplu yük, bazı mahallelerde gerilim düşüşlerini belirgin hale getiriyor. Trafo kapasitesinin sınırında çalıştığı bölgelerde, tam da klimanın en çok ihtiyaç duyulduğu saatlerde voltaj en düşük seviyesine iniyor.
 
-Bu, Şanlıurfa'daki klima arızalarının bir kısmının neden hep aynı saat diliminde ortaya çıktığını da açıklıyor. Aşırı sıcakta zaten zorlanan kompresör, bir de düşük voltajla çalışmak zorunda kaldığında yıpranma hızlanıyor. Şehre özgü diğer seçim kriterleriyle birlikte bu konuyu [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi) yazımızda da ele aldık.
+Bu, Şanlıurfa'daki klima arızalarının bir kısmının neden hep aynı saat diliminde ortaya çıktığını da açıklıyor. Aşırı sıcakta zaten zorlanan kompresör, bir de düşük voltajla çalışmak zorunda kaldığında yıpranma hızlanıyor. Şehre özgü diğer seçim kriterleriyle birlikte bu konuyu [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi/) yazımızda da ele aldık.
 
 Mahallenizde yaz akşamları ışıkların sönükleştiğini fark ediyorsanız, klimanız risk altında çalışıyor demektir. Bu durumda ölçüm yaptırmak, arızayı beklemekten çok daha akıllıca.
 
@@ -136,7 +136,7 @@ Regülatör montajı, klimanın elektrik hattına doğru şekilde bağlanmasın�
 
 **Regülatör kurulumuna veya elektrik panosuna kendiniz müdahale etmeyin.** Yanlış bağlantı hem yangın riski taşır hem de klimanın garantisini geçersiz kılabilir. Bu işlemi mutlaka lisanslı bir elektrikçi veya teknisyene yaptırın.
 
-Şanlıurfa gibi yaz aylarında şebeke yükünün ciddi arttığı bölgelerde bu konuyu daha detaylı ele aldığımız [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi) yazımıza da göz atabilirsiniz.
+Şanlıurfa gibi yaz aylarında şebeke yükünün ciddi arttığı bölgelerde bu konuyu daha detaylı ele aldığımız [Şanlıurfa klima seçim rehberi](/blog/sanliurfa-klima-secim-rehberi/) yazımıza da göz atabilirsiniz.
 
 ## Sıkça Sorulan Sorular
 

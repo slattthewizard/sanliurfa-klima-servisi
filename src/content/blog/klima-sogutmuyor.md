@@ -50,7 +50,7 @@ Murat, Şanlıurfa Haliliye'de oturuyordu. Temmuz ortasında kliması soğutmay�
 
 Murat servise 1.500 TL ödemekten kurtuldu. Sorunu 20 dakikada çözdü.
 
-**Filtre temizliğine rağmen soğutma sorunu devam ediyorsa,** profesyonel bir [klima bakımı](/blog/klima-bakim-fiyatlari) yaptırmanız gerekebilir. [7/24 servis hattımız: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
+**Filtre temizliğine rağmen soğutma sorunu devam ediyorsa,** profesyonel bir [klima bakımı](/blog/klima-bakim-fiyatlari/) yaptırmanız gerekebilir. [7/24 servis hattımız: 0553 397 52 44](https://sanliurfaklimaservisi.com/)
 
 ## 2. Soğutucu Gaz (Freon) Eksikliği
 
@@ -72,7 +72,7 @@ Normal kullanımda klima gazı bitmez. Gaz kaybı genellikle boru bağlantılar�
 
 Dış ünitenin ince bakır borusuna (basınç hattı) dokunun. Normal çalışmada bu boru soğuk ve üzerinde hafif nem olmalı. Boru sıcaksa veya kuru ise gaz eksikliği olabilir.
 
-> **Uyarı:** Gaz dolumu kesinlikle profesyonel iş. Kendiniz yapmaya çalışmayın. Yanlış gaz tipi veya miktarı kompresöre kalıcı hasar verir. Detaylı fiyat bilgisi için [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) rehberimize bakabilirsiniz.
+> **Uyarı:** Gaz dolumu kesinlikle profesyonel iş. Kendiniz yapmaya çalışmayın. Yanlış gaz tipi veya miktarı kompresöre kalıcı hasar verir. Detaylı fiyat bilgisi için [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) rehberimize bakabilirsiniz.
 
 ## 3. Yanlış Sıcaklık veya Mod Ayarı
 
@@ -161,7 +161,7 @@ Dış üniteyi kontrol edin. Çalıştığında titreşim ve hafif bir motor ses
 
 Ayrıca elektrik panelinde klima sigortasını kontrol edin. Atmış olabilir. Sigortayı resetledikten sonra hemen tekrar atıyorsa, ciddi bir elektrik arızası var demektir.
 
-> **Uyarı:** Kompresör tamiri veya değişimi kesinlikle uzman işi. Kendiniz müdahale etmeyin. Kompresör değişimi 5.000-15.000 TL arası maliyet getirebilir. Klimanın yaşına göre yeni cihaz almak daha mantıklı olabilir. [Klima fiyatları](/blog/klima-fiyatlari) rehberimizden güncel fiyatları, [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) rehberimizden de değişim maliyetlerini inceleyebilirsiniz.
+> **Uyarı:** Kompresör tamiri veya değişimi kesinlikle uzman işi. Kendiniz müdahale etmeyin. Kompresör değişimi 5.000-15.000 TL arası maliyet getirebilir. Klimanın yaşına göre yeni cihaz almak daha mantıklı olabilir. [Klima fiyatları](/blog/klima-fiyatlari/) rehberimizden güncel fiyatları, [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) rehberimizden de değişim maliyetlerini inceleyebilirsiniz.
 
 ## 7. Yanlış Kapasite veya Montaj Hataları
 
@@ -182,7 +182,7 @@ Bazen klima soğutmuyor diye düşünürüz, ama aslında klima kapasitesi odaya
 
 **Pratik kural:** Her 10 m2 için 7.000-8.000 BTU gerekir. 25 m2'lik bir oda için 9.000 BTU split klima yetersiz kalır. Inverter klima modelleri değişken hızda çalışarak daha verimli soğutma sağlar, ancak kapasite yine doğru seçilmelidir. Güneş alan cepheler ve yüksek tavanlı odalar için %20-30 ek kapasite ekleyin.
 
-Doğru kapasite hesabı ve profesyonel montaj için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimize göz atabilirsiniz.
+Doğru kapasite hesabı ve profesyonel montaj için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimize göz atabilirsiniz.
 
 ## Klima Soğutmuyor: Ne Zaman Servis Aramalısınız?
 
@@ -203,7 +203,7 @@ Bu belirtiler elektrik arızası, kompresör sorunu veya gaz kaçağına işaret
 
 Sorun çıkmadan önlem almak, hem cüzdanınızı hem konforunuzu korur.
 
-**1. Yılda en az 2 kez profesyonel bakım yaptırın.** Sezon öncesi (Nisan-Mayıs) ve sezon sonrası (Eylül-Ekim) bakım, çoğu arızayı önler. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz.
+**1. Yılda en az 2 kez profesyonel bakım yaptırın.** Sezon öncesi (Nisan-Mayıs) ve sezon sonrası (Eylül-Ekim) bakım, çoğu arızayı önler. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel bakım ücretlerini öğrenebilirsiniz.
 
 **2. Filtreleri düzenli temizleyin.** Yaz aylarında ayda bir, kış aylarında 2-3 ayda bir filtre temizliği yapın.
 

@@ -59,7 +59,7 @@ Bu fiyatlar 2026 Mart ayı itibarıyla geçerli ortalama piyasa fiyatlarıdır. 
 - **18.000 - 24.000 BTU** (salon kliması): Orta segment
 - **36.000 BTU ve üzeri** (ticari): En yüksek bakım ücreti
 
-Yeni klima alıp taktırmayı düşünenler için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimiz de güncel kurulum ücretlerini detaylandırıyor.
+Yeni klima alıp taktırmayı düşünenler için [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimiz de güncel kurulum ücretlerini detaylandırıyor.
 
 ### 2. Bakım Kapsamı
 
@@ -169,7 +169,7 @@ Kompresör değişimi tek başına 5.000-15.000 TL arasında tutuyor. Arıza bel
 
 ### Sağlık Riskleri
 
-Temizlenmeyen klima filtreleri küf, bakteri ve alerjen yayar. [Klimadan koku gelmesi](/blog/klimadan-koku-gelmesi) rehberimizde koku türlerini ve çözümlerini detaylı anlatıyoruz. Özellikle çocuklar, yaşlılar ve astım hastaları için ciddi sağlık tehdidi oluşturur. [Türk Tesisat Mühendisleri Derneği (TTMD)](https://www.ttmd.org.tr/), ev klimalarının yılda en az bir kez profesyonel bakım görmesini öneriyor. [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/) da enerji verimliliği açısından düzenli klima bakımının önemini vurguluyor.
+Temizlenmeyen klima filtreleri küf, bakteri ve alerjen yayar. [Klimadan koku gelmesi](/blog/klimadan-koku-gelmesi/) rehberimizde koku türlerini ve çözümlerini detaylı anlatıyoruz. Özellikle çocuklar, yaşlılar ve astım hastaları için ciddi sağlık tehdidi oluşturur. [Türk Tesisat Mühendisleri Derneği (TTMD)](https://www.ttmd.org.tr/), ev klimalarının yılda en az bir kez profesyonel bakım görmesini öneriyor. [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/) da enerji verimliliği açısından düzenli klima bakımının önemini vurguluyor.
 
 ## Klima Bakım Fiyatlarında Tasarruf Etmenin 5 Yolu
 
@@ -279,7 +279,7 @@ Klima bakım fiyatlarını bir masraf kalemi olarak görmek yerine, yatırım ol
 - **Sağlığınızı korur** (temiz hava, küf ve bakteri riski azalır)
 - **Soğutma performansını korur** (Şanlıurfa yazında kritik)
 
-Klima bakım ücreti 2026 yılında 800-2.500 TL arasında değişiyor. Bu tutar, bakımsızlığın getirebileceği 5.000-20.000 TL'lik masrafların yanında küçük kalır. Klimanız ekonomik ömrünü tamamladıysa ve yenisini almayı düşünüyorsanız, [yeni klima kurulum maliyetleri](/blog/klima-montaj-fiyatlari) rehberimize de göz atın.
+Klima bakım ücreti 2026 yılında 800-2.500 TL arasında değişiyor. Bu tutar, bakımsızlığın getirebileceği 5.000-20.000 TL'lik masrafların yanında küçük kalır. Klimanız ekonomik ömrünü tamamladıysa ve yenisini almayı düşünüyorsanız, [yeni klima kurulum maliyetleri](/blog/klima-montaj-fiyatlari/) rehberimize de göz atın.
 
 **Klimanızın bakım zamanı geldi mi?** Şanlıurfa'nın her noktasına 7/24 hizmet veriyoruz. Tüm marka ve modellerde, şeffaf fiyatlarla, garantili bakım hizmeti için hemen arayın.
 

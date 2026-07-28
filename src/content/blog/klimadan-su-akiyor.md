@@ -13,7 +13,7 @@ publishDate: "2026-03-28"
 
 Sabah uyandınız, salondaki klimanın altında küçük bir su birikintisi var. Halıya sinmiş, parkeyi şişirmeye başlamış. Dün gece yoktu bu. Ne oldu?
 
-Klimadan su akıyor sorunu Türkiye'de her yaz en çok aranan klima arızalarından biri. Klima iç üniteden su damlıyor şikayeti aslında çoğu zaman ciddi bir arıza değil. Ama görmezden gelirseniz duvar boyası kabarır, mobilya zarar görür, hatta elektrik kontağı oluşabilir. Bu yüzden [düzenli klima bakımı](/blog/klima-bakim-fiyatlari) hayati önem taşıyor.
+Klimadan su akıyor sorunu Türkiye'de her yaz en çok aranan klima arızalarından biri. Klima iç üniteden su damlıyor şikayeti aslında çoğu zaman ciddi bir arıza değil. Ama görmezden gelirseniz duvar boyası kabarır, mobilya zarar görür, hatta elektrik kontağı oluşabilir. Bu yüzden [düzenli klima bakımı](/blog/klima-bakim-fiyatlari/) hayati önem taşıyor.
 
 İyi haber: Bu yazıda klima su sızıntısı nedenlerini (5 temel neden), hangilerini kendiniz çözebileceğinizi ve ne zaman profesyonel servis çağırmanız gerektiğini anlatacağız. Her neden için adım adım çözüm yollarını da göstereceğiz.
 
@@ -59,7 +59,7 @@ Klima drenaj tıkanıklığı, klimadan su damlıyor şikayetlerinin yaklaşık 
 
 > **Mehmet Bey'in hikayesi:** Şanlıurfa Karaköprü'de oturan Mehmet Bey, geçen yaz klimasının altında her sabah su birikintisi buluyordu. Havlu serdi, kova koydu ama su akmaya devam etti. İki hafta böyle geçti. Sonunda bize ulaştığında drenaj hortumunu söktük: içi tamamen yosun ve kireçle dolmuştu. 15 dakikalık bir temizlik sorunu çözdü. Ama o iki hafta boyunca halıya sızan su, halının altındaki ahşap zemine hasar vermişti. Erken müdahale etse sadece temizlik ücreti ödeyecekti; geç kaldığı için zemin tamiri de cabası oldu.
 
-[Klimanızda su akması gibi sorunları önlemek için düzenli bakım şart. **Klima bakım fiyatları ve nelerin dahil olduğunu öğrenin.**](/blog/klima-bakim-fiyatlari)
+[Klimanızda su akması gibi sorunları önlemek için düzenli bakım şart. **Klima bakım fiyatları ve nelerin dahil olduğunu öğrenin.**](/blog/klima-bakim-fiyatlari/)
 
 ### Ne Zaman Servis Çağırmalısınız?
 
@@ -103,7 +103,7 @@ Klima durduğunda bu buz erir. Biriken buz, normal kondense miktarından çok da
 
 - Klima kapandıktan sonra yoğun şekilde su damlıyor
 - İç ünitenin hava çıkışında buz veya aşırı soğukluk hissediyorsunuz
-- [Klima eskisi kadar soğutmuyor](/blog/klima-sogutmuyor) ama çok çalışıyor
+- [Klima eskisi kadar soğutmuyor](/blog/klima-sogutmuyor/) ama çok çalışıyor
 - Enerji faturası artmış
 
 ### Kendiniz Nasıl Çözersiniz?
@@ -120,7 +120,7 @@ Klima durduğunda bu buz erir. Biriken buz, normal kondense miktarından çok da
 
 **Önlem:** Filtreleri ayda bir kontrol edin, iki ayda bir yıkayın. Şanlıurfa gibi tozlu bölgelerde bu süreyi kısaltmanızı öneriyoruz.
 
-Klima bakımını aksatmak sadece su akmasına değil, gaz kaybına da yol açabilir. [Klima gaz dolumu hakkında bilmeniz gerekenleri bu rehberimizde bulabilirsiniz.](/blog/klima-gaz-dolumu-fiyatlari)
+Klima bakımını aksatmak sadece su akmasına değil, gaz kaybına da yol açabilir. [Klima gaz dolumu hakkında bilmeniz gerekenleri bu rehberimizde bulabilirsiniz.](/blog/klima-gaz-dolumu-fiyatlari/)
 
 ## 4. Gaz Eksikliği (Düşük Soğutucu Seviyesi)
 
@@ -137,7 +137,7 @@ Klimanın soğutucu gazı azaldığında evaporatördeki basınç düşer. Bu da
 
 Klima gazı teorik olarak bitmez, kapalı bir devrede döner. Gaz azalıyorsa mutlaka bir kaçak vardır. Bu kaçak genellikle boru bağlantılarında, valflerde veya bakır borulardaki mikro çatlaklarda olur.
 
-Gaz eksikliği aynı zamanda soğutucu gaz basıncını düşürerek klimanın soğutma performansını da etkiler. [Klimanız soğutmuyorsa nedenlerini bu rehberimizde detaylı inceledik.](/blog/klima-sogutmuyor)
+Gaz eksikliği aynı zamanda soğutucu gaz basıncını düşürerek klimanın soğutma performansını da etkiler. [Klimanız soğutmuyorsa nedenlerini bu rehberimizde detaylı inceledik.](/blog/klima-sogutmuyor/)
 
 ### Çözüm
 
@@ -173,9 +173,9 @@ Montaj eğimini kendiniz düzeltmeniz risklidir. İç ünitenin plakadan sökül
 
 > **Osman Bey'in durumu:** Osman Bey, yeni evine taşındığında internetten bulduğu en ucuz montajcıya klima taktırdı. İlk hafta her şey normaldi. İkinci haftadan itibaren iç ünitenin sol tarafından su damlamaya başladı. Montajcıyı aradı, telefonu açmadı. Bize geldiğinde gördük ki iç ünite 3 derece sola eğik monte edilmiş ve drenaj hortumu bağlantısında sızdırmazlık bantı kullanılmamış. Üniteyi söküp doğru eğimle yeniden monte ettik, hortum bağlantılarını düzelttik. Toplam süre: 1,5 saat. Sorun tamamen çözüldü.
 
-Ucuz montaj seçenekleri neden sorun yaratır? [Klima montaj ücretinin neden değiştiğini ve nelere dikkat etmeniz gerektiğini bu yazımızda anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor)
+Ucuz montaj seçenekleri neden sorun yaratır? [Klima montaj ücretinin neden değiştiğini ve nelere dikkat etmeniz gerektiğini bu yazımızda anlattık.](/blog/klima-montaj-ucreti-neden-degisiyor/)
 
-[Doğru montajın ne kadar kritik olduğunu ve montaj fiyatlarını merak ediyorsanız: **2026 klima montaj fiyatları rehberimize bakın.**](/blog/klima-montaj-fiyatlari)
+[Doğru montajın ne kadar kritik olduğunu ve montaj fiyatlarını merak ediyorsanız: **2026 klima montaj fiyatları rehberimize bakın.**](/blog/klima-montaj-fiyatlari/)
 
 ## Klimadan Su Akıyor: Kendin Yap mı, Servis mi?
 
@@ -217,7 +217,7 @@ Klimayı 16-18 derece gibi aşırı düşük sıcaklıklara ayarlamak evaporatö
 
 Su akıtma sorunlarının bir kısmı hatalı montajdan kaynaklanıyor. Klimanızı belgeli, deneyimli bir firma ile monte ettirin. Montaj sırasında drenaj hortumunun eğimi, bağlantı sızdırmazlığı ve iç ünite eğimi mutlaka kontrol edilmeli.
 
-[Klima sökme takma işlemi gerekiyorsa fiyatlar ve süreç hakkında rehberimize göz atın.](/blog/klima-sokme-takma-ucreti)
+[Klima sökme takma işlemi gerekiyorsa fiyatlar ve süreç hakkında rehberimize göz atın.](/blog/klima-sokme-takma-ucreti/)
 
 ## Sıkça Sorulan Sorular
 
@@ -237,11 +237,11 @@ Klima su kaçırıyor veya damlatıyorsa kısa süreli kullanım genellikle soru
 
 ### Klimadan su akması garanti kapsamında mıdır?
 
-Montaj hatasından kaynaklanan su akıntıları genellikle montaj garantisi kapsamındadır (çoğu firma 1-2 yıl montaj garantisi verir). Ancak bakımsızlıktan kaynaklanan tıkanıklık ve kirlilik garanti kapsamı dışındadır. Garanti belgenizi saklayın. Sorun yaşarsanız [Tüketici Hakları Derneği](https://tuketici.org.tr) üzerinden haklarınızı öğrenebilirsiniz. Garanti süresi geçmişse ve klimanızın sökülerek yeniden takılması gerekiyorsa, [klima sökme takma ücreti rehberimize](/blog/klima-sokme-takma-ucreti) göz atabilirsiniz.
+Montaj hatasından kaynaklanan su akıntıları genellikle montaj garantisi kapsamındadır (çoğu firma 1-2 yıl montaj garantisi verir). Ancak bakımsızlıktan kaynaklanan tıkanıklık ve kirlilik garanti kapsamı dışındadır. Garanti belgenizi saklayın. Sorun yaşarsanız [Tüketici Hakları Derneği](https://tuketici.org.tr) üzerinden haklarınızı öğrenebilirsiniz. Garanti süresi geçmişse ve klimanızın sökülerek yeniden takılması gerekiyorsa, [klima sökme takma ücreti rehberimize](/blog/klima-sokme-takma-ucreti/) göz atabilirsiniz.
 
 ### Klima bakımı yaptırmazsam ne olur?
 
-Düzenli bakım yapılmayan klimalar ortalama yüzde 15-20 daha fazla enerji harcar, daha sık arıza yapar ve ömürleri 3-5 yıl kısalır. Yıllık bir bakımın maliyeti, olası arıza tamir masraflarının yanında oldukça düşüktür. [Güncel klima bakım fiyatlarını buradan öğrenebilirsiniz.](/blog/klima-bakim-fiyatlari)
+Düzenli bakım yapılmayan klimalar ortalama yüzde 15-20 daha fazla enerji harcar, daha sık arıza yapar ve ömürleri 3-5 yıl kısalır. Yıllık bir bakımın maliyeti, olası arıza tamir masraflarının yanında oldukça düşüktür. [Güncel klima bakım fiyatlarını buradan öğrenebilirsiniz.](/blog/klima-bakim-fiyatlari/)
 
 ## Klimadan Su Akıyor Tamir Maliyeti: 2026 Fiyat Tablosu
 

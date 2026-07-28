@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import BlogCTA from '../components/BlogCTA.astro';
 ---
 
 <Layout
@@ -85,7 +86,7 @@ import Layout from '../layouts/Layout.astro';
           </div>
           <h3 class="font-heading font-bold text-lg text-brand-navy mb-3">Klima Montaj</h3>
           <p class="text-text-body text-sm leading-relaxed mb-4">Uzman ekibimizle profesyonel klima montaj hizmeti. Tüm marka ve modellerde kurulum yapıyoruz.</p>
-          <a href="/klima-montaj" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
+          <a href="/klima-montaj/" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
         </div>
         <!-- Card 2: Heating -->
         <div class="card-lift bg-white rounded-2xl shadow-card p-7 text-center">
@@ -94,7 +95,7 @@ import Layout from '../layouts/Layout.astro';
           </div>
           <h3 class="font-heading font-bold text-lg text-brand-navy mb-3">Klima Bakım</h3>
           <p class="text-text-body text-sm leading-relaxed mb-4">Düzenli klima bakımı ile cihazınızın ömrünü uzatın. Filtre temizliği, dezenfeksiyon ve performans kontrolü.</p>
-          <a href="/klima-bakim" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
+          <a href="/klima-bakim/" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
         </div>
         <!-- Card 3: Air Quality -->
         <div class="card-lift bg-white rounded-2xl shadow-card p-7 text-center">
@@ -103,7 +104,7 @@ import Layout from '../layouts/Layout.astro';
           </div>
           <h3 class="font-heading font-bold text-lg text-brand-navy mb-3">Klima Tamir</h3>
           <p class="text-text-body text-sm leading-relaxed mb-4">Her marka ve model klimanın arıza tespiti ve tamiri. Soğutmayan, su akan, ses yapan klima sorunlarını çözüyoruz.</p>
-          <a href="/klima-tamir" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
+          <a href="/klima-tamir/" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
         </div>
         <!-- Card 4: Maintenance -->
         <div class="card-lift bg-white rounded-2xl shadow-card p-7 text-center">
@@ -112,7 +113,7 @@ import Layout from '../layouts/Layout.astro';
           </div>
           <h3 class="font-heading font-bold text-lg text-brand-navy mb-3">Gaz Dolumu</h3>
           <p class="text-text-body text-sm leading-relaxed mb-4">Klima gaz dolumu ve kaçak tespiti. R410A, R32 ve R22 gazları ile profesyonel dolum hizmeti.</p>
-          <a href="/klima-gaz-dolumu" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
+          <a href="/klima-gaz-dolumu/" class="text-brand-orange font-semibold text-sm nav-link focus-visible:outline-2 focus-visible:outline-brand-orange">Detaylı Bilgi &rarr;</a>
         </div>
       </div>
     </div>
@@ -303,7 +304,20 @@ import Layout from '../layouts/Layout.astro';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
       <div class="text-center mb-14">
         <span class="text-brand-orange font-bold text-sm uppercase tracking-widest">Bize Ulaşın</span>
-        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">HİZMET BÖLGEMİZ</h2>
+        <h2 class="font-heading text-3xl sm:text-4xl font-extrabold text-brand-navy mt-3 tracking-[-0.03em]">ÜCRETSİZ TEKLİF ALIN</h2>
+        <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <!-- Quote form: the hero CTA scrolls here, so it has to be actionable -->
+      <div class="mb-16">
+        <BlogCTA
+          heading="Ücretsiz Keşif ve Teklif"
+          subheading="Bilgilerinizi bırakın, Şanlıurfa'daki ekibimiz en kısa sürede sizi arasın."
+        />
+      </div>
+
+      <div class="text-center mb-10">
+        <h3 class="font-heading text-2xl sm:text-3xl font-extrabold text-brand-navy tracking-[-0.03em]">HİZMET BÖLGEMİZ</h3>
         <div class="w-16 h-1 bg-brand-orange mx-auto mt-4 rounded-full"></div>
       </div>
       <div class="flex flex-col lg:flex-row gap-10">

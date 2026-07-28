@@ -23,7 +23,7 @@ Bu yazıda ikinci el klima almanın gerçek risklerini, satın almadan önce kon
 
 ### 1. Gaz Kaçağı Geçmişi
 
-Bir klima ikinci el piyasaya çıktığında, önceki sahibinin gaz sorunu yaşayıp yaşamadığını bilemezsiniz. Eğer klimada onarılmamış küçük bir kaçak varsa, siz aldıktan birkaç ay sonra soğutma performansı düşmeye başlar. [Klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri) yazımızda anlattığımız işaretleri satın alma öncesi mutlaka kontrol ettirin.
+Bir klima ikinci el piyasaya çıktığında, önceki sahibinin gaz sorunu yaşayıp yaşamadığını bilemezsiniz. Eğer klimada onarılmamış küçük bir kaçak varsa, siz aldıktan birkaç ay sonra soğutma performansı düşmeye başlar. [Klima gaz kaçağı belirtileri](/blog/klima-gaz-kacagi-belirtileri/) yazımızda anlattığımız işaretleri satın alma öncesi mutlaka kontrol ettirin.
 
 ### 2. Kompresör Yorgunluğu
 
@@ -96,9 +96,9 @@ Bu dört detayı satıcının yanında kontrol etmek 10-15 dakikanızı alır am
 | Gaz kontrolü ve gerekirse takviye | 500-2.500 TL |
 | **Toplam** | **8.500-16.000 TL** |
 
-Bu tabloya bakınca ortaya ilginç bir tablo çıkıyor. İkinci el bir klimanın toplam maliyeti, bazen yeni bir 9.000-12.000 BTU inverter klimanın montaj dahil fiyatına ([en ucuz klima modelleri](/blog/en-ucuz-klima-modelleri) rehberimizde 8.500-14.000 TL bandında olduğunu görebilirsiniz) yaklaşabiliyor. Fark, yeni klimada garanti ve bilinen bir geçmiş varken, ikinci elde bu güvencelerin hiçbirinin olmaması.
+Bu tabloya bakınca ortaya ilginç bir tablo çıkıyor. İkinci el bir klimanın toplam maliyeti, bazen yeni bir 9.000-12.000 BTU inverter klimanın montaj dahil fiyatına ([en ucuz klima modelleri](/blog/en-ucuz-klima-modelleri/) rehberimizde 8.500-14.000 TL bandında olduğunu görebilirsiniz) yaklaşabiliyor. Fark, yeni klimada garanti ve bilinen bir geçmiş varken, ikinci elde bu güvencelerin hiçbirinin olmaması.
 
-Sökme-takma tarafında fiyatların nasıl şekillendiğini merak ediyorsanız [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) yazımızda detaylı tablo bulabilirsiniz.
+Sökme-takma tarafında fiyatların nasıl şekillendiğini merak ediyorsanız [klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) yazımızda detaylı tablo bulabilirsiniz.
 
 **Sökme, taşıma ve montaj için fiyat teklifi almak ister misiniz?** [Hemen arayın: 0553 397 52 44](tel:+905533975244)
 
@@ -133,7 +133,7 @@ Ayrıca bölgemizin tozlu havası dış ünite kanatçıklarını hızla kirleti
 
 ## İkinci El Klima Satarken Dikkat Edilmesi Gerekenler
 
-Bu rehber alıcılar için yazılmış olsa da, klimanızı satmayı düşünüyorsanız birkaç noktayı bilmekte fayda var. [Klima ömrü kaç yıl](/blog/klima-omru-ne-zaman-degistirilmeli) yazımızda anlattığımız gibi, 5 yaşından genç ve düzenli bakımlı klimalar ikinci el piyasada daha kolay alıcı buluyor. Satış öncesi bir bakım yaptırmak ve bakım faturasını ilana eklemek, hem güven oluşturuyor hem de satış fiyatını artırabiliyor.
+Bu rehber alıcılar için yazılmış olsa da, klimanızı satmayı düşünüyorsanız birkaç noktayı bilmekte fayda var. [Klima ömrü kaç yıl](/blog/klima-omru-ne-zaman-degistirilmeli/) yazımızda anlattığımız gibi, 5 yaşından genç ve düzenli bakımlı klimalar ikinci el piyasada daha kolay alıcı buluyor. Satış öncesi bir bakım yaptırmak ve bakım faturasını ilana eklemek, hem güven oluşturuyor hem de satış fiyatını artırabiliyor.
 
 ## Satıcıya Sormanız Gereken 5 Soru
 

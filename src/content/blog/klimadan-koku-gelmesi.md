@@ -76,7 +76,7 @@ Tatlımsı, eter benzeri bir koku soğutucu gaz kaçağına işaret edebilir.
 - Soğutma performansında düşüş eşlik eder
 - Koku dış üniteden de alınabilir
 
-**Nedeni:** Soğutucu gaz kaçağı. R410A veya R32 gazları normalde kokusuz olsa da, kaçak bölgesindeki yağ ve kimyasallar bu kokuyu oluşturabilir. Bu durumda [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) rehberimize göz atmanızı ve mutlaka profesyonel destek almanızı öneririz.
+**Nedeni:** Soğutucu gaz kaçağı. R410A veya R32 gazları normalde kokusuz olsa da, kaçak bölgesindeki yağ ve kimyasallar bu kokuyu oluşturabilir. Bu durumda [klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) rehberimize göz atmanızı ve mutlaka profesyonel destek almanızı öneririz.
 
 ### Sigara veya Yemek Kokusu
 
@@ -87,7 +87,7 @@ Klima, ortam havasını emerek soğutur. Sigara dumanı veya yoğun yemek kokula
 - Filtreler gözle görülür şekilde sararmış veya yağlanmış
 - Koku özellikle nemlendirme modunda belirginleşir
 
-**Nedeni:** Filtrelere ve evaporatör yüzeyine sinen organik partiküller. Düzenli [periyodik klima bakımı](/blog/klima-bakim-fiyatlari) rehberimizde detaylandırdığımız gibi, düzenli temizlik bu sorunu önler.
+**Nedeni:** Filtrelere ve evaporatör yüzeyine sinen organik partiküller. Düzenli [periyodik klima bakımı](/blog/klima-bakim-fiyatlari/) rehberimizde detaylandırdığımız gibi, düzenli temizlik bu sorunu önler.
 
 ## 7 Adımda Klima Koku Giderme Rehberi
 
@@ -188,9 +188,9 @@ Profesyonel klima temizliği şu adımları içerir:
 3. **Fan yıkama:** Silindir fan çıkarılarak ayrı temizlenir (kokunun gizli kaynağı burası olabilir)
 4. **Drenaj temizliği:** Tüm drenaj hattı basınçlı havayla açılır
 5. **Antibakteriyel uygulama:** Klima dezenfektan sprey uygulanır
-6. **Montaj ve test:** Tüm parçalar takılarak çalışma testi yapılır. Bu süreç [klima sökme takma](/blog/klima-sokme-takma-ucreti) işlemiyle benzer adımları içerir.
+6. **Montaj ve test:** Tüm parçalar takılarak çalışma testi yapılır. Bu süreç [klima sökme takma](/blog/klima-sokme-takma-ucreti/) işlemiyle benzer adımları içerir.
 
-Bu işlem 45-90 dakika sürer. Şanlıurfa'da profesyonel klima kimyasal yıkama fiyatı 2026'da 1.200-2.500 TL arasında değişiyor. Detaylı [klima bakım ücretleri](/blog/klima-bakim-fiyatlari) için rehberimize bakabilirsiniz.
+Bu işlem 45-90 dakika sürer. Şanlıurfa'da profesyonel klima kimyasal yıkama fiyatı 2026'da 1.200-2.500 TL arasında değişiyor. Detaylı [klima bakım ücretleri](/blog/klima-bakim-fiyatlari/) için rehberimize bakabilirsiniz.
 
 ### Seda Hanım'ın Deneyimi: "Keşke Daha Önce Yaptırsaymışım"
 
@@ -214,9 +214,9 @@ Klimadan koku gelmesi sorununu bir kez çözmek yetmez. Kokunun tekrar oluşmama
 
 ### Yıllık Yapmanız Gerekenler
 
-- **Profesyonel bakım:** Yılda en az bir kez profesyonel temizlik yaptırın. [Klima bakımı fiyatları](/blog/klima-bakim-fiyatlari) 2026'da 800-2.500 TL arasında.
+- **Profesyonel bakım:** Yılda en az bir kez profesyonel temizlik yaptırın. [Klima bakımı fiyatları](/blog/klima-bakim-fiyatlari/) 2026'da 800-2.500 TL arasında.
 - **Drenaj kontrolü:** Drenaj hortumunun açık olduğundan emin olun.
-- **Gaz kontrolü:** Soğutma performansı düştüyse [gaz dolumu kontrolü](/blog/klima-gaz-dolumu-fiyatlari) yaptırın.
+- **Gaz kontrolü:** Soğutma performansı düştüyse [gaz dolumu kontrolü](/blog/klima-gaz-dolumu-fiyatlari/) yaptırın.
 
 ## Klima Kokusu ve Sağlık: Ne Kadar Tehlikeli?
 
@@ -252,7 +252,7 @@ Evet. Küf sporları solunum yolu rahatsızlıklarına, alerjiye ve astım atakl
 
 ### Yeni klimadan da koku gelebilir mi?
 
-Evet, yeni klimalarda ilk çalıştırmada hafif plastik veya kimyasal koku normal. Bu koku genellikle 1-3 gün içinde geçer. Eğer bir haftadan fazla sürüyorsa, [klima montaj fiyatları](/blog/klima-montaj-fiyatlari) rehberimizde anlattığımız gibi montaj kalitesini kontrol ettirin. Yeni bir klima almayı düşünüyorsanız, [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati) rehberimizde 2026 güncel modelleri inceleyebilirsiniz.
+Evet, yeni klimalarda ilk çalıştırmada hafif plastik veya kimyasal koku normal. Bu koku genellikle 1-3 gün içinde geçer. Eğer bir haftadan fazla sürüyorsa, [klima montaj fiyatları](/blog/klima-montaj-fiyatlari/) rehberimizde anlattığımız gibi montaj kalitesini kontrol ettirin. Yeni bir klima almayı düşünüyorsanız, [12000 BTU klima fiyatı](/blog/12000-btu-klima-fiyati/) rehberimizde 2026 güncel modelleri inceleyebilirsiniz.
 
 ### Klima kokusu ne kadar sürede geçer?
 

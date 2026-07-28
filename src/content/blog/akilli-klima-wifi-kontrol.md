@@ -79,7 +79,7 @@ Enerji takibi özelliği sayesinde şunları fark edebilirsiniz:
 - Sıcaklık ayarınızı 1-2 derece değiştirdiğinizde tüketimin nasıl değiştiği.
 - Ailede kimin klimayı en çok kullandığı (birden fazla oda için ayrı takip yapan sistemlerde).
 
-Kesin tüketim rakamları için ayrı bir akıllı priz veya elektrik sayacı ölçer kullanmak daha güvenilir bir yöntemdir. Klimanızın genel elektrik tüketim mantığını ve BTU'ya göre tahmini maliyetleri [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar) yazımızda ayrıntılı olarak ele aldık.
+Kesin tüketim rakamları için ayrı bir akıllı priz veya elektrik sayacı ölçer kullanmak daha güvenilir bir yöntemdir. Klimanızın genel elektrik tüketim mantığını ve BTU'ya göre tahmini maliyetleri [klima ne kadar elektrik harcar](/blog/klima-ne-kadar-elektrik-harcar/) yazımızda ayrıntılı olarak ele aldık.
 
 ## 5. Kurulum: Nelere Dikkat Etmelisiniz?
 
@@ -124,9 +124,9 @@ Bu adımlara rağmen bağlantı kurulamıyorsa sorun modülün kendisinde olabil
 
 ## 8. Kumanda mı, Wi-Fi mi? İkisi Birlikte Kullanılabilir mi?
 
-Evet, Wi-Fi kontrol orijinal kumandanın yerini almaz, ona ek bir kontrol yolu sunar. Kumandanız bozulsa veya piliniz bitse bile telefon üzerinden klimayı yönetmeye devam edebilirsiniz. Kumandanızda yaşadığınız sorunları gidermek için [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor) yazımıza bakabilirsiniz.
+Evet, Wi-Fi kontrol orijinal kumandanın yerini almaz, ona ek bir kontrol yolu sunar. Kumandanız bozulsa veya piliniz bitse bile telefon üzerinden klimayı yönetmeye devam edebilirsiniz. Kumandanızda yaşadığınız sorunları gidermek için [klima kumandası çalışmıyor](/blog/klima-kumandasi-calismiyor/) yazımıza bakabilirsiniz.
 
-Ayrıca klimanızın farklı çalışma modlarını (soğutma, ısıtma, nem alma, fan, uyku modu gibi) uygulama üzerinden de kumanda kadar kolay değiştirebilirsiniz. Bu modların hangi durumda kullanılacağını [klima modları rehberi](/blog/klima-modlari-rehberi) yazımızda anlattık.
+Ayrıca klimanızın farklı çalışma modlarını (soğutma, ısıtma, nem alma, fan, uyku modu gibi) uygulama üzerinden de kumanda kadar kolay değiştirebilirsiniz. Bu modların hangi durumda kullanılacağını [klima modları rehberi](/blog/klima-modlari-rehberi/) yazımızda anlattık.
 
 ## 8.1 Şanlıurfa Yazında Otomasyonla Gerçek Tasarruf Örneği
 
@@ -136,7 +136,7 @@ Bir önceki yaz, günde ortalama 14-15 saat kesintisiz çalışan klima aylık y
 
 ## 9. Hangi Markalar Wi-Fi Kontrolü Standart Sunuyor?
 
-Piyasadaki birçok orta ve üst segment klima markası artık Wi-Fi modülünü standart veya opsiyonel aksesuar olarak sunuyor. Marka seçimi yaparken sadece Wi-Fi özelliğine değil, genel performans, servis ağı ve fiyat-performans dengesine de bakmanızı öneririz. Detaylı marka karşılaştırması için [en iyi klima markaları](/blog/en-iyi-klima-markalari) yazımıza göz atabilirsiniz.
+Piyasadaki birçok orta ve üst segment klima markası artık Wi-Fi modülünü standart veya opsiyonel aksesuar olarak sunuyor. Marka seçimi yaparken sadece Wi-Fi özelliğine değil, genel performans, servis ağı ve fiyat-performans dengesine de bakmanızı öneririz. Detaylı marka karşılaştırması için [en iyi klima markaları](/blog/en-iyi-klima-markalari/) yazımıza göz atabilirsiniz.
 
 Karaköprü'de bir müşterimiz yeni klima alırken sadece Wi-Fi özelliğine odaklanmış, marka servis ağını göz ardı etmişti. Klima arızalandığında yetkili servise ulaşmakta zorlandı. Akıllı özellikler elbette değerli ama marka güvenilirliği ve servis erişimi her zaman öncelikli kriter olmalı.
 

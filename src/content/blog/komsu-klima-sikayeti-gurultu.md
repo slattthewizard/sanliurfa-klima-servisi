@@ -21,7 +21,7 @@ Bir apartmanda yaşayan iki komşu düşünün. Biri üst kattaki dairesinin kli
 
 Şikayet genellikle "klima çok ses yapıyor" ya da "su damlatıyor" şeklinde geliyor, ama altında farklı teknik nedenler yatabiliyor. Doğru çözüm, doğru teşhisle başlıyor.
 
-Gürültünün kaynağı; gevşek vida, dengesiz fan, kompresör sorunu, titreşim veya kirli kondenser olabilir. Bu teknik nedenlerin her birini ve çözüm adımlarını [klima dış ünite ses yapıyor](/blog/klima-dis-unite-ses-yapiyor) yazımızda ayrıntılı olarak ele aldık, burada tekrar etmiyoruz. Şikayet aldıysanız veya şikayet ediyorsanız önce o yazıdaki tabloyla sesin türünü tanımlamak, çözüme giden yolu kısaltıyor.
+Gürültünün kaynağı; gevşek vida, dengesiz fan, kompresör sorunu, titreşim veya kirli kondenser olabilir. Bu teknik nedenlerin her birini ve çözüm adımlarını [klima dış ünite ses yapıyor](/blog/klima-dis-unite-ses-yapiyor/) yazımızda ayrıntılı olarak ele aldık, burada tekrar etmiyoruz. Şikayet aldıysanız veya şikayet ediyorsanız önce o yazıdaki tabloyla sesin türünü tanımlamak, çözüme giden yolu kısaltıyor.
 
 Damlama sorunu ise genellikle drenaj hattının tıkanmasından veya dış ünitenin yanlış eğimle monte edilmesinden kaynaklanıyor. Klimanın normal çalışması sırasında ürettiği yoğuşma suyu, düzgün bir drenaj hattı olmadığında balkon zeminine, alt kat balkonuna veya cadde kenarına damlıyor.
 
@@ -39,7 +39,7 @@ Dış ünite altındaki kauçuk takozlar zamanla sertleşip titreşim emme özel
 
 ### Bakım ve Temizlik
 
-Kirli kondenser serpantini fanı zorluyor, bu da gürültü seviyesini artırıyor. Düzenli bakım, hem soğutma performansını korur hem de gürültü şikayetlerinin önüne geçer. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari) sayfamızdan inceleyebilirsiniz.
+Kirli kondenser serpantini fanı zorluyor, bu da gürültü seviyesini artırıyor. Düzenli bakım, hem soğutma performansını korur hem de gürültü şikayetlerinin önüne geçer. Güncel bakım fiyatlarını [klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) sayfamızdan inceleyebilirsiniz.
 
 Karaköprü'de bir apartmanda üst kat sakini, alt kattaki komşusundan gece klima sesi şikayeti aldı. Kontrol ettiğimizde dış ünitenin montaj sırasında titreşim damperi kullanılmadan doğrudan beton zemine sabitlendiğini gördük. Dört adet kauçuk damper taktık, borulara izolasyon uyguladık. İşlem yaklaşık yarım saat sürdü, toplam maliyet 350 TL civarında kaldı. Alt kat komşusu o geceden itibaren sesi duymadığını söyledi. Aylardır süren gerginlik, yarım saatlik bir müdahaleyle bitti.
 
@@ -77,7 +77,7 @@ Bu yollara başvurmadan önce teknik bir çözümün mümkün olup olmadığın�
 
 Gürültü ve damlama şikayetlerinin çoğu, aslında dış ünitenin yanlış konumlandırılmasından kaynaklanıyor. Yatak odası penceresinin hemen dışına, ortak kullanılan bir cephe boşluğuna veya alt kat balkonunun üzerine monte edilen üniteler, tasarım aşamasında düşünülmediği için sorun yaratıyor.
 
-Doğru konum seçimi, hava akışı, servis erişimi ve komşu dairelerin pencere/balkon konumlarını birlikte değerlendirmeyi gerektiriyor. Apartmanlarda dış ünite yerleşimiyle ilgili kat mülkiyeti kurallarını ve doğru konum seçimini [klima dış ünitesi nereye takılır](/blog/klima-dis-unite-yeri-apartman-kurallari) yazımızda ayrıntılı ele aldık.
+Doğru konum seçimi, hava akışı, servis erişimi ve komşu dairelerin pencere/balkon konumlarını birlikte değerlendirmeyi gerektiriyor. Apartmanlarda dış ünite yerleşimiyle ilgili kat mülkiyeti kurallarını ve doğru konum seçimini [klima dış ünitesi nereye takılır](/blog/klima-dis-unite-yeri-apartman-kurallari/) yazımızda ayrıntılı ele aldık.
 
 Yeni bir montaj planlıyorsanız, bu değerlendirmeyi montaj öncesinde yapmak, sonradan komşu şikayetiyle uğraşmaktan çok daha az maliyetli.
 
@@ -85,7 +85,7 @@ Yeni bir montaj planlıyorsanız, bu değerlendirmeyi montaj öncesinde yapmak, 
 
 Bazı durumlarda takoz, bakım ve titreşim damperi gibi önlemler yeterli olmuyor. Özellikle dış ünite doğrudan bir yatak odası penceresine bakıyorsa veya kompresörün doğal çalışma sesi bile rahatsızlık yaratacak kadar yakınsa, ünitenin yeniden konumlandırılması gerekebiliyor.
 
-Bu, ek boru uzatma ve yeniden montaj gerektiren bir işlem. Maliyeti mevcut konumdan yeni konuma olan mesafeye ve montaj koşullarına göre değişiyor. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti) rehberimizden genel fiyat aralıklarını görebilirsiniz. Fiyatlar bina yapısına ve mesafeye göre değişebilir, kesin teklif için yerinde keşif gerekiyor.
+Bu, ek boru uzatma ve yeniden montaj gerektiren bir işlem. Maliyeti mevcut konumdan yeni konuma olan mesafeye ve montaj koşullarına göre değişiyor. [Klima sökme takma ücreti](/blog/klima-sokme-takma-ucreti/) rehberimizden genel fiyat aralıklarını görebilirsiniz. Fiyatlar bina yapısına ve mesafeye göre değişebilir, kesin teklif için yerinde keşif gerekiyor.
 
 Haliliye'de bir dairede dış ünite doğrudan komşunun yatak odası penceresine 1,5 metre mesafede monte edilmişti. Titreşim damperi ve bakım denendi ama komşu şikayeti devam etti, çünkü sorun titreşim değil doğrudan kompresörün çalışma sesiydi. Üniteyi bina cephesinin diğer tarafına, boş bir hizmet balkonuna taşıdık. Ek boru ve işçilik maliyeti oldu, ama sorun kalıcı olarak çözüldü ve komşuluk ilişkisi normale döndü.
 

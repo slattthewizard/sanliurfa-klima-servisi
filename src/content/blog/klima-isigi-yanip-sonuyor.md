@@ -104,11 +104,11 @@ Filtreleri ılık su ve yumuşak sabunla yıkayın, tamamen kurumasını bekleyi
 
 Gaz seviyesi düşünce klima düşük basınçla çalışır, kompresör aşırı yüklenir ve koruma devreye girer. Klima ışığı yanıp sönüyor ama soğutma yok veya çok zayıf.
 
-**Belirtiler:** İç üniteden çıkan hava ılık, dış ünitede buz oluşumu, klima çalışıp kısa sürede duruyor. [Klima soğutmuyor](/blog/klima-sogutmuyor) rehberimizde bu sorunu detaylıca ele alıyoruz.
+**Belirtiler:** İç üniteden çıkan hava ılık, dış ünitede buz oluşumu, klima çalışıp kısa sürede duruyor. [Klima soğutmuyor](/blog/klima-sogutmuyor/) rehberimizde bu sorunu detaylıca ele alıyoruz.
 
 **Kendiniz yapabileceğiniz kontrol:** Dış üniteye bakın. Boru bağlantılarında buz veya kırağı var mı? Varsa bu gaz kaçağının güçlü bir işareti. Gaz kontrolü profesyonel manometre gerektirir, bu işlemi kendiniz yapamazsınız.
 
-**Tahmini çözüm maliyeti:** Gaz dolumu 1.200-3.000 TL. [Klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari) rehberimizden güncel ücretleri inceleyebilirsiniz.
+**Tahmini çözüm maliyeti:** Gaz dolumu 1.200-3.000 TL. [Klima gaz dolumu fiyatları](/blog/klima-gaz-dolumu-fiyatlari/) rehberimizden güncel ücretleri inceleyebilirsiniz.
 
 ### 4. Elektronik Kart Arızası
 
@@ -130,7 +130,7 @@ Dükkanı kapatamayacağı için güvenilir bir serbest servisi çağırdı. Tek
 
 Klimanın ürettiği yoğuşma suyu drenaj hattından tahliye edilir. Bu hat tıkandığında su iç ünitede birikir ve şamandıra sensörü klimayı kapatır.
 
-**Belirtiler:** Klima çalışmıyor ışık yanıyor, iç üniteden su damlaması veya su sesi, ışık düzenli aralıklarla yanıp sönüyor. Bu sorunun detaylı çözümü için [klimadan su akıyor](/blog/klimadan-su-akiyor) rehberimize bakabilirsiniz.
+**Belirtiler:** Klima çalışmıyor ışık yanıyor, iç üniteden su damlaması veya su sesi, ışık düzenli aralıklarla yanıp sönüyor. Bu sorunun detaylı çözümü için [klimadan su akıyor](/blog/klimadan-su-akiyor/) rehberimize bakabilirsiniz.
 
 **Kendiniz yapabileceğiniz kontrol:** İç ünitenin altından su sızıntısı var mı kontrol edin. Drenaj hortumunun ucuna bakın; su akışı durmuşsa hat tıkalı olabilir. Hortumun ucundan hafif üfleyerek basit tıkanıklıkları açabilirsiniz. Ama iç ünitedeki tıkanıklık için profesyonel temizlik gerekir.
 
@@ -196,7 +196,7 @@ Evin sigortasını kontrol edin. Diğer cihazlarda da sorun var mı? Voltaj dü�
 
 İlk beş adımla çözülmeyen sorunlarda profesyonel yardım alın. Klima arıza ışığı ne anlama gelir sorusunun kesin cevabını ancak teşhis cihazıyla teknisyen verebilir.
 
-[Klima servis ücreti](/blog/klima-servis-ucreti) rehberimizden güncel servis fiyatlarını öğrenebilirsiniz.
+[Klima servis ücreti](/blog/klima-servis-ucreti/) rehberimizden güncel servis fiyatlarını öğrenebilirsiniz.
 
 ## Klima Işığı Yanıp Sönüyor: Hangi Durumda Servis Çağırmalı?
 
@@ -217,7 +217,7 @@ Klima ışığı yanıp sönüyor sorunuyla karşılaşmamak için önleme her z
 
 ### 1. Düzenli Bakım Yaptırın
 
-Yılda en az bir kez profesyonel bakım, arızaların büyük çoğunluğunu önler. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari) rehberimizden güncel bakım ücretlerini inceleyebilirsiniz. Düzenli bakım, klima ışığı yanıp sönüyor sorununa yol açan filtre tıkanması, gaz kaçağı ve drenaj problemlerini erkenden tespit eder.
+Yılda en az bir kez profesyonel bakım, arızaların büyük çoğunluğunu önler. [Klima bakım fiyatları](/blog/klima-bakim-fiyatlari/) rehberimizden güncel bakım ücretlerini inceleyebilirsiniz. Düzenli bakım, klima ışığı yanıp sönüyor sorununa yol açan filtre tıkanması, gaz kaçağı ve drenaj problemlerini erkenden tespit eder.
 
 ### 2. Filtreleri Kendiniz Düzenli Temizleyin
 
