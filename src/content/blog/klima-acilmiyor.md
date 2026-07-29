@@ -5,7 +5,7 @@ keyword: "klima açılmıyor"
 keywords: "klima hiç açılmıyor, klima çalışmıyor sigorta atmıyor, klima standby ışığı yanmıyor, klima elektrik almıyor, klima kart arızası, klima düğmeye basınca açılmıyor"
 date: "2026-07-04"
 slug: "klima-acilmiyor"
-published: false
+published: true
 publishDate: "2026-07-29"
 ---
 
