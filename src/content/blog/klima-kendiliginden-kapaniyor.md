@@ -5,7 +5,7 @@ keyword: "klima kendiliğinden kapanıyor"
 keywords: "klima aniden kapanıyor, klima açılıp kapanıyor, klima birkaç dakika sonra kapanıyor, klima koruma moduna geçiyor, klima kendi kendine duruyor, klima çalışırken kapanıyor"
 date: "2026-07-04"
 slug: "klima-kendiliginden-kapaniyor"
-published: false
+published: true
 publishDate: "2026-08-01"
 ---
 
