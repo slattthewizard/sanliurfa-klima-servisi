@@ -5,7 +5,7 @@ keyword: "klima ömrü kaç yıl"
 keywords: "klima kaç yıl dayanır, klima ne zaman değiştirilmeli, klima ömrünü uzatmak, eski klima değişimi, klima değiştirme sinyalleri, klima yaşı"
 date: "2026-07-04"
 slug: "klima-omru-ne-zaman-degistirilmeli"
-published: false
+published: true
 publishDate: "2026-08-04"
 ---
 
