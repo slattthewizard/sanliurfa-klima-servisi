@@ -5,7 +5,7 @@ keyword: "ikinci el klima alınır mı"
 keywords: "ikinci el klima riskleri, kullanılmış klima alırken dikkat, ikinci el klima kontrol listesi, ikinci el klima fiyatları, sahibinden klima almak, ikinci el klima montajı"
 date: "2026-07-04"
 slug: "ikinci-el-klima-alinir-mi"
-published: false
+published: true
 publishDate: "2026-08-07"
 ---
 
