@@ -5,7 +5,7 @@ keyword: "R32 R410A farkı"
 keywords: "R32 nedir, R410A nedir, klima gazı çeşitleri, R32 R410A karşılaştırma, klima gazı hangisi daha iyi, soğutucu gaz farkları"
 date: "2026-07-04"
 slug: "r32-r410a-klima-gazi-farki"
-published: false
+published: true
 publishDate: "2026-08-10"
 ---
 
