@@ -5,7 +5,7 @@ keyword: "portatif klima mı split klima mı"
 keywords: "portatif klima avantajları, mobil klima yorumları, portatif klima soğutur mu, split klima farkı, taşınabilir klima, kiracı klima çözümü"
 date: "2026-07-04"
 slug: "portatif-klima-vs-split-klima"
-published: false
+published: true
 publishDate: "2026-08-13"
 ---
 
