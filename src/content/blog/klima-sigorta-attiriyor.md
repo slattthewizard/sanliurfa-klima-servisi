@@ -5,7 +5,7 @@ keyword: "klima sigorta attırıyor"
 keywords: "klima sigortayı attırıyor neden, klima açınca sigorta atıyor, klima kaçak akım attırıyor, klima elektrik arızası, klima sigorta atması çözümü, kompresör sigorta attırır mı"
 date: "2026-07-04"
 slug: "klima-sigorta-attiriyor"
-published: false
+published: true
 publishDate: "2026-08-16"
 ---
 
