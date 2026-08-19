@@ -5,7 +5,7 @@ keyword: "aşırı sıcakta klima soğutmuyor"
 keywords: "aşırı sıcakta klima verimi, 45 derecede klima soğutmuyor, klima kapasite düşüşü, şanlıurfa klima sıcak hava, dış ünite gölgeleme, klima yaz performansı"
 date: "2026-07-04"
 slug: "asiri-sicakta-klima-verimi"
-published: false
+published: true
 publishDate: "2026-08-19"
 ---
 
