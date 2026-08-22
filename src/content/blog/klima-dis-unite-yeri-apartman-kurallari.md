@@ -5,7 +5,7 @@ keyword: "klima dış ünitesi nereye takılır"
 keywords: "klima dış ünite konumu, apartmanda klima dış ünitesi, klima dış ünite yeri, kat mülkiyeti klima kuralı, klima dış ünite damlama, dış ünite montaj yeri"
 date: "2026-07-04"
 slug: "klima-dis-unite-yeri-apartman-kurallari"
-published: false
+published: true
 publishDate: "2026-08-22"
 ---
 
