@@ -5,7 +5,7 @@ keyword: "klima enerji sınıfı"
 keywords: "klima enerji sınıfı farkı, A+++ klima ne demek, klima SEER değeri, klima enerji etiketi, en verimli klima sınıfı, klima enerji tasarrufu sınıfı"
 date: "2026-07-04"
 slug: "klima-enerji-sinifi-rehberi"
-published: false
+published: true
 publishDate: "2026-08-25"
 ---
 
