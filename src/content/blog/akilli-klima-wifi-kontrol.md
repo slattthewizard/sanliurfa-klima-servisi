@@ -5,7 +5,7 @@ keyword: "wifi klima kontrol"
 keywords: "wifi klima kontrol, akıllı klima uygulaması, eski klimaya akıllı kumanda, klima telefonla açma, IR köprü klima, akıllı klima enerji takibi"
 date: "2026-07-04"
 slug: "akilli-klima-wifi-kontrol"
-published: false
+published: true
 publishDate: "2026-08-28"
 ---
 
