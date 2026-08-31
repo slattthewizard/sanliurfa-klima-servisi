@@ -5,7 +5,7 @@ keyword: "klima az üflüyor"
 keywords: "klima az üflüyor, klima hava akımı zayıf, klima güçsüz üflüyor, klima fan motoru arızası, klima evaporatör tıkanıklığı, klima hava basıncı düşük"
 date: "2026-07-04"
 slug: "klima-az-ufluyor"
-published: false
+published: true
 publishDate: "2026-08-31"
 ---
 
