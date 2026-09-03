@@ -5,7 +5,7 @@ keyword: "ofis klima seçimi"
 keywords: "işyeri klima seçimi, dükkan klima seçimi, ofis klima kaç btu, ticari klima sistemleri, kaset tip klima ofis, işyeri klima servis sözleşmesi"
 date: "2026-07-04"
 slug: "isyeri-ofis-klima-secimi"
-published: false
+published: true
 publishDate: "2026-09-03"
 ---
 
