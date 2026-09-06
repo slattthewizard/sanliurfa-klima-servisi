@@ -5,7 +5,7 @@ keyword: "şanlıurfa klima"
 keywords: "şanlıurfa klima seçimi, şanlıurfa klima önerisi, urfa sıcağında klima, şanlıurfa toz klima, şanlıurfa klima markası, şanlıurfa iklim klima"
 date: "2026-07-04"
 slug: "sanliurfa-klima-secim-rehberi"
-published: false
+published: true
 publishDate: "2026-09-06"
 ---
 
