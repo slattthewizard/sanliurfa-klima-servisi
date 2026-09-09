@@ -5,7 +5,7 @@ keyword: "klima voltaj regülatörü"
 keywords: "klima voltaj regülatörü gerekli mi, klima gerilim koruyucu, klima voltaj dalgalanması, klima kart yanması, klima kompresör hasarı voltaj, klima regülatör seçimi"
 date: "2026-07-04"
 slug: "klima-voltaj-regulatoru-gerekli-mi"
-published: false
+published: true
 publishDate: "2026-09-09"
 ---
 
