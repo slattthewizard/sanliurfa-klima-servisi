@@ -5,7 +5,7 @@ keyword: "klima tamir mi değişim mi"
 keywords: "klima tamir mi değişim mi, klima değiştirme zamanı, klima tamiri değer mi, eski klima değişim, kompresör tamiri mi yeni klima mı, klima yenileme kararı"
 date: "2026-07-04"
 slug: "klima-tamir-mi-degisim-mi"
-published: false
+published: true
 publishDate: "2026-09-12"
 ---
 
