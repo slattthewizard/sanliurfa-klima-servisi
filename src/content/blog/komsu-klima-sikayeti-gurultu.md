@@ -5,7 +5,7 @@ keyword: "klima gürültü şikayeti"
 keywords: "klima gürültü şikayeti, komşu klima sesi, klima damlama şikayeti, apartmanda klima gürültüsü, klima ses şikayeti nasıl çözülür, dış ünite komşu şikayeti"
 date: "2026-07-04"
 slug: "komsu-klima-sikayeti-gurultu"
-published: false
+published: true
 publishDate: "2026-09-15"
 ---
 
