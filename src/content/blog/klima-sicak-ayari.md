@@ -5,7 +5,7 @@ keyword: "klima sıcak ayarı"
 keywords: "klima kış modu, klima sıcak işareti, klimada heat ne demek, klima güneş işareti, klima ısıtma modu, klima sıcak ayarı nasıl yapılır, klima kumandası sıcak ayarı, heat mode ne demek, klima ısıtma işareti"
 date: "2026-09-23"
 slug: "klima-sicak-ayari"
-published: false
+published: true
 publishDate: "2026-09-23"
 ---
 
