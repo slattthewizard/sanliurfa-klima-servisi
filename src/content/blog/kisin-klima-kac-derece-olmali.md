@@ -5,7 +5,7 @@ keyword: "kışın klima kaç derece olmalı"
 keywords: "klima sıcak ayarı kaç olmalı, kışın klima kaç derecede çalıştırılmalı, klima ısıtma kaç derece, klimada ısıtma ideal derece, klima ısıtmada ne kadar elektrik harcar, kışın klima kullanımı"
 date: "2026-09-26"
 slug: "kisin-klima-kac-derece-olmali"
-published: false
+published: true
 publishDate: "2026-09-26"
 ---
 
