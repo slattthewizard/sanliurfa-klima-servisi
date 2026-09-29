@@ -5,7 +5,7 @@ keyword: "klima df ne demek"
 keywords: "defrost ne demek, klima df hatası, vestel klima df hatası, df ne demek klima, klima defrost nedir, klima buz çözme modu, klima defrost modu, samsung klima df"
 date: "2026-09-29"
 slug: "klima-df-ne-demek"
-published: false
+published: true
 publishDate: "2026-09-29"
 ---
 
