@@ -5,7 +5,7 @@ keyword: "klima dış ünite su akıtıyor"
 keywords: "klima dış ünite su damlatıyor, kışın klima dış ünite su akıtıyor, klima dış ünite buhar, klima dış üniteden duman çıkıyor, klima ısıtmada dış ünite su, klima dış ünite drenaj"
 date: "2026-10-02"
 slug: "klima-dis-unite-su-akitiyor"
-published: false
+published: true
 publishDate: "2026-10-02"
 ---
 
