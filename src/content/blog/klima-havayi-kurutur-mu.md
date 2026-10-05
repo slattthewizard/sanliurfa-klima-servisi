@@ -5,7 +5,7 @@ keyword: "klima havayı kurutur mu"
 keywords: "klimalı oda nasıl nemlendirilir, klima nemlendirici, klima kuru hava, kışın klima boğaz kuruluğu, klima ısıtma havayı kurutur mu, klima göz kuruluğu"
 date: "2026-10-05"
 slug: "klima-havayi-kurutur-mu"
-published: false
+published: true
 publishDate: "2026-10-05"
 ---
 
