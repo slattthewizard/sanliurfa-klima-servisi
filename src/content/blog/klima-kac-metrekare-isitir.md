@@ -5,7 +5,7 @@ keyword: "klima kaç metrekare ısıtır"
 keywords: "12000 btu klima kaç metrekare ısıtır, 9000 btu klima kaç metrekare ısıtır, 18000 btu klima kaç metrekare, 24000 btu klima kaç metrekare ısıtır, klima ısıtma kapasitesi, klima ısıtma kw"
 date: "2026-11-25"
 slug: "klima-kac-metrekare-isitir"
-published: false
+published: true
 publishDate: "2026-11-25"
 ---
 
