@@ -5,7 +5,7 @@ keyword: "eksi derecede klima çalışır mı"
 keywords: "klima eksi kaç derecede çalışır, inverter klima eksi kaç derecede çalışmalı, klima soğukta ısıtır mı, soğuk iklim klima, klima defrost, klima dış hava sıcaklığı sınırı"
 date: "2026-11-28"
 slug: "eksi-derecede-klima-calisir-mi"
-published: false
+published: true
 publishDate: "2026-11-28"
 ---
 
